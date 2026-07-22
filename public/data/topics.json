@@ -1,0 +1,365 @@
+{
+  "categories": [
+    {
+      "id": "gastrointestinal-system-foundations-and-overview",
+      "name": "Gastrointestinal System: Foundations and Overview",
+      "topics": [
+        {
+          "id": "gastrointestinal-system-foundations-and-overview",
+          "name": "Gastrointestinal System: Foundations and Overview",
+          "sourceFile": "brick",
+          "questionCount": 4
+        }
+      ]
+    },
+    {
+      "id": "histology-of-the-gastrointestinal-tract",
+      "name": "Histology of the Gastrointestinal Tract",
+      "topics": [
+        {
+          "id": "histology-of-the-gastrointestinal-tract",
+          "name": "Histology of the Gastrointestinal Tract",
+          "sourceFile": "brick",
+          "questionCount": 11
+        }
+      ]
+    },
+    {
+      "id": "gross-anatomy-and-histology-of-the-oral-region",
+      "name": "Gross Anatomy and Histology of the Oral Region",
+      "topics": [
+        {
+          "id": "gross-anatomy-and-histology-of-the-oral-region",
+          "name": "Gross Anatomy and Histology of the Oral Region",
+          "sourceFile": "brick",
+          "questionCount": 10
+        }
+      ]
+    },
+    {
+      "id": "gastrointestinal-blood-supply-and-innervation",
+      "name": "Gastrointestinal Blood Supply and Innervation",
+      "topics": [
+        {
+          "id": "gastrointestinal-blood-supply-and-innervation",
+          "name": "Gastrointestinal Blood Supply and Innervation",
+          "sourceFile": "brick",
+          "questionCount": 8
+        }
+      ]
+    },
+    {
+      "id": "anatomy-of-the-gastrointestinal-tract",
+      "name": "Anatomy of the Gastrointestinal Tract",
+      "topics": [
+        {
+          "id": "anatomy-of-the-gastrointestinal-tract",
+          "name": "Anatomy of the Gastrointestinal Tract",
+          "sourceFile": "brick",
+          "questionCount": 15
+        }
+      ]
+    },
+    {
+      "id": "development-of-the-gastrointestinal-system",
+      "name": "Development of the Gastrointestinal System",
+      "topics": [
+        {
+          "id": "development-of-the-gastrointestinal-system",
+          "name": "Development of the Gastrointestinal System",
+          "sourceFile": "brick",
+          "questionCount": 8
+        }
+      ]
+    },
+    {
+      "id": "congenital-disorders-of-the-gastrointestinal-tract",
+      "name": "Congenital Disorders of the Gastrointestinal Tract",
+      "topics": [
+        {
+          "id": "congenital-disorders-of-the-gastrointestinal-tract",
+          "name": "Congenital Disorders of the Gastrointestinal Tract",
+          "sourceFile": "brick",
+          "questionCount": 6
+        }
+      ]
+    },
+    {
+      "id": "oral-dysbiosis-microflora-and-clinical-pathologies",
+      "name": "Oral Dysbiosis: Microflora and Clinical Pathologies",
+      "topics": [
+        {
+          "id": "oral-dysbiosis-microflora-and-clinical-pathologies",
+          "name": "Oral Dysbiosis: Microflora and Clinical Pathologies",
+          "sourceFile": "brick",
+          "questionCount": 4
+        }
+      ]
+    },
+    {
+      "id": "sjogren-syndrome",
+      "name": "Sjogren Syndrome",
+      "topics": [
+        {
+          "id": "sjogren-syndrome",
+          "name": "Sjogren Syndrome",
+          "sourceFile": "brick",
+          "questionCount": 2
+        }
+      ]
+    },
+    {
+      "id": "benign-esophageal-disorders",
+      "name": "Benign Esophageal Disorders",
+      "topics": [
+        {
+          "id": "benign-esophageal-disorders",
+          "name": "Benign Esophageal Disorders",
+          "sourceFile": "brick",
+          "questionCount": 12
+        }
+      ]
+    },
+    {
+      "id": "peptic-ulcer-disease-and-gastritis",
+      "name": "Peptic Ulcer Disease and Gastritis",
+      "topics": [
+        {
+          "id": "peptic-ulcer-disease-and-gastritis",
+          "name": "Peptic Ulcer Disease and Gastritis",
+          "sourceFile": "brick",
+          "questionCount": 8
+        }
+      ]
+    },
+    {
+      "id": "oral-salivary-gland-and-esophageal-neoplasms",
+      "name": "Oral, Salivary Gland, and Esophageal Neoplasms",
+      "topics": [
+        {
+          "id": "oral-salivary-gland-and-esophageal-neoplasms",
+          "name": "Oral, Salivary Gland, and Esophageal Neoplasms",
+          "sourceFile": "brick",
+          "questionCount": 7
+        }
+      ]
+    },
+    {
+      "id": "gastric-neoplasms",
+      "name": "Gastric Neoplasms",
+      "topics": [
+        {
+          "id": "gastric-neoplasms",
+          "name": "Gastric Neoplasms",
+          "sourceFile": "brick",
+          "questionCount": 3
+        }
+      ]
+    },
+    {
+      "id": "anatomy-of-the-liver-biliary-system-and-pancreas",
+      "name": "Anatomy of the Liver, Biliary System, and Pancreas",
+      "topics": [
+        {
+          "id": "anatomy-of-the-liver-biliary-system-and-pancreas",
+          "name": "Anatomy of the Liver, Biliary System, and Pancreas",
+          "sourceFile": "brick",
+          "questionCount": 10
+        }
+      ]
+    },
+    {
+      "id": "anatomy-of-the-femoral-and-inguinal-regions",
+      "name": "Anatomy of the Femoral and Inguinal Regions",
+      "topics": [
+        {
+          "id": "anatomy-of-the-femoral-and-inguinal-regions",
+          "name": "Anatomy of the Femoral and Inguinal Regions",
+          "sourceFile": "brick",
+          "questionCount": 13
+        }
+      ]
+    },
+    {
+      "id": "histology-of-the-accessory-digestive-organs",
+      "name": "Histology of the Accessory Digestive Organs",
+      "topics": [
+        {
+          "id": "histology-of-the-accessory-digestive-organs",
+          "name": "Histology of the Accessory Digestive Organs",
+          "sourceFile": "brick",
+          "questionCount": 3
+        }
+      ]
+    },
+    {
+      "id": "porphyrins-and-iron-homeostasis",
+      "name": "Porphyrins and Iron Homeostasis",
+      "topics": [
+        {
+          "id": "porphyrins-and-iron-homeostasis",
+          "name": "Porphyrins and Iron Homeostasis",
+          "sourceFile": "brick",
+          "questionCount": 3
+        }
+      ]
+    },
+    {
+      "id": "benign-liver-disease",
+      "name": "Benign Liver Disease",
+      "topics": [
+        {
+          "id": "benign-liver-disease",
+          "name": "Benign Liver Disease",
+          "sourceFile": "brick",
+          "questionCount": 13
+        }
+      ]
+    },
+    {
+      "id": "metabolic-dysfunction-associated-steatotic-liver-disease",
+      "name": "Metabolic Dysfunction-Associated Steatotic Liver Disease",
+      "topics": [
+        {
+          "id": "metabolic-dysfunction-associated-steatotic-liver-disease",
+          "name": "Metabolic Dysfunction-Associated Steatotic Liver Disease",
+          "sourceFile": "brick",
+          "questionCount": 1
+        }
+      ]
+    },
+    {
+      "id": "alcohol-associated-liver-disease",
+      "name": "Alcohol-Associated Liver Disease",
+      "topics": [
+        {
+          "id": "alcohol-associated-liver-disease",
+          "name": "Alcohol-Associated Liver Disease",
+          "sourceFile": "brick",
+          "questionCount": 8
+        }
+      ]
+    },
+    {
+      "id": "hepatic-ethanol-metabolism",
+      "name": "Hepatic Ethanol Metabolism",
+      "topics": [
+        {
+          "id": "hepatic-ethanol-metabolism",
+          "name": "Hepatic Ethanol Metabolism",
+          "sourceFile": "brick",
+          "questionCount": 1
+        }
+      ]
+    },
+    {
+      "id": "inherited-metabolic-liver-diseases",
+      "name": "Inherited Metabolic Liver Diseases",
+      "topics": [
+        {
+          "id": "inherited-metabolic-liver-diseases",
+          "name": "Inherited Metabolic Liver Diseases",
+          "sourceFile": "brick",
+          "questionCount": 3
+        }
+      ]
+    },
+    {
+      "id": "cirrhosis-and-portal-hypertension",
+      "name": "Cirrhosis and Portal Hypertension",
+      "topics": [
+        {
+          "id": "cirrhosis-and-portal-hypertension",
+          "name": "Cirrhosis and Portal Hypertension",
+          "sourceFile": "brick",
+          "questionCount": 4
+        }
+      ]
+    },
+    {
+      "id": "infectious-hepatic-abscesses-and-flukes",
+      "name": "Infectious Hepatic Abscesses and Flukes",
+      "topics": [
+        {
+          "id": "infectious-hepatic-abscesses-and-flukes",
+          "name": "Infectious Hepatic Abscesses and Flukes",
+          "sourceFile": "brick",
+          "questionCount": 1
+        }
+      ]
+    },
+    {
+      "id": "drugs-to-treat-hepatitis-b-and-c",
+      "name": "Drugs to Treat Hepatitis B and C",
+      "topics": [
+        {
+          "id": "drugs-to-treat-hepatitis-b-and-c",
+          "name": "Drugs to Treat Hepatitis B and C",
+          "sourceFile": "brick",
+          "questionCount": 1
+        }
+      ]
+    },
+    {
+      "id": "noninfectious-disorders-of-the-biliary-system",
+      "name": "Noninfectious Disorders of the Biliary System",
+      "topics": [
+        {
+          "id": "noninfectious-disorders-of-the-biliary-system",
+          "name": "Noninfectious Disorders of the Biliary System",
+          "sourceFile": "brick",
+          "questionCount": 2
+        }
+      ]
+    },
+    {
+      "id": "hepatic-and-biliary-neoplasms",
+      "name": "Hepatic and Biliary Neoplasms",
+      "topics": [
+        {
+          "id": "hepatic-and-biliary-neoplasms",
+          "name": "Hepatic and Biliary Neoplasms",
+          "sourceFile": "brick",
+          "questionCount": 5
+        }
+      ]
+    },
+    {
+      "id": "peritonitis",
+      "name": "Peritonitis",
+      "topics": [
+        {
+          "id": "peritonitis",
+          "name": "Peritonitis",
+          "sourceFile": "brick",
+          "questionCount": 6
+        }
+      ]
+    },
+    {
+      "id": "acute-and-chronic-pancreatitis",
+      "name": "Acute and Chronic Pancreatitis",
+      "topics": [
+        {
+          "id": "acute-and-chronic-pancreatitis",
+          "name": "Acute and Chronic Pancreatitis",
+          "sourceFile": "brick",
+          "questionCount": 3
+        }
+      ]
+    },
+    {
+      "id": "pancreatic-carcinoma",
+      "name": "Pancreatic Carcinoma",
+      "topics": [
+        {
+          "id": "pancreatic-carcinoma",
+          "name": "Pancreatic Carcinoma",
+          "sourceFile": "brick",
+          "questionCount": 2
+        }
+      ]
+    }
+  ],
+  "totalQuestions": 177
+}

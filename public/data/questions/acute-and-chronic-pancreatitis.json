@@ -1,0 +1,123 @@
+{
+  "categoryId": "acute-and-chronic-pancreatitis",
+  "categoryName": "Acute and Chronic Pancreatitis",
+  "questions": [
+    {
+      "id": "gipic-021",
+      "topicId": "acute-and-chronic-pancreatitis",
+      "topicName": "Acute and Chronic Pancreatitis",
+      "stem": "Panel B of this diagram shows a congenital variant in which the dorsal and ventral pancreatic ducts fail to fuse, so most exocrine secretions drain through the minor papilla. What is the principal clinical consequence of this anatomy?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Exocrine insufficiency present from birth"
+        },
+        {
+          "label": "B",
+          "text": "Obstructive jaundice from common bile duct compression"
+        },
+        {
+          "label": "C",
+          "text": "Complete biliary atresia requiring transplantation"
+        },
+        {
+          "label": "D",
+          "text": "Duodenal obstruction from an encircling pancreatic ring"
+        },
+        {
+          "label": "E",
+          "text": "Impaired drainage predisposing to recurrent acute or chronic pancreatitis"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "Failure of dorsal and ventral duct fusion routes most pancreatic juice through the small minor papilla; the relative outflow resistance can raise ductal pressure and predispose to recurrent acute or chronic pancreatitis, though most cases are asymptomatic.",
+        "whyCorrect": "Failure of dorsal and ventral duct fusion routes most pancreatic juice through the small minor papilla; the relative outflow resistance can raise ductal pressure and predispose to recurrent acute or chronic pancreatitis, though most cases are asymptomatic.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "gipic-021_gi022_f08.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "gipic-092",
+      "topicId": "acute-and-chronic-pancreatitis",
+      "topicName": "Acute and Chronic Pancreatitis",
+      "stem": "These CT and plain abdominal film images show scattered radiodensities distributed throughout the pancreatic parenchyma. This finding is considered virtually pathognomonic for which condition?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Pancreatic pseudocyst"
+        },
+        {
+          "label": "B",
+          "text": "Chronic pancreatitis"
+        },
+        {
+          "label": "C",
+          "text": "Acute interstitial edematous pancreatitis"
+        },
+        {
+          "label": "D",
+          "text": "Pancreatic ductal adenocarcinoma"
+        },
+        {
+          "label": "E",
+          "text": "Gallstone ileus"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Parenchymal calcifications are the most reliable imaging finding of established chronic pancreatitis, reflecting calcified intraductal protein plugs; they are nearly 100% specific and are most common in advanced alcohol-related disease.",
+        "whyCorrect": "Parenchymal calcifications are the most reliable imaging finding of established chronic pancreatitis, reflecting calcified intraductal protein plugs; they are nearly 100% specific and are most common in advanced alcohol-related disease.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "gipic-092_gi022_f09.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "gipic-164",
+      "topicId": "acute-and-chronic-pancreatitis",
+      "topicName": "Acute and Chronic Pancreatitis",
+      "stem": "This schematic illustrates the sequential activation of a pancreatic cell type during chronic injury. According to this pathway, the irreversible fibrosis of chronic pancreatitis results primarily from which process?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Transformation of quiescent stellate cells into collagen-depositing myofibroblast-like cells"
+        },
+        {
+          "label": "B",
+          "text": "Ischemic coagulative necrosis from vascular thrombosis"
+        },
+        {
+          "label": "C",
+          "text": "Neutrophil-mediated proteolytic digestion of the parenchyma"
+        },
+        {
+          "label": "D",
+          "text": "Regenerative hyperplasia of ductal epithelial cells"
+        },
+        {
+          "label": "E",
+          "text": "Amyloid deposition within pancreatic islets"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Recurrent injury activates normally quiescent, vitamin A-storing pancreatic stellate cells, which lose their lipid droplets and transform into myofibroblast-like cells that deposit collagen and extracellular matrix, driving progressive fibrosis and ductal narrowing.",
+        "whyCorrect": "Recurrent injury activates normally quiescent, vitamin A-storing pancreatic stellate cells, which lose their lipid droplets and transform into myofibroblast-like cells that deposit collagen and extracellular matrix, driving progressive fibrosis and ductal narrowing.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "gipic-164_gi022_f07.png",
+      "tags": [
+        "picture"
+      ]
+    }
+  ]
+}

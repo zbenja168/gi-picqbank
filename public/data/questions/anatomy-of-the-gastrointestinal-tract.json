@@ -1,0 +1,531 @@
+{
+  "categoryId": "anatomy-of-the-gastrointestinal-tract",
+  "categoryName": "Anatomy of the Gastrointestinal Tract",
+  "questions": [
+    {
+      "id": "gipic-033",
+      "topicId": "anatomy-of-the-gastrointestinal-tract",
+      "topicName": "Anatomy of the Gastrointestinal Tract",
+      "stem": "This diagram organizes the abdominal GI organs. A single specialized serous membrane (not labeled) both lines the cavity and suspends/organizes these organs. What is this membrane called?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Peritoneum"
+        },
+        {
+          "label": "B",
+          "text": "Pleura"
+        },
+        {
+          "label": "C",
+          "text": "Deep investing fascia"
+        },
+        {
+          "label": "D",
+          "text": "Pericardium"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "The peritoneum is the serous membrane that lines the abdominal cavity and invests its organs, classifying them as intraperitoneal or retroperitoneal. The pleura and pericardium line the thoracic cavities, and deep fascia is not a serous membrane.",
+        "whyCorrect": "The peritoneum is the serous membrane that lines the abdominal cavity and invests its organs, classifying them as intraperitoneal or retroperitoneal. The pleura and pericardium line the thoracic cavities, and deep fascia is not a serous membrane.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "gipic-033_gi026_f01.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "gipic-034",
+      "topicId": "anatomy-of-the-gastrointestinal-tract",
+      "topicName": "Anatomy of the Gastrointestinal Tract",
+      "stem": "In this cross-section, a small potential space lies between the visceral and parietal layers and contains a thin film of serous fluid that reduces friction. What is this space called?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Peritoneal cavity"
+        },
+        {
+          "label": "B",
+          "text": "Retroperitoneal space"
+        },
+        {
+          "label": "C",
+          "text": "Pleural cavity"
+        },
+        {
+          "label": "D",
+          "text": "Lesser sac only"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "The space between the parietal and visceral peritoneum is the peritoneal cavity, a potential space with lubricating serous fluid. The retroperitoneal space lies behind the parietal peritoneum, and the lesser sac is only one subdivision of the peritoneal cavity.",
+        "whyCorrect": "The space between the parietal and visceral peritoneum is the peritoneal cavity, a potential space with lubricating serous fluid. The retroperitoneal space lies behind the parietal peritoneum, and the lesser sac is only one subdivision of the peritoneal cavity.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "gipic-034_gi026_f02.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "gipic-035",
+      "topicId": "anatomy-of-the-gastrointestinal-tract",
+      "topicName": "Anatomy of the Gastrointestinal Tract",
+      "stem": "The fan-shaped double fold of peritoneum shown anchoring the jejunum and ileum to the posterior abdominal wall serves as a conduit for which structures?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Inferior mesenteric vessels only"
+        },
+        {
+          "label": "B",
+          "text": "Superior mesenteric vessels, nerves, and lymphatics"
+        },
+        {
+          "label": "C",
+          "text": "The portal triad (portal vein, hepatic artery, bile duct)"
+        },
+        {
+          "label": "D",
+          "text": "The thoracic duct and azygos vein"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "The mesentery proper suspends the small bowel and transmits the superior mesenteric artery and vein, autonomic nerves, and lymphatics. The portal triad runs in the hepatoduodenal ligament, not the small-bowel mesentery.",
+        "whyCorrect": "The mesentery proper suspends the small bowel and transmits the superior mesenteric artery and vein, autonomic nerves, and lymphatics. The portal triad runs in the hepatoduodenal ligament, not the small-bowel mesentery.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "gipic-035_gi026_f03.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "gipic-036",
+      "topicId": "anatomy-of-the-gastrointestinal-tract",
+      "topicName": "Anatomy of the Gastrointestinal Tract",
+      "stem": "The three color-coded tubular structures shown running within the free edge of the lesser omentum collectively constitute which anatomical grouping?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "The superior mesenteric pedicle"
+        },
+        {
+          "label": "B",
+          "text": "The celiac trunk branches"
+        },
+        {
+          "label": "C",
+          "text": "The portal triad"
+        },
+        {
+          "label": "D",
+          "text": "The splenic hilar vessels"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "The common bile duct, portal vein, and proper hepatic artery travel together in the hepatoduodenal ligament as the portal triad. The other choices are unrelated vascular groupings.",
+        "whyCorrect": "The common bile duct, portal vein, and proper hepatic artery travel together in the hepatoduodenal ligament as the portal triad. The other choices are unrelated vascular groupings.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "gipic-036_gi026_f09.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "gipic-037",
+      "topicId": "anatomy-of-the-gastrointestinal-tract",
+      "topicName": "Anatomy of the Gastrointestinal Tract",
+      "stem": "The rounded cord shown in the free margin of the falciform ligament is the ligamentum teres. It is the obliterated remnant of which fetal structure?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Umbilical vein"
+        },
+        {
+          "label": "B",
+          "text": "Ductus arteriosus"
+        },
+        {
+          "label": "C",
+          "text": "Ductus venosus"
+        },
+        {
+          "label": "D",
+          "text": "Umbilical artery"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "The ligamentum teres hepatis is the fibrous remnant of the left umbilical vein. The ductus venosus becomes the ligamentum venosum, the ductus arteriosus becomes the ligamentum arteriosum, and the umbilical arteries become the medial umbilical ligaments.",
+        "whyCorrect": "The ligamentum teres hepatis is the fibrous remnant of the left umbilical vein. The ductus venosus becomes the ligamentum venosum, the ductus arteriosus becomes the ligamentum arteriosum, and the umbilical arteries become the medial umbilical ligaments.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "gipic-037_gi026_f11.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "gipic-038",
+      "topicId": "anatomy-of-the-gastrointestinal-tract",
+      "topicName": "Anatomy of the Gastrointestinal Tract",
+      "stem": "In this female sagittal view, the lowest point of the peritoneal cavity lies between the rectum and the uterus and is a common site of fluid accumulation. By what eponym is it known?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Space of Retzius"
+        },
+        {
+          "label": "B",
+          "text": "Calot's triangle"
+        },
+        {
+          "label": "C",
+          "text": "Pouch of Douglas"
+        },
+        {
+          "label": "D",
+          "text": "Pouch of Morison"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "The rectouterine pouch (pouch of Douglas) is the most dependent peritoneal recess in females. Morison's pouch is hepatorenal, the space of Retzius is retropubic and extraperitoneal, and Calot's triangle is a biliary landmark.",
+        "whyCorrect": "The rectouterine pouch (pouch of Douglas) is the most dependent peritoneal recess in females. Morison's pouch is hepatorenal, the space of Retzius is retropubic and extraperitoneal, and Calot's triangle is a biliary landmark.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "gipic-038_gi026_f12.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "gipic-039",
+      "topicId": "anatomy-of-the-gastrointestinal-tract",
+      "topicName": "Anatomy of the Gastrointestinal Tract",
+      "stem": "The second (descending) part of the duodenum shown here receives bile and pancreatic secretions. At which structure do these ducts empty into the lumen?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Duodenojejunal flexure"
+        },
+        {
+          "label": "B",
+          "text": "Pylorus"
+        },
+        {
+          "label": "C",
+          "text": "Major duodenal papilla (of Vater)"
+        },
+        {
+          "label": "D",
+          "text": "Minor duodenal papilla"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "The common bile duct and main pancreatic duct join and drain at the major duodenal papilla in the second part of the duodenum. The minor papilla drains only the accessory pancreatic duct.",
+        "whyCorrect": "The common bile duct and main pancreatic duct join and drain at the major duodenal papilla in the second part of the duodenum. The minor papilla drains only the accessory pancreatic duct.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "gipic-039_gi026_f22.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "gipic-040",
+      "topicId": "anatomy-of-the-gastrointestinal-tract",
+      "topicName": "Anatomy of the Gastrointestinal Tract",
+      "stem": "The line shown in this coronal view marks an important transition in the anal canal. Below this line, venous blood drains into which venous system?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Systemic circulation (via inferior rectal to internal pudendal veins)"
+        },
+        {
+          "label": "B",
+          "text": "The azygos venous system"
+        },
+        {
+          "label": "C",
+          "text": "Portal system via the superior rectal vein"
+        },
+        {
+          "label": "D",
+          "text": "The thoracic duct"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Below the pectinate (dentate) line, drainage is systemic through inferior rectal veins to the internal pudendal and internal iliac veins; above it, drainage is portal via the superior rectal vein, which is why this line marks a portosystemic anastomosis.",
+        "whyCorrect": "Below the pectinate (dentate) line, drainage is systemic through inferior rectal veins to the internal pudendal and internal iliac veins; above it, drainage is portal via the superior rectal vein, which is why this line marks a portosystemic anastomosis.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "gipic-040_gi026_f26.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "gipic-135",
+      "topicId": "anatomy-of-the-gastrointestinal-tract",
+      "topicName": "Anatomy of the Gastrointestinal Tract",
+      "stem": "The organs highlighted against the posterior body wall (kidneys, aorta, pancreas, duodenum) lie behind the peritoneum. Why can a ruptured abdominal aortic aneurysm bleeding into this space allow a patient to survive long enough to reach the hospital?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "The confined retroperitoneal compartment tamponades the hemorrhage"
+        },
+        {
+          "label": "B",
+          "text": "Blood drains rapidly into intestinal lymphatics"
+        },
+        {
+          "label": "C",
+          "text": "This space is essentially avascular"
+        },
+        {
+          "label": "D",
+          "text": "The peritoneum secretes clotting factors into the blood"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "The closed fascial planes of the retroperitoneum limit expansion and create a natural tamponade that temporarily contains bleeding; free rupture into the peritoneal cavity offers no such containment and is rapidly fatal.",
+        "whyCorrect": "The closed fascial planes of the retroperitoneum limit expansion and create a natural tamponade that temporarily contains bleeding; free rupture into the peritoneal cavity offers no such containment and is rapidly fatal.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "gipic-135_gi026_f13.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "gipic-136",
+      "topicId": "anatomy-of-the-gastrointestinal-tract",
+      "topicName": "Anatomy of the Gastrointestinal Tract",
+      "stem": "The skeletal muscle highlighted here forms the upper esophageal sphincter. Failure of this muscle to relax during swallowing classically produces which condition?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Achalasia"
+        },
+        {
+          "label": "B",
+          "text": "Zenker diverticulum"
+        },
+        {
+          "label": "C",
+          "text": "Barrett esophagus"
+        },
+        {
+          "label": "D",
+          "text": "Mallory-Weiss tear"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Impaired relaxation of the cricopharyngeus raises hypopharyngeal pressure and produces a Zenker (pulsion) diverticulum just above it. Achalasia involves the LES, Barrett is metaplasia from reflux, and Mallory-Weiss is a mucosal tear from retching.",
+        "whyCorrect": "Impaired relaxation of the cricopharyngeus raises hypopharyngeal pressure and produces a Zenker (pulsion) diverticulum just above it. Achalasia involves the LES, Barrett is metaplasia from reflux, and Mallory-Weiss is a mucosal tear from retching.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "gipic-136_gi026_f14.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "gipic-137",
+      "topicId": "anatomy-of-the-gastrointestinal-tract",
+      "topicName": "Anatomy of the Gastrointestinal Tract",
+      "stem": "The lower image shows the gastric fundus displaced upward through the diaphragm. How does this anatomic change weaken the antireflux barrier?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "It blunts the angle of His and displaces the LES above the diaphragmatic crura"
+        },
+        {
+          "label": "B",
+          "text": "It increases lower esophageal sphincter resting tone"
+        },
+        {
+          "label": "C",
+          "text": "It strengthens the crural diaphragm's pinch on the esophagus"
+        },
+        {
+          "label": "D",
+          "text": "It narrows the esophageal hiatus around the esophagus"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "A sliding hiatal hernia moves the gastroesophageal junction above the diaphragm and blunts the angle of His, decoupling the LES from crural support and promoting reflux/GERD.",
+        "whyCorrect": "A sliding hiatal hernia moves the gastroesophageal junction above the diaphragm and blunts the angle of His, decoupling the LES from crural support and promoting reflux/GERD.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "gipic-137_gi026_f20.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "gipic-169",
+      "topicId": "anatomy-of-the-gastrointestinal-tract",
+      "topicName": "Anatomy of the Gastrointestinal Tract",
+      "stem": "This region shows a thickened inner circular layer of smooth muscle at the distal esophagus. Inadequate resting tone of this structure most directly predisposes to which condition?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Diffuse esophageal spasm"
+        },
+        {
+          "label": "B",
+          "text": "Zenker diverticulum"
+        },
+        {
+          "label": "C",
+          "text": "Gastroesophageal reflux disease"
+        },
+        {
+          "label": "D",
+          "text": "Achalasia"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "The lower esophageal sphincter's tonic contraction prevents reflux; low resting tone allows acid reflux and GERD. Achalasia is failure of relaxation (increased tone), Zenker involves the UES, and spasm is a motility disorder.",
+        "whyCorrect": "The lower esophageal sphincter's tonic contraction prevents reflux; low resting tone allows acid reflux and GERD. Achalasia is failure of relaxation (increased tone), Zenker involves the UES, and spasm is a motility disorder.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "gipic-169_gi026_f15.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "gipic-170",
+      "topicId": "anatomy-of-the-gastrointestinal-tract",
+      "topicName": "Anatomy of the Gastrointestinal Tract",
+      "stem": "The body and fundus regions of the stomach shown here contain parietal cells. Which two products do these cells secrete?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Secretin and cholecystokinin"
+        },
+        {
+          "label": "B",
+          "text": "Pepsinogen and mucus"
+        },
+        {
+          "label": "C",
+          "text": "Hydrochloric acid and intrinsic factor"
+        },
+        {
+          "label": "D",
+          "text": "Gastrin and somatostatin"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Parietal cells of the gastric body and fundus secrete HCl and intrinsic factor (needed for B12 absorption). Gastrin/somatostatin are from endocrine cells, pepsinogen from chief cells, and secretin/CCK from the duodenum.",
+        "whyCorrect": "Parietal cells of the gastric body and fundus secrete HCl and intrinsic factor (needed for B12 absorption). Gastrin/somatostatin are from endocrine cells, pepsinogen from chief cells, and secretin/CCK from the duodenum.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "gipic-170_gi026_f17.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "gipic-171",
+      "topicId": "anatomy-of-the-gastrointestinal-tract",
+      "topicName": "Anatomy of the Gastrointestinal Tract",
+      "stem": "The acute angle shown between the esophagus and the gastric fundus creates a flap-valve mechanism. Blunting of this angle predisposes to what?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Gastric outlet obstruction"
+        },
+        {
+          "label": "B",
+          "text": "Gastroesophageal reflux"
+        },
+        {
+          "label": "C",
+          "text": "Dumping syndrome"
+        },
+        {
+          "label": "D",
+          "text": "Achalasia"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "The angle of His acts as a flap valve reinforcing the antireflux barrier; when blunted (e.g., by hiatal hernia) reflux increases. The other conditions are unrelated to this angle.",
+        "whyCorrect": "The angle of His acts as a flap valve reinforcing the antireflux barrier; when blunted (e.g., by hiatal hernia) reflux increases. The other conditions are unrelated to this angle.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "gipic-171_gi026_f19.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "gipic-172",
+      "topicId": "anatomy-of-the-gastrointestinal-tract",
+      "topicName": "Anatomy of the Gastrointestinal Tract",
+      "stem": "Comparing the two panels, relaxation of the muscular sling shown during defecation has what effect on the anorectal angle to ease stool passage?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "It closes the anal outlet"
+        },
+        {
+          "label": "B",
+          "text": "It widens (straightens) the anorectal angle"
+        },
+        {
+          "label": "C",
+          "text": "It increases sphincter resting tone"
+        },
+        {
+          "label": "D",
+          "text": "It narrows the anorectal angle"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "When the puborectalis relaxes during defecation, the anorectal angle straightens, allowing stool to pass more easily; at rest its tonic contraction keeps the angle acute to maintain continence.",
+        "whyCorrect": "When the puborectalis relaxes during defecation, the anorectal angle straightens, allowing stool to pass more easily; at rest its tonic contraction keeps the angle acute to maintain continence.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "gipic-172_gi026_f27.png",
+      "tags": [
+        "picture"
+      ]
+    }
+  ]
+}

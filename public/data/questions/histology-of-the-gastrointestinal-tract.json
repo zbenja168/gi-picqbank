@@ -1,0 +1,435 @@
+{
+  "categoryId": "histology-of-the-gastrointestinal-tract",
+  "categoryName": "Histology of the Gastrointestinal Tract",
+  "questions": [
+    {
+      "id": "gipic-020",
+      "topicId": "histology-of-the-gastrointestinal-tract",
+      "topicName": "Histology of the Gastrointestinal Tract",
+      "stem": "This illustration highlights permanent circular folds of mucosa and submucosa projecting into the small-intestinal lumen. These folds are most abundant in which segment?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Terminal ileum"
+        },
+        {
+          "label": "B",
+          "text": "Cecum"
+        },
+        {
+          "label": "C",
+          "text": "Jejunum"
+        },
+        {
+          "label": "D",
+          "text": "Pylorus"
+        },
+        {
+          "label": "E",
+          "text": "Duodenal bulb"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Plicae circulares are most highly concentrated in the jejunum and decrease toward the proximal duodenum and distal ileum.",
+        "whyCorrect": "Plicae circulares are most highly concentrated in the jejunum and decrease toward the proximal duodenum and distal ileum.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "gipic-020_gi021_f07.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "gipic-057",
+      "topicId": "histology-of-the-gastrointestinal-tract",
+      "topicName": "Histology of the Gastrointestinal Tract",
+      "stem": "This gastric region shows deep gastric pits leading to short coiled glands. The surface and pit epithelial cells seen here predominantly secrete which substance?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Hydrochloric acid"
+        },
+        {
+          "label": "B",
+          "text": "Pepsinogen"
+        },
+        {
+          "label": "C",
+          "text": "Mucus"
+        },
+        {
+          "label": "D",
+          "text": "Intrinsic factor"
+        },
+        {
+          "label": "E",
+          "text": "Gastrin"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "The cardia/antrum surface and foveolar (pit) cells are mucus-secreting, protecting the epithelium from acid.",
+        "whyCorrect": "The cardia/antrum surface and foveolar (pit) cells are mucus-secreting, protecting the epithelium from acid.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "gipic-057_gi021_f05.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "gipic-058",
+      "topicId": "histology-of-the-gastrointestinal-tract",
+      "topicName": "Histology of the Gastrointestinal Tract",
+      "stem": "In this body/fundus gastric mucosa, the large eosinophilic cells (circled) produce hydrochloric acid. Which additional essential substance do these same cells secrete?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Somatostatin"
+        },
+        {
+          "label": "B",
+          "text": "Pepsinogen"
+        },
+        {
+          "label": "C",
+          "text": "Gastrin"
+        },
+        {
+          "label": "D",
+          "text": "Intrinsic factor"
+        },
+        {
+          "label": "E",
+          "text": "Mucus"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "Parietal cells of the gastric body/fundus secrete both HCl and intrinsic factor, the latter required for vitamin B12 absorption in the ileum.",
+        "whyCorrect": "Parietal cells of the gastric body/fundus secrete both HCl and intrinsic factor, the latter required for vitamin B12 absorption in the ileum.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "gipic-058_gi021_f06.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "gipic-059",
+      "topicId": "histology-of-the-gastrointestinal-tract",
+      "topicName": "Histology of the Gastrointestinal Tract",
+      "stem": "This diagram of small-intestinal mucosa shows absorptive columnar cells whose apical membranes bear dense projections that further amplify surface area. What is this apical specialization called?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Terminal web"
+        },
+        {
+          "label": "B",
+          "text": "Basement membrane"
+        },
+        {
+          "label": "C",
+          "text": "Brush border (microvilli)"
+        },
+        {
+          "label": "D",
+          "text": "Glycocalyx"
+        },
+        {
+          "label": "E",
+          "text": "Cilia"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Enterocytes covering the villi have apical microvilli forming the brush border, dramatically increasing absorptive surface area.",
+        "whyCorrect": "Enterocytes covering the villi have apical microvilli forming the brush border, dramatically increasing absorptive surface area.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "gipic-059_gi021_f08.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "gipic-060",
+      "topicId": "histology-of-the-gastrointestinal-tract",
+      "topicName": "Histology of the Gastrointestinal Tract",
+      "stem": "The submucosal glands seen in this section secrete bicarbonate-rich mucus that neutralizes acidic chyme. Their presence is specific to which segment of the small intestine?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Ileum"
+        },
+        {
+          "label": "B",
+          "text": "Duodenum"
+        },
+        {
+          "label": "C",
+          "text": "Cecum"
+        },
+        {
+          "label": "D",
+          "text": "Jejunum"
+        },
+        {
+          "label": "E",
+          "text": "Rectum"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Brunner glands reside in the submucosa and are unique to the duodenum, neutralizing gastric acid entering from the stomach.",
+        "whyCorrect": "Brunner glands reside in the submucosa and are unique to the duodenum, neutralizing gastric acid entering from the stomach.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "gipic-060_gi021_f11.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "gipic-061",
+      "topicId": "histology-of-the-gastrointestinal-tract",
+      "topicName": "Histology of the Gastrointestinal Tract",
+      "stem": "These crypt-base cells contain bright eosinophilic apical granules and become more numerous toward the ileum. Which antimicrobial products do they secrete?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Hydrochloric acid and intrinsic factor"
+        },
+        {
+          "label": "B",
+          "text": "Gastrin and somatostatin"
+        },
+        {
+          "label": "C",
+          "text": "Defensins and lysozyme"
+        },
+        {
+          "label": "D",
+          "text": "Mucus and bicarbonate"
+        },
+        {
+          "label": "E",
+          "text": "Pepsinogen"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Paneth cells sit at the crypt base and release antimicrobial defensins, lysozyme, and phospholipase A2, protecting stem cells.",
+        "whyCorrect": "Paneth cells sit at the crypt base and release antimicrobial defensins, lysozyme, and phospholipase A2, protecting stem cells.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "gipic-061_gi021_f12.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "gipic-062",
+      "topicId": "histology-of-the-gastrointestinal-tract",
+      "topicName": "Histology of the Gastrointestinal Tract",
+      "stem": "This section shows dense lymphoid aggregates spanning the mucosa and submucosa of the small intestine. These organized nodules are most abundant in which segment?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Duodenum"
+        },
+        {
+          "label": "B",
+          "text": "Esophagus"
+        },
+        {
+          "label": "C",
+          "text": "Ileum"
+        },
+        {
+          "label": "D",
+          "text": "Jejunum"
+        },
+        {
+          "label": "E",
+          "text": "Stomach"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Peyer patches are aggregated lymphoid follicles concentrated in the ileum, providing mucosal immune surveillance.",
+        "whyCorrect": "Peyer patches are aggregated lymphoid follicles concentrated in the ileum, providing mucosal immune surveillance.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "gipic-062_gi021_f13.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "gipic-063",
+      "topicId": "histology-of-the-gastrointestinal-tract",
+      "topicName": "Histology of the Gastrointestinal Tract",
+      "stem": "This large-intestinal mucosa shows straight crypts and no villi. The numerous pale, round cells packed along the crypts predominantly secrete what?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Digestive enzymes"
+        },
+        {
+          "label": "B",
+          "text": "Hydrochloric acid"
+        },
+        {
+          "label": "C",
+          "text": "Defensins"
+        },
+        {
+          "label": "D",
+          "text": "Intrinsic factor"
+        },
+        {
+          "label": "E",
+          "text": "Mucus"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "The colon has abundant goblet cells that secrete mucus to lubricate compacting feces; it lacks villi.",
+        "whyCorrect": "The colon has abundant goblet cells that secrete mucus to lubricate compacting feces; it lacks villi.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "gipic-063_gi021_f14.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "gipic-064",
+      "topicId": "histology-of-the-gastrointestinal-tract",
+      "topicName": "Histology of the Gastrointestinal Tract",
+      "stem": "This structure resembles colon (straight crypts, no villi) but is distinguished by abundant lymphoid tissue that tends to obliterate the muscularis mucosae. What is it?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Terminal ileum"
+        },
+        {
+          "label": "B",
+          "text": "Colonic polyp"
+        },
+        {
+          "label": "C",
+          "text": "Meckel diverticulum"
+        },
+        {
+          "label": "D",
+          "text": "Rectum"
+        },
+        {
+          "label": "E",
+          "text": "Vermiform appendix"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "The appendix mimics colonic mucosa but has prominent lymphoid nodules extending into the submucosa and effacing the muscularis mucosae.",
+        "whyCorrect": "The appendix mimics colonic mucosa but has prominent lymphoid nodules extending into the submucosa and effacing the muscularis mucosae.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "gipic-064_gi021_f15.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "gipic-065",
+      "topicId": "histology-of-the-gastrointestinal-tract",
+      "topicName": "Histology of the Gastrointestinal Tract",
+      "stem": "At the junction shown here, the epithelium transitions from simple columnar to stratified squamous. This squamous lining is advantageous because it best withstands what?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Gastric acid"
+        },
+        {
+          "label": "B",
+          "text": "Bacterial toxins"
+        },
+        {
+          "label": "C",
+          "text": "Bile salts"
+        },
+        {
+          "label": "D",
+          "text": "Mechanical abrasion and friction"
+        },
+        {
+          "label": "E",
+          "text": "Pancreatic enzymes"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "Stratified squamous epithelium at the anorectal junction resists the forceful, abrasive luminal functions of defecation.",
+        "whyCorrect": "Stratified squamous epithelium at the anorectal junction resists the forceful, abrasive luminal functions of defecation.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "gipic-065_gi021_f16.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "gipic-131",
+      "topicId": "histology-of-the-gastrointestinal-tract",
+      "topicName": "Histology of the Gastrointestinal Tract",
+      "stem": "This histologic field shows an abrupt epithelial transition (the Z line). Chronic acid exposure here can drive metaplasia of the squamous epithelium, which increases risk of what malignancy?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Gastrointestinal stromal tumor"
+        },
+        {
+          "label": "B",
+          "text": "Esophageal squamous cell carcinoma"
+        },
+        {
+          "label": "C",
+          "text": "Hepatocellular carcinoma"
+        },
+        {
+          "label": "D",
+          "text": "Gastric MALT lymphoma"
+        },
+        {
+          "label": "E",
+          "text": "Esophageal adenocarcinoma"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "At the gastroesophageal junction, reflux-induced replacement of squamous epithelium by columnar epithelium with goblet cells (Barrett esophagus) predisposes to esophageal adenocarcinoma.",
+        "whyCorrect": "At the gastroesophageal junction, reflux-induced replacement of squamous epithelium by columnar epithelium with goblet cells (Barrett esophagus) predisposes to esophageal adenocarcinoma.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "gipic-131_gi021_f03.png",
+      "tags": [
+        "picture"
+      ]
+    }
+  ]
+}

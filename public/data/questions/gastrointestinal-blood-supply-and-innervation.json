@@ -1,0 +1,318 @@
+{
+  "categoryId": "gastrointestinal-blood-supply-and-innervation",
+  "categoryName": "Gastrointestinal Blood Supply and Innervation",
+  "questions": [
+    {
+      "id": "gipic-029",
+      "topicId": "gastrointestinal-blood-supply-and-innervation",
+      "topicName": "Gastrointestinal Blood Supply and Innervation",
+      "stem": "This schematic shows the three unpaired anterior branches of the abdominal aorta supplying the GI tract. Occlusion of the most inferior of these three vessels would most severely compromise perfusion of which structure?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Liver"
+        },
+        {
+          "label": "B",
+          "text": "Spleen"
+        },
+        {
+          "label": "C",
+          "text": "Duodenum"
+        },
+        {
+          "label": "D",
+          "text": "Stomach"
+        },
+        {
+          "label": "E",
+          "text": "Descending colon"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "The most inferior of the three unpaired anterior aortic branches is the inferior mesenteric artery (IMA), which supplies hindgut derivatives including the descending and sigmoid colon. The stomach, duodenum, spleen, and liver are foregut structures supplied by the celiac trunk.",
+        "whyCorrect": "The most inferior of the three unpaired anterior aortic branches is the inferior mesenteric artery (IMA), which supplies hindgut derivatives including the descending and sigmoid colon. The stomach, duodenum, spleen, and liver are foregut structures supplied by the celiac trunk.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "gipic-029_gi025_f01.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "gipic-030",
+      "topicId": "gastrointestinal-blood-supply-and-innervation",
+      "topicName": "Gastrointestinal Blood Supply and Innervation",
+      "stem": "This illustration contrasts the distribution territories of two mesenteric arteries along the colon. The border zone between these two arterial territories is most vulnerable to ischemia at which anatomic site?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Splenic flexure"
+        },
+        {
+          "label": "B",
+          "text": "Gastroesophageal junction"
+        },
+        {
+          "label": "C",
+          "text": "Hepatic flexure"
+        },
+        {
+          "label": "D",
+          "text": "Ascending colon"
+        },
+        {
+          "label": "E",
+          "text": "Cecum"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "The splenic flexure lies at the junction of the SMA and IMA territories (a watershed area) and is particularly susceptible to ischemic colitis when perfusion falls, owing to limited collateral circulation.",
+        "whyCorrect": "The splenic flexure lies at the junction of the SMA and IMA territories (a watershed area) and is particularly susceptible to ischemic colitis when perfusion falls, owing to limited collateral circulation.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "gipic-030_gi025_f04.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "gipic-031",
+      "topicId": "gastrointestinal-blood-supply-and-innervation",
+      "topicName": "Gastrointestinal Blood Supply and Innervation",
+      "stem": "This illustration depicts venous drainage of the GI tract. Blood carried by this system must pass through which organ before entering the inferior vena cava?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Pancreas"
+        },
+        {
+          "label": "B",
+          "text": "Liver"
+        },
+        {
+          "label": "C",
+          "text": "Right kidney"
+        },
+        {
+          "label": "D",
+          "text": "Lung"
+        },
+        {
+          "label": "E",
+          "text": "Spleen"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Venous blood from the GI tract enters the hepatic portal system so the liver can process absorbed nutrients before the blood reaches the IVC and systemic circulation. The portal vein forms from the confluence of the splenic and superior mesenteric veins.",
+        "whyCorrect": "Venous blood from the GI tract enters the hepatic portal system so the liver can process absorbed nutrients before the blood reaches the IVC and systemic circulation. The portal vein forms from the confluence of the splenic and superior mesenteric veins.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "gipic-031_gi025_f08.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "gipic-032",
+      "topicId": "gastrointestinal-blood-supply-and-innervation",
+      "topicName": "Gastrointestinal Blood Supply and Innervation",
+      "stem": "This diagram shows lymphatic drainage of the abdomen, with lymph nodes named for the arteries they accompany. Nodes located along the left gastric artery would drain which organ?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Descending colon"
+        },
+        {
+          "label": "B",
+          "text": "Sigmoid colon"
+        },
+        {
+          "label": "C",
+          "text": "Stomach"
+        },
+        {
+          "label": "D",
+          "text": "Appendix"
+        },
+        {
+          "label": "E",
+          "text": "Rectum"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Because abdominal lymphatics follow the arterial supply, nodes along the left gastric artery (a branch of the celiac trunk) drain the foregut-derived stomach. The distal colon, rectum, and appendix drain along mesenteric and iliac chains instead.",
+        "whyCorrect": "Because abdominal lymphatics follow the arterial supply, nodes along the left gastric artery (a branch of the celiac trunk) drain the foregut-derived stomach. The distal colon, rectum, and appendix drain along mesenteric and iliac chains instead.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "gipic-032_gi025_f10.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "gipic-133",
+      "topicId": "gastrointestinal-blood-supply-and-innervation",
+      "topicName": "Gastrointestinal Blood Supply and Innervation",
+      "stem": "This intraoperative photograph shows dusky, hemorrhagic, non-viable small bowel. What is the most likely underlying cause?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Splenic vein thrombosis"
+        },
+        {
+          "label": "B",
+          "text": "Superior mesenteric artery embolism"
+        },
+        {
+          "label": "C",
+          "text": "Inferior mesenteric artery thrombosis"
+        },
+        {
+          "label": "D",
+          "text": "Sigmoid volvulus"
+        },
+        {
+          "label": "E",
+          "text": "Chronic celiac artery compression"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Acute occlusion of the SMA, most often from a cardioembolic embolus, infarcts the entire midgut (jejunum, ileum, and proximal colon), producing the dusky, hemorrhagic necrosis shown. Because loss of the midgut is often unsurvivable, flow must be restored rapidly.",
+        "whyCorrect": "Acute occlusion of the SMA, most often from a cardioembolic embolus, infarcts the entire midgut (jejunum, ileum, and proximal colon), producing the dusky, hemorrhagic necrosis shown. Because loss of the midgut is often unsurvivable, flow must be restored rapidly.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "gipic-133_gi025_f06.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "gipic-134",
+      "topicId": "gastrointestinal-blood-supply-and-innervation",
+      "topicName": "Gastrointestinal Blood Supply and Innervation",
+      "stem": "This figure shows a portosystemic connection at the distal esophagus that dilates in portal hypertension. Rupture of these dilated vessels most characteristically presents with which finding?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Hematemesis"
+        },
+        {
+          "label": "B",
+          "text": "Right upper quadrant colic"
+        },
+        {
+          "label": "C",
+          "text": "Hematochezia from the rectum"
+        },
+        {
+          "label": "D",
+          "text": "Painless jaundice"
+        },
+        {
+          "label": "E",
+          "text": "Steatorrhea"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "In portal hypertension, elevated pressure is transmitted through the left gastric vein into submucosal esophageal veins, forming esophageal varices. These are prone to life-threatening rupture, which classically presents as hematemesis.",
+        "whyCorrect": "In portal hypertension, elevated pressure is transmitted through the left gastric vein into submucosal esophageal veins, forming esophageal varices. These are prone to life-threatening rupture, which classically presents as hematemesis.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "gipic-134_gi025_f09.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "gipic-167",
+      "topicId": "gastrointestinal-blood-supply-and-innervation",
+      "topicName": "Gastrointestinal Blood Supply and Innervation",
+      "stem": "This diagram summarizes parasympathetic innervation of the viscera. What is the primary effect of this input on the gastrointestinal tract?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Increases motility and secretion"
+        },
+        {
+          "label": "B",
+          "text": "Has no effect on secretion"
+        },
+        {
+          "label": "C",
+          "text": "Decreases motility and secretion"
+        },
+        {
+          "label": "D",
+          "text": "Reduces splanchnic blood flow"
+        },
+        {
+          "label": "E",
+          "text": "Contracts GI sphincters"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Parasympathetic innervation (via the vagus nerve to foregut/midgut and pelvic splanchnic nerves to hindgut) promotes GI motility and secretion, opposing sympathetic activity that decreases these functions.",
+        "whyCorrect": "Parasympathetic innervation (via the vagus nerve to foregut/midgut and pelvic splanchnic nerves to hindgut) promotes GI motility and secretion, opposing sympathetic activity that decreases these functions.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "gipic-167_gi025_f11.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "gipic-168",
+      "topicId": "gastrointestinal-blood-supply-and-innervation",
+      "topicName": "Gastrointestinal Blood Supply and Innervation",
+      "stem": "This dermatome map is used to explain referred pain from the GI tract. Visceral pain is referred to body-wall dermatomes like those shown because visceral afferent fibers converge with somatic afferents at which structure?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "The thalamus, bypassing the cord"
+        },
+        {
+          "label": "B",
+          "text": "The ventral roots of the spinal cord"
+        },
+        {
+          "label": "C",
+          "text": "Cutaneous nerve endings in the skin"
+        },
+        {
+          "label": "D",
+          "text": "The sympathetic chain ganglia only"
+        },
+        {
+          "label": "E",
+          "text": "The dorsal roots (dorsal horn) of the spinal cord"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "Visceral afferent fibers travel with sympathetic fibers and enter the spinal cord through the dorsal roots at the same levels as somatic sensory fibers. The brain misinterprets this convergent input as arising from the corresponding somatic dermatome, producing referred pain.",
+        "whyCorrect": "Visceral afferent fibers travel with sympathetic fibers and enter the spinal cord through the dorsal roots at the same levels as somatic sensory fibers. The brain misinterprets this convergent input as arising from the corresponding somatic dermatome, producing referred pain.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "gipic-168_gi025_f15.png",
+      "tags": [
+        "picture"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,279 @@
+{
+  "categoryId": "oral-salivary-gland-and-esophageal-neoplasms",
+  "categoryName": "Oral, Salivary Gland, and Esophageal Neoplasms",
+  "questions": [
+    {
+      "id": "gipic-046",
+      "topicId": "oral-salivary-gland-and-esophageal-neoplasms",
+      "topicName": "Oral, Salivary Gland, and Esophageal Neoplasms",
+      "stem": "This low- and high-power histology of a well-demarcated parotid tumor shows a mixture of ductal (epithelial) and myoepithelial cells set within a distinctive background matrix. Which matrix is characteristic of this tumor?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Dense lymphoid stroma with germinal centers"
+        },
+        {
+          "label": "B",
+          "text": "Chondromyxoid (myxoid and hyaline) stroma"
+        },
+        {
+          "label": "C",
+          "text": "Amyloid deposition"
+        },
+        {
+          "label": "D",
+          "text": "Mucin-filled cystic spaces"
+        },
+        {
+          "label": "E",
+          "text": "Desmoplastic fibrous stroma"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Pleomorphic adenoma shows epithelial and myoepithelial cells embedded in a chondromyxoid matrix. This mixed pattern distinguishes it from Warthin tumor (lymphoid stroma) and mucoepidermoid carcinoma (mucous cells).",
+        "whyCorrect": "Pleomorphic adenoma shows epithelial and myoepithelial cells embedded in a chondromyxoid matrix. This mixed pattern distinguishes it from Warthin tumor (lymphoid stroma) and mucoepidermoid carcinoma (mucous cells).",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "gipic-046_gi002_f05.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "gipic-047",
+      "topicId": "oral-salivary-gland-and-esophageal-neoplasms",
+      "topicName": "Oral, Salivary Gland, and Esophageal Neoplasms",
+      "stem": "This salivary gland tumor shows a double layer of oncocytic epithelial cells resting on a dense lymphoid stroma that contains a follicular germinal center. Which tumor and risk-factor association is correct?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Warthin tumor - strongly associated with smoking"
+        },
+        {
+          "label": "B",
+          "text": "Adenoid cystic carcinoma - associated with perineural invasion"
+        },
+        {
+          "label": "C",
+          "text": "Mucoepidermoid carcinoma - associated with a chromosomal translocation"
+        },
+        {
+          "label": "D",
+          "text": "Pleomorphic adenoma - associated with prior radiation exposure"
+        },
+        {
+          "label": "E",
+          "text": "Chronic sialadenitis - associated with ductal obstruction"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "A bilayered oncocytic epithelium over lymphoid stroma with germinal centers is diagnostic of Warthin tumor. It arises almost exclusively in the parotid gland and is strongly linked to smoking.",
+        "whyCorrect": "A bilayered oncocytic epithelium over lymphoid stroma with germinal centers is diagnostic of Warthin tumor. It arises almost exclusively in the parotid gland and is strongly linked to smoking.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "gipic-047_gi002_f06.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "gipic-076",
+      "topicId": "oral-salivary-gland-and-esophageal-neoplasms",
+      "topicName": "Oral, Salivary Gland, and Esophageal Neoplasms",
+      "stem": "This contrast-enhanced axial neck CT shows an infiltrating soft-tissue mass with a small adjacent regional node, with a coronal reconstruction confirming its location. In the workup of an oral cavity neoplasm, what is the primary purpose of obtaining this study?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "To establish the definitive tissue diagnosis"
+        },
+        {
+          "label": "B",
+          "text": "To screen for Barrett esophagus"
+        },
+        {
+          "label": "C",
+          "text": "To measure salivary gland flow rate"
+        },
+        {
+          "label": "D",
+          "text": "To assess the extent of locoregional and metastatic disease (staging)"
+        },
+        {
+          "label": "E",
+          "text": "To evaluate esophageal motility"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "CT of the neck and chest with contrast is used to stage head and neck cancer by defining the primary tumor extent and nodal/metastatic spread; a definitive diagnosis still requires tissue sampling.",
+        "whyCorrect": "CT of the neck and chest with contrast is used to stage head and neck cancer by defining the primary tumor extent and nodal/metastatic spread; a definitive diagnosis still requires tissue sampling.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "gipic-076_gi002_f03.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "gipic-099",
+      "topicId": "oral-salivary-gland-and-esophageal-neoplasms",
+      "topicName": "Oral, Salivary Gland, and Esophageal Neoplasms",
+      "stem": "The clinical photograph shows an ulcerated, indurated lesion of the oral mucosa, and the corresponding histology shows nests and islands of malignant keratinocytes invading the underlying stroma. Which risk-factor combination is most classically associated with this lesion?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Autoimmune sialadenitis"
+        },
+        {
+          "label": "B",
+          "text": "Chronic gastroesophageal reflux"
+        },
+        {
+          "label": "C",
+          "text": "Epstein-Barr virus infection"
+        },
+        {
+          "label": "D",
+          "text": "Tobacco and alcohol use"
+        },
+        {
+          "label": "E",
+          "text": "High-risk HPV infection"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "This is keratinizing squamous cell carcinoma of the oral cavity, classically driven by combined tobacco and alcohol exposure, in contrast to HPV-driven nonkeratinizing oropharyngeal SCC.",
+        "whyCorrect": "This is keratinizing squamous cell carcinoma of the oral cavity, classically driven by combined tobacco and alcohol exposure, in contrast to HPV-driven nonkeratinizing oropharyngeal SCC.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "gipic-099_gi002_f02.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "gipic-100",
+      "topicId": "oral-salivary-gland-and-esophageal-neoplasms",
+      "topicName": "Oral, Salivary Gland, and Esophageal Neoplasms",
+      "stem": "This schematic maps the two main esophageal cancers to their typical anatomic locations. The lesion depicted in the distal third of the esophagus most commonly arises from which precursor lesion?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Zenker diverticulum"
+        },
+        {
+          "label": "B",
+          "text": "Plummer-Vinson esophageal web"
+        },
+        {
+          "label": "C",
+          "text": "Barrett esophagus (intestinal metaplasia)"
+        },
+        {
+          "label": "D",
+          "text": "Squamous dysplasia from caustic injury"
+        },
+        {
+          "label": "E",
+          "text": "Achalasia-related stasis"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "The distal-third tumor is adenocarcinoma, which arises from Barrett esophagus (intestinal metaplasia) due to chronic acid reflux. Squamous cell carcinoma predominates in the upper two-thirds.",
+        "whyCorrect": "The distal-third tumor is adenocarcinoma, which arises from Barrett esophagus (intestinal metaplasia) due to chronic acid reflux. Squamous cell carcinoma predominates in the upper two-thirds.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "gipic-100_gi002_f07.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "gipic-101",
+      "topicId": "oral-salivary-gland-and-esophageal-neoplasms",
+      "topicName": "Oral, Salivary Gland, and Esophageal Neoplasms",
+      "stem": "These two gross esophageal specimens show malignant lesions: one (A) extending into the gastric cardia distally and the other (B) producing a stricture in the mid-esophagus. Which risk factor is most specific to the distal lesion in panel A?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Achalasia"
+        },
+        {
+          "label": "B",
+          "text": "Plummer-Vinson syndrome"
+        },
+        {
+          "label": "C",
+          "text": "Ingestion of caustic agents"
+        },
+        {
+          "label": "D",
+          "text": "Cigarette smoking"
+        },
+        {
+          "label": "E",
+          "text": "Chronic gastroesophageal reflux / Barrett esophagus"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "The distal lesion extending into the gastric cardia (A) is adenocarcinoma, driven by chronic GERD and Barrett esophagus. The mid-esophageal stricturing lesion (B) is squamous cell carcinoma, linked to smoking, alcohol, and caustic injury.",
+        "whyCorrect": "The distal lesion extending into the gastric cardia (A) is adenocarcinoma, driven by chronic GERD and Barrett esophagus. The mid-esophageal stricturing lesion (B) is squamous cell carcinoma, linked to smoking, alcohol, and caustic injury.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "gipic-101_gi002_f08.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "gipic-102",
+      "topicId": "oral-salivary-gland-and-esophageal-neoplasms",
+      "topicName": "Oral, Salivary Gland, and Esophageal Neoplasms",
+      "stem": "This esophageal biopsy shows malignant infiltrating nests of squamous epithelium with no background of Barrett metaplasia. Which cancer, and its strongest risk factor, does this represent?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Signet-ring adenocarcinoma - H. pylori infection"
+        },
+        {
+          "label": "B",
+          "text": "Squamous cell carcinoma - smoking"
+        },
+        {
+          "label": "C",
+          "text": "Adenoid cystic carcinoma - perineural spread"
+        },
+        {
+          "label": "D",
+          "text": "Adenocarcinoma - chronic reflux"
+        },
+        {
+          "label": "E",
+          "text": "Small cell carcinoma - paraneoplastic syndromes"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Nests of malignant squamous epithelium without Barrett metaplasia indicate squamous cell carcinoma, most strongly associated with smoking (also alcohol, hot liquids, and caustic ingestion); it favors the upper two-thirds of the esophagus.",
+        "whyCorrect": "Nests of malignant squamous epithelium without Barrett metaplasia indicate squamous cell carcinoma, most strongly associated with smoking (also alcohol, hot liquids, and caustic ingestion); it favors the upper two-thirds of the esophagus.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "gipic-102_gi002_f10.png",
+      "tags": [
+        "picture"
+      ]
+    }
+  ]
+}

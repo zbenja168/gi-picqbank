@@ -1,0 +1,513 @@
+{
+  "categoryId": "anatomy-of-the-femoral-and-inguinal-regions",
+  "categoryName": "Anatomy of the Femoral and Inguinal Regions",
+  "questions": [
+    {
+      "id": "gipic-009",
+      "topicId": "anatomy-of-the-femoral-and-inguinal-regions",
+      "topicName": "Anatomy of the Femoral and Inguinal Regions",
+      "stem": "These three anterolateral dissection panels reveal the flat muscles of the lateral abdominal wall, each with fibers running in a different direction. What is the primary functional advantage of this overlapping, cross-hatched arrangement?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Peristaltic propulsion of bowel contents"
+        },
+        {
+          "label": "B",
+          "text": "Reinforced multidirectional support that resists increases in intra-abdominal pressure"
+        },
+        {
+          "label": "C",
+          "text": "Segmental sensory innervation of the overlying skin"
+        },
+        {
+          "label": "D",
+          "text": "Suspension of the abdominal viscera from the diaphragm"
+        },
+        {
+          "label": "E",
+          "text": "A dedicated route for lymphatic drainage of the lower limb"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Because the three layers run in differing, overlapping directions, the wall gains strength in multiple planes, resisting the strain of raised intra-abdominal pressure and protecting the viscera.",
+        "whyCorrect": "Because the three layers run in differing, overlapping directions, the wall gains strength in multiple planes, resisting the strain of raised intra-abdominal pressure and protecting the viscera.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "gipic-009_gi005_f03.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "gipic-010",
+      "topicId": "anatomy-of-the-femoral-and-inguinal-regions",
+      "topicName": "Anatomy of the Femoral and Inguinal Regions",
+      "stem": "This cross-section of the anterior abdominal wall shows the soft tissue layers from skin to peritoneum. Which layer is reapproximated to provide the primary tensile strength when closing a laparotomy?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "The extraperitoneal fat"
+        },
+        {
+          "label": "B",
+          "text": "The fatty (Camper's) superficial fascia"
+        },
+        {
+          "label": "C",
+          "text": "The aponeurotic fascial layer (rectus sheath)"
+        },
+        {
+          "label": "D",
+          "text": "The parietal peritoneum"
+        },
+        {
+          "label": "E",
+          "text": "The skin and dermis"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "The deep fascia/aponeurotic layer forming the rectus sheath provides most of the wall's strength and is the layer surgeons reappose; failure of fascial healing leads to an incisional hernia.",
+        "whyCorrect": "The deep fascia/aponeurotic layer forming the rectus sheath provides most of the wall's strength and is the layer surgeons reappose; failure of fascial healing leads to an incisional hernia.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "gipic-010_gi005_f04.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "gipic-011",
+      "topicId": "anatomy-of-the-femoral-and-inguinal-regions",
+      "topicName": "Anatomy of the Femoral and Inguinal Regions",
+      "stem": "This illustration shows a right-lower-quadrant incision for appendectomy that passes between the fibers of each flat muscle rather than cutting across them. What is the main advantage of this muscle-splitting approach?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "It requires ligation of the inferior epigastric artery"
+        },
+        {
+          "label": "B",
+          "text": "It provides the widest possible exposure of the entire peritoneal cavity"
+        },
+        {
+          "label": "C",
+          "text": "It preserves muscle integrity and lowers the risk of a postoperative incisional hernia"
+        },
+        {
+          "label": "D",
+          "text": "It divides the linea alba to reach midline viscera"
+        },
+        {
+          "label": "E",
+          "text": "It avoids entering the peritoneum altogether"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Splitting muscle along its fibers (a gridiron approach) rather than transecting it preserves wall strength and reduces the chance of later herniation.",
+        "whyCorrect": "Splitting muscle along its fibers (a gridiron approach) rather than transecting it preserves wall strength and reduces the chance of later herniation.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "gipic-011_gi005_f05.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "gipic-012",
+      "topicId": "anatomy-of-the-femoral-and-inguinal-regions",
+      "topicName": "Anatomy of the Femoral and Inguinal Regions",
+      "stem": "This figure depicts a midline abdominal incision. Why is this midline route relatively avascular and muscle-sparing?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "It divides the rectus abdominis between its tendinous intersections"
+        },
+        {
+          "label": "B",
+          "text": "It passes through the linea alba, a fibrous raphe where both sides' aponeuroses interdigitate, containing little muscle or large vessels"
+        },
+        {
+          "label": "C",
+          "text": "It splits the external oblique along its fibers"
+        },
+        {
+          "label": "D",
+          "text": "It transects the transversus abdominis horizontally"
+        },
+        {
+          "label": "E",
+          "text": "It follows the course of the inferior epigastric artery"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "A midline laparotomy separates the right and left rectus muscles at the linea alba rather than cutting muscle, so it crosses minimal vasculature and preserves the muscle bellies.",
+        "whyCorrect": "A midline laparotomy separates the right and left rectus muscles at the linea alba rather than cutting muscle, so it crosses minimal vasculature and preserves the muscle bellies.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "gipic-012_gi005_f07.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "gipic-013",
+      "topicId": "anatomy-of-the-femoral-and-inguinal-regions",
+      "topicName": "Anatomy of the Femoral and Inguinal Regions",
+      "stem": "This schematic marks areas of structural weakness of the lower abdominal wall. A hernia emerging medial to the inferior epigastric vessels, through Hesselbach's triangle, differs from one arising lateral to those vessels in that the medial (direct) hernia typically...",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Passes through the femoral canal below the inguinal ligament"
+        },
+        {
+          "label": "B",
+          "text": "Descends within the coverings of the spermatic cord"
+        },
+        {
+          "label": "C",
+          "text": "Results from a patent processus vaginalis"
+        },
+        {
+          "label": "D",
+          "text": "Does not traverse the deep inguinal ring and rarely descends into the scrotum"
+        },
+        {
+          "label": "E",
+          "text": "Is far more common in infants"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "A direct hernia pushes through the floor of the canal medial to the inferior epigastric vessels, bypassing the deep ring, so it rarely follows the cord into the scrotum, unlike an indirect hernia.",
+        "whyCorrect": "A direct hernia pushes through the floor of the canal medial to the inferior epigastric vessels, bypassing the deep ring, so it rarely follows the cord into the scrotum, unlike an indirect hernia.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "gipic-013_gi005_f13.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "gipic-014",
+      "topicId": "anatomy-of-the-femoral-and-inguinal-regions",
+      "topicName": "Anatomy of the Femoral and Inguinal Regions",
+      "stem": "This dissection outlines a triangle in the upper thigh bounded by the inguinal ligament, sartorius, and adductor longus. Passing beneath the inguinal ligament, what is the correct lateral-to-medial order of its major neurovascular contents?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Femoral artery, femoral vein, femoral nerve"
+        },
+        {
+          "label": "B",
+          "text": "Femoral vein, femoral nerve, femoral artery"
+        },
+        {
+          "label": "C",
+          "text": "Femoral nerve, femoral vein, femoral artery"
+        },
+        {
+          "label": "D",
+          "text": "Femoral nerve, femoral artery, femoral vein"
+        },
+        {
+          "label": "E",
+          "text": "Femoral vein, femoral artery, femoral nerve"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "From lateral to medial the structures are nerve, artery, vein, empty space and lymphatics (the NAVEL mnemonic); the femoral nerve lies most lateral and outside the femoral sheath.",
+        "whyCorrect": "From lateral to medial the structures are nerve, artery, vein, empty space and lymphatics (the NAVEL mnemonic); the femoral nerve lies most lateral and outside the femoral sheath.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "gipic-014_gi005_f14.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "gipic-015",
+      "topicId": "anatomy-of-the-femoral-and-inguinal-regions",
+      "topicName": "Anatomy of the Femoral and Inguinal Regions",
+      "stem": "This diagram shows a structure passing obliquely through the two offset openings of the inguinal canal. What is the physiological benefit of the canal's oblique, two-ring arrangement?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "It anchors the testis firmly to the scrotal skin"
+        },
+        {
+          "label": "B",
+          "text": "It permits peristaltic movement of the bowel"
+        },
+        {
+          "label": "C",
+          "text": "It acts as a flap-valve that closes under raised intra-abdominal pressure, resisting herniation"
+        },
+        {
+          "label": "D",
+          "text": "It provides a collateral arterial pathway to the leg"
+        },
+        {
+          "label": "E",
+          "text": "It allows lymph to drain from the lower limb"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Because the deep and superficial rings do not overlie one another, raised intra-abdominal pressure presses the canal walls together like a valve, helping to prevent herniation.",
+        "whyCorrect": "Because the deep and superficial rings do not overlie one another, raised intra-abdominal pressure presses the canal walls together like a valve, helping to prevent herniation.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "gipic-015_gi005_f16.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "gipic-016",
+      "topicId": "anatomy-of-the-femoral-and-inguinal-regions",
+      "topicName": "Anatomy of the Femoral and Inguinal Regions",
+      "stem": "This sagittal internal view highlights a triangular region of weakness bounded by the rectus abdominis medially, the inferior epigastric vessels superolaterally, and the inguinal ligament inferiorly. A hernia protruding through this triangle carries what name?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Epigastric hernia"
+        },
+        {
+          "label": "B",
+          "text": "Indirect inguinal hernia"
+        },
+        {
+          "label": "C",
+          "text": "Umbilical hernia"
+        },
+        {
+          "label": "D",
+          "text": "Direct inguinal hernia"
+        },
+        {
+          "label": "E",
+          "text": "Femoral hernia"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "This is Hesselbach's (inguinal) triangle; herniation through its weak floor, medial to the inferior epigastric vessels, is by definition a direct inguinal hernia.",
+        "whyCorrect": "This is Hesselbach's (inguinal) triangle; herniation through its weak floor, medial to the inferior epigastric vessels, is by definition a direct inguinal hernia.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "gipic-016_gi005_f17.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "gipic-017",
+      "topicId": "anatomy-of-the-femoral-and-inguinal-regions",
+      "topicName": "Anatomy of the Femoral and Inguinal Regions",
+      "stem": "This figure contrasts the contents of the inguinal canal in males and females. Persistence of the embryonic outpouching that these structures traverse predisposes males far more than females to which lesion?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Direct inguinal hernia"
+        },
+        {
+          "label": "B",
+          "text": "Rectus sheath hematoma"
+        },
+        {
+          "label": "C",
+          "text": "Diastasis recti"
+        },
+        {
+          "label": "D",
+          "text": "Femoral hernia"
+        },
+        {
+          "label": "E",
+          "text": "Indirect inguinal hernia"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "The descent of the testis leaves a processus vaginalis that, if it fails to obliterate, allows an indirect inguinal hernia; this is much more common in males than in females.",
+        "whyCorrect": "The descent of the testis leaves a processus vaginalis that, if it fails to obliterate, allows an indirect inguinal hernia; this is much more common in males than in females.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "gipic-017_gi005_f21.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "gipic-107",
+      "topicId": "anatomy-of-the-femoral-and-inguinal-regions",
+      "topicName": "Anatomy of the Femoral and Inguinal Regions",
+      "stem": "This patient develops a prominent midline abdominal bulge only when raising the head from supine, and no fascial defect is palpable. What best explains this finding?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Protrusion of bowel through the deep inguinal ring"
+        },
+        {
+          "label": "B",
+          "text": "Thinning and widening of the linea alba separating the rectus muscles, without a true fascial defect"
+        },
+        {
+          "label": "C",
+          "text": "Herniation of bowel through the femoral canal"
+        },
+        {
+          "label": "D",
+          "text": "A fascial defect containing bowel at risk of incarceration"
+        },
+        {
+          "label": "E",
+          "text": "An epigastric hernia through the linea alba with a hernia sac"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Diastasis recti is stretching and thinning of the linea alba between the rectus muscles; because there is no fascial defect there is no incarceration risk, distinguishing it from a true hernia.",
+        "whyCorrect": "Diastasis recti is stretching and thinning of the linea alba between the rectus muscles; because there is no fascial defect there is no incarceration risk, distinguishing it from a true hernia.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "gipic-107_gi005_f09.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "gipic-108",
+      "topicId": "anatomy-of-the-femoral-and-inguinal-regions",
+      "topicName": "Anatomy of the Femoral and Inguinal Regions",
+      "stem": "These panels contrast two groin hernias. The hernia shown entering the internal ring lateral to the inferior epigastric vessels and following the spermatic cord arises from which underlying cause?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Thinning of the linea alba"
+        },
+        {
+          "label": "B",
+          "text": "Persistence of the processus vaginalis (a congenital defect)"
+        },
+        {
+          "label": "C",
+          "text": "A widened, lax femoral ring"
+        },
+        {
+          "label": "D",
+          "text": "Diastasis of the rectus muscles"
+        },
+        {
+          "label": "E",
+          "text": "Acquired weakness of the floor of Hesselbach's triangle"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "An indirect inguinal hernia passes through the deep ring lateral to the inferior epigastric vessels and follows the cord because the embryonic processus vaginalis failed to close.",
+        "whyCorrect": "An indirect inguinal hernia passes through the deep ring lateral to the inferior epigastric vessels and follows the cord because the embryonic processus vaginalis failed to close.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "gipic-108_gi005_f18.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "gipic-109",
+      "topicId": "anatomy-of-the-femoral-and-inguinal-regions",
+      "topicName": "Anatomy of the Femoral and Inguinal Regions",
+      "stem": "These early- and late-stage illustrations show bowel protruding just below the inguinal ligament and medial to the femoral vein. Why are femoral hernias particularly prone to strangulation?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "The femoral canal is unusually wide and lax"
+        },
+        {
+          "label": "B",
+          "text": "They reduce spontaneously on standing"
+        },
+        {
+          "label": "C",
+          "text": "The femoral ring is narrow and rigid, tightly constricting the herniated bowel"
+        },
+        {
+          "label": "D",
+          "text": "They communicate directly with the scrotum"
+        },
+        {
+          "label": "E",
+          "text": "They never contain bowel, only fat"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "The bony and ligamentous margins of the femoral ring make it small and unyielding, so herniated bowel is easily compressed, giving femoral hernias a high strangulation risk.",
+        "whyCorrect": "The bony and ligamentous margins of the femoral ring make it small and unyielding, so herniated bowel is easily compressed, giving femoral hernias a high strangulation risk.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "gipic-109_gi005_f20.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "gipic-110",
+      "topicId": "anatomy-of-the-femoral-and-inguinal-regions",
+      "topicName": "Anatomy of the Femoral and Inguinal Regions",
+      "stem": "This composite illustrates three groin hernias relative to the inguinal ligament and inferior epigastric vessels. Which single anatomical landmark best distinguishes an indirect from a direct inguinal hernia?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Whether the patient is male or female"
+        },
+        {
+          "label": "B",
+          "text": "Position relative to the femoral vein"
+        },
+        {
+          "label": "C",
+          "text": "Whether the sac contains omentum or bowel"
+        },
+        {
+          "label": "D",
+          "text": "Position relative to the pubic symphysis"
+        },
+        {
+          "label": "E",
+          "text": "Position relative to the inferior epigastric vessels (indirect lies lateral, direct lies medial)"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "An indirect hernia enters the deep ring lateral to the inferior epigastric vessels, while a direct hernia bulges through Hesselbach's triangle medial to them; this relationship is the key distinguishing landmark.",
+        "whyCorrect": "An indirect hernia enters the deep ring lateral to the inferior epigastric vessels, while a direct hernia bulges through Hesselbach's triangle medial to them; this relationship is the key distinguishing landmark.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "gipic-110_gi005_f22.png",
+      "tags": [
+        "picture"
+      ]
+    }
+  ]
+}

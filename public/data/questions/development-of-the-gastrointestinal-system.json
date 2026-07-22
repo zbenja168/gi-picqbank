@@ -1,0 +1,318 @@
+{
+  "categoryId": "development-of-the-gastrointestinal-system",
+  "categoryName": "Development of the Gastrointestinal System",
+  "questions": [
+    {
+      "id": "gipic-138",
+      "topicId": "development-of-the-gastrointestinal-system",
+      "topicName": "Development of the Gastrointestinal System",
+      "stem": "This four-step sequence shows the lumen of a developing gut segment being obliterated and then reopened. Complete failure of the reopening step in a segment results in which condition?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Volvulus"
+        },
+        {
+          "label": "B",
+          "text": "Diverticulum"
+        },
+        {
+          "label": "C",
+          "text": "Stenosis"
+        },
+        {
+          "label": "D",
+          "text": "Duplication cyst"
+        },
+        {
+          "label": "E",
+          "text": "Atresia"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "Early in development the endodermal epithelium proliferates and occludes the lumen; recanalization then restores patency. If recanalization fails entirely, the segment remains a solid cord, producing atresia; if it is incomplete, stenosis results.",
+        "whyCorrect": "Early in development the endodermal epithelium proliferates and occludes the lumen; recanalization then restores patency. If recanalization fails entirely, the segment remains a solid cord, producing atresia; if it is incomplete, stenosis results.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "gipic-138_gi027_f07.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "gipic-139",
+      "topicId": "development-of-the-gastrointestinal-system",
+      "topicName": "Development of the Gastrointestinal System",
+      "stem": "The gut segment on the left retains a narrowed but still-patent lumen. This appearance results from which developmental error?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Incomplete midgut rotation"
+        },
+        {
+          "label": "B",
+          "text": "Incomplete recanalization"
+        },
+        {
+          "label": "C",
+          "text": "Failed lateral folding"
+        },
+        {
+          "label": "D",
+          "text": "Complete failure of recanalization"
+        },
+        {
+          "label": "E",
+          "text": "Persistent vitelline duct"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Partial (incomplete) removal of the cells that had occluded the lumen leaves a narrowed but patent channel, i.e., stenosis. Complete failure of recanalization would instead produce atresia.",
+        "whyCorrect": "Partial (incomplete) removal of the cells that had occluded the lumen leaves a narrowed but patent channel, i.e., stenosis. Complete failure of recanalization would instead produce atresia.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "gipic-139_gi027_f08.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "gipic-140",
+      "topicId": "development-of-the-gastrointestinal-system",
+      "topicName": "Development of the Gastrointestinal System",
+      "stem": "This figure shows the dorsal and ventral pancreatic buds fusing around the duodenum. If the ventral bud abnormally migrates so that pancreatic tissue completely encircles the duodenum, which condition results?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Annular pancreas"
+        },
+        {
+          "label": "B",
+          "text": "Meckel diverticulum"
+        },
+        {
+          "label": "C",
+          "text": "Choledochal cyst"
+        },
+        {
+          "label": "D",
+          "text": "Ectopic gastric mucosa"
+        },
+        {
+          "label": "E",
+          "text": "Pancreas divisum"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Abnormal migration/rotation of the ventral pancreatic bud can cause pancreatic tissue to form a ring around the second part of the duodenum (annular pancreas), potentially causing duodenal obstruction.",
+        "whyCorrect": "Abnormal migration/rotation of the ventral pancreatic bud can cause pancreatic tissue to form a ring around the second part of the duodenum (annular pancreas), potentially causing duodenal obstruction.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "gipic-140_gi027_f12.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "gipic-173",
+      "topicId": "development-of-the-gastrointestinal-system",
+      "topicName": "Development of the Gastrointestinal System",
+      "stem": "In this cross-section of the trilaminar embryo, the cavity that forms when the lateral plate mesoderm splits will become which adult structure?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Amniotic cavity"
+        },
+        {
+          "label": "B",
+          "text": "Peritoneal cavity"
+        },
+        {
+          "label": "C",
+          "text": "Yolk sac"
+        },
+        {
+          "label": "D",
+          "text": "Pleural cavity only"
+        },
+        {
+          "label": "E",
+          "text": "Lesser sac only"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "The intraembryonic coelom seen between the somatic and splanchnic mesoderm layers becomes the body cavities; in the abdomen it forms the peritoneal cavity.",
+        "whyCorrect": "The intraembryonic coelom seen between the somatic and splanchnic mesoderm layers becomes the body cavities; in the abdomen it forms the peritoneal cavity.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "gipic-173_gi027_f02.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "gipic-174",
+      "topicId": "development-of-the-gastrointestinal-system",
+      "topicName": "Development of the Gastrointestinal System",
+      "stem": "In this detailed embryo, the transverse mesodermal partition just cranial to the liver bud is highlighted. This structure is the primordium of which adult structure?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Falciform ligament"
+        },
+        {
+          "label": "B",
+          "text": "Central tendon of the diaphragm"
+        },
+        {
+          "label": "C",
+          "text": "Greater omentum"
+        },
+        {
+          "label": "D",
+          "text": "Lesser omentum"
+        },
+        {
+          "label": "E",
+          "text": "Broad ligament"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "The septum transversum forms the central tendon of the diaphragm (and contributes to the ventral mesentery of the liver). Defective formation underlies congenital diaphragmatic hernia.",
+        "whyCorrect": "The septum transversum forms the central tendon of the diaphragm (and contributes to the ventral mesentery of the liver). Defective formation underlies congenital diaphragmatic hernia.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "gipic-174_gi027_f06.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "gipic-175",
+      "topicId": "development-of-the-gastrointestinal-system",
+      "topicName": "Development of the Gastrointestinal System",
+      "stem": "These cross-sections illustrate the 90-degree clockwise rotation of the stomach. As a result of this rotation, which nerve comes to lie on the posterior surface of the stomach?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Greater splanchnic nerve"
+        },
+        {
+          "label": "B",
+          "text": "Left recurrent laryngeal nerve"
+        },
+        {
+          "label": "C",
+          "text": "Left vagus nerve"
+        },
+        {
+          "label": "D",
+          "text": "Right phrenic nerve"
+        },
+        {
+          "label": "E",
+          "text": "Right vagus nerve"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "Gastric rotation carries the right (originally right-sided) vagus posteriorly to form the posterior vagal trunk, while the left vagus becomes the anterior vagal trunk.",
+        "whyCorrect": "Gastric rotation carries the right (originally right-sided) vagus posteriorly to form the posterior vagal trunk, while the left vagus becomes the anterior vagal trunk.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "gipic-175_gi027_f10.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "gipic-176",
+      "topicId": "development-of-the-gastrointestinal-system",
+      "topicName": "Development of the Gastrointestinal System",
+      "stem": "The proximal duodenum shown here develops from two embryonic regions, giving it a dual blood supply. Besides branches of the celiac trunk, which artery supplies it?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Internal iliac artery"
+        },
+        {
+          "label": "B",
+          "text": "Inferior mesenteric artery"
+        },
+        {
+          "label": "C",
+          "text": "Superior mesenteric artery"
+        },
+        {
+          "label": "D",
+          "text": "Left gastric artery"
+        },
+        {
+          "label": "E",
+          "text": "Splenic artery"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "The duodenum straddles the foregut-midgut junction. The foregut portion is supplied by the celiac trunk and the midgut portion by the superior mesenteric artery.",
+        "whyCorrect": "The duodenum straddles the foregut-midgut junction. The foregut portion is supplied by the celiac trunk and the midgut portion by the superior mesenteric artery.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "gipic-176_gi027_f11.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "gipic-177",
+      "topicId": "development-of-the-gastrointestinal-system",
+      "topicName": "Development of the Gastrointestinal System",
+      "stem": "This sequence traces herniation and return of the midgut loop around the axis of the superior mesenteric artery. What is the total degree and direction of rotation completed by the end of this process?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "180 degrees counterclockwise"
+        },
+        {
+          "label": "B",
+          "text": "90 degrees counterclockwise"
+        },
+        {
+          "label": "C",
+          "text": "360 degrees clockwise"
+        },
+        {
+          "label": "D",
+          "text": "270 degrees counterclockwise"
+        },
+        {
+          "label": "E",
+          "text": "90 degrees clockwise"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "The midgut loop rotates a total of 270 degrees counterclockwise (when viewed from the front) around the SMA axis before and during its return to the abdomen. Failure of this rotation causes malrotation and predisposes to volvulus.",
+        "whyCorrect": "The midgut loop rotates a total of 270 degrees counterclockwise (when viewed from the front) around the SMA axis before and during its return to the abdomen. Failure of this rotation causes malrotation and predisposes to volvulus.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "gipic-177_gi027_f13.png",
+      "tags": [
+        "picture"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,123 @@
+{
+  "categoryId": "gastric-neoplasms",
+  "categoryName": "Gastric Neoplasms",
+  "questions": [
+    {
+      "id": "gipic-077",
+      "topicId": "gastric-neoplasms",
+      "topicName": "Gastric Neoplasms",
+      "stem": "This abdominal CT shows a well-circumscribed mass arising from the stomach wall and displacing the adjacent stomach, vessels, pancreas, and liver. This tumor most commonly arises from which cell type and driver mutation?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Foveolar epithelium with CDH1/E-cadherin loss"
+        },
+        {
+          "label": "B",
+          "text": "Enterochromaffin-like cells with a MEN1 mutation"
+        },
+        {
+          "label": "C",
+          "text": "Smooth muscle cells with a TP53 mutation"
+        },
+        {
+          "label": "D",
+          "text": "Interstitial cells of Cajal with a KIT gain-of-function mutation"
+        },
+        {
+          "label": "E",
+          "text": "B lymphocytes with H. pylori-driven proliferation"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "A submucosal, well-circumscribed gastric mass is typical of a gastrointestinal stromal tumor (GIST), which arises from the interstitial cells of Cajal, most often via activating KIT (or PDGFRA) mutations.",
+        "whyCorrect": "A submucosal, well-circumscribed gastric mass is typical of a gastrointestinal stromal tumor (GIST), which arises from the interstitial cells of Cajal, most often via activating KIT (or PDGFRA) mutations.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "gipic-077_gi003_f10.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "gipic-103",
+      "topicId": "gastric-neoplasms",
+      "topicName": "Gastric Neoplasms",
+      "stem": "This endoscopic view of the stomach shows several small, smooth, dome-shaped mucosal nodules. These lesions are most commonly the result of which underlying process?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Chronic inflammation, often from H. pylori-associated gastritis"
+        },
+        {
+          "label": "B",
+          "text": "Ectopic pancreatic rest"
+        },
+        {
+          "label": "C",
+          "text": "Autoimmune destruction of parietal cells"
+        },
+        {
+          "label": "D",
+          "text": "Gastrin-secreting neuroendocrine tumor"
+        },
+        {
+          "label": "E",
+          "text": "Germline APC mutation (familial adenomatous polyposis)"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "These are hyperplastic gastric polyps, the most common gastric polyp. They arise from overactive/uncontrolled foveolar proliferation driven by chronic inflammation, classically chronic H. pylori gastritis, and are usually benign.",
+        "whyCorrect": "These are hyperplastic gastric polyps, the most common gastric polyp. They arise from overactive/uncontrolled foveolar proliferation driven by chronic inflammation, classically chronic H. pylori gastritis, and are usually benign.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "gipic-103_gi003_f01.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "gipic-104",
+      "topicId": "gastric-neoplasms",
+      "topicName": "Gastric Neoplasms",
+      "stem": "This endoscopic image of the gastric antrum shows a solitary, flat mucosal lesion. Compared with the far more common hyperplastic polyp, this type of lesion is distinguished by which feature?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "It represents heterotopic pancreatic tissue"
+        },
+        {
+          "label": "B",
+          "text": "It is dysplastic and premalignant, capable of progressing to adenocarcinoma"
+        },
+        {
+          "label": "C",
+          "text": "It is composed of mucosa-associated lymphoid tissue"
+        },
+        {
+          "label": "D",
+          "text": "It has essentially no malignant potential"
+        },
+        {
+          "label": "E",
+          "text": "It arises from interstitial cells of Cajal"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "This is a gastric adenoma. Unlike hyperplastic polyps, adenomas are dysplastic by definition and are a recognized precursor to intestinal-type gastric adenocarcinoma; larger, flatter lesions carry the greatest risk.",
+        "whyCorrect": "This is a gastric adenoma. Unlike hyperplastic polyps, adenomas are dysplastic by definition and are a recognized precursor to intestinal-type gastric adenocarcinoma; larger, flatter lesions carry the greatest risk.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "gipic-104_gi003_f02.png",
+      "tags": [
+        "picture"
+      ]
+    }
+  ]
+}

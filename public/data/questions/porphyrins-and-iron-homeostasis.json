@@ -1,0 +1,123 @@
+{
+  "categoryId": "porphyrins-and-iron-homeostasis",
+  "categoryName": "Porphyrins and Iron Homeostasis",
+  "questions": [
+    {
+      "id": "gipic-111",
+      "topicId": "porphyrins-and-iron-homeostasis",
+      "topicName": "Porphyrins and Iron Homeostasis",
+      "stem": "This Prussian blue-stained bone marrow field (arrow) shows an erythroid precursor with a ring of iron-laden granules encircling the nucleus. Accumulation of iron in this pattern most directly results from a defect in which process?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Incorporation of iron into protoporphyrin IX to form heme"
+        },
+        {
+          "label": "B",
+          "text": "Folate-dependent nucleotide synthesis for DNA replication"
+        },
+        {
+          "label": "C",
+          "text": "Synthesis of globin polypeptide chains"
+        },
+        {
+          "label": "D",
+          "text": "Vitamin B12-dependent methylmalonyl-CoA conversion"
+        },
+        {
+          "label": "E",
+          "text": "Transferrin-mediated cellular iron uptake"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "The image shows a ringed sideroblast. When heme synthesis is impaired (e.g., ALAS2 deficiency in X-linked sideroblastic anemia), iron cannot be incorporated into protoporphyrin IX, so unused iron accumulates in perinuclear mitochondria and stains with Prussian blue, forming a ring around the nucleus.",
+        "whyCorrect": "The image shows a ringed sideroblast. When heme synthesis is impaired (e.g., ALAS2 deficiency in X-linked sideroblastic anemia), iron cannot be incorporated into protoporphyrin IX, so unused iron accumulates in perinuclear mitochondria and stains with Prussian blue, forming a ring around the nucleus.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "gipic-111_gi008_f02.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "gipic-112",
+      "topicId": "porphyrins-and-iron-homeostasis",
+      "topicName": "Porphyrins and Iron Homeostasis",
+      "stem": "This intraoperative photograph shows a strikingly black, glossy liver discovered incidentally during a cholecystectomy in a patient with mild, intermittent jaundice. This gross finding is the hallmark of which condition?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Gilbert syndrome"
+        },
+        {
+          "label": "B",
+          "text": "Crigler-Najjar syndrome"
+        },
+        {
+          "label": "C",
+          "text": "Dubin-Johnson syndrome"
+        },
+        {
+          "label": "D",
+          "text": "Rotor syndrome"
+        },
+        {
+          "label": "E",
+          "text": "Wilson disease"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Dubin-Johnson syndrome is caused by defective canalicular excretion of conjugated bilirubin (MRP2/ABCC2 mutation). Accumulation of dark pigment in hepatocytes gives the characteristic glossy black liver. Rotor syndrome is similar biochemically but does not produce a black liver.",
+        "whyCorrect": "Dubin-Johnson syndrome is caused by defective canalicular excretion of conjugated bilirubin (MRP2/ABCC2 mutation). Accumulation of dark pigment in hepatocytes gives the characteristic glossy black liver. Rotor syndrome is similar biochemically but does not produce a black liver.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "gipic-112_gi008_f06.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "gipic-159",
+      "topicId": "porphyrins-and-iron-homeostasis",
+      "topicName": "Porphyrins and Iron Homeostasis",
+      "stem": "This photograph shows a neonate with jaundice receiving the depicted blue-green light treatment. By what mechanism does this therapy lower the concentration of unconjugated bilirubin?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Enhancement of bilirubin binding to serum albumin"
+        },
+        {
+          "label": "B",
+          "text": "Stimulation of heme oxygenase to accelerate heme breakdown"
+        },
+        {
+          "label": "C",
+          "text": "Photoisomerization of unconjugated bilirubin into water-soluble forms excretable without conjugation"
+        },
+        {
+          "label": "D",
+          "text": "Direct thermal degradation of bilirubin in the skin"
+        },
+        {
+          "label": "E",
+          "text": "Induction of hepatic UDP-glucuronosyltransferase activity"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Phototherapy exposes the infant to blue-green light that isomerizes unconjugated bilirubin in skin capillaries into water-soluble photoisomers, which can be excreted in urine and bile without hepatic conjugation. It does not act by inducing UDPGT or by binding albumin.",
+        "whyCorrect": "Phototherapy exposes the infant to blue-green light that isomerizes unconjugated bilirubin in skin capillaries into water-soluble photoisomers, which can be excreted in urine and bile without hepatic conjugation. It does not act by inducing UDPGT or by binding albumin.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "gipic-159_gi008_f07.png",
+      "tags": [
+        "picture"
+      ]
+    }
+  ]
+}

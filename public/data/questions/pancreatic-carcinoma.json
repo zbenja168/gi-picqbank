@@ -1,0 +1,84 @@
+{
+  "categoryId": "pancreatic-carcinoma",
+  "categoryName": "Pancreatic Carcinoma",
+  "questions": [
+    {
+      "id": "gipic-093",
+      "topicId": "pancreatic-carcinoma",
+      "topicName": "Pancreatic Carcinoma",
+      "stem": "This contrast-enhanced CT of a patient with a pancreatic head mass shows simultaneous dilation of both the main pancreatic duct and the common bile duct (arrows). This radiologic finding is known as what?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Sentinel loop sign"
+        },
+        {
+          "label": "B",
+          "text": "Double-bubble sign"
+        },
+        {
+          "label": "C",
+          "text": "Courvoisier sign"
+        },
+        {
+          "label": "D",
+          "text": "Double-duct sign"
+        },
+        {
+          "label": "E",
+          "text": "Colon cutoff sign"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "A mass in the pancreatic head can simultaneously obstruct the common bile duct and the main pancreatic duct, dilating both. This 'double-duct sign' is highly suggestive of pancreatic head carcinoma. The double-bubble sign refers to duodenal atresia, and the colon cutoff/sentinel loop signs are seen in pancreatitis.",
+        "whyCorrect": "A mass in the pancreatic head can simultaneously obstruct the common bile duct and the main pancreatic duct, dilating both. This 'double-duct sign' is highly suggestive of pancreatic head carcinoma. The double-bubble sign refers to duodenal atresia, and the colon cutoff/sentinel loop signs are seen in pancreatitis.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "gipic-093_gi023_f05.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "gipic-165",
+      "topicId": "pancreatic-carcinoma",
+      "topicName": "Pancreatic Carcinoma",
+      "stem": "This schematic depicts the pathway activated when a cell detects DNA damage: it halts the cell cycle to permit repair, or, if damage is too severe, drives the cell toward programmed cell death. The gene encoding the central protein shown is inactivated in roughly 50-75% of pancreatic adenocarcinomas. On which chromosome is that gene located?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Chromosome 9p"
+        },
+        {
+          "label": "B",
+          "text": "Chromosome 18q"
+        },
+        {
+          "label": "C",
+          "text": "Chromosome 17p"
+        },
+        {
+          "label": "D",
+          "text": "Chromosome 12p"
+        },
+        {
+          "label": "E",
+          "text": "Chromosome 11q"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "The pathway shown centers on p53, the tumor-suppressor 'guardian of the genome,' which is encoded by TP53 on chromosome 17p. p53 halts the cell cycle for DNA repair or triggers apoptosis; its inactivation is a late-stage event in ~50-75% of pancreatic adenocarcinomas. KRAS is on 12p, p16/CDKN2A on 9p, and DPC4/SMAD4 on 18q.",
+        "whyCorrect": "The pathway shown centers on p53, the tumor-suppressor 'guardian of the genome,' which is encoded by TP53 on chromosome 17p. p53 halts the cell cycle for DNA repair or triggers apoptosis; its inactivation is a late-stage event in ~50-75% of pancreatic adenocarcinomas. KRAS is on 12p, p16/CDKN2A on 9p, and DPC4/SMAD4 on 18q.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "gipic-165_gi023_f01.png",
+      "tags": [
+        "picture"
+      ]
+    }
+  ]
+}

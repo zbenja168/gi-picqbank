@@ -1,0 +1,45 @@
+{
+  "categoryId": "hepatic-ethanol-metabolism",
+  "categoryName": "Hepatic Ethanol Metabolism",
+  "questions": [
+    {
+      "id": "gipic-161",
+      "topicId": "hepatic-ethanol-metabolism",
+      "topicName": "Hepatic Ethanol Metabolism",
+      "stem": "The lower panel of this figure shows that during ethanol metabolism the gluconeogenic precursors pyruvate and oxaloacetate are shunted toward lactate and malate, respectively. Which single biochemical change most directly drives both of these conversions?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Accumulation of acetyl-CoA activating pyruvate carboxylase"
+        },
+        {
+          "label": "B",
+          "text": "Increased cytosolic pH shifting equilibrium toward products"
+        },
+        {
+          "label": "C",
+          "text": "An elevated NAD+/NADH ratio that oxidizes both substrates"
+        },
+        {
+          "label": "D",
+          "text": "An elevated NADH/NAD+ ratio from ethanol oxidation"
+        },
+        {
+          "label": "E",
+          "text": "Depletion of ATP that halts gluconeogenic enzymes"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "Ethanol oxidation floods the cell with NADH, raising the NADH/NAD+ ratio. This drives lactate dehydrogenase (pyruvate to lactate) and malate dehydrogenase (oxaloacetate to malate), depleting gluconeogenic precursors and causing fasting hypoglycemia.",
+        "whyCorrect": "Ethanol oxidation floods the cell with NADH, raising the NADH/NAD+ ratio. This drives lactate dehydrogenase (pyruvate to lactate) and malate dehydrogenase (oxaloacetate to malate), depleting gluconeogenic precursors and causing fasting hypoglycemia.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "gipic-161_gi013_f03.png",
+      "tags": [
+        "picture"
+      ]
+    }
+  ]
+}

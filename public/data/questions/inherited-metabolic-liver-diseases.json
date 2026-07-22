@@ -1,0 +1,123 @@
+{
+  "categoryId": "inherited-metabolic-liver-diseases",
+  "categoryName": "Inherited Metabolic Liver Diseases",
+  "questions": [
+    {
+      "id": "gipic-083",
+      "topicId": "inherited-metabolic-liver-diseases",
+      "topicName": "Inherited Metabolic Liver Diseases",
+      "stem": "These liver histology panels use a special histochemical stain that turns accumulated intracellular deposits bright blue. Which stain produces this reaction?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Masson trichrome stain"
+        },
+        {
+          "label": "B",
+          "text": "Rhodanine (copper) stain"
+        },
+        {
+          "label": "C",
+          "text": "Prussian blue (Perls) stain"
+        },
+        {
+          "label": "D",
+          "text": "Congo red stain"
+        },
+        {
+          "label": "E",
+          "text": "Gomori methenamine silver stain"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "The Prussian blue (Perls) reaction stains ferric iron in hemosiderin bright blue, demonstrating iron overload within hepatocytes and Kupffer cells in hemochromatosis.",
+        "whyCorrect": "The Prussian blue (Perls) reaction stains ferric iron in hemosiderin bright blue, demonstrating iron overload within hepatocytes and Kupffer cells in hemochromatosis.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "gipic-083_gi014_f04.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "gipic-125",
+      "topicId": "inherited-metabolic-liver-diseases",
+      "topicName": "Inherited Metabolic Liver Diseases",
+      "stem": "This slit-lamp photograph shows a brownish ring at the corneal margin of the eye. What substance accumulates, and in which layer, to produce this finding?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Calcium deposited in Bowman layer"
+        },
+        {
+          "label": "B",
+          "text": "Copper deposited in the Descemet membrane of the cornea"
+        },
+        {
+          "label": "C",
+          "text": "Cholesterol deposited in the peripheral cornea"
+        },
+        {
+          "label": "D",
+          "text": "Melanin accumulation in the iris stroma"
+        },
+        {
+          "label": "E",
+          "text": "Iron deposited in the corneal epithelium"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "The pigmented ring is a Kayser-Fleischer ring, caused by copper depositing in the Descemet membrane of the cornea in Wilson disease due to impaired biliary copper excretion.",
+        "whyCorrect": "The pigmented ring is a Kayser-Fleischer ring, caused by copper depositing in the Descemet membrane of the cornea in Wilson disease due to impaired biliary copper excretion.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "gipic-125_gi014_f01.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "gipic-126",
+      "topicId": "inherited-metabolic-liver-diseases",
+      "topicName": "Inherited Metabolic Liver Diseases",
+      "stem": "This liver biopsy shows round pink globules accumulating within hepatocytes in the disorder indicated. What is the characteristic histochemical staining property of these globules?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Congo red-positive with apple-green birefringence"
+        },
+        {
+          "label": "B",
+          "text": "Mucicarmine-positive"
+        },
+        {
+          "label": "C",
+          "text": "PAS-positive and diastase-resistant"
+        },
+        {
+          "label": "D",
+          "text": "Oil red O-positive"
+        },
+        {
+          "label": "E",
+          "text": "Prussian blue-positive"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "In alpha-1 antitrypsin deficiency, misfolded A1AT accumulates in the hepatocyte endoplasmic reticulum as globules that are PAS-positive and resistant to diastase digestion.",
+        "whyCorrect": "In alpha-1 antitrypsin deficiency, misfolded A1AT accumulates in the hepatocyte endoplasmic reticulum as globules that are PAS-positive and resistant to diastase digestion.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "gipic-126_gi014_f05.png",
+      "tags": [
+        "picture"
+      ]
+    }
+  ]
+}

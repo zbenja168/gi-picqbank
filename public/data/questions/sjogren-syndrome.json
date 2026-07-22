@@ -1,0 +1,84 @@
+{
+  "categoryId": "sjogren-syndrome",
+  "categoryName": "Sjogren Syndrome",
+  "questions": [
+    {
+      "id": "gipic-067",
+      "topicId": "sjogren-syndrome",
+      "topicName": "Sjogren Syndrome",
+      "stem": "These high- and low-power views of a salivary gland from a patient with Sjogren syndrome show dense focal inflammatory aggregates (arrows) replacing acini. Which cell type predominates within these infiltrates?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Foamy macrophages"
+        },
+        {
+          "label": "B",
+          "text": "Neutrophils"
+        },
+        {
+          "label": "C",
+          "text": "Langhans giant cells"
+        },
+        {
+          "label": "D",
+          "text": "CD4+ T lymphocytes"
+        },
+        {
+          "label": "E",
+          "text": "Eosinophils"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "The histologic hallmark of Sjogren syndrome is focal lymphocytic sialadenitis, in which periductal/periacinar aggregates are composed predominantly of CD4+ T cells (with B cells), quantified as a focus score on labial gland biopsy.",
+        "whyCorrect": "The histologic hallmark of Sjogren syndrome is focal lymphocytic sialadenitis, in which periductal/periacinar aggregates are composed predominantly of CD4+ T cells (with B cells), quantified as a focus score on labial gland biopsy.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "gipic-067_gi030_f04.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "gipic-146",
+      "topicId": "sjogren-syndrome",
+      "topicName": "Sjogren Syndrome",
+      "stem": "This clinical photograph shows the dry, fissured tongue of a patient with Sjogren syndrome. Which underlying change most directly accounts for this oral finding?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Iron-deficiency-related atrophic glossitis"
+        },
+        {
+          "label": "B",
+          "text": "Amyloid deposition enlarging the tongue"
+        },
+        {
+          "label": "C",
+          "text": "Reduced salivary secretion from destruction of salivary acinar cells"
+        },
+        {
+          "label": "D",
+          "text": "Vitamin B12 deficiency causing glossitis"
+        },
+        {
+          "label": "E",
+          "text": "Chronic mechanical irritation from bruxism"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Lymphocytic destruction of salivary gland acini reduces saliva output (xerostomia), leaving the mucosa dry and fissured and predisposing to candidal overgrowth and angular cheilitis.",
+        "whyCorrect": "Lymphocytic destruction of salivary gland acini reduces saliva output (xerostomia), leaving the mucosa dry and fissured and predisposing to candidal overgrowth and angular cheilitis.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "gipic-146_gi030_f02.png",
+      "tags": [
+        "picture"
+      ]
+    }
+  ]
+}

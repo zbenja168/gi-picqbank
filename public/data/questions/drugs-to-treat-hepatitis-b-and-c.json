@@ -1,0 +1,45 @@
+{
+  "categoryId": "drugs-to-treat-hepatitis-b-and-c",
+  "categoryName": "Drugs to Treat Hepatitis B and C",
+  "questions": [
+    {
+      "id": "gipic-162",
+      "topicId": "drugs-to-treat-hepatitis-b-and-c",
+      "topicName": "Drugs to Treat Hepatitis B and C",
+      "stem": "This diagram maps the cytoplasmic replication cycle of the virus targeted by direct-acting antivirals (protease, polymerase, and NS5A inhibitors) that achieve cure rates above 95%. What type of genome does this virus carry?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Double-stranded DNA"
+        },
+        {
+          "label": "B",
+          "text": "Partially double-stranded DNA"
+        },
+        {
+          "label": "C",
+          "text": "Negative-sense single-stranded RNA"
+        },
+        {
+          "label": "D",
+          "text": "Double-stranded RNA"
+        },
+        {
+          "label": "E",
+          "text": "Positive-sense single-stranded RNA"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "The figure depicts the hepatitis C virus (HCV) life cycle. HCV is a flavivirus with a positive-sense single-stranded RNA genome that can be directly translated by host ribosomes, and its NS3/4A, NS5A, and NS5B proteins are the targets of direct-acting antivirals.",
+        "whyCorrect": "The figure depicts the hepatitis C virus (HCV) life cycle. HCV is a flavivirus with a positive-sense single-stranded RNA genome that can be directly translated by host ribosomes, and its NS3/4A, NS5A, and NS5B proteins are the targets of direct-acting antivirals.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "gipic-162_gi017_f03.png",
+      "tags": [
+        "picture"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,240 @@
+{
+  "categoryId": "congenital-disorders-of-the-gastrointestinal-tract",
+  "categoryName": "Congenital Disorders of the Gastrointestinal Tract",
+  "questions": [
+    {
+      "id": "gipic-041",
+      "topicId": "congenital-disorders-of-the-gastrointestinal-tract",
+      "topicName": "Congenital Disorders of the Gastrointestinal Tract",
+      "stem": "This schematic illustrates the embryologic origin of a pancreatic anomaly that can encircle and obstruct the second part of the duodenum. Which developmental error produces it?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Persistence of the vitelline duct"
+        },
+        {
+          "label": "B",
+          "text": "Abnormal rotation of the ventral pancreatic bud so it surrounds the duodenum"
+        },
+        {
+          "label": "C",
+          "text": "Failure of the dorsal pancreatic bud to form"
+        },
+        {
+          "label": "D",
+          "text": "Failure of neural crest cell migration"
+        },
+        {
+          "label": "E",
+          "text": "Failure of duodenal lumen recanalization"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "The pancreas forms from ventral and dorsal buds. If the ventral bud rotates abnormally, it can partially or completely encircle the duodenum (annular pancreas), sometimes causing duodenal obstruction with bilious vomiting and a double-bubble appearance.",
+        "whyCorrect": "The pancreas forms from ventral and dorsal buds. If the ventral bud rotates abnormally, it can partially or completely encircle the duodenum (annular pancreas), sometimes causing duodenal obstruction with bilious vomiting and a double-bubble appearance.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "gipic-041_gi028_f05.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "gipic-042",
+      "topicId": "congenital-disorders-of-the-gastrointestinal-tract",
+      "topicName": "Congenital Disorders of the Gastrointestinal Tract",
+      "stem": "The right-hand panel of this diagram shows small bowel twisted around its vascular pedicle. Which underlying anatomic abnormality predisposes an infant to this complication?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "An aganglionic distal colonic segment"
+        },
+        {
+          "label": "B",
+          "text": "A patent omphalomesenteric duct"
+        },
+        {
+          "label": "C",
+          "text": "A narrow mesenteric base from failed 270-degree midgut rotation"
+        },
+        {
+          "label": "D",
+          "text": "Hypertrophied pyloric smooth muscle"
+        },
+        {
+          "label": "E",
+          "text": "Duodenal encirclement by pancreatic tissue"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "When the midgut fails to complete its normal 270-degree counterclockwise rotation, the mesentery anchors over a very short base rather than a broad one. This narrow pedicle allows the bowel to twist on itself (volvulus), compromising the superior mesenteric vessels and risking necrosis of the entire small intestine.",
+        "whyCorrect": "When the midgut fails to complete its normal 270-degree counterclockwise rotation, the mesentery anchors over a very short base rather than a broad one. This narrow pedicle allows the bowel to twist on itself (volvulus), compromising the superior mesenteric vessels and risking necrosis of the entire small intestine.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "gipic-042_gi028_f07.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "gipic-043",
+      "topicId": "congenital-disorders-of-the-gastrointestinal-tract",
+      "topicName": "Congenital Disorders of the Gastrointestinal Tract",
+      "stem": "These illustrations depict variants in which the rectum connects abnormally to the urinary or genital tract. Faulty development of which septum accounts for this entire group of anomalies?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "The transverse septum of the septum transversum"
+        },
+        {
+          "label": "B",
+          "text": "The urogenital diaphragm"
+        },
+        {
+          "label": "C",
+          "text": "The aorticopulmonary septum"
+        },
+        {
+          "label": "D",
+          "text": "The tracheoesophageal septum"
+        },
+        {
+          "label": "E",
+          "text": "The urorectal septum"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "The urorectal septum divides the cloaca into anorectal and urogenital portions. Abnormal development leaves fistulous connections between the rectum and the urethra, bladder, or vestibule (and, at the extreme, a persistent cloaca), as illustrated across these variants.",
+        "whyCorrect": "The urorectal septum divides the cloaca into anorectal and urogenital portions. Abnormal development leaves fistulous connections between the rectum and the urethra, bladder, or vestibule (and, at the extreme, a persistent cloaca), as illustrated across these variants.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "gipic-043_gi028_f13.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "gipic-094",
+      "topicId": "congenital-disorders-of-the-gastrointestinal-tract",
+      "topicName": "Congenital Disorders of the Gastrointestinal Tract",
+      "stem": "These ultrasound images compare a normal pylorus (left) with an abnormal one (right, circled). Which sonographic feature confirms the diagnosis on the right?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Increased pyloric muscle wall thickness and an elongated pyloric channel"
+        },
+        {
+          "label": "B",
+          "text": "A target/donut sign of telescoped bowel"
+        },
+        {
+          "label": "C",
+          "text": "A double-bubble gas pattern"
+        },
+        {
+          "label": "D",
+          "text": "Bird-beak narrowing of the distal esophagus"
+        },
+        {
+          "label": "E",
+          "text": "A dilated aganglionic megacolon with transition zone"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Ultrasound is the confirmatory test for hypertrophic pyloric stenosis, revealing an enlarged pylorus with increased muscle wall thickness (roughly >3 mm) and elongated channel length compared with the thin, short normal pylorus.",
+        "whyCorrect": "Ultrasound is the confirmatory test for hypertrophic pyloric stenosis, revealing an enlarged pylorus with increased muscle wall thickness (roughly >3 mm) and elongated channel length compared with the thin, short normal pylorus.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "gipic-094_gi028_f03.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "gipic-095",
+      "topicId": "congenital-disorders-of-the-gastrointestinal-tract",
+      "topicName": "Congenital Disorders of the Gastrointestinal Tract",
+      "stem": "This upper GI contrast study of an infant shows a 'corkscrew' proximal small bowel that fails to cross to the left of the vertebral column. This finding confirms which diagnosis?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Malrotation with midgut volvulus"
+        },
+        {
+          "label": "B",
+          "text": "Hirschsprung disease"
+        },
+        {
+          "label": "C",
+          "text": "Meconium ileus"
+        },
+        {
+          "label": "D",
+          "text": "Hypertrophic pyloric stenosis"
+        },
+        {
+          "label": "E",
+          "text": "Duodenal atresia"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "In malrotation the duodenum lacks a normal C-loop and does not cross the midline; when volvulus occurs the proximal jejunum shows a classic corkscrew pattern. An upper GI study is the confirmatory test in a stable infant with bilious vomiting.",
+        "whyCorrect": "In malrotation the duodenum lacks a normal C-loop and does not cross the midline; when volvulus occurs the proximal jejunum shows a classic corkscrew pattern. An upper GI study is the confirmatory test in a stable infant with bilious vomiting.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "gipic-095_gi028_f08.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "gipic-141",
+      "topicId": "congenital-disorders-of-the-gastrointestinal-tract",
+      "topicName": "Congenital Disorders of the Gastrointestinal Tract",
+      "stem": "This contrast enema shows a narrowed distal segment with an abrupt transition to markedly dilated proximal colon. What is the underlying cause of this appearance?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Hypertrophy of pyloric smooth muscle"
+        },
+        {
+          "label": "B",
+          "text": "A mesenteric vascular accident with segmental resorption"
+        },
+        {
+          "label": "C",
+          "text": "Failure of duodenal lumen recanalization"
+        },
+        {
+          "label": "D",
+          "text": "Twisting of bowel around a narrow mesentery"
+        },
+        {
+          "label": "E",
+          "text": "Absence of ganglion cells from failed neural crest migration in the distal bowel"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "In Hirschsprung disease, neural crest cells fail to migrate into the distal gut, leaving an aganglionic, tonically contracted segment (usually rectosigmoid). The narrowed aganglionic bowel cannot relax, so the normally innervated proximal colon dilates, creating the transition zone seen on contrast enema.",
+        "whyCorrect": "In Hirschsprung disease, neural crest cells fail to migrate into the distal gut, leaving an aganglionic, tonically contracted segment (usually rectosigmoid). The narrowed aganglionic bowel cannot relax, so the normally innervated proximal colon dilates, creating the transition zone seen on contrast enema.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "gipic-141_gi028_f11.png",
+      "tags": [
+        "picture"
+      ]
+    }
+  ]
+}

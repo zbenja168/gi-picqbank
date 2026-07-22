@@ -1,0 +1,396 @@
+{
+  "categoryId": "gross-anatomy-and-histology-of-the-oral-region",
+  "categoryName": "Gross Anatomy and Histology of the Oral Region",
+  "questions": [
+    {
+      "id": "gipic-022",
+      "topicId": "gross-anatomy-and-histology-of-the-oral-region",
+      "topicName": "Gross Anatomy and Histology of the Oral Region",
+      "stem": "This teaching illustration of the oral region and pharynx is presented in a single anatomical plane that passes through the midline, showing the nasal cavity, tongue, palate, and the three pharyngeal subdivisions in profile. In which plane was this section taken?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Coronal (frontal) plane"
+        },
+        {
+          "label": "B",
+          "text": "Midsagittal plane"
+        },
+        {
+          "label": "C",
+          "text": "Horizontal plane"
+        },
+        {
+          "label": "D",
+          "text": "Oblique parasagittal plane"
+        },
+        {
+          "label": "E",
+          "text": "Transverse (axial) plane"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "The image shows a lateral profile of the head with structures cut through the midline (nasal septum, tongue, uvula, epiglottis all visible in a single vertical slice), which is the defining feature of a midsagittal section. Coronal and transverse planes would not display the anterior-to-posterior continuity of the oral cavity into the pharynx.",
+        "whyCorrect": "The image shows a lateral profile of the head with structures cut through the midline (nasal septum, tongue, uvula, epiglottis all visible in a single vertical slice), which is the defining feature of a midsagittal section. Coronal and transverse planes would not display the anterior-to-posterior continuity of the oral cavity into the pharynx.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "gipic-022_gi024_f01.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "gipic-023",
+      "topicId": "gross-anatomy-and-histology-of-the-oral-region",
+      "topicName": "Gross Anatomy and Histology of the Oral Region",
+      "stem": "This illustration of the lips highlights the sharp transition line indicated by the leader on the right. Precise surgical realignment of this line during laceration repair is cosmetically critical because it marks the boundary between which two tissues?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Oral vestibule and oral cavity proper"
+        },
+        {
+          "label": "B",
+          "text": "Buccal mucosa and gingiva"
+        },
+        {
+          "label": "C",
+          "text": "Hard palate and soft palate"
+        },
+        {
+          "label": "D",
+          "text": "Keratinized and non-keratinized tongue mucosa"
+        },
+        {
+          "label": "E",
+          "text": "Lip mucosa and surrounding facial skin"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "The vermilion border is the transition between the red lip mucosa (vermilion) and the adjacent facial skin. Because even a 1-mm step-off is visible, it must be aligned exactly during repair. The other choices describe different anatomical junctions unrelated to this labial landmark.",
+        "whyCorrect": "The vermilion border is the transition between the red lip mucosa (vermilion) and the adjacent facial skin. Because even a 1-mm step-off is visible, it must be aligned exactly during repair. The other choices describe different anatomical junctions unrelated to this labial landmark.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "gipic-023_gi024_f04.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "gipic-024",
+      "topicId": "gross-anatomy-and-histology-of-the-oral-region",
+      "topicName": "Gross Anatomy and Histology of the Oral Region",
+      "stem": "This illustration shows repair of a laceration that crosses the junction between the red lip and the facial skin. To ensure precise cosmetic alignment, where should the very first suture be placed?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "At the vermilion border"
+        },
+        {
+          "label": "B",
+          "text": "At the apex of the philtral column"
+        },
+        {
+          "label": "C",
+          "text": "At the free mucosal margin of the lip"
+        },
+        {
+          "label": "D",
+          "text": "At the oral commissure (corner of the mouth)"
+        },
+        {
+          "label": "E",
+          "text": "At the deepest point of the wound"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "When a laceration crosses the vermilion border, the first suture must be placed to reappose the vermilion border itself, because any misalignment of this high-contrast line is immediately noticeable. Only after this landmark is aligned are the remaining sutures placed.",
+        "whyCorrect": "When a laceration crosses the vermilion border, the first suture must be placed to reappose the vermilion border itself, because any misalignment of this high-contrast line is immediately noticeable. Only after this landmark is aligned are the remaining sutures placed.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "gipic-024_gi024_f05.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "gipic-025",
+      "topicId": "gross-anatomy-and-histology-of-the-oral-region",
+      "topicName": "Gross Anatomy and Histology of the Oral Region",
+      "stem": "This dissection illustration traces the course of the parotid (Stensen's) duct as it runs forward across the masseter and pierces the buccinator. Into the oral vestibule opposite which tooth does this duct open?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Maxillary central incisor"
+        },
+        {
+          "label": "B",
+          "text": "Mandibular first molar"
+        },
+        {
+          "label": "C",
+          "text": "Mandibular second premolar"
+        },
+        {
+          "label": "D",
+          "text": "Maxillary canine"
+        },
+        {
+          "label": "E",
+          "text": "Maxillary second molar"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "The parotid duct opens into the oral vestibule at a papilla opposite the maxillary (upper) second molar. This is a key landmark for assessing parotid gland function, cannulating the duct, or evaluating obstruction. The other locations do not correspond to any major salivary duct opening.",
+        "whyCorrect": "The parotid duct opens into the oral vestibule at a papilla opposite the maxillary (upper) second molar. This is a key landmark for assessing parotid gland function, cannulating the duct, or evaluating obstruction. The other locations do not correspond to any major salivary duct opening.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "gipic-025_gi024_f06.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "gipic-026",
+      "topicId": "gross-anatomy-and-histology-of-the-oral-region",
+      "topicName": "Gross Anatomy and Histology of the Oral Region",
+      "stem": "This dorsal view of the tongue shows a V-shaped groove separating the anterior and posterior portions. At the apex of this groove is a small pit that marks the embryologic site of descent of which structure?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Thyroid gland"
+        },
+        {
+          "label": "B",
+          "text": "Sublingual gland"
+        },
+        {
+          "label": "C",
+          "text": "Parotid gland"
+        },
+        {
+          "label": "D",
+          "text": "Parathyroid glands"
+        },
+        {
+          "label": "E",
+          "text": "Submandibular gland"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "The foramen cecum, at the apex of the sulcus terminalis, marks the origin of the thyroid diverticulum, which descends via the thyroglossal duct. Persistence of this tract can produce a thyroglossal duct cyst or a lingual thyroid. The salivary and parathyroid glands have entirely different embryologic origins.",
+        "whyCorrect": "The foramen cecum, at the apex of the sulcus terminalis, marks the origin of the thyroid diverticulum, which descends via the thyroglossal duct. Persistence of this tract can produce a thyroglossal duct cyst or a lingual thyroid. The salivary and parathyroid glands have entirely different embryologic origins.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "gipic-026_gi024_f07.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "gipic-027",
+      "topicId": "gross-anatomy-and-histology-of-the-oral-region",
+      "topicName": "Gross Anatomy and Histology of the Oral Region",
+      "stem": "This inferior view shows the bones forming the roof of the mouth (hard palate). Failure of the two shelves shown here to fuse during embryologic development produces which congenital anomaly?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Isolated cleft lip"
+        },
+        {
+          "label": "B",
+          "text": "Choanal atresia"
+        },
+        {
+          "label": "C",
+          "text": "Cleft palate"
+        },
+        {
+          "label": "D",
+          "text": "Torus palatinus"
+        },
+        {
+          "label": "E",
+          "text": "Bifid uvula alone"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "The hard palate forms from fusion of the palatine processes of the maxillae and the horizontal plates of the palatine bones; failure of fusion produces a cleft palate, causing a communication between the oral and nasal cavities. Cleft lip results from failure of fusion of the lip prominences, a separate process.",
+        "whyCorrect": "The hard palate forms from fusion of the palatine processes of the maxillae and the horizontal plates of the palatine bones; failure of fusion produces a cleft palate, causing a communication between the oral and nasal cavities. Cleft lip results from failure of fusion of the lip prominences, a separate process.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "gipic-027_gi024_f12.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "gipic-028",
+      "topicId": "gross-anatomy-and-histology-of-the-oral-region",
+      "topicName": "Gross Anatomy and Histology of the Oral Region",
+      "stem": "This view of the undersurface of the tongue shows the paired small elevations flanking the lingual frenulum. These sublingual caruncles are important clinical landmarks primarily for assessing what?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Dental occlusion"
+        },
+        {
+          "label": "B",
+          "text": "Tongue protrusion strength"
+        },
+        {
+          "label": "C",
+          "text": "The gag reflex"
+        },
+        {
+          "label": "D",
+          "text": "Salivary flow from the submandibular ducts"
+        },
+        {
+          "label": "E",
+          "text": "Taste sensation of the anterior tongue"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "The submandibular (Wharton's) ducts open at the sublingual caruncles beside the frenulum, so these landmarks are used to assess salivary flow and to detect duct obstruction such as salivary stones. Taste, tongue strength (CN XII), and the gag reflex (CN IX/X) are assessed by other means.",
+        "whyCorrect": "The submandibular (Wharton's) ducts open at the sublingual caruncles beside the frenulum, so these landmarks are used to assess salivary flow and to detect duct obstruction such as salivary stones. Taste, tongue strength (CN XII), and the gag reflex (CN IX/X) are assessed by other means.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "gipic-028_gi024_f14.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "gipic-066",
+      "topicId": "gross-anatomy-and-histology-of-the-oral-region",
+      "topicName": "Gross Anatomy and Histology of the Oral Region",
+      "stem": "This micrograph compares the submandibular gland (left) and sublingual gland (right). In the mixed submandibular gland, the crescent-shaped caps of dark-staining serous cells sitting on the periphery of pale mucous acini are known as what?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Zymogen granule aggregates"
+        },
+        {
+          "label": "B",
+          "text": "Paneth cell clusters"
+        },
+        {
+          "label": "C",
+          "text": "Intercalated ducts"
+        },
+        {
+          "label": "D",
+          "text": "Serous demilunes"
+        },
+        {
+          "label": "E",
+          "text": "Myoepithelial cells"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "In mixed sero-mucous glands, the serous cells form crescent-shaped caps called serous demilunes around mucous acini, adding enzymes such as lysozyme to the secretion. Intercalated ducts are conduits, myoepithelial cells are contractile basket cells, and Paneth cells belong to intestinal crypts, not salivary glands.",
+        "whyCorrect": "In mixed sero-mucous glands, the serous cells form crescent-shaped caps called serous demilunes around mucous acini, adding enzymes such as lysozyme to the secretion. Intercalated ducts are conduits, myoepithelial cells are contractile basket cells, and Paneth cells belong to intestinal crypts, not salivary glands.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "gipic-066_gi024_f20.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "gipic-132",
+      "topicId": "gross-anatomy-and-histology-of-the-oral-region",
+      "topicName": "Gross Anatomy and Histology of the Oral Region",
+      "stem": "This clinical photograph shows a patient with a unilateral hypoglossal (CN XII) nerve injury protruding the tongue. Toward which side does the protruded tongue deviate?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Toward the side of the lesion (ipsilateral)"
+        },
+        {
+          "label": "B",
+          "text": "Away from the side of the lesion (contralateral)"
+        },
+        {
+          "label": "C",
+          "text": "Downward toward the floor of the mouth"
+        },
+        {
+          "label": "D",
+          "text": "Upward toward the palate"
+        },
+        {
+          "label": "E",
+          "text": "Straight, with no deviation"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "The genioglossus protrudes the tongue and pushes it to the opposite side. With a CN XII lesion, the weak side cannot push, so the intact genioglossus drives the tongue toward the injured (ipsilateral) side. This 'lick your wounds' rule distinguishes it from the contralateral deviation seen with upper motor neuron lesions.",
+        "whyCorrect": "The genioglossus protrudes the tongue and pushes it to the opposite side. With a CN XII lesion, the weak side cannot push, so the intact genioglossus drives the tongue toward the injured (ipsilateral) side. This 'lick your wounds' rule distinguishes it from the contralateral deviation seen with upper motor neuron lesions.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "gipic-132_gi024_f11.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "gipic-166",
+      "topicId": "gross-anatomy-and-histology-of-the-oral-region",
+      "topicName": "Gross Anatomy and Histology of the Oral Region",
+      "stem": "This illustration shows the location of the three paired major salivary glands and their ducts. Beyond digestion and lubrication, the saliva these glands produce has a near-neutral pH that provides which additional protective function?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Emulsification of dietary fats"
+        },
+        {
+          "label": "B",
+          "text": "Activation of blood clotting"
+        },
+        {
+          "label": "C",
+          "text": "Buffering (neutralizing) acids in the mouth"
+        },
+        {
+          "label": "D",
+          "text": "Production of bile"
+        },
+        {
+          "label": "E",
+          "text": "Secretion of intrinsic factor"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Saliva's near-neutral pH and bicarbonate content buffer acids, protecting the teeth from demineralization and the mucosa from injury. Bile and fat emulsification occur in the small intestine, intrinsic factor is secreted by gastric parietal cells, and clotting is a plasma function, none of which are salivary roles.",
+        "whyCorrect": "Saliva's near-neutral pH and bicarbonate content buffer acids, protecting the teeth from demineralization and the mucosa from injury. Bile and fat emulsification occur in the small intestine, intrinsic factor is secreted by gastric parietal cells, and clotting is a plasma function, none of which are salivary roles.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "gipic-166_gi024_f17.png",
+      "tags": [
+        "picture"
+      ]
+    }
+  ]
+}

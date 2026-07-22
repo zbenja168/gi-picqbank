@@ -1,0 +1,123 @@
+{
+  "categoryId": "histology-of-the-accessory-digestive-organs",
+  "categoryName": "Histology of the Accessory Digestive Organs",
+  "questions": [
+    {
+      "id": "gipic-048",
+      "topicId": "histology-of-the-accessory-digestive-organs",
+      "topicName": "Histology of the Accessory Digestive Organs",
+      "stem": "The pale, rounded cell clusters shown scattered within the histologic inset of this accessory digestive organ release their products directly into the bloodstream. What class of substances do these clusters secrete?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Peptide hormones"
+        },
+        {
+          "label": "B",
+          "text": "Digestive zymogens"
+        },
+        {
+          "label": "C",
+          "text": "Bile salts"
+        },
+        {
+          "label": "D",
+          "text": "Mucus"
+        },
+        {
+          "label": "E",
+          "text": "Bicarbonate-rich fluid"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "The rounded pale clusters are the Islets of Langerhans, the endocrine component of the pancreas. They secrete hormones (insulin from beta cells, glucagon from alpha cells, somatostatin from delta cells) into the blood, distinct from the surrounding exocrine acini that release digestive enzymes into ducts.",
+        "whyCorrect": "The rounded pale clusters are the Islets of Langerhans, the endocrine component of the pancreas. They secrete hormones (insulin from beta cells, glucagon from alpha cells, somatostatin from delta cells) into the blood, distinct from the surrounding exocrine acini that release digestive enzymes into ducts.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "gipic-048_gi006_f01.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "gipic-049",
+      "topicId": "histology-of-the-accessory-digestive-organs",
+      "topicName": "Histology of the Accessory Digestive Organs",
+      "stem": "This section of a pear-shaped bile-storing organ shows a highly folded mucosa lined by simple columnar epithelium overlying a lamina propria and a muscularis, but lacks a muscularis mucosae and submucosa. Which organ is this?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Pancreatic duct"
+        },
+        {
+          "label": "B",
+          "text": "Gallbladder"
+        },
+        {
+          "label": "C",
+          "text": "Common bile duct"
+        },
+        {
+          "label": "D",
+          "text": "Duodenum"
+        },
+        {
+          "label": "E",
+          "text": "Esophagus"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "The gallbladder wall has a distinctive highly folded mucosa of simple columnar epithelium, a lamina propria, a muscularis with fibers in all directions, and an adventitia/serosa, but notably no muscularis mucosae or submucosa, distinguishing it from typical GI tract.",
+        "whyCorrect": "The gallbladder wall has a distinctive highly folded mucosa of simple columnar epithelium, a lamina propria, a muscularis with fibers in all directions, and an adventitia/serosa, but notably no muscularis mucosae or submucosa, distinguishing it from typical GI tract.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "gipic-049_gi006_f09.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "gipic-158",
+      "topicId": "histology-of-the-accessory-digestive-organs",
+      "topicName": "Histology of the Accessory Digestive Organs",
+      "stem": "In this schematic of the pancreatic exocrine duct system, as secretions travel from the secretory acini toward the larger interlobular ducts, the lining duct epithelium chiefly adds which component to the fluid?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Bicarbonate-rich fluid"
+        },
+        {
+          "label": "B",
+          "text": "Bile acids"
+        },
+        {
+          "label": "C",
+          "text": "Insulin"
+        },
+        {
+          "label": "D",
+          "text": "Intrinsic factor"
+        },
+        {
+          "label": "E",
+          "text": "Digestive zymogens"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "The acini produce enzyme-rich secretions, but the intercalated and larger duct epithelium (including centroacinar cells) secrete a watery, bicarbonate-rich fluid that alkalinizes and dilutes pancreatic juice as it flows toward the duodenum.",
+        "whyCorrect": "The acini produce enzyme-rich secretions, but the intercalated and larger duct epithelium (including centroacinar cells) secrete a watery, bicarbonate-rich fluid that alkalinizes and dilutes pancreatic juice as it flows toward the duodenum.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "gipic-158_gi006_f02.png",
+      "tags": [
+        "picture"
+      ]
+    }
+  ]
+}

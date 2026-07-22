@@ -1,0 +1,474 @@
+{
+  "categoryId": "benign-esophageal-disorders",
+  "categoryName": "Benign Esophageal Disorders",
+  "questions": [
+    {
+      "id": "gipic-001",
+      "topicId": "benign-esophageal-disorders",
+      "topicName": "Benign Esophageal Disorders",
+      "stem": "The paired muscular bundles that encircle the esophagus as it passes through this opening contribute to the antireflux barrier by which mechanism?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Compressing the esophagus during inspiration to augment sphincter pressure"
+        },
+        {
+          "label": "B",
+          "text": "Providing the intrinsic resting tone of the smooth-muscle sphincter"
+        },
+        {
+          "label": "C",
+          "text": "Anchoring the esophagus to the sternum"
+        },
+        {
+          "label": "D",
+          "text": "Relaxing to initiate the gastrocolic reflex"
+        },
+        {
+          "label": "E",
+          "text": "Secreting mucus to lubricate the passing bolus"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "The crura of the diaphragm surround the esophagus at the hiatus and act as an external ('extrinsic') sphincter, compressing the esophagus especially during inspiration when intra-abdominal pressure rises.",
+        "whyCorrect": "The crura of the diaphragm surround the esophagus at the hiatus and act as an external ('extrinsic') sphincter, compressing the esophagus especially during inspiration when intra-abdominal pressure rises.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "gipic-001_gi000_f02.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "gipic-002",
+      "topicId": "benign-esophageal-disorders",
+      "topicName": "Benign Esophageal Disorders",
+      "stem": "This illustration and barium study show a pulsion outpouching protruding through an area of posterior hypopharyngeal weakness. Between which structures does it herniate?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Between the thyropharyngeus and cricopharyngeus muscles (Killian triangle)"
+        },
+        {
+          "label": "B",
+          "text": "Between the internal and external anal sphincters"
+        },
+        {
+          "label": "C",
+          "text": "Through the pleuroperitoneal membrane"
+        },
+        {
+          "label": "D",
+          "text": "Through the diaphragmatic hiatus"
+        },
+        {
+          "label": "E",
+          "text": "At the gastroesophageal junction"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "A Zenker diverticulum is a false (pulsion) diverticulum herniating through Killian triangle, between the thyropharyngeus and cricopharyngeus fibers, due to impaired upper esophageal sphincter relaxation.",
+        "whyCorrect": "A Zenker diverticulum is a false (pulsion) diverticulum herniating through Killian triangle, between the thyropharyngeus and cricopharyngeus fibers, due to impaired upper esophageal sphincter relaxation.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "gipic-002_gi000_f17.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "gipic-044",
+      "topicId": "benign-esophageal-disorders",
+      "topicName": "Benign Esophageal Disorders",
+      "stem": "Compared with the normal esophageal lining shown in the upper field, the lower field demonstrates changes of chronic acid injury. The epithelium involved is normally of which type?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Stratified squamous nonkeratinized epithelium"
+        },
+        {
+          "label": "B",
+          "text": "Transitional epithelium"
+        },
+        {
+          "label": "C",
+          "text": "Simple cuboidal epithelium"
+        },
+        {
+          "label": "D",
+          "text": "Pseudostratified ciliated columnar epithelium"
+        },
+        {
+          "label": "E",
+          "text": "Simple columnar epithelium"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "The normal esophagus is lined by stratified squamous nonkeratinized epithelium; reflux esophagitis produces basal cell hyperplasia, papillary elongation, and intraepithelial inflammation within this epithelium.",
+        "whyCorrect": "The normal esophagus is lined by stratified squamous nonkeratinized epithelium; reflux esophagitis produces basal cell hyperplasia, papillary elongation, and intraepithelial inflammation within this epithelium.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "gipic-044_gi000_f06.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "gipic-068",
+      "topicId": "benign-esophageal-disorders",
+      "topicName": "Benign Esophageal Disorders",
+      "stem": "This endoscopic view of the distal esophagus shows linear mucosal breaks radiating from the gastroesophageal junction. These findings represent the most common complication of which condition?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Plummer-Vinson syndrome"
+        },
+        {
+          "label": "B",
+          "text": "Candida esophagitis"
+        },
+        {
+          "label": "C",
+          "text": "Achalasia"
+        },
+        {
+          "label": "D",
+          "text": "Gastroesophageal reflux disease"
+        },
+        {
+          "label": "E",
+          "text": "Eosinophilic esophagitis"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "Reflux esophagitis, seen here as linear erosions of the distal esophageal mucosa, is the most common complication of prolonged GERD, resulting from direct acid injury.",
+        "whyCorrect": "Reflux esophagitis, seen here as linear erosions of the distal esophageal mucosa, is the most common complication of prolonged GERD, resulting from direct acid injury.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "gipic-068_gi000_f05.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "gipic-069",
+      "topicId": "benign-esophageal-disorders",
+      "topicName": "Benign Esophageal Disorders",
+      "stem": "Panel B of this endoscopic composite shows salmon-colored mucosa extending above the gastroesophageal junction, unlike the normal junction in panel A. This appearance is caused by which process?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Columnar (intestinal) metaplasia of the distal esophageal mucosa"
+        },
+        {
+          "label": "B",
+          "text": "Fungal pseudomembrane formation"
+        },
+        {
+          "label": "C",
+          "text": "Fibrosis from a peptic stricture"
+        },
+        {
+          "label": "D",
+          "text": "Squamous hyperplasia from pill injury"
+        },
+        {
+          "label": "E",
+          "text": "Submucosal venous dilation"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Barrett esophagus appears endoscopically as salmon-colored columnar mucosa extending above the GE junction, reflecting intestinal metaplasia driven by chronic acid reflux.",
+        "whyCorrect": "Barrett esophagus appears endoscopically as salmon-colored columnar mucosa extending above the GE junction, reflecting intestinal metaplasia driven by chronic acid reflux.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "gipic-069_gi000_f08.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "gipic-070",
+      "topicId": "benign-esophageal-disorders",
+      "topicName": "Benign Esophageal Disorders",
+      "stem": "This endoscopic image of the esophagus demonstrates stacked, concentric mucosal rings. This finding is most characteristic of which disorder?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Candida esophagitis"
+        },
+        {
+          "label": "B",
+          "text": "Achalasia"
+        },
+        {
+          "label": "C",
+          "text": "Reflux esophagitis"
+        },
+        {
+          "label": "D",
+          "text": "Barrett esophagus"
+        },
+        {
+          "label": "E",
+          "text": "Eosinophilic esophagitis"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "Concentric rings ('trachealization'), along with furrows and white exudates, are the most characteristic endoscopic finding of eosinophilic esophagitis.",
+        "whyCorrect": "Concentric rings ('trachealization'), along with furrows and white exudates, are the most characteristic endoscopic finding of eosinophilic esophagitis.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "gipic-070_gi000_f12.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "gipic-071",
+      "topicId": "benign-esophageal-disorders",
+      "topicName": "Benign Esophageal Disorders",
+      "stem": "Panel A shows white adherent plaques on erythematous esophageal mucosa and panel B a mucosal brushing with branching filamentous structures. Which organism is responsible?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Cytomegalovirus"
+        },
+        {
+          "label": "B",
+          "text": "Herpes simplex virus"
+        },
+        {
+          "label": "C",
+          "text": "Aspergillus fumigatus"
+        },
+        {
+          "label": "D",
+          "text": "Candida albicans"
+        },
+        {
+          "label": "E",
+          "text": "Histoplasma capsulatum"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "Candida esophagitis presents with adherent white/yellow plaques; brushing reveals yeast and pseudohyphae. It is the most common infectious esophagitis in immunocompromised patients.",
+        "whyCorrect": "Candida esophagitis presents with adherent white/yellow plaques; brushing reveals yeast and pseudohyphae. It is the most common infectious esophagitis in immunocompromised patients.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "gipic-071_gi000_f13.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "gipic-096",
+      "topicId": "benign-esophageal-disorders",
+      "topicName": "Benign Esophageal Disorders",
+      "stem": "The right-hand panel, in which the gastroesophageal junction remains in place while the fundus herniates alongside the esophagus, carries a particular risk of which complication?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Zenker diverticulum"
+        },
+        {
+          "label": "B",
+          "text": "Achalasia"
+        },
+        {
+          "label": "C",
+          "text": "Gastric volvulus with strangulation"
+        },
+        {
+          "label": "D",
+          "text": "Barrett metaplasia"
+        },
+        {
+          "label": "E",
+          "text": "Esophageal varices"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "In a paraesophageal hiatal hernia the GE junction stays intra-abdominal so reflux is uncommon, but the herniated fundus can twist, producing gastric volvulus with compromised blood flow and necrosis.",
+        "whyCorrect": "In a paraesophageal hiatal hernia the GE junction stays intra-abdominal so reflux is uncommon, but the herniated fundus can twist, producing gastric volvulus with compromised blood flow and necrosis.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "gipic-096_gi000_f04.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "gipic-097",
+      "topicId": "benign-esophageal-disorders",
+      "topicName": "Benign Esophageal Disorders",
+      "stem": "This endoscopic image shows a longitudinal mucosal laceration at the gastroesophageal junction in a patient with hematemesis after forceful vomiting. This injury is limited to which layer(s)?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Muscularis propria only"
+        },
+        {
+          "label": "B",
+          "text": "Mucosa and submucosa only"
+        },
+        {
+          "label": "C",
+          "text": "Adventitia only"
+        },
+        {
+          "label": "D",
+          "text": "Serosa and muscularis externa"
+        },
+        {
+          "label": "E",
+          "text": "Full thickness of the esophageal wall"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "A Mallory-Weiss tear is a longitudinal laceration limited to the mucosa (and submucosa) at the GE junction from a sudden rise in intragastric pressure; it usually resolves with supportive care.",
+        "whyCorrect": "A Mallory-Weiss tear is a longitudinal laceration limited to the mucosa (and submucosa) at the GE junction from a sudden rise in intragastric pressure; it usually resolves with supportive care.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "gipic-097_gi000_f18.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "gipic-098",
+      "topicId": "benign-esophageal-disorders",
+      "topicName": "Benign Esophageal Disorders",
+      "stem": "This intraoperative image shows a large defect in the esophageal wall following forceful vomiting. In contrast to a Mallory-Weiss tear, this lesion involves which of the following?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Full-thickness rupture of the esophageal wall"
+        },
+        {
+          "label": "B",
+          "text": "A fibrotic stricture of the distal esophagus"
+        },
+        {
+          "label": "C",
+          "text": "An outpouching of mucosa and submucosa"
+        },
+        {
+          "label": "D",
+          "text": "A partial mucosal laceration that self-resolves"
+        },
+        {
+          "label": "E",
+          "text": "Columnar metaplasia of the mucosa"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Boerhaave syndrome is a spontaneous full-thickness (transmural) rupture of the esophagus from forceful vomiting, allowing leakage into the mediastinum and causing mediastinitis; it is a surgical emergency.",
+        "whyCorrect": "Boerhaave syndrome is a spontaneous full-thickness (transmural) rupture of the esophagus from forceful vomiting, allowing leakage into the mediastinum and causing mediastinitis; it is a surgical emergency.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "gipic-098_gi000_f19.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "gipic-147",
+      "topicId": "benign-esophageal-disorders",
+      "topicName": "Benign Esophageal Disorders",
+      "stem": "In this parietal cell schematic, one drug class binds and irreversibly inhibits the transporter at the apical (luminal) membrane. Chronic use of that class is associated with malabsorption of which nutrient?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Vitamin K"
+        },
+        {
+          "label": "B",
+          "text": "Thiamine"
+        },
+        {
+          "label": "C",
+          "text": "Folate"
+        },
+        {
+          "label": "D",
+          "text": "Vitamin B12"
+        },
+        {
+          "label": "E",
+          "text": "Vitamin C"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "Proton pump inhibitors irreversibly block the apical H+/K+ ATPase; long-term acid suppression impairs release and absorption of vitamin B12 (and raises osteoporosis risk).",
+        "whyCorrect": "Proton pump inhibitors irreversibly block the apical H+/K+ ATPase; long-term acid suppression impairs release and absorption of vitamin B12 (and raises osteoporosis risk).",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "gipic-147_gi000_f09.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "gipic-152",
+      "topicId": "benign-esophageal-disorders",
+      "topicName": "Benign Esophageal Disorders",
+      "stem": "The muscular thickening highlighted at the gastroesophageal junction in this illustration serves primarily to accomplish which of the following?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Secrete bicarbonate to neutralize refluxed acid"
+        },
+        {
+          "label": "B",
+          "text": "Generate the primary peristaltic wave that propels the food bolus"
+        },
+        {
+          "label": "C",
+          "text": "Trigger the swallowing reflex via vagal afferents"
+        },
+        {
+          "label": "D",
+          "text": "Produce intrinsic factor for vitamin B12 absorption"
+        },
+        {
+          "label": "E",
+          "text": "Maintain tonic contraction that prevents retrograde flow of gastric contents"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "The image depicts the lower esophageal sphincter, a specialized thickening of circular smooth muscle at the GE junction that maintains resting tone to block retrograde movement of gastric contents; its failure underlies GERD.",
+        "whyCorrect": "The image depicts the lower esophageal sphincter, a specialized thickening of circular smooth muscle at the GE junction that maintains resting tone to block retrograde movement of gastric contents; its failure underlies GERD.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "gipic-152_gi000_f01.png",
+      "tags": [
+        "picture"
+      ]
+    }
+  ]
+}

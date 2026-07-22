@@ -1,0 +1,162 @@
+{
+  "categoryId": "cirrhosis-and-portal-hypertension",
+  "categoryName": "Cirrhosis and Portal Hypertension",
+  "questions": [
+    {
+      "id": "gipic-053",
+      "topicId": "cirrhosis-and-portal-hypertension",
+      "topicName": "Cirrhosis and Portal Hypertension",
+      "stem": "This medium-magnification liver section (special connective-tissue stain) shows blue-green bands of collagen surrounding rounded nodules of hepatocytes with disrupted lobular architecture. This histologic pattern is diagnostic of which condition?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Cirrhosis"
+        },
+        {
+          "label": "B",
+          "text": "Hepatocellular carcinoma"
+        },
+        {
+          "label": "C",
+          "text": "Acute viral hepatitis"
+        },
+        {
+          "label": "D",
+          "text": "Normal liver"
+        },
+        {
+          "label": "E",
+          "text": "Hepatic steatosis"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Cirrhosis is defined histologically by bridging fibrous septa (collagen produced by activated hepatic stellate cells) enclosing regenerative nodules of hepatocytes, disrupting normal lobular architecture and sinusoidal blood flow.",
+        "whyCorrect": "Cirrhosis is defined histologically by bridging fibrous septa (collagen produced by activated hepatic stellate cells) enclosing regenerative nodules of hepatocytes, disrupting normal lobular architecture and sinusoidal blood flow.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "gipic-053_gi015_f06.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "gipic-084",
+      "topicId": "cirrhosis-and-portal-hypertension",
+      "topicName": "Cirrhosis and Portal Hypertension",
+      "stem": "This abdominal ultrasound of the liver demonstrates a small organ with coarse, heterogeneous echotexture and an irregular, nodular surface contour. These findings are most consistent with which diagnosis?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Normal liver parenchyma"
+        },
+        {
+          "label": "B",
+          "text": "Simple hepatic cyst"
+        },
+        {
+          "label": "C",
+          "text": "Cirrhosis"
+        },
+        {
+          "label": "D",
+          "text": "Acute cholecystitis"
+        },
+        {
+          "label": "E",
+          "text": "Hepatic hemangioma"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "In cirrhosis the liver becomes small with coarse echotexture and a nodular surface on ultrasound. Imaging supports the diagnosis but is not by itself sufficiently sensitive or specific to establish cirrhosis definitively.",
+        "whyCorrect": "In cirrhosis the liver becomes small with coarse echotexture and a nodular surface on ultrasound. Imaging supports the diagnosis but is not by itself sufficiently sensitive or specific to establish cirrhosis definitively.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "gipic-084_gi015_f07.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "gipic-127",
+      "topicId": "cirrhosis-and-portal-hypertension",
+      "topicName": "Cirrhosis and Portal Hypertension",
+      "stem": "This cirrhotic patient has dilated, tortuous veins radiating outward from the umbilicus across the abdominal wall. This finding arises from portosystemic shunting through which recanalized structure?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Thoracic duct"
+        },
+        {
+          "label": "B",
+          "text": "Superior mesenteric artery"
+        },
+        {
+          "label": "C",
+          "text": "Inferior vena cava"
+        },
+        {
+          "label": "D",
+          "text": "Paraumbilical veins"
+        },
+        {
+          "label": "E",
+          "text": "Splenic artery"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "Caput medusae results from anastomosis between engorged paraumbilical veins and small epigastric veins of the abdominal wall, driven by portal hypertension. Recanalization of the paraumbilical/umbilical vein produces the visible radiating collaterals.",
+        "whyCorrect": "Caput medusae results from anastomosis between engorged paraumbilical veins and small epigastric veins of the abdominal wall, driven by portal hypertension. Recanalization of the paraumbilical/umbilical vein produces the visible radiating collaterals.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "gipic-127_gi015_f02.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "gipic-128",
+      "topicId": "cirrhosis-and-portal-hypertension",
+      "topicName": "Cirrhosis and Portal Hypertension",
+      "stem": "This patient with cirrhosis shows marked, symmetric abdominal distention with bulging flanks from fluid within the peritoneal cavity. Which mechanism is the primary driver of this fluid accumulation?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Increased serum albumin synthesis"
+        },
+        {
+          "label": "B",
+          "text": "Elevated plasma oncotic pressure"
+        },
+        {
+          "label": "C",
+          "text": "Bacterial gas production within the bowel"
+        },
+        {
+          "label": "D",
+          "text": "Increased portal venous hydrostatic pressure"
+        },
+        {
+          "label": "E",
+          "text": "Enhanced renal sodium excretion"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "Ascites in cirrhosis is driven chiefly by portal hypertension (raised hydrostatic pressure) together with hypoalbuminemia (low oncotic pressure) and renal sodium/water retention from systemic vasodilation. This produces tense abdominal distention with shifting dullness.",
+        "whyCorrect": "Ascites in cirrhosis is driven chiefly by portal hypertension (raised hydrostatic pressure) together with hypoalbuminemia (low oncotic pressure) and renal sodium/water retention from systemic vasodilation. This produces tense abdominal distention with shifting dullness.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "gipic-128_gi015_f03.png",
+      "tags": [
+        "picture"
+      ]
+    }
+  ]
+}

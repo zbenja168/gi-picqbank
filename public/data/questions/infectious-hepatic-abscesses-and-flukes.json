@@ -1,0 +1,45 @@
+{
+  "categoryId": "infectious-hepatic-abscesses-and-flukes",
+  "categoryName": "Infectious Hepatic Abscesses and Flukes",
+  "questions": [
+    {
+      "id": "gipic-129",
+      "topicId": "infectious-hepatic-abscesses-and-flukes",
+      "topicName": "Infectious Hepatic Abscesses and Flukes",
+      "stem": "This postmortem liver specimen contains multiple flat, leaf-shaped parasitic organisms within the parenchyma and biliary tree. To which class of parasite do these organisms belong?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Cestoda (tapeworms)"
+        },
+        {
+          "label": "B",
+          "text": "Protozoa"
+        },
+        {
+          "label": "C",
+          "text": "Nematoda (roundworms)"
+        },
+        {
+          "label": "D",
+          "text": "Bacteria"
+        },
+        {
+          "label": "E",
+          "text": "Trematoda (flukes)"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "The flat, leaf-shaped worms shown are liver flukes, members of the class Trematoda (phylum Platyhelminthes). Examples that invade the biliary tree include Fasciola hepatica, Clonorchis sinensis, and Opisthorchis species.",
+        "whyCorrect": "The flat, leaf-shaped worms shown are liver flukes, members of the class Trematoda (phylum Platyhelminthes). Examples that invade the biliary tree include Fasciola hepatica, Clonorchis sinensis, and Opisthorchis species.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "gipic-129_gi016_f05.png",
+      "tags": [
+        "picture"
+      ]
+    }
+  ]
+}

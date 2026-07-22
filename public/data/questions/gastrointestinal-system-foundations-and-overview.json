@@ -1,0 +1,162 @@
+{
+  "categoryId": "gastrointestinal-system-foundations-and-overview",
+  "categoryName": "Gastrointestinal System: Foundations and Overview",
+  "questions": [
+    {
+      "id": "gipic-018",
+      "topicId": "gastrointestinal-system-foundations-and-overview",
+      "topicName": "Gastrointestinal System: Foundations and Overview",
+      "stem": "This overview labels the divisions of the gastrointestinal tract, including the gastroesophageal junction. The muscular ring located at that junction, which normally prevents reflux of gastric contents into the esophagus, is best described as which of the following?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Ileocecal valve"
+        },
+        {
+          "label": "B",
+          "text": "Pyloric sphincter"
+        },
+        {
+          "label": "C",
+          "text": "Upper esophageal sphincter"
+        },
+        {
+          "label": "D",
+          "text": "Sphincter of Oddi"
+        },
+        {
+          "label": "E",
+          "text": "Lower esophageal sphincter"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "The gastroesophageal junction is guarded by the lower esophageal sphincter, a tonically contracted ring of smooth muscle that prevents acidic gastric contents from refluxing into the esophagus. The pyloric sphincter controls gastric emptying, the upper esophageal sphincter is skeletal muscle at the pharyngoesophageal junction, the ileocecal valve separates ileum from cecum, and the sphincter of Oddi controls bile/pancreatic outflow into the duodenum.",
+        "whyCorrect": "The gastroesophageal junction is guarded by the lower esophageal sphincter, a tonically contracted ring of smooth muscle that prevents acidic gastric contents from refluxing into the esophagus. The pyloric sphincter controls gastric emptying, the upper esophageal sphincter is skeletal muscle at the pharyngoesophageal junction, the ileocecal valve separates ileum from cecum, and the sphincter of Oddi controls bile/pancreatic outflow into the duodenum.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "gipic-018_gi010_f01.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "gipic-050",
+      "topicId": "gastrointestinal-system-foundations-and-overview",
+      "topicName": "Gastrointestinal System: Foundations and Overview",
+      "stem": "This illustration depicts three superimposed levels of mucosal specialization in the small intestine: large circular folds, finger-like projections of the mucosa, and the apical border of the enterocytes. Together, these structural adaptations chiefly serve to increase which of the following?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Surface area available for nutrient absorption"
+        },
+        {
+          "label": "B",
+          "text": "Blood flow through the mesenteric arteries"
+        },
+        {
+          "label": "C",
+          "text": "Thickness of the protective mucus layer"
+        },
+        {
+          "label": "D",
+          "text": "Rate of intestinal peristalsis"
+        },
+        {
+          "label": "E",
+          "text": "Volume of gastric acid secretion"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Plica circulares (circular folds), villi, and microvilli (brush border) act multiplicatively to amplify the absorptive surface area of the small intestine several-hundred-fold, which is essential for efficient uptake of digested nutrients. They do not primarily affect motility, acid secretion, mucus thickness, or perfusion.",
+        "whyCorrect": "Plica circulares (circular folds), villi, and microvilli (brush border) act multiplicatively to amplify the absorptive surface area of the small intestine several-hundred-fold, which is essential for efficient uptake of digested nutrients. They do not primarily affect motility, acid secretion, mucus thickness, or perfusion.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "gipic-050_gi010_f03.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "gipic-051",
+      "topicId": "gastrointestinal-system-foundations-and-overview",
+      "topicName": "Gastrointestinal System: Foundations and Overview",
+      "stem": "This cross-section of the gut wall shows two neural networks of the enteric nervous system embedded in different layers. The plexus situated between the inner circular and outer longitudinal smooth-muscle layers primarily coordinates which of the following?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Mucosal secretion and local blood flow"
+        },
+        {
+          "label": "B",
+          "text": "Release of gastrin from antral G cells"
+        },
+        {
+          "label": "C",
+          "text": "Gut motility (peristalsis and segmentation)"
+        },
+        {
+          "label": "D",
+          "text": "Gastric acid production by parietal cells"
+        },
+        {
+          "label": "E",
+          "text": "Immune surveillance by Peyer patches"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "The myenteric (Auerbach) plexus lies between the circular and longitudinal muscularis layers and chiefly controls motility. The submucosal (Meissner) plexus, located in the submucosa, regulates secretion and local blood flow. The other options are not primary functions of the myenteric plexus.",
+        "whyCorrect": "The myenteric (Auerbach) plexus lies between the circular and longitudinal muscularis layers and chiefly controls motility. The submucosal (Meissner) plexus, located in the submucosa, regulates secretion and local blood flow. The other options are not primary functions of the myenteric plexus.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "gipic-051_gi010_f05.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "gipic-160",
+      "topicId": "gastrointestinal-system-foundations-and-overview",
+      "topicName": "Gastrointestinal System: Foundations and Overview",
+      "stem": "This schematic shows the parietal cell receiving stimulatory inputs and inhibitory somatostatin as it secretes acid into the gastric lumen. The luminal secretion of H+ against a steep concentration gradient by the parietal cell is directly accomplished by which membrane transporter?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "H+/K+ ATPase (the proton pump)"
+        },
+        {
+          "label": "B",
+          "text": "CFTR chloride channel"
+        },
+        {
+          "label": "C",
+          "text": "Na+-glucose cotransporter (SGLT1)"
+        },
+        {
+          "label": "D",
+          "text": "Na+/K+ ATPase"
+        },
+        {
+          "label": "E",
+          "text": "Na+/H+ exchanger"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "The parietal cell's apical H+/K+ ATPase exchanges intracellular H+ for luminal K+, generating gastric acid; it is the pharmacologic target of proton pump inhibitors. The Na+/K+ ATPase maintains basolateral gradients, the Na+/H+ exchanger regulates pH elsewhere, CFTR secretes chloride, and SGLT1 absorbs glucose in the small intestine.",
+        "whyCorrect": "The parietal cell's apical H+/K+ ATPase exchanges intracellular H+ for luminal K+, generating gastric acid; it is the pharmacologic target of proton pump inhibitors. The Na+/K+ ATPase maintains basolateral gradients, the Na+/H+ exchanger regulates pH elsewhere, CFTR secretes chloride, and SGLT1 absorbs glucose in the small intestine.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "gipic-160_gi010_f06.png",
+      "tags": [
+        "picture"
+      ]
+    }
+  ]
+}

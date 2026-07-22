@@ -1,0 +1,240 @@
+{
+  "categoryId": "peritonitis",
+  "categoryName": "Peritonitis",
+  "questions": [
+    {
+      "id": "gipic-056",
+      "topicId": "peritonitis",
+      "topicName": "Peritonitis",
+      "stem": "This diagram shows the two continuous layers of a serous membrane lining the abdominal cavity and covering its organs, with a thin potential space between them. What type of epithelium forms the lining surface of this membrane?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Simple squamous epithelium (mesothelium)"
+        },
+        {
+          "label": "B",
+          "text": "Stratified squamous epithelium"
+        },
+        {
+          "label": "C",
+          "text": "Simple columnar epithelium"
+        },
+        {
+          "label": "D",
+          "text": "Transitional epithelium"
+        },
+        {
+          "label": "E",
+          "text": "Pseudostratified columnar epithelium"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "The peritoneum is a serous membrane whose surface is a single layer of flattened mesothelial cells (simple squamous epithelium) resting on a thin layer of connective tissue; this smooth surface plus a small amount of serous fluid lets the visceral and parietal layers glide over one another.",
+        "whyCorrect": "The peritoneum is a serous membrane whose surface is a single layer of flattened mesothelial cells (simple squamous epithelium) resting on a thin layer of connective tissue; this smooth surface plus a small amount of serous fluid lets the visceral and parietal layers glide over one another.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "gipic-056_gi020_f01.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "gipic-089",
+      "topicId": "peritonitis",
+      "topicName": "Peritonitis",
+      "stem": "This CT of the abdomen in a cirrhotic patient shows enhancing, inflamed peritoneum (arrows) surrounding pockets of infected fluid. What is the most likely diagnosis?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Secondary peritonitis from a perforated viscus"
+        },
+        {
+          "label": "B",
+          "text": "Peritoneal carcinomatosis"
+        },
+        {
+          "label": "C",
+          "text": "Peritoneal dialysis-associated peritonitis"
+        },
+        {
+          "label": "D",
+          "text": "Tuberculous peritonitis"
+        },
+        {
+          "label": "E",
+          "text": "Spontaneous bacterial peritonitis"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "In a patient with cirrhosis and ascites, infection of the peritoneal fluid without an identifiable surgical source is spontaneous bacterial peritonitis (SBP), usually caused by a single translocated gut organism such as E. coli or Klebsiella; imaging shows ascites with peritoneal enhancement, though the diagnosis is made by paracentesis.",
+        "whyCorrect": "In a patient with cirrhosis and ascites, infection of the peritoneal fluid without an identifiable surgical source is spontaneous bacterial peritonitis (SBP), usually caused by a single translocated gut organism such as E. coli or Klebsiella; imaging shows ascites with peritoneal enhancement, though the diagnosis is made by paracentesis.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "gipic-089_gi020_f02.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "gipic-090",
+      "topicId": "peritonitis",
+      "topicName": "Peritonitis",
+      "stem": "This upright chest radiograph shows thin lucent crescents beneath both hemidiaphragms. What does this finding most likely indicate?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Tension pneumothorax"
+        },
+        {
+          "label": "B",
+          "text": "Basilar pulmonary consolidation"
+        },
+        {
+          "label": "C",
+          "text": "Subphrenic abscess"
+        },
+        {
+          "label": "D",
+          "text": "Bilateral pleural effusions"
+        },
+        {
+          "label": "E",
+          "text": "Free intraperitoneal air from a perforated viscus"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "An upright chest film is sensitive for detecting free intraperitoneal air, seen as lucent air collections under the diaphragm (pneumoperitoneum). This suggests perforation of a hollow viscus, such as a perforated duodenal ulcer, and mandates surgical evaluation.",
+        "whyCorrect": "An upright chest film is sensitive for detecting free intraperitoneal air, seen as lucent air collections under the diaphragm (pneumoperitoneum). This suggests perforation of a hollow viscus, such as a perforated duodenal ulcer, and mandates surgical evaluation.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "gipic-090_gi020_f05.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "gipic-091",
+      "topicId": "peritonitis",
+      "topicName": "Peritonitis",
+      "stem": "This CT of the abdomen shows a thickened, inflamed segment of sigmoid colon (large arrows) with adjacent free fluid and tiny locules of free air (small arrows). What is the most likely underlying cause?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Diverticulitis with microperforation"
+        },
+        {
+          "label": "B",
+          "text": "Ischemic colitis"
+        },
+        {
+          "label": "C",
+          "text": "Acute appendicitis"
+        },
+        {
+          "label": "D",
+          "text": "Colonic adenocarcinoma"
+        },
+        {
+          "label": "E",
+          "text": "Ulcerative colitis"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Segmental sigmoid wall thickening with pericolic fat stranding, free fluid, and small extraluminal gas locules is classic for acute diverticulitis with microperforation, a common cause of localized secondary peritonitis.",
+        "whyCorrect": "Segmental sigmoid wall thickening with pericolic fat stranding, free fluid, and small extraluminal gas locules is classic for acute diverticulitis with microperforation, a common cause of localized secondary peritonitis.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "gipic-091_gi020_f06.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "gipic-130",
+      "topicId": "peritonitis",
+      "topicName": "Peritonitis",
+      "stem": "This intraoperative photograph shows edematous, erythematous loops of bowel coated with fibrinous exudate after contamination from a colonic perforation. Which type of peritonitis does this represent?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Primary (spontaneous bacterial) peritonitis"
+        },
+        {
+          "label": "B",
+          "text": "Chemical peritonitis from pancreatitis"
+        },
+        {
+          "label": "C",
+          "text": "Peritoneal carcinomatosis"
+        },
+        {
+          "label": "D",
+          "text": "Peritoneal dialysis-associated peritonitis"
+        },
+        {
+          "label": "E",
+          "text": "Secondary peritonitis"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "Disruption of a hollow viscus (here, a colonic perforation) spills enteric flora into the peritoneal cavity, producing secondary peritonitis. It is characteristically polymicrobial and requires surgical source control in addition to broad-spectrum antibiotics.",
+        "whyCorrect": "Disruption of a hollow viscus (here, a colonic perforation) spills enteric flora into the peritoneal cavity, producing secondary peritonitis. It is characteristically polymicrobial and requires surgical source control in addition to broad-spectrum antibiotics.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "gipic-130_gi020_f03.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "gipic-163",
+      "topicId": "peritonitis",
+      "topicName": "Peritonitis",
+      "stem": "In the procedure illustrated, fluid is instilled into the peritoneal space through a catheter and allowed to dwell before being drained. What mechanism primarily drives the removal of metabolic waste products from the blood into that fluid?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Diffusion down concentration gradients across the peritoneal membrane"
+        },
+        {
+          "label": "B",
+          "text": "Active transport requiring ATP"
+        },
+        {
+          "label": "C",
+          "text": "Receptor-mediated endocytosis"
+        },
+        {
+          "label": "D",
+          "text": "Osmosis of solutes into the blood"
+        },
+        {
+          "label": "E",
+          "text": "Filtration driven by hydrostatic pressure"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "In peritoneal dialysis the peritoneum acts as a semipermeable membrane; waste solutes move by passive diffusion from the higher-concentration blood into the lower-concentration dialysate, which is then drained and replaced.",
+        "whyCorrect": "In peritoneal dialysis the peritoneum acts as a semipermeable membrane; waste solutes move by passive diffusion from the higher-concentration blood into the lower-concentration dialysate, which is then drained and replaced.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "gipic-163_gi020_f04.png",
+      "tags": [
+        "picture"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,396 @@
+{
+  "categoryId": "anatomy-of-the-liver-biliary-system-and-pancreas",
+  "categoryName": "Anatomy of the Liver, Biliary System, and Pancreas",
+  "questions": [
+    {
+      "id": "gipic-005",
+      "topicId": "anatomy-of-the-liver-biliary-system-and-pancreas",
+      "topicName": "Anatomy of the Liver, Biliary System, and Pancreas",
+      "stem": "In this functional map of the liver, the numbered regions each represent a unit with its own independent blood inflow and biliary drainage. What are these numbered units called?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Couinaud segments"
+        },
+        {
+          "label": "B",
+          "text": "Portal triads"
+        },
+        {
+          "label": "C",
+          "text": "Hepatic acini"
+        },
+        {
+          "label": "D",
+          "text": "Portal lobules"
+        },
+        {
+          "label": "E",
+          "text": "Morphological lobes"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "The eight numbered functional units defined by independent portal inflow and hepatic venous outflow are the Couinaud segments, the basis for anatomic liver resection. Morphological lobes are surface-based; portal lobules and acini are microscopic units.",
+        "whyCorrect": "The eight numbered functional units defined by independent portal inflow and hepatic venous outflow are the Couinaud segments, the basis for anatomic liver resection. Morphological lobes are surface-based; portal lobules and acini are microscopic units.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "gipic-005_gi004_f02.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "gipic-006",
+      "topicId": "anatomy-of-the-liver-biliary-system-and-pancreas",
+      "topicName": "Anatomy of the Liver, Biliary System, and Pancreas",
+      "stem": "The figure highlights a sickle-shaped ligament running along the anterior liver surface between the right and left lobes; its free edge carries the round ligament of the liver (ligamentum teres). That round ligament is the fibrous remnant of which fetal structure?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Vitelline duct"
+        },
+        {
+          "label": "B",
+          "text": "Umbilical artery"
+        },
+        {
+          "label": "C",
+          "text": "Ductus venosus"
+        },
+        {
+          "label": "D",
+          "text": "Ductus arteriosus"
+        },
+        {
+          "label": "E",
+          "text": "Left umbilical vein"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "The ligamentum teres in the free edge of the falciform ligament is the obliterated left umbilical vein. The ductus venosus becomes the ligamentum venosum; the ductus arteriosus becomes the ligamentum arteriosum.",
+        "whyCorrect": "The ligamentum teres in the free edge of the falciform ligament is the obliterated left umbilical vein. The ductus venosus becomes the ligamentum venosum; the ductus arteriosus becomes the ligamentum arteriosum.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "gipic-006_gi004_f05.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "gipic-007",
+      "topicId": "anatomy-of-the-liver-biliary-system-and-pancreas",
+      "topicName": "Anatomy of the Liver, Biliary System, and Pancreas",
+      "stem": "In this transverse view, peritoneal ligaments connect the abdominal organs. The labeled ligament running between the greater curvature of the stomach and the spleen transmits which vessels?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Short gastric and left gastro-omental (gastroepiploic) arteries"
+        },
+        {
+          "label": "B",
+          "text": "Splenic artery and vein"
+        },
+        {
+          "label": "C",
+          "text": "Superior mesenteric artery and vein"
+        },
+        {
+          "label": "D",
+          "text": "Portal vein and bile duct"
+        },
+        {
+          "label": "E",
+          "text": "Right and left hepatic arteries"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "The gastrosplenic ligament carries the short gastric and left gastro-omental vessels. The splenic artery and vein instead run in the splenorenal ligament, and the portal triad runs in the hepatoduodenal ligament.",
+        "whyCorrect": "The gastrosplenic ligament carries the short gastric and left gastro-omental vessels. The splenic artery and vein instead run in the splenorenal ligament, and the portal triad runs in the hepatoduodenal ligament.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "gipic-007_gi004_f06.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "gipic-008",
+      "topicId": "anatomy-of-the-liver-biliary-system-and-pancreas",
+      "topicName": "Anatomy of the Liver, Biliary System, and Pancreas",
+      "stem": "This three-step illustration depicts a pancreaticoduodenectomy performed for a pancreatic-head tumor. Which set of structures is removed in this operation?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "The liver and gallbladder"
+        },
+        {
+          "label": "B",
+          "text": "The entire pancreas and spleen"
+        },
+        {
+          "label": "C",
+          "text": "The stomach and entire small intestine"
+        },
+        {
+          "label": "D",
+          "text": "Pancreatic head, duodenum, gallbladder, and distal common bile duct"
+        },
+        {
+          "label": "E",
+          "text": "The pancreatic tail and spleen only"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "The Whipple procedure removes the pancreatic head, duodenum, gallbladder, and distal common bile duct (often the distal stomach), because these share blood supply, then reconstructs biliary, pancreatic, and gastric drainage.",
+        "whyCorrect": "The Whipple procedure removes the pancreatic head, duodenum, gallbladder, and distal common bile duct (often the distal stomach), because these share blood supply, then reconstructs biliary, pancreatic, and gastric drainage.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "gipic-008_gi004_f21.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "gipic-105",
+      "topicId": "anatomy-of-the-liver-biliary-system-and-pancreas",
+      "topicName": "Anatomy of the Liver, Biliary System, and Pancreas",
+      "stem": "The pancreas drains largely into the splenic vein, as shown. A pancreatic body/tail tumor that invades and thromboses the splenic vein would most characteristically cause which localized complication?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Ascites from IVC obstruction"
+        },
+        {
+          "label": "B",
+          "text": "Caput medusae"
+        },
+        {
+          "label": "C",
+          "text": "Esophageal varices alone"
+        },
+        {
+          "label": "D",
+          "text": "Internal hemorrhoids"
+        },
+        {
+          "label": "E",
+          "text": "Isolated gastric varices (left-sided portal hypertension)"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "Splenic vein thrombosis raises pressure in short gastric/gastroepiploic tributaries, producing isolated (left-sided) gastric varices with a normal systemic portal pressure. This is a classic sequela of pancreatic body/tail disease.",
+        "whyCorrect": "Splenic vein thrombosis raises pressure in short gastric/gastroepiploic tributaries, producing isolated (left-sided) gastric varices with a normal systemic portal pressure. This is a classic sequela of pancreatic body/tail disease.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "gipic-105_gi004_f22.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "gipic-106",
+      "topicId": "anatomy-of-the-liver-biliary-system-and-pancreas",
+      "topicName": "Anatomy of the Liver, Biliary System, and Pancreas",
+      "stem": "This color-coded map of pancreatic lymph node groups and drainage arrows is clinically emphasized primarily because it predicts which of the following?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "The arterial supply of the pancreas"
+        },
+        {
+          "label": "B",
+          "text": "The site of referred pancreatic pain"
+        },
+        {
+          "label": "C",
+          "text": "The pattern of nodal metastasis of pancreatic cancer"
+        },
+        {
+          "label": "D",
+          "text": "The venous drainage of the pancreas"
+        },
+        {
+          "label": "E",
+          "text": "The exocrine enzyme output of the pancreas"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Because tumor cells follow lymphatic channels, knowing the pancreatic lymphatic drainage pattern predicts where pancreatic cancer will spread to regional nodes, guiding staging and surgery.",
+        "whyCorrect": "Because tumor cells follow lymphatic channels, knowing the pancreatic lymphatic drainage pattern predicts where pancreatic cancer will spread to regional nodes, guiding staging and surgery.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "gipic-106_gi004_f23.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "gipic-154",
+      "topicId": "anatomy-of-the-liver-biliary-system-and-pancreas",
+      "topicName": "Anatomy of the Liver, Biliary System, and Pancreas",
+      "stem": "The venous system illustrated carries nutrient-rich blood from abdominal organs to the liver. Chronic obstruction of the main vessel it forms would most directly produce which of the following?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Lower-extremity pitting edema"
+        },
+        {
+          "label": "B",
+          "text": "Renal vein thrombosis"
+        },
+        {
+          "label": "C",
+          "text": "Increased hepatic arterial oxygen delivery"
+        },
+        {
+          "label": "D",
+          "text": "Portal hypertension"
+        },
+        {
+          "label": "E",
+          "text": "Budd-Chiari syndrome"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "The superior mesenteric and splenic veins unite to form the portal vein; obstructing it raises pressure throughout the portal system (portal hypertension), causing varices and ascites. Budd-Chiari results from hepatic venous outflow obstruction, a different vessel.",
+        "whyCorrect": "The superior mesenteric and splenic veins unite to form the portal vein; obstructing it raises pressure throughout the portal system (portal hypertension), causing varices and ascites. Budd-Chiari results from hepatic venous outflow obstruction, a different vessel.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "gipic-154_gi004_f09.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "gipic-155",
+      "topicId": "anatomy-of-the-liver-biliary-system-and-pancreas",
+      "topicName": "Anatomy of the Liver, Biliary System, and Pancreas",
+      "stem": "This schematic depicts the autonomic innervation of the liver and biliary tree, with parasympathetic fibers carried by the vagus nerve. When these parasympathetic fibers are stimulated, they promote which of the following?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Vasoconstriction of the hepatic sinusoids"
+        },
+        {
+          "label": "B",
+          "text": "Inhibition of bile flow into the duodenum"
+        },
+        {
+          "label": "C",
+          "text": "Sphincter of Oddi contraction with bile retention"
+        },
+        {
+          "label": "D",
+          "text": "Hepatic glycogenolysis and glucose release"
+        },
+        {
+          "label": "E",
+          "text": "Gallbladder contraction and increased bile secretion"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "Vagal (parasympathetic, rest-and-digest) stimulation favors gallbladder emptying and bile secretion to aid digestion. Sympathetic activity is more associated with mobilizing glucose and reducing digestive secretion.",
+        "whyCorrect": "Vagal (parasympathetic, rest-and-digest) stimulation favors gallbladder emptying and bile secretion to aid digestion. Sympathetic activity is more associated with mobilizing glucose and reducing digestive secretion.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "gipic-155_gi004_f11.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "gipic-156",
+      "topicId": "anatomy-of-the-liver-biliary-system-and-pancreas",
+      "topicName": "Anatomy of the Liver, Biliary System, and Pancreas",
+      "stem": "This referred-pain map shows pain from diaphragmatic irritation by the liver and gallbladder projecting to the shoulder region. This shoulder referral occurs because the diaphragm and that shoulder skin share sensory innervation from which nerve?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Greater splanchnic nerve"
+        },
+        {
+          "label": "B",
+          "text": "Genitofemoral nerve"
+        },
+        {
+          "label": "C",
+          "text": "Phrenic nerve (C3-C5)"
+        },
+        {
+          "label": "D",
+          "text": "Vagus nerve"
+        },
+        {
+          "label": "E",
+          "text": "Intercostal nerves T7-T9"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "The phrenic nerve (C3-C5) supplies the diaphragm, and its spinal levels also receive somatic sensation from the shoulder (supraclavicular region), so diaphragmatic irritation refers pain to the shoulder. Visceral foregut pain instead localizes to the epigastrium via splanchnic nerves.",
+        "whyCorrect": "The phrenic nerve (C3-C5) supplies the diaphragm, and its spinal levels also receive somatic sensation from the shoulder (supraclavicular region), so diaphragmatic irritation refers pain to the shoulder. Visceral foregut pain instead localizes to the epigastrium via splanchnic nerves.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "gipic-156_gi004_f12.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "gipic-157",
+      "topicId": "anatomy-of-the-liver-biliary-system-and-pancreas",
+      "topicName": "Anatomy of the Liver, Biliary System, and Pancreas",
+      "stem": "This schematic contrasts sympathetic and parasympathetic pathways to the pancreas. Although sympathetic stimulation generally inhibits exocrine secretion, what is its effect on the endocrine alpha cells?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Increased glucagon release"
+        },
+        {
+          "label": "B",
+          "text": "Selective somatostatin release"
+        },
+        {
+          "label": "C",
+          "text": "Increased insulin release"
+        },
+        {
+          "label": "D",
+          "text": "Decreased glucagon release"
+        },
+        {
+          "label": "E",
+          "text": "No effect on endocrine cells"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Sympathetic (fight-or-flight) activity stimulates alpha cells to release glucagon, mobilizing glucose, while suppressing insulin and exocrine digestive secretion. This shifts metabolism toward energy availability.",
+        "whyCorrect": "Sympathetic (fight-or-flight) activity stimulates alpha cells to release glucagon, mobilizing glucose, while suppressing insulin and exocrine digestive secretion. This shifts metabolism toward energy availability.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "gipic-157_gi004_f24.png",
+      "tags": [
+        "picture"
+      ]
+    }
+  ]
+}

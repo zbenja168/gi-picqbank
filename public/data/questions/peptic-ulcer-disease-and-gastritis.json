@@ -1,0 +1,318 @@
+{
+  "categoryId": "peptic-ulcer-disease-and-gastritis",
+  "categoryName": "Peptic Ulcer Disease and Gastritis",
+  "questions": [
+    {
+      "id": "gipic-003",
+      "topicId": "peptic-ulcer-disease-and-gastritis",
+      "topicName": "Peptic Ulcer Disease and Gastritis",
+      "stem": "This anatomical diagram outlines a region bounded by the junction of the cystic and common bile ducts, the junction of the second and third parts of the duodenum, and the junction of the neck and body of the pancreas. Tumors secreting which hormone are most commonly localized to this region?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Vasoactive intestinal peptide"
+        },
+        {
+          "label": "B",
+          "text": "Gastrin"
+        },
+        {
+          "label": "C",
+          "text": "Cholecystokinin"
+        },
+        {
+          "label": "D",
+          "text": "Somatostatin"
+        },
+        {
+          "label": "E",
+          "text": "Secretin"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "About 90% of gastrinomas arise within this triangle, most often in the duodenum or head of the pancreas. Excess gastrin drives acid hypersecretion and the refractory ulcers of Zollinger-Ellison syndrome.",
+        "whyCorrect": "About 90% of gastrinomas arise within this triangle, most often in the duodenum or head of the pancreas. Excess gastrin drives acid hypersecretion and the refractory ulcers of Zollinger-Ellison syndrome.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "gipic-003_gi001_f04.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "gipic-004",
+      "topicId": "peptic-ulcer-disease-and-gastritis",
+      "topicName": "Peptic Ulcer Disease and Gastritis",
+      "stem": "This diagram shows a posterior duodenal ulcer that has eroded into the vessel lying immediately behind the first part of the duodenum, with suture ligation applied. What is the most likely clinical presentation of this complication?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Free air under the diaphragm from perforation"
+        },
+        {
+          "label": "B",
+          "text": "Chronic fat malabsorption and steatorrhea"
+        },
+        {
+          "label": "C",
+          "text": "Bilious vomiting from gastric outlet obstruction"
+        },
+        {
+          "label": "D",
+          "text": "Painless obstructive jaundice"
+        },
+        {
+          "label": "E",
+          "text": "Massive upper gastrointestinal hemorrhage"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "The gastroduodenal artery runs behind the first part of the duodenum, so posterior duodenal ulcers can erode into it and cause brisk upper GI bleeding (hematemesis and melena). Anterior ulcers, by contrast, tend to perforate.",
+        "whyCorrect": "The gastroduodenal artery runs behind the first part of the duodenum, so posterior duodenal ulcers can erode into it and cause brisk upper GI bleeding (hematemesis and melena). Anterior ulcers, by contrast, tend to perforate.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "gipic-004_gi001_f09.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "gipic-045",
+      "topicId": "peptic-ulcer-disease-and-gastritis",
+      "topicName": "Peptic Ulcer Disease and Gastritis",
+      "stem": "This gastric mucosal biopsy shows curved, rod-shaped organisms (arrows) lying along the surface of the epithelial cells within the overlying mucus. What is the most likely organism?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Giardia lamblia"
+        },
+        {
+          "label": "B",
+          "text": "Vibrio cholerae"
+        },
+        {
+          "label": "C",
+          "text": "Helicobacter pylori"
+        },
+        {
+          "label": "D",
+          "text": "Campylobacter jejuni"
+        },
+        {
+          "label": "E",
+          "text": "Candida albicans"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Helicobacter pylori is a gram-negative, curved (seagull-shaped) rod that colonizes the mucus layer over gastric epithelium. It produces urease to survive gastric acid and causes chronic gastritis, peptic ulcers, gastric cancer, and MALT lymphoma.",
+        "whyCorrect": "Helicobacter pylori is a gram-negative, curved (seagull-shaped) rod that colonizes the mucus layer over gastric epithelium. It produces urease to survive gastric acid and causes chronic gastritis, peptic ulcers, gastric cancer, and MALT lymphoma.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "gipic-045_gi001_f02.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "gipic-072",
+      "topicId": "peptic-ulcer-disease-and-gastritis",
+      "topicName": "Peptic Ulcer Disease and Gastritis",
+      "stem": "This endoscopic image of the duodenal bulb shows a mucosal defect that is actively oozing blood. What is the single most common underlying cause of this type of lesion worldwide?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Autoimmune destruction of parietal cells"
+        },
+        {
+          "label": "B",
+          "text": "Helicobacter pylori infection"
+        },
+        {
+          "label": "C",
+          "text": "Ischemic injury from vasculitis"
+        },
+        {
+          "label": "D",
+          "text": "Bile reflux gastropathy"
+        },
+        {
+          "label": "E",
+          "text": "Cytomegalovirus infection"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Helicobacter pylori and NSAID use are the two most common causes of peptic ulcers, and duodenal ulcers are especially associated with H. pylori. Bleeding is the most common complication of peptic ulcer disease.",
+        "whyCorrect": "Helicobacter pylori and NSAID use are the two most common causes of peptic ulcers, and duodenal ulcers are especially associated with H. pylori. Bleeding is the most common complication of peptic ulcer disease.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "gipic-072_gi001_f06.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "gipic-073",
+      "topicId": "peptic-ulcer-disease-and-gastritis",
+      "topicName": "Peptic Ulcer Disease and Gastritis",
+      "stem": "This endoscopic image shows diffusely reddened, friable gastric mucosa with loss of the normal rugal folds. These endoscopic features are most characteristic of which process?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Esophageal candidiasis"
+        },
+        {
+          "label": "B",
+          "text": "Normal fundic mucosa"
+        },
+        {
+          "label": "C",
+          "text": "Acute gastritis"
+        },
+        {
+          "label": "D",
+          "text": "Infiltrating gastric adenocarcinoma"
+        },
+        {
+          "label": "E",
+          "text": "Portal hypertensive gastropathy from cirrhosis"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Erythema (redness) of the gastric mucosa, superficial erosions, and loss of rugal folds are typical endoscopic findings of gastritis, reflecting mucosal inflammation and injury.",
+        "whyCorrect": "Erythema (redness) of the gastric mucosa, superficial erosions, and loss of rugal folds are typical endoscopic findings of gastritis, reflecting mucosal inflammation and injury.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "gipic-073_gi001_f07.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "gipic-074",
+      "topicId": "peptic-ulcer-disease-and-gastritis",
+      "topicName": "Peptic Ulcer Disease and Gastritis",
+      "stem": "In this rapid urease test kit, the specimen well changes from yellow toward bright pink after a gastric biopsy is added. What is the biochemical basis for a positive (pink) result?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Bacterial urease hydrolyzes urea to ammonia, raising the pH and turning the phenol-red indicator pink"
+        },
+        {
+          "label": "B",
+          "text": "Bacterial fermentation of glucose lowers the pH and turns the indicator pink"
+        },
+        {
+          "label": "C",
+          "text": "Host neutrophil peroxidase cleaves the indicator substrate"
+        },
+        {
+          "label": "D",
+          "text": "Bacterial catalase releases oxygen that oxidizes the indicator"
+        },
+        {
+          "label": "E",
+          "text": "Antibodies in the biopsy bind a colored dye conjugate"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Helicobacter pylori urease splits urea into ammonia and carbon dioxide. The ammonia raises the local pH, converting the phenol-red indicator from yellow to pink, which is read as a positive rapid urease (CLO) test.",
+        "whyCorrect": "Helicobacter pylori urease splits urea into ammonia and carbon dioxide. The ammonia raises the local pH, converting the phenol-red indicator from yellow to pink, which is read as a positive rapid urease (CLO) test.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "gipic-074_gi001_f08.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "gipic-075",
+      "topicId": "peptic-ulcer-disease-and-gastritis",
+      "topicName": "Peptic Ulcer Disease and Gastritis",
+      "stem": "In a patient with sudden severe abdominal pain and a rigid abdomen, this upright chest radiograph and abdominal CT (red arrows) reveal the indicated abnormality. What does it represent?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "A large pleural effusion"
+        },
+        {
+          "label": "B",
+          "text": "A sliding hiatal hernia"
+        },
+        {
+          "label": "C",
+          "text": "Air-fluid levels of small bowel obstruction"
+        },
+        {
+          "label": "D",
+          "text": "A tension pneumothorax"
+        },
+        {
+          "label": "E",
+          "text": "Free intraperitoneal air (pneumoperitoneum)"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "A perforated ulcer allows gas to escape into the peritoneal cavity. An upright chest x-ray shows free air beneath the diaphragm in about 85% of cases, and CT is more sensitive for detecting small amounts of free air.",
+        "whyCorrect": "A perforated ulcer allows gas to escape into the peritoneal cavity. An upright chest x-ray shows free air beneath the diaphragm in about 85% of cases, and CT is more sensitive for detecting small amounts of free air.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "gipic-075_gi001_f10.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "gipic-153",
+      "topicId": "peptic-ulcer-disease-and-gastritis",
+      "topicName": "Peptic Ulcer Disease and Gastritis",
+      "stem": "This schematic depicts the gastric mucosal barrier and the pH gradient across the mucus gel layer, from strongly acidic in the lumen to near-neutral at the epithelial surface. What is primarily responsible for maintaining the near-neutral pH directly at the epithelial cell surface?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Active proton pumping by parietal cells into the mucosa"
+        },
+        {
+          "label": "B",
+          "text": "Neutralization of acid by refluxed pancreatic enzymes"
+        },
+        {
+          "label": "C",
+          "text": "Surface epithelial secretion of bicarbonate trapped within the mucus layer"
+        },
+        {
+          "label": "D",
+          "text": "Tight junctions blocking all movement of hydrogen ions"
+        },
+        {
+          "label": "E",
+          "text": "Rapid gastric emptying that clears luminal acid"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Surface epithelial cells secrete bicarbonate into the adherent mucus gel, creating a steep pH gradient (about 2 in the lumen to about 7 at the cell surface). Prostaglandins stimulate this mucus and bicarbonate secretion, forming the protective mucosal barrier.",
+        "whyCorrect": "Surface epithelial cells secrete bicarbonate into the adherent mucus gel, creating a steep pH gradient (about 2 in the lumen to about 7 at the cell surface). Prostaglandins stimulate this mucus and bicarbonate secretion, forming the protective mucosal barrier.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "gipic-153_gi001_f01.png",
+      "tags": [
+        "picture"
+      ]
+    }
+  ]
+}

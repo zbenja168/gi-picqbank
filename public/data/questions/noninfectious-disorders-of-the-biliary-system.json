@@ -1,0 +1,84 @@
+{
+  "categoryId": "noninfectious-disorders-of-the-biliary-system",
+  "categoryName": "Noninfectious Disorders of the Biliary System",
+  "questions": [
+    {
+      "id": "gipic-019",
+      "topicId": "noninfectious-disorders-of-the-biliary-system",
+      "topicName": "Noninfectious Disorders of the Biliary System",
+      "stem": "This schematic contrasts patterns of impaired bile flow using an anatomical diagram of the liver and its highlighted green tubular drainage network. That branching green network transports which substance from the liver toward the duodenum?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Portal venous blood"
+        },
+        {
+          "label": "B",
+          "text": "Pancreatic enzymes"
+        },
+        {
+          "label": "C",
+          "text": "Bile"
+        },
+        {
+          "label": "D",
+          "text": "Hepatic arterial blood"
+        },
+        {
+          "label": "E",
+          "text": "Lymph"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "The green branching structures represent the biliary tree (intrahepatic ducts, hepatic ducts, and common bile duct), which carry bile from hepatocytes to the gallbladder and duodenum. Obstruction at different levels of this tree produces intrahepatic versus extrahepatic cholestasis.",
+        "whyCorrect": "The green branching structures represent the biliary tree (intrahepatic ducts, hepatic ducts, and common bile duct), which carry bile from hepatocytes to the gallbladder and duodenum. Obstruction at different levels of this tree produces intrahepatic versus extrahepatic cholestasis.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "gipic-019_gi018_f01.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "gipic-085",
+      "topicId": "noninfectious-disorders-of-the-biliary-system",
+      "topicName": "Noninfectious Disorders of the Biliary System",
+      "stem": "This ultrasound demonstrates a gallstone together with a markedly thickened, edematous gallbladder wall in a febrile patient with a positive Murphy sign. These findings are most consistent with which diagnosis?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Gallbladder carcinoma"
+        },
+        {
+          "label": "B",
+          "text": "Acute cholecystitis"
+        },
+        {
+          "label": "C",
+          "text": "Choledocholithiasis"
+        },
+        {
+          "label": "D",
+          "text": "Biliary colic"
+        },
+        {
+          "label": "E",
+          "text": "Porcelain gallbladder"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Wall thickening, pericholecystic fluid, a stone, and a sonographic Murphy sign indicate acute cholecystitis, inflammation of the gallbladder that typically follows impaction of a stone in the cystic duct. Untreated, it risks gallbladder necrosis and perforation.",
+        "whyCorrect": "Wall thickening, pericholecystic fluid, a stone, and a sonographic Murphy sign indicate acute cholecystitis, inflammation of the gallbladder that typically follows impaction of a stone in the cystic duct. Untreated, it risks gallbladder necrosis and perforation.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "gipic-085_gi018_f10.png",
+      "tags": [
+        "picture"
+      ]
+    }
+  ]
+}

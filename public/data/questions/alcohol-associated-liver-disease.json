@@ -1,0 +1,318 @@
+{
+  "categoryId": "alcohol-associated-liver-disease",
+  "categoryName": "Alcohol-Associated Liver Disease",
+  "questions": [
+    {
+      "id": "gipic-052",
+      "topicId": "alcohol-associated-liver-disease",
+      "topicName": "Alcohol-Associated Liver Disease",
+      "stem": "This photomicrograph shows orderly plates of hepatocytes arranged in cords separated by sinusoids, with no fat, inflammation, or fibrosis. What does this liver histology represent?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Alcoholic steatosis"
+        },
+        {
+          "label": "B",
+          "text": "Cirrhosis"
+        },
+        {
+          "label": "C",
+          "text": "Normal liver"
+        },
+        {
+          "label": "D",
+          "text": "Alcoholic steatohepatitis"
+        },
+        {
+          "label": "E",
+          "text": "Hepatocellular carcinoma"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Normal hepatic architecture consists of hepatocyte cords radiating from central veins, separated by sinusoids, with intact lobular structure and no accumulated fat, inflammatory infiltrate, or collagen deposition.",
+        "whyCorrect": "Normal hepatic architecture consists of hepatocyte cords radiating from central veins, separated by sinusoids, with intact lobular structure and no accumulated fat, inflammatory infiltrate, or collagen deposition.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "gipic-052_gi012_f04.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "gipic-082",
+      "topicId": "alcohol-associated-liver-disease",
+      "topicName": "Alcohol-Associated Liver Disease",
+      "stem": "This CT scan compares a normal liver with a fatty liver from alcohol-associated liver disease. Compared with normal, how does the fatty liver appear in terms of attenuation?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "No change in attenuation"
+        },
+        {
+          "label": "B",
+          "text": "Increased attenuation (brighter than normal)"
+        },
+        {
+          "label": "C",
+          "text": "Reduced attenuation (darker than normal)"
+        },
+        {
+          "label": "D",
+          "text": "Increased contrast enhancement"
+        },
+        {
+          "label": "E",
+          "text": "Diffuse calcification"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Fat has low attenuation on CT, so a steatotic liver appears darker (reduced attenuation) than a normal liver, and may appear lower in density than the spleen or intrahepatic vessels.",
+        "whyCorrect": "Fat has low attenuation on CT, so a steatotic liver appears darker (reduced attenuation) than a normal liver, and may appear lower in density than the spleen or intrahepatic vessels.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "gipic-082_gi012_f09.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "gipic-119",
+      "topicId": "alcohol-associated-liver-disease",
+      "topicName": "Alcohol-Associated Liver Disease",
+      "stem": "This schematic depicts the spectrum of alcohol-associated liver disease progressing to cirrhosis with bridging fibrosis. Which cell type is primarily responsible for producing the excess collagen that drives this fibrosis?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Sinusoidal endothelial cells"
+        },
+        {
+          "label": "B",
+          "text": "Hepatic stellate cells"
+        },
+        {
+          "label": "C",
+          "text": "Hepatocytes"
+        },
+        {
+          "label": "D",
+          "text": "Cholangiocytes"
+        },
+        {
+          "label": "E",
+          "text": "Kupffer cells"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "In alcohol-associated liver injury, activated hepatic stellate cells transform into collagen-secreting myofibroblasts that deposit the bridging bands of fibrosis characteristic of cirrhosis. Kupffer cells drive inflammation but do not lay down collagen.",
+        "whyCorrect": "In alcohol-associated liver injury, activated hepatic stellate cells transform into collagen-secreting myofibroblasts that deposit the bridging bands of fibrosis characteristic of cirrhosis. Kupffer cells drive inflammation but do not lay down collagen.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "gipic-119_gi012_f01.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "gipic-120",
+      "topicId": "alcohol-associated-liver-disease",
+      "topicName": "Alcohol-Associated Liver Disease",
+      "stem": "This medium-magnification liver biopsy shows numerous large, clear, round vacuoles that displace hepatocyte nuclei to the periphery. Which substance is predominantly accumulating within these hepatocytes?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Iron"
+        },
+        {
+          "label": "B",
+          "text": "Glycogen"
+        },
+        {
+          "label": "C",
+          "text": "Copper"
+        },
+        {
+          "label": "D",
+          "text": "Bile"
+        },
+        {
+          "label": "E",
+          "text": "Triglycerides"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "Macrovesicular hepatic steatosis in alcohol use results from accumulation of triglycerides within hepatocytes, driven by increased NADH shifting metabolism toward lipogenesis and away from beta-oxidation.",
+        "whyCorrect": "Macrovesicular hepatic steatosis in alcohol use results from accumulation of triglycerides within hepatocytes, driven by increased NADH shifting metabolism toward lipogenesis and away from beta-oxidation.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "gipic-120_gi012_f02.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "gipic-121",
+      "topicId": "alcohol-associated-liver-disease",
+      "topicName": "Alcohol-Associated Liver Disease",
+      "stem": "This liver biopsy shows hepatocytes with fat droplets accompanied by clusters of irregular, dark-nucleated inflammatory cells surrounding injured hepatocytes. This histologic picture is most characteristic of which stage of alcohol-associated liver disease?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Hereditary hemochromatosis"
+        },
+        {
+          "label": "B",
+          "text": "Alcoholic steatohepatitis"
+        },
+        {
+          "label": "C",
+          "text": "Simple steatosis"
+        },
+        {
+          "label": "D",
+          "text": "Cirrhosis"
+        },
+        {
+          "label": "E",
+          "text": "Normal liver"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Neutrophilic inflammation superimposed on fatty change defines steatohepatitis, a more severe and potentially irreversible stage than simple steatosis. The neutrophils are drawn in by cytokines from activated Kupffer cells.",
+        "whyCorrect": "Neutrophilic inflammation superimposed on fatty change defines steatohepatitis, a more severe and potentially irreversible stage than simple steatosis. The neutrophils are drawn in by cytokines from activated Kupffer cells.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "gipic-121_gi012_f03.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "gipic-122",
+      "topicId": "alcohol-associated-liver-disease",
+      "topicName": "Alcohol-Associated Liver Disease",
+      "stem": "This high-magnification field shows swollen, injured hepatocytes containing dense, eosinophilic, rope-like cytoplasmic inclusions. These inclusions are composed of which cellular component?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Collagen"
+        },
+        {
+          "label": "B",
+          "text": "Immunoglobulin"
+        },
+        {
+          "label": "C",
+          "text": "Lipid"
+        },
+        {
+          "label": "D",
+          "text": "Aggregated intermediate filaments (cytokeratin)"
+        },
+        {
+          "label": "E",
+          "text": "Glycogen"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "The rope-like pink inclusions are Mallory bodies (Mallory-Denk hyaline), which are clumps of misfolded intermediate filaments such as cytokeratins found in damaged, ballooned hepatocytes.",
+        "whyCorrect": "The rope-like pink inclusions are Mallory bodies (Mallory-Denk hyaline), which are clumps of misfolded intermediate filaments such as cytokeratins found in damaged, ballooned hepatocytes.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "gipic-122_gi012_f05.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "gipic-123",
+      "topicId": "alcohol-associated-liver-disease",
+      "topicName": "Alcohol-Associated Liver Disease",
+      "stem": "This stained liver section shows broad blue-green bands of connective tissue encircling rounded nodules of regenerating hepatocytes, disrupting the normal lobular architecture. What does this pattern represent?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Acute viral hepatitis"
+        },
+        {
+          "label": "B",
+          "text": "Normal liver"
+        },
+        {
+          "label": "C",
+          "text": "Simple steatosis"
+        },
+        {
+          "label": "D",
+          "text": "Cirrhosis"
+        },
+        {
+          "label": "E",
+          "text": "Cholestasis"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "Bridging fibrosis surrounding regenerative nodules is the defining architecture of cirrhosis, the irreversible end stage of alcohol-associated liver disease with disrupted sinusoidal architecture and impaired function.",
+        "whyCorrect": "Bridging fibrosis surrounding regenerative nodules is the defining architecture of cirrhosis, the irreversible end stage of alcohol-associated liver disease with disrupted sinusoidal architecture and impaired function.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "gipic-123_gi012_f06.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "gipic-124",
+      "topicId": "alcohol-associated-liver-disease",
+      "topicName": "Alcohol-Associated Liver Disease",
+      "stem": "This photograph of the hand of a patient with chronic heavy alcohol use shows fixed flexion of the fourth and fifth digits due to thickening and shortening of the palmar fascia. What is this finding?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Raynaud phenomenon"
+        },
+        {
+          "label": "B",
+          "text": "Carpal tunnel syndrome"
+        },
+        {
+          "label": "C",
+          "text": "Trigger finger"
+        },
+        {
+          "label": "D",
+          "text": "Dupuytren contracture"
+        },
+        {
+          "label": "E",
+          "text": "Rheumatoid swan-neck deformity"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "Dupuytren contracture is a benign fibrosing condition in which rope-like cords of collagen in the palmar fascia pull the fingers inward; it is associated with chronic alcohol use, though the mechanism is unknown.",
+        "whyCorrect": "Dupuytren contracture is a benign fibrosing condition in which rope-like cords of collagen in the palmar fascia pull the fingers inward; it is associated with chronic alcohol use, though the mechanism is unknown.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "gipic-124_gi012_f07.png",
+      "tags": [
+        "picture"
+      ]
+    }
+  ]
+}

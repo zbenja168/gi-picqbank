@@ -1,0 +1,45 @@
+{
+  "categoryId": "metabolic-dysfunction-associated-steatotic-liver-disease",
+  "categoryName": "Metabolic Dysfunction-Associated Steatotic Liver Disease",
+  "questions": [
+    {
+      "id": "gipic-118",
+      "topicId": "metabolic-dysfunction-associated-steatotic-liver-disease",
+      "topicName": "Metabolic Dysfunction-Associated Steatotic Liver Disease",
+      "stem": "This H&E-stained liver biopsy shows numerous large, clear, round vacuoles that fill the hepatocytes and displace their nuclei to the cell periphery. What do these vacuoles most likely represent?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Hydropic (ballooning) degeneration"
+        },
+        {
+          "label": "B",
+          "text": "Dilated blood-filled sinusoids"
+        },
+        {
+          "label": "C",
+          "text": "Large-droplet triglyceride (macrovesicular fat) accumulation"
+        },
+        {
+          "label": "D",
+          "text": "Cholestatic bile accumulation"
+        },
+        {
+          "label": "E",
+          "text": "Intracellular glycogen accumulation"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "In hepatic steatosis, triglyceride droplets coalesce into a single large vacuole that pushes the nucleus to the periphery, producing macrovesicular fat. Zone 3 (centrilobular) accentuation is characteristic of adult MASLD.",
+        "whyCorrect": "In hepatic steatosis, triglyceride droplets coalesce into a single large vacuole that pushes the nucleus to the periphery, producing macrovesicular fat. Zone 3 (centrilobular) accentuation is characteristic of adult MASLD.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "gipic-118_gi011_f01.png",
+      "tags": [
+        "picture"
+      ]
+    }
+  ]
+}

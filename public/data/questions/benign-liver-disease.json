@@ -1,0 +1,513 @@
+{
+  "categoryId": "benign-liver-disease",
+  "categoryName": "Benign Liver Disease",
+  "questions": [
+    {
+      "id": "gipic-078",
+      "topicId": "benign-liver-disease",
+      "topicName": "Benign Liver Disease",
+      "stem": "This contrast-enhanced CT of the abdomen shows a filling defect (blue ovals) extending from the splenic vein through the portal system, with surrounding low-density fluid. What is the most likely diagnosis?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Portal vein thrombosis"
+        },
+        {
+          "label": "B",
+          "text": "Budd-Chiari syndrome"
+        },
+        {
+          "label": "C",
+          "text": "Acute cholecystitis"
+        },
+        {
+          "label": "D",
+          "text": "Hepatocellular carcinoma"
+        },
+        {
+          "label": "E",
+          "text": "Splenic abscess"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "A filling defect within the portal/splenic vein on contrast CT, accompanied by ascites, indicates portal vein thrombosis. The thrombus occludes portal inflow and can extend into intrahepatic branches.",
+        "whyCorrect": "A filling defect within the portal/splenic vein on contrast CT, accompanied by ascites, indicates portal vein thrombosis. The thrombus occludes portal inflow and can extend into intrahepatic branches.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "gipic-078_gi009_f02.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "gipic-079",
+      "topicId": "benign-liver-disease",
+      "topicName": "Benign Liver Disease",
+      "stem": "This axial contrast CT in a patient with Budd-Chiari syndrome shows marked enlargement of one liver region (CL) with patchy enhancement elsewhere and ascites. Why is the labeled region enlarged and well-perfused?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "It is perfused retrograde by the hepatic artery"
+        },
+        {
+          "label": "B",
+          "text": "It has a dual arterial supply absent elsewhere"
+        },
+        {
+          "label": "C",
+          "text": "It regenerates faster due to higher stem cell density"
+        },
+        {
+          "label": "D",
+          "text": "It is protected by portal vein collaterals"
+        },
+        {
+          "label": "E",
+          "text": "It drains directly into the IVC and is spared from hepatic vein thrombosis"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "The caudate lobe drains directly into the IVC via separate small veins, so it is spared in hepatic vein thrombosis and undergoes compensatory hypertrophy while the congested remainder of the liver is injured.",
+        "whyCorrect": "The caudate lobe drains directly into the IVC via separate small veins, so it is spared in hepatic vein thrombosis and undergoes compensatory hypertrophy while the congested remainder of the liver is injured.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "gipic-079_gi009_f04.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "gipic-080",
+      "topicId": "benign-liver-disease",
+      "topicName": "Benign Liver Disease",
+      "stem": "These ultrasound images from a patient with hepatic venous outflow obstruction show hyperechoic material within a hepatic vein (left) and a fibrotic cord replacing a hepatic vein (right). What process do these findings represent?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Hepatic artery aneurysm"
+        },
+        {
+          "label": "B",
+          "text": "Hepatic vein thrombosis with chronic organization"
+        },
+        {
+          "label": "C",
+          "text": "Portal vein thrombosis"
+        },
+        {
+          "label": "D",
+          "text": "Biliary sludge"
+        },
+        {
+          "label": "E",
+          "text": "Hepatic steatosis"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Hyperechoic intraluminal clot and a fibrotic (scarred) hepatic vein cord are sonographic signs of Budd-Chiari syndrome, reflecting thrombosis of the hepatic veins with subsequent organization.",
+        "whyCorrect": "Hyperechoic intraluminal clot and a fibrotic (scarred) hepatic vein cord are sonographic signs of Budd-Chiari syndrome, reflecting thrombosis of the hepatic veins with subsequent organization.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "gipic-080_gi009_f05.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "gipic-081",
+      "topicId": "benign-liver-disease",
+      "topicName": "Benign Liver Disease",
+      "stem": "This plot graphs serum drug concentration against time since ingestion, with treatment lines dividing the graph into risk zones. For which overdose is this tool used to decide on antidote therapy?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Digoxin"
+        },
+        {
+          "label": "B",
+          "text": "Iron"
+        },
+        {
+          "label": "C",
+          "text": "Salicylate (aspirin)"
+        },
+        {
+          "label": "D",
+          "text": "Acetaminophen"
+        },
+        {
+          "label": "E",
+          "text": "Lithium"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "The Rumack-Matthew nomogram plots serum acetaminophen concentration versus time since ingestion to predict hepatotoxicity risk and guide N-acetylcysteine treatment after a single acute overdose.",
+        "whyCorrect": "The Rumack-Matthew nomogram plots serum acetaminophen concentration versus time since ingestion to predict hepatotoxicity risk and guide N-acetylcysteine treatment after a single acute overdose.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "gipic-081_gi009_f18.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "gipic-113",
+      "topicId": "benign-liver-disease",
+      "topicName": "Benign Liver Disease",
+      "stem": "This patient with IVC obstruction shows dilated veins covering the entire abdominal wall rather than radiating from the umbilicus. What distinguishes this venous pattern from caput medusae?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "It reflects hepatic arterial hypertension"
+        },
+        {
+          "label": "B",
+          "text": "It is due to superior vena cava obstruction"
+        },
+        {
+          "label": "C",
+          "text": "It arises from iliac-system collaterals due to IVC obstruction, not portal hypertension"
+        },
+        {
+          "label": "D",
+          "text": "It results from lymphatic obstruction"
+        },
+        {
+          "label": "E",
+          "text": "It is caused by recanalization of the umbilical vein"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "In IVC obstruction, elevated pressure below the block is transmitted to the whole abdominal wall through iliac collaterals, producing diffuse dilation. Caput medusae instead radiates from the umbilicus via the recanalized paraumbilical vein in portal hypertension.",
+        "whyCorrect": "In IVC obstruction, elevated pressure below the block is transmitted to the whole abdominal wall through iliac collaterals, producing diffuse dilation. Caput medusae instead radiates from the umbilicus via the recanalized paraumbilical vein in portal hypertension.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "gipic-113_gi009_f06.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "gipic-114",
+      "topicId": "benign-liver-disease",
+      "topicName": "Benign Liver Disease",
+      "stem": "This patient with portal hypertension has dilated abdominal wall veins radiating outward from the umbilicus. Through which recanalized vessel does this collateral flow occur?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Paraumbilical vein (recanalized round ligament)"
+        },
+        {
+          "label": "B",
+          "text": "Superior mesenteric vein"
+        },
+        {
+          "label": "C",
+          "text": "Inferior epigastric vein"
+        },
+        {
+          "label": "D",
+          "text": "Thoracoepigastric vein"
+        },
+        {
+          "label": "E",
+          "text": "Left renal vein"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Caput medusae reflects portal hypertension: elevated portal pressure is transmitted retrograde through the recanalized paraumbilical vein within the round ligament, dilating periumbilical veins that radiate from the umbilicus.",
+        "whyCorrect": "Caput medusae reflects portal hypertension: elevated portal pressure is transmitted retrograde through the recanalized paraumbilical vein within the round ligament, dilating periumbilical veins that radiate from the umbilicus.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "gipic-114_gi009_f07.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "gipic-115",
+      "topicId": "benign-liver-disease",
+      "topicName": "Benign Liver Disease",
+      "stem": "These paired images (gross specimen, CT, and cut surface) show a mottled liver with alternating dark and pale areas. This classic appearance results from which process?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Chronic passive venous congestion"
+        },
+        {
+          "label": "B",
+          "text": "Amyloid deposition"
+        },
+        {
+          "label": "C",
+          "text": "Diffuse metastatic disease"
+        },
+        {
+          "label": "D",
+          "text": "Fatty infiltration (steatosis)"
+        },
+        {
+          "label": "E",
+          "text": "Hemochromatosis iron deposition"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "The 'nutmeg liver' shows congested, blood-filled centrilobular zones alternating with paler spared periportal tissue, produced by chronic passive hepatic venous congestion such as right heart failure.",
+        "whyCorrect": "The 'nutmeg liver' shows congested, blood-filled centrilobular zones alternating with paler spared periportal tissue, produced by chronic passive hepatic venous congestion such as right heart failure.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "gipic-115_gi009_f09.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "gipic-116",
+      "topicId": "benign-liver-disease",
+      "topicName": "Benign Liver Disease",
+      "stem": "This microscopic view of congestive hepatopathy shows red blood cells pooling and hepatocyte dropout in one specific region of the hepatic lobule. Which zone is preferentially affected?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Bile canaliculi"
+        },
+        {
+          "label": "B",
+          "text": "Periportal zone (zone 1)"
+        },
+        {
+          "label": "C",
+          "text": "Centrilobular zone (zone 3, around the central vein)"
+        },
+        {
+          "label": "D",
+          "text": "Midzonal region (zone 2)"
+        },
+        {
+          "label": "E",
+          "text": "Portal tract"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Passive venous congestion backs up at the central vein, so RBC pooling and injury concentrate in the centrilobular zone 3, with relative sparing of the periportal region.",
+        "whyCorrect": "Passive venous congestion backs up at the central vein, so RBC pooling and injury concentrate in the centrilobular zone 3, with relative sparing of the periportal region.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "gipic-116_gi009_f10.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "gipic-117",
+      "topicId": "benign-liver-disease",
+      "topicName": "Benign Liver Disease",
+      "stem": "This liver biopsy shows a lymphoplasmacytic infiltrate breaching the limiting plate and extending from the portal tract into the surrounding parenchyma. What is this histologic finding called?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Bridging necrosis"
+        },
+        {
+          "label": "B",
+          "text": "Ballooning degeneration"
+        },
+        {
+          "label": "C",
+          "text": "Ductopenia"
+        },
+        {
+          "label": "D",
+          "text": "Steatohepatitis"
+        },
+        {
+          "label": "E",
+          "text": "Interface hepatitis"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "Interface (piecemeal) hepatitis is inflammation at the portal-parenchymal boundary (limiting plate) and is the classic biopsy finding of autoimmune hepatitis.",
+        "whyCorrect": "Interface (piecemeal) hepatitis is inflammation at the portal-parenchymal boundary (limiting plate) and is the classic biopsy finding of autoimmune hepatitis.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "gipic-117_gi009_f12.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "gipic-148",
+      "topicId": "benign-liver-disease",
+      "topicName": "Benign Liver Disease",
+      "stem": "This pathway diagram shows acetaminophen being converted by P450 into a reactive intermediate that is normally neutralized before causing toxicity. Which agent replenishes the cofactor that detoxifies this intermediate?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "N-acetylcysteine"
+        },
+        {
+          "label": "B",
+          "text": "Activated charcoal"
+        },
+        {
+          "label": "C",
+          "text": "Fomepizole"
+        },
+        {
+          "label": "D",
+          "text": "Deferoxamine"
+        },
+        {
+          "label": "E",
+          "text": "Sodium bicarbonate"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "P450 converts acetaminophen to toxic NAPQI, which is conjugated by glutathione. In overdose glutathione is depleted; N-acetylcysteine replenishes glutathione by supplying cysteine, restoring NAPQI detoxification.",
+        "whyCorrect": "P450 converts acetaminophen to toxic NAPQI, which is conjugated by glutathione. In overdose glutathione is depleted; N-acetylcysteine replenishes glutathione by supplying cysteine, restoring NAPQI detoxification.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "gipic-148_gi009_f17.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "gipic-149",
+      "topicId": "benign-liver-disease",
+      "topicName": "Benign Liver Disease",
+      "stem": "This photograph shows a black oral suspension used to reduce absorption of ingested toxins. What is its mechanism of action?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Alkalinization of the urine"
+        },
+        {
+          "label": "B",
+          "text": "Adsorption of drugs within the GI tract"
+        },
+        {
+          "label": "C",
+          "text": "Replenishment of hepatic glutathione"
+        },
+        {
+          "label": "D",
+          "text": "Induction of emesis"
+        },
+        {
+          "label": "E",
+          "text": "Chelation of heavy metals in the blood"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Activated charcoal binds (adsorbs) many drugs and toxins within the gastrointestinal lumen, reducing their systemic absorption when given shortly after ingestion.",
+        "whyCorrect": "Activated charcoal binds (adsorbs) many drugs and toxins within the gastrointestinal lumen, reducing their systemic absorption when given shortly after ingestion.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "gipic-149_gi009_f19.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "gipic-150",
+      "topicId": "benign-liver-disease",
+      "topicName": "Benign Liver Disease",
+      "stem": "The mushroom on the left, often mistaken for the edible one on the right, causes fulminant hepatic failure when ingested. What is the mechanism of its principal toxin?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Inhibition of RNA polymerase II"
+        },
+        {
+          "label": "B",
+          "text": "Free-radical lipid peroxidation"
+        },
+        {
+          "label": "C",
+          "text": "Uncoupling of oxidative phosphorylation"
+        },
+        {
+          "label": "D",
+          "text": "Inhibition of DNA polymerase"
+        },
+        {
+          "label": "E",
+          "text": "Accumulation of NAPQI"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Amanita phalloides (death cap) contains alpha-amanitin, which inhibits RNA polymerase II, halting mRNA synthesis and causing massive hepatocyte necrosis and potential fulminant liver failure.",
+        "whyCorrect": "Amanita phalloides (death cap) contains alpha-amanitin, which inhibits RNA polymerase II, halting mRNA synthesis and causing massive hepatocyte necrosis and potential fulminant liver failure.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "gipic-150_gi009_f20.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "gipic-151",
+      "topicId": "benign-liver-disease",
+      "topicName": "Benign Liver Disease",
+      "stem": "This plant is the source of a compound given intravenously to treat amatoxin (death cap) poisoning. How does this compound protect the liver?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "It chelates the toxin in the bloodstream"
+        },
+        {
+          "label": "B",
+          "text": "It induces hepatic P450 to degrade the toxin"
+        },
+        {
+          "label": "C",
+          "text": "It blocks hepatic uptake of the toxin"
+        },
+        {
+          "label": "D",
+          "text": "It neutralizes the toxin in the stomach before absorption"
+        },
+        {
+          "label": "E",
+          "text": "It replenishes glutathione stores"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Silibinin, derived from milk thistle, blocks hepatocyte uptake of amatoxins and improves survival in Amanita phalloides poisoning, though it cannot restore already-necrotic hepatocytes.",
+        "whyCorrect": "Silibinin, derived from milk thistle, blocks hepatocyte uptake of amatoxins and improves survival in Amanita phalloides poisoning, though it cannot restore already-necrotic hepatocytes.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "gipic-151_gi009_f21.png",
+      "tags": [
+        "picture"
+      ]
+    }
+  ]
+}

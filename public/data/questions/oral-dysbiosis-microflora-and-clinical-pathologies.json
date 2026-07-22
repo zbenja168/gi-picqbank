@@ -1,0 +1,162 @@
+{
+  "categoryId": "oral-dysbiosis-microflora-and-clinical-pathologies",
+  "categoryName": "Oral Dysbiosis: Microflora and Clinical Pathologies",
+  "questions": [
+    {
+      "id": "gipic-142",
+      "topicId": "oral-dysbiosis-microflora-and-clinical-pathologies",
+      "topicName": "Oral Dysbiosis: Microflora and Clinical Pathologies",
+      "stem": "This labeled cross-section shows an untreated tooth lesion that has progressed to the red collection at the root apex. Which organism is the primary initiator of the process that leads to this outcome?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Streptococcus mutans"
+        },
+        {
+          "label": "B",
+          "text": "Actinomyces israelii"
+        },
+        {
+          "label": "C",
+          "text": "Fusobacterium nucleatum"
+        },
+        {
+          "label": "D",
+          "text": "Porphyromonas gingivalis"
+        },
+        {
+          "label": "E",
+          "text": "Eikenella corrodens"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Dental caries are initiated by Streptococcus mutans, which ferments dietary sucrose into lactic acid and produces sticky glucans that demineralize enamel. Untreated caries progress through dentin into the pulp, causing pulp necrosis and eventually a periapical (dental) abscess, as depicted.",
+        "whyCorrect": "Dental caries are initiated by Streptococcus mutans, which ferments dietary sucrose into lactic acid and produces sticky glucans that demineralize enamel. Untreated caries progress through dentin into the pulp, causing pulp necrosis and eventually a periapical (dental) abscess, as depicted.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "gipic-142_gi029_f01.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "gipic-143",
+      "topicId": "oral-dysbiosis-microflora-and-clinical-pathologies",
+      "topicName": "Oral Dysbiosis: Microflora and Clinical Pathologies",
+      "stem": "White plaques that scrape off to reveal an erythematous base are shown in this infant's mouth. Which organism is responsible?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Herpes simplex virus type 1"
+        },
+        {
+          "label": "B",
+          "text": "Epstein-Barr virus"
+        },
+        {
+          "label": "C",
+          "text": "Streptococcus mutans"
+        },
+        {
+          "label": "D",
+          "text": "Candida albicans"
+        },
+        {
+          "label": "E",
+          "text": "Actinomyces israelii"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "Oral thrush (pseudomembranous candidiasis) is caused by Candida albicans and produces scrapable white plaques on the oral mucosa. It typically arises with immunosuppression, antibiotic use, or inhaled corticosteroid therapy. Scrapability distinguishes it from hairy leukoplakia.",
+        "whyCorrect": "Oral thrush (pseudomembranous candidiasis) is caused by Candida albicans and produces scrapable white plaques on the oral mucosa. It typically arises with immunosuppression, antibiotic use, or inhaled corticosteroid therapy. Scrapability distinguishes it from hairy leukoplakia.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "gipic-143_gi029_f05.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "gipic-144",
+      "topicId": "oral-dysbiosis-microflora-and-clinical-pathologies",
+      "topicName": "Oral Dysbiosis: Microflora and Clinical Pathologies",
+      "stem": "This non-scrapable, corrugated white lesion on the lateral tongue is most strongly associated with reactivation of which virus?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Coxsackievirus A"
+        },
+        {
+          "label": "B",
+          "text": "Cytomegalovirus"
+        },
+        {
+          "label": "C",
+          "text": "Human papillomavirus"
+        },
+        {
+          "label": "D",
+          "text": "Herpes simplex virus type 1"
+        },
+        {
+          "label": "E",
+          "text": "Epstein-Barr virus"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "Hairy leukoplakia produces non-scrapable, corrugated white patches on the lateral tongue and results from Epstein-Barr virus reactivation, characteristically in immunocompromised (e.g., HIV) patients. Unlike thrush, it cannot be wiped off.",
+        "whyCorrect": "Hairy leukoplakia produces non-scrapable, corrugated white patches on the lateral tongue and results from Epstein-Barr virus reactivation, characteristically in immunocompromised (e.g., HIV) patients. Unlike thrush, it cannot be wiped off.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "gipic-144_gi029_f06.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "gipic-145",
+      "topicId": "oral-dysbiosis-microflora-and-clinical-pathologies",
+      "topicName": "Oral Dysbiosis: Microflora and Clinical Pathologies",
+      "stem": "This young child presents with the painful perioral and intraoral vesicular and ulcerative lesions shown. Which virus is the most likely cause?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Epstein-Barr virus"
+        },
+        {
+          "label": "B",
+          "text": "Coxsackievirus A"
+        },
+        {
+          "label": "C",
+          "text": "Herpes simplex virus type 1"
+        },
+        {
+          "label": "D",
+          "text": "Cytomegalovirus"
+        },
+        {
+          "label": "E",
+          "text": "Varicella-zoster virus"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Primary herpetic gingivostomatitis is caused by HSV-1 and typically presents in children 6 months to 5 years with painful oral vesicles that ulcerate and resolve within 1-2 weeks. A Tzanck smear may show multinucleated giant cells, though PCR is now preferred.",
+        "whyCorrect": "Primary herpetic gingivostomatitis is caused by HSV-1 and typically presents in children 6 months to 5 years with painful oral vesicles that ulcerate and resolve within 1-2 weeks. A Tzanck smear may show multinucleated giant cells, though PCR is now preferred.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "gipic-145_gi029_f07.png",
+      "tags": [
+        "picture"
+      ]
+    }
+  ]
+}

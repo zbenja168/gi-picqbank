@@ -1,0 +1,201 @@
+{
+  "categoryId": "hepatic-and-biliary-neoplasms",
+  "categoryName": "Hepatic and Biliary Neoplasms",
+  "questions": [
+    {
+      "id": "gipic-054",
+      "topicId": "hepatic-and-biliary-neoplasms",
+      "topicName": "Hepatic and Biliary Neoplasms",
+      "stem": "This liver lesion is composed of dilated, thin-walled, blood-filled vascular channels lined by a single layer of flattened endothelium and separated by loose fibrous stroma. Which benign hepatic lesion does this histology represent?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Cavernous hemangioma"
+        },
+        {
+          "label": "B",
+          "text": "Hepatocellular carcinoma"
+        },
+        {
+          "label": "C",
+          "text": "Hepatic adenoma"
+        },
+        {
+          "label": "D",
+          "text": "Focal nodular hyperplasia"
+        },
+        {
+          "label": "E",
+          "text": "Hepatic angiosarcoma"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Hepatic hemangiomas are the most common benign liver tumors and consist of dilated, blood-filled vascular channels lined by endothelium with variably sized channels and loose fibrous stroma, reflecting their nature as congenital vascular malformations.",
+        "whyCorrect": "Hepatic hemangiomas are the most common benign liver tumors and consist of dilated, blood-filled vascular channels lined by endothelium with variably sized channels and loose fibrous stroma, reflecting their nature as congenital vascular malformations.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "gipic-054_gi019_f01.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "gipic-055",
+      "topicId": "hepatic-and-biliary-neoplasms",
+      "topicName": "Hepatic and Biliary Neoplasms",
+      "stem": "This medium-magnification histology shows sheets of tumor cells with abundant cytoplasm, large abnormal nuclei, and intracellular and extracellular brown bile pigment. Which malignancy is depicted?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Hepatocellular carcinoma"
+        },
+        {
+          "label": "B",
+          "text": "Cholangiocarcinoma"
+        },
+        {
+          "label": "C",
+          "text": "Metastatic colon adenocarcinoma"
+        },
+        {
+          "label": "D",
+          "text": "Hepatic adenoma"
+        },
+        {
+          "label": "E",
+          "text": "Focal nodular hyperplasia"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Hepatocellular carcinoma consists of sheets of high-grade tumor cells with abundant cytoplasm and large abnormal nuclei; the presence of bile production (brown pigment) is a distinguishing feature confirming hepatocellular origin.",
+        "whyCorrect": "Hepatocellular carcinoma consists of sheets of high-grade tumor cells with abundant cytoplasm and large abnormal nuclei; the presence of bile production (brown pigment) is a distinguishing feature confirming hepatocellular origin.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "gipic-055_gi019_f07.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "gipic-086",
+      "topicId": "hepatic-and-biliary-neoplasms",
+      "topicName": "Hepatic and Biliary Neoplasms",
+      "stem": "This CT shows a well-circumscribed hepatic lesion that enhances homogeneously and contains a central scar in an asymptomatic young adult with normal liver enzymes. Which lesion is most consistent with these findings?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Hepatic hemangioma"
+        },
+        {
+          "label": "B",
+          "text": "Hepatocellular carcinoma"
+        },
+        {
+          "label": "C",
+          "text": "Metastatic adenocarcinoma"
+        },
+        {
+          "label": "D",
+          "text": "Hepatic adenoma"
+        },
+        {
+          "label": "E",
+          "text": "Focal nodular hyperplasia"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "Focal nodular hyperplasia is a benign, non-hormone-dependent lesion characterized by hyperplastic hepatocytes arranged around a central fibrous (stellate) scar, appearing as a well-circumscribed homogeneously enhancing mass with a central scar on imaging.",
+        "whyCorrect": "Focal nodular hyperplasia is a benign, non-hormone-dependent lesion characterized by hyperplastic hepatocytes arranged around a central fibrous (stellate) scar, appearing as a well-circumscribed homogeneously enhancing mass with a central scar on imaging.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "gipic-086_gi019_f03.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "gipic-087",
+      "topicId": "hepatic-and-biliary-neoplasms",
+      "topicName": "Hepatic and Biliary Neoplasms",
+      "stem": "This contrast-enhanced CT shows a solitary, well-demarcated hepatic mass that is bright during the arterial phase and lacks a central scar in a young woman with a history of oral contraceptive use. Which lesion is most likely?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Hepatocellular carcinoma"
+        },
+        {
+          "label": "B",
+          "text": "Hepatic cyst"
+        },
+        {
+          "label": "C",
+          "text": "Hepatic adenoma"
+        },
+        {
+          "label": "D",
+          "text": "Focal nodular hyperplasia"
+        },
+        {
+          "label": "E",
+          "text": "Hepatic hemangioma"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Hepatic adenomas are benign epithelial tumors strongly associated with oral contraceptive and anabolic steroid use; they are highly vascular and show bright arterial-phase enhancement without the central scar seen in focal nodular hyperplasia.",
+        "whyCorrect": "Hepatic adenomas are benign epithelial tumors strongly associated with oral contraceptive and anabolic steroid use; they are highly vascular and show bright arterial-phase enhancement without the central scar seen in focal nodular hyperplasia.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "gipic-087_gi019_f04.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "gipic-088",
+      "topicId": "hepatic-and-biliary-neoplasms",
+      "topicName": "Hepatic and Biliary Neoplasms",
+      "stem": "This CT (arrow) reveals a solitary hepatic mass in a patient with chronic hepatitis-related cirrhosis and an elevated serum alpha-fetoprotein. Which diagnosis is most consistent with these findings?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Focal nodular hyperplasia"
+        },
+        {
+          "label": "B",
+          "text": "Hepatic adenoma"
+        },
+        {
+          "label": "C",
+          "text": "Hepatocellular carcinoma"
+        },
+        {
+          "label": "D",
+          "text": "Simple hepatic cyst"
+        },
+        {
+          "label": "E",
+          "text": "Hepatic hemangioma"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "In a patient with cirrhosis, imaging evidence of a hepatic mass combined with an elevated serum AFP is usually sufficient to diagnose hepatocellular carcinoma without biopsy, which is contraindicated due to hemorrhage and seeding risk.",
+        "whyCorrect": "In a patient with cirrhosis, imaging evidence of a hepatic mass combined with an elevated serum AFP is usually sufficient to diagnose hepatocellular carcinoma without biopsy, which is contraindicated due to hemorrhage and seeding risk.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "gipic-088_gi019_f08.png",
+      "tags": [
+        "picture"
+      ]
+    }
+  ]
+}
