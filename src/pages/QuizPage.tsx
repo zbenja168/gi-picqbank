@@ -88,7 +88,7 @@ export function QuizPage({
     <div className="min-h-screen bg-slate-900">
       <header className="bg-slate-800 border-b border-slate-700 sticky top-0 z-10">
         <div className="max-w-4xl mx-auto px-4 py-3 flex items-center justify-between">
-          <h1 className="text-lg font-bold text-slate-100">CV QBank</h1>
+          <h1 className="text-lg font-bold text-slate-100">Gastrointestinal Picture QBank</h1>
           <div className="flex items-center gap-4">
             <span className="text-sm text-slate-400">
               {sessionAnswers.size} answered
