@@ -14,7 +14,7 @@
         },
         {
           "label": "B",
-          "text": "Abnormal rotation of the ventral pancreatic bud so it surrounds the duodenum"
+          "text": "Abnormal rotation of the ventral pancreatic bud"
         },
         {
           "label": "C",
@@ -57,7 +57,7 @@
         },
         {
           "label": "C",
-          "text": "A narrow mesenteric base from failed 270-degree midgut rotation"
+          "text": "A narrow mesenteric base from failed midgut rotation"
         },
         {
           "label": "D",
@@ -127,7 +127,7 @@
       "choices": [
         {
           "label": "A",
-          "text": "Increased pyloric muscle wall thickness and an elongated pyloric channel"
+          "text": "Increased pyloric muscle wall thickness"
         },
         {
           "label": "B",
@@ -221,7 +221,7 @@
         },
         {
           "label": "E",
-          "text": "Absence of ganglion cells from failed neural crest migration in the distal bowel"
+          "text": "Absence of ganglion cells from failed neural crest migration"
         }
       ],
       "correctAnswer": "E",

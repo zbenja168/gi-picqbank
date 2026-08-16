@@ -49,7 +49,7 @@
       "choices": [
         {
           "label": "A",
-          "text": "Between the thyropharyngeus and cricopharyngeus muscles (Killian triangle)"
+          "text": "Between the thyropharyngeus and cricopharyngeus muscles"
         },
         {
           "label": "B",
@@ -166,7 +166,7 @@
       "choices": [
         {
           "label": "A",
-          "text": "Columnar (intestinal) metaplasia of the distal esophageal mucosa"
+          "text": "Columnar (intestinal) metaplasia"
         },
         {
           "label": "B",
@@ -291,7 +291,7 @@
         },
         {
           "label": "C",
-          "text": "Gastric volvulus with strangulation"
+          "text": "Gastric volvulus"
         },
         {
           "label": "D",
@@ -455,7 +455,7 @@
         },
         {
           "label": "E",
-          "text": "Maintain tonic contraction that prevents retrograde flow of gastric contents"
+          "text": "Maintain tonic contraction that prevents retrograde flow"
         }
       ],
       "correctAnswer": "E",

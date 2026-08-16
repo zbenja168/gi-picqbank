@@ -26,7 +26,7 @@
         },
         {
           "label": "E",
-          "text": "Impaired drainage predisposing to recurrent acute or chronic pancreatitis"
+          "text": "Impaired drainage predisposing to recurrent pancreatitis"
         }
       ],
       "correctAnswer": "E",
@@ -88,7 +88,7 @@
       "choices": [
         {
           "label": "A",
-          "text": "Transformation of quiescent stellate cells into collagen-depositing myofibroblast-like cells"
+          "text": "Transformation of stellate cells into myofibroblast-like cells"
         },
         {
           "label": "B",

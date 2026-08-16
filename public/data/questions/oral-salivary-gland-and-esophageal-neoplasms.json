@@ -100,7 +100,7 @@
         },
         {
           "label": "D",
-          "text": "To assess the extent of locoregional and metastatic disease (staging)"
+          "text": "To assess locoregional and metastatic disease"
         },
         {
           "label": "E",
@@ -221,7 +221,7 @@
         },
         {
           "label": "E",
-          "text": "Chronic gastroesophageal reflux / Barrett esophagus"
+          "text": "Chronic gastroesophageal reflux"
         }
       ],
       "correctAnswer": "E",

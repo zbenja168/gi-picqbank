@@ -14,7 +14,7 @@
         },
         {
           "label": "B",
-          "text": "Reinforced multidirectional support that resists increases in intra-abdominal pressure"
+          "text": "Reinforced multidirectional support"
         },
         {
           "label": "C",
@@ -57,7 +57,7 @@
         },
         {
           "label": "C",
-          "text": "The aponeurotic fascial layer (rectus sheath)"
+          "text": "The aponeurotic fascial layer"
         },
         {
           "label": "D",
@@ -96,7 +96,7 @@
         },
         {
           "label": "C",
-          "text": "It preserves muscle integrity and lowers the risk of a postoperative incisional hernia"
+          "text": "It preserves muscle integrity"
         },
         {
           "label": "D",
@@ -131,7 +131,7 @@
         },
         {
           "label": "B",
-          "text": "It passes through the linea alba, a fibrous raphe where both sides' aponeuroses interdigitate, containing little muscle or large vessels"
+          "text": "It passes through the linea alba, containing little muscle or large vessels"
         },
         {
           "label": "C",
@@ -178,7 +178,7 @@
         },
         {
           "label": "D",
-          "text": "Does not traverse the deep inguinal ring and rarely descends into the scrotum"
+          "text": "Does not traverse the deep inguinal ring"
         },
         {
           "label": "E",
@@ -252,7 +252,7 @@
         },
         {
           "label": "C",
-          "text": "It acts as a flap-valve that closes under raised intra-abdominal pressure, resisting herniation"
+          "text": "It acts as a flap-valve that closes under raised intra-abdominal pressure"
         },
         {
           "label": "D",
@@ -365,7 +365,7 @@
         },
         {
           "label": "B",
-          "text": "Thinning and widening of the linea alba separating the rectus muscles, without a true fascial defect"
+          "text": "Thinning and widening of the linea alba separating the rectus muscles"
         },
         {
           "label": "C",
@@ -404,7 +404,7 @@
         },
         {
           "label": "B",
-          "text": "Persistence of the processus vaginalis (a congenital defect)"
+          "text": "Persistence of the processus vaginalis"
         },
         {
           "label": "C",
@@ -447,7 +447,7 @@
         },
         {
           "label": "C",
-          "text": "The femoral ring is narrow and rigid, tightly constricting the herniated bowel"
+          "text": "The femoral ring is narrow and rigid"
         },
         {
           "label": "D",
@@ -494,7 +494,7 @@
         },
         {
           "label": "E",
-          "text": "Position relative to the inferior epigastric vessels (indirect lies lateral, direct lies medial)"
+          "text": "Position relative to the inferior epigastric vessels"
         }
       ],
       "correctAnswer": "E",

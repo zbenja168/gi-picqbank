@@ -65,7 +65,7 @@
         },
         {
           "label": "E",
-          "text": "It drains directly into the IVC and is spared from hepatic vein thrombosis"
+          "text": "It drains directly into the IVC"
         }
       ],
       "correctAnswer": "E",
@@ -92,7 +92,7 @@
         },
         {
           "label": "B",
-          "text": "Hepatic vein thrombosis with chronic organization"
+          "text": "Hepatic vein thrombosis"
         },
         {
           "label": "C",
@@ -174,7 +174,7 @@
         },
         {
           "label": "C",
-          "text": "It arises from iliac-system collaterals due to IVC obstruction, not portal hypertension"
+          "text": "It arises from iliac-system collaterals due to IVC obstruction"
         },
         {
           "label": "D",
@@ -205,7 +205,7 @@
       "choices": [
         {
           "label": "A",
-          "text": "Paraumbilical vein (recanalized round ligament)"
+          "text": "Paraumbilical vein"
         },
         {
           "label": "B",
@@ -291,7 +291,7 @@
         },
         {
           "label": "C",
-          "text": "Centrilobular zone (zone 3, around the central vein)"
+          "text": "Centrilobular zone (zone 3)"
         },
         {
           "label": "D",

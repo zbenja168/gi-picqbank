@@ -104,7 +104,7 @@
         },
         {
           "label": "E",
-          "text": "Free intraperitoneal air from a perforated viscus"
+          "text": "Free intraperitoneal air"
         }
       ],
       "correctAnswer": "E",
@@ -127,7 +127,7 @@
       "choices": [
         {
           "label": "A",
-          "text": "Diverticulitis with microperforation"
+          "text": "Diverticulitis"
         },
         {
           "label": "B",
@@ -205,7 +205,7 @@
       "choices": [
         {
           "label": "A",
-          "text": "Diffusion down concentration gradients across the peritoneal membrane"
+          "text": "Diffusion down concentration gradients"
         },
         {
           "label": "B",

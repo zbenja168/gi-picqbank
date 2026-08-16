@@ -88,7 +88,7 @@
       "choices": [
         {
           "label": "A",
-          "text": "Short gastric and left gastro-omental (gastroepiploic) arteries"
+          "text": "Short gastric and left gastro-omental arteries"
         },
         {
           "label": "B",
@@ -182,7 +182,7 @@
         },
         {
           "label": "E",
-          "text": "Isolated gastric varices (left-sided portal hypertension)"
+          "text": "Isolated gastric varices"
         }
       ],
       "correctAnswer": "E",
@@ -213,7 +213,7 @@
         },
         {
           "label": "C",
-          "text": "The pattern of nodal metastasis of pancreatic cancer"
+          "text": "The pattern of nodal metastasis"
         },
         {
           "label": "D",

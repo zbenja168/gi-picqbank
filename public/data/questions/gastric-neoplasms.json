@@ -22,7 +22,7 @@
         },
         {
           "label": "D",
-          "text": "Interstitial cells of Cajal with a KIT gain-of-function mutation"
+          "text": "Interstitial cells of Cajal with a KIT mutation"
         },
         {
           "label": "E",
@@ -49,7 +49,7 @@
       "choices": [
         {
           "label": "A",
-          "text": "Chronic inflammation, often from H. pylori-associated gastritis"
+          "text": "Chronic inflammation"
         },
         {
           "label": "B",
@@ -92,7 +92,7 @@
         },
         {
           "label": "B",
-          "text": "It is dysplastic and premalignant, capable of progressing to adenocarcinoma"
+          "text": "It is dysplastic and premalignant"
         },
         {
           "label": "C",

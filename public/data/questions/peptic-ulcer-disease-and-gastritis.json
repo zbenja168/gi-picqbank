@@ -205,7 +205,7 @@
       "choices": [
         {
           "label": "A",
-          "text": "Bacterial urease hydrolyzes urea to ammonia, raising the pH and turning the phenol-red indicator pink"
+          "text": "Bacterial urease hydrolyzes urea to ammonia, raising the pH"
         },
         {
           "label": "B",
@@ -291,7 +291,7 @@
         },
         {
           "label": "C",
-          "text": "Surface epithelial secretion of bicarbonate trapped within the mucus layer"
+          "text": "Surface epithelial secretion of bicarbonate"
         },
         {
           "label": "D",
