@@ -1,0 +1,786 @@
+{
+  "categoryId": "w1s2",
+  "categoryName": "Session 2",
+  "questions": [
+    {
+      "id": "gipic-138",
+      "topicId": "development-of-the-gastrointestinal-system",
+      "topicName": "Development of the Gastrointestinal System",
+      "stem": "This four-step sequence shows the lumen of a developing gut segment being obliterated and then reopened. Complete failure of the reopening step in a segment results in which condition?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Volvulus"
+        },
+        {
+          "label": "B",
+          "text": "Diverticulum"
+        },
+        {
+          "label": "C",
+          "text": "Stenosis"
+        },
+        {
+          "label": "D",
+          "text": "Duplication cyst"
+        },
+        {
+          "label": "E",
+          "text": "Atresia"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "Early in development the endodermal epithelium proliferates and occludes the lumen; recanalization then restores patency. If recanalization fails entirely, the segment remains a solid cord, producing atresia; if it is incomplete, stenosis results.",
+        "whyCorrect": "Early in development the endodermal epithelium proliferates and occludes the lumen; recanalization then restores patency. If recanalization fails entirely, the segment remains a solid cord, producing atresia; if it is incomplete, stenosis results.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "gipic-138_gi027_f07.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "gipic-139",
+      "topicId": "development-of-the-gastrointestinal-system",
+      "topicName": "Development of the Gastrointestinal System",
+      "stem": "The gut segment on the left retains a narrowed but still-patent lumen. This appearance results from which developmental error?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Incomplete midgut rotation"
+        },
+        {
+          "label": "B",
+          "text": "Incomplete recanalization"
+        },
+        {
+          "label": "C",
+          "text": "Failed lateral folding"
+        },
+        {
+          "label": "D",
+          "text": "Complete failure of recanalization"
+        },
+        {
+          "label": "E",
+          "text": "Persistent vitelline duct"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Partial (incomplete) removal of the cells that had occluded the lumen leaves a narrowed but patent channel, i.e., stenosis. Complete failure of recanalization would instead produce atresia.",
+        "whyCorrect": "Partial (incomplete) removal of the cells that had occluded the lumen leaves a narrowed but patent channel, i.e., stenosis. Complete failure of recanalization would instead produce atresia.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "gipic-139_gi027_f08.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "gipic-140",
+      "topicId": "development-of-the-gastrointestinal-system",
+      "topicName": "Development of the Gastrointestinal System",
+      "stem": "This figure shows the dorsal and ventral pancreatic buds fusing around the duodenum. If the ventral bud abnormally migrates so that pancreatic tissue completely encircles the duodenum, which condition results?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Annular pancreas"
+        },
+        {
+          "label": "B",
+          "text": "Meckel diverticulum"
+        },
+        {
+          "label": "C",
+          "text": "Choledochal cyst"
+        },
+        {
+          "label": "D",
+          "text": "Ectopic gastric mucosa"
+        },
+        {
+          "label": "E",
+          "text": "Pancreas divisum"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Abnormal migration/rotation of the ventral pancreatic bud can cause pancreatic tissue to form a ring around the second part of the duodenum (annular pancreas), potentially causing duodenal obstruction.",
+        "whyCorrect": "Abnormal migration/rotation of the ventral pancreatic bud can cause pancreatic tissue to form a ring around the second part of the duodenum (annular pancreas), potentially causing duodenal obstruction.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "gipic-140_gi027_f12.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "gipic-173",
+      "topicId": "development-of-the-gastrointestinal-system",
+      "topicName": "Development of the Gastrointestinal System",
+      "stem": "In this cross-section of the trilaminar embryo, the cavity that forms when the lateral plate mesoderm splits will become which adult structure?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Amniotic cavity"
+        },
+        {
+          "label": "B",
+          "text": "Peritoneal cavity"
+        },
+        {
+          "label": "C",
+          "text": "Yolk sac"
+        },
+        {
+          "label": "D",
+          "text": "Pleural cavity only"
+        },
+        {
+          "label": "E",
+          "text": "Lesser sac only"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "The intraembryonic coelom seen between the somatic and splanchnic mesoderm layers becomes the body cavities; in the abdomen it forms the peritoneal cavity.",
+        "whyCorrect": "The intraembryonic coelom seen between the somatic and splanchnic mesoderm layers becomes the body cavities; in the abdomen it forms the peritoneal cavity.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "gipic-173_gi027_f02.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "gipic-174",
+      "topicId": "development-of-the-gastrointestinal-system",
+      "topicName": "Development of the Gastrointestinal System",
+      "stem": "In this detailed embryo, the transverse mesodermal partition just cranial to the liver bud is highlighted. This structure is the primordium of which adult structure?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Falciform ligament"
+        },
+        {
+          "label": "B",
+          "text": "Central tendon of the diaphragm"
+        },
+        {
+          "label": "C",
+          "text": "Greater omentum"
+        },
+        {
+          "label": "D",
+          "text": "Lesser omentum"
+        },
+        {
+          "label": "E",
+          "text": "Broad ligament"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "The septum transversum forms the central tendon of the diaphragm (and contributes to the ventral mesentery of the liver). Defective formation underlies congenital diaphragmatic hernia.",
+        "whyCorrect": "The septum transversum forms the central tendon of the diaphragm (and contributes to the ventral mesentery of the liver). Defective formation underlies congenital diaphragmatic hernia.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "gipic-174_gi027_f06.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "gipic-175",
+      "topicId": "development-of-the-gastrointestinal-system",
+      "topicName": "Development of the Gastrointestinal System",
+      "stem": "These cross-sections illustrate the 90-degree clockwise rotation of the stomach. As a result of this rotation, which nerve comes to lie on the posterior surface of the stomach?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Greater splanchnic nerve"
+        },
+        {
+          "label": "B",
+          "text": "Left recurrent laryngeal nerve"
+        },
+        {
+          "label": "C",
+          "text": "Left vagus nerve"
+        },
+        {
+          "label": "D",
+          "text": "Right phrenic nerve"
+        },
+        {
+          "label": "E",
+          "text": "Right vagus nerve"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "Gastric rotation carries the right (originally right-sided) vagus posteriorly to form the posterior vagal trunk, while the left vagus becomes the anterior vagal trunk.",
+        "whyCorrect": "Gastric rotation carries the right (originally right-sided) vagus posteriorly to form the posterior vagal trunk, while the left vagus becomes the anterior vagal trunk.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "gipic-175_gi027_f10.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "gipic-176",
+      "topicId": "development-of-the-gastrointestinal-system",
+      "topicName": "Development of the Gastrointestinal System",
+      "stem": "The proximal duodenum shown here develops from two embryonic regions, giving it a dual blood supply. Besides branches of the celiac trunk, which artery supplies it?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Internal iliac artery"
+        },
+        {
+          "label": "B",
+          "text": "Inferior mesenteric artery"
+        },
+        {
+          "label": "C",
+          "text": "Superior mesenteric artery"
+        },
+        {
+          "label": "D",
+          "text": "Left gastric artery"
+        },
+        {
+          "label": "E",
+          "text": "Splenic artery"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "The duodenum straddles the foregut-midgut junction. The foregut portion is supplied by the celiac trunk and the midgut portion by the superior mesenteric artery.",
+        "whyCorrect": "The duodenum straddles the foregut-midgut junction. The foregut portion is supplied by the celiac trunk and the midgut portion by the superior mesenteric artery.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "gipic-176_gi027_f11.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "gipic-177",
+      "topicId": "development-of-the-gastrointestinal-system",
+      "topicName": "Development of the Gastrointestinal System",
+      "stem": "This sequence traces herniation and return of the midgut loop around the axis of the superior mesenteric artery. What is the total degree and direction of rotation completed by the end of this process?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "180 degrees counterclockwise"
+        },
+        {
+          "label": "B",
+          "text": "90 degrees counterclockwise"
+        },
+        {
+          "label": "C",
+          "text": "360 degrees clockwise"
+        },
+        {
+          "label": "D",
+          "text": "270 degrees counterclockwise"
+        },
+        {
+          "label": "E",
+          "text": "90 degrees clockwise"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "The midgut loop rotates a total of 270 degrees counterclockwise (when viewed from the front) around the SMA axis before and during its return to the abdomen. Failure of this rotation causes malrotation and predisposes to volvulus.",
+        "whyCorrect": "The midgut loop rotates a total of 270 degrees counterclockwise (when viewed from the front) around the SMA axis before and during its return to the abdomen. Failure of this rotation causes malrotation and predisposes to volvulus.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "gipic-177_gi027_f13.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "gipic-041",
+      "topicId": "congenital-disorders-of-the-gastrointestinal-tract",
+      "topicName": "Congenital Disorders of the Gastrointestinal Tract",
+      "stem": "This schematic illustrates the embryologic origin of a pancreatic anomaly that can encircle and obstruct the second part of the duodenum. Which developmental error produces it?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Persistence of the vitelline duct"
+        },
+        {
+          "label": "B",
+          "text": "Abnormal rotation of the ventral pancreatic bud"
+        },
+        {
+          "label": "C",
+          "text": "Failure of the dorsal pancreatic bud to form"
+        },
+        {
+          "label": "D",
+          "text": "Failure of neural crest cell migration"
+        },
+        {
+          "label": "E",
+          "text": "Failure of duodenal lumen recanalization"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "The pancreas forms from ventral and dorsal buds. If the ventral bud rotates abnormally, it can partially or completely encircle the duodenum (annular pancreas), sometimes causing duodenal obstruction with bilious vomiting and a double-bubble appearance.",
+        "whyCorrect": "The pancreas forms from ventral and dorsal buds. If the ventral bud rotates abnormally, it can partially or completely encircle the duodenum (annular pancreas), sometimes causing duodenal obstruction with bilious vomiting and a double-bubble appearance.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "gipic-041_gi028_f05.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "gipic-042",
+      "topicId": "congenital-disorders-of-the-gastrointestinal-tract",
+      "topicName": "Congenital Disorders of the Gastrointestinal Tract",
+      "stem": "The right-hand panel of this diagram shows small bowel twisted around its vascular pedicle. Which underlying anatomic abnormality predisposes an infant to this complication?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "An aganglionic distal colonic segment"
+        },
+        {
+          "label": "B",
+          "text": "A patent omphalomesenteric duct"
+        },
+        {
+          "label": "C",
+          "text": "A narrow mesenteric base from failed midgut rotation"
+        },
+        {
+          "label": "D",
+          "text": "Hypertrophied pyloric smooth muscle"
+        },
+        {
+          "label": "E",
+          "text": "Duodenal encirclement by pancreatic tissue"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "When the midgut fails to complete its normal 270-degree counterclockwise rotation, the mesentery anchors over a very short base rather than a broad one. This narrow pedicle allows the bowel to twist on itself (volvulus), compromising the superior mesenteric vessels and risking necrosis of the entire small intestine.",
+        "whyCorrect": "When the midgut fails to complete its normal 270-degree counterclockwise rotation, the mesentery anchors over a very short base rather than a broad one. This narrow pedicle allows the bowel to twist on itself (volvulus), compromising the superior mesenteric vessels and risking necrosis of the entire small intestine.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "gipic-042_gi028_f07.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "gipic-043",
+      "topicId": "congenital-disorders-of-the-gastrointestinal-tract",
+      "topicName": "Congenital Disorders of the Gastrointestinal Tract",
+      "stem": "These illustrations depict variants in which the rectum connects abnormally to the urinary or genital tract. Faulty development of which septum accounts for this entire group of anomalies?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "The transverse septum of the septum transversum"
+        },
+        {
+          "label": "B",
+          "text": "The urogenital diaphragm"
+        },
+        {
+          "label": "C",
+          "text": "The aorticopulmonary septum"
+        },
+        {
+          "label": "D",
+          "text": "The tracheoesophageal septum"
+        },
+        {
+          "label": "E",
+          "text": "The urorectal septum"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "The urorectal septum divides the cloaca into anorectal and urogenital portions. Abnormal development leaves fistulous connections between the rectum and the urethra, bladder, or vestibule (and, at the extreme, a persistent cloaca), as illustrated across these variants.",
+        "whyCorrect": "The urorectal septum divides the cloaca into anorectal and urogenital portions. Abnormal development leaves fistulous connections between the rectum and the urethra, bladder, or vestibule (and, at the extreme, a persistent cloaca), as illustrated across these variants.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "gipic-043_gi028_f13.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "gipic-094",
+      "topicId": "congenital-disorders-of-the-gastrointestinal-tract",
+      "topicName": "Congenital Disorders of the Gastrointestinal Tract",
+      "stem": "These ultrasound images compare a normal pylorus (left) with an abnormal one (right, circled). Which sonographic feature confirms the diagnosis on the right?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Increased pyloric muscle wall thickness"
+        },
+        {
+          "label": "B",
+          "text": "A target/donut sign of telescoped bowel"
+        },
+        {
+          "label": "C",
+          "text": "A double-bubble gas pattern"
+        },
+        {
+          "label": "D",
+          "text": "Bird-beak narrowing of the distal esophagus"
+        },
+        {
+          "label": "E",
+          "text": "A dilated aganglionic megacolon with transition zone"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Ultrasound is the confirmatory test for hypertrophic pyloric stenosis, revealing an enlarged pylorus with increased muscle wall thickness (roughly >3 mm) and elongated channel length compared with the thin, short normal pylorus.",
+        "whyCorrect": "Ultrasound is the confirmatory test for hypertrophic pyloric stenosis, revealing an enlarged pylorus with increased muscle wall thickness (roughly >3 mm) and elongated channel length compared with the thin, short normal pylorus.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "gipic-094_gi028_f03.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "gipic-095",
+      "topicId": "congenital-disorders-of-the-gastrointestinal-tract",
+      "topicName": "Congenital Disorders of the Gastrointestinal Tract",
+      "stem": "This upper GI contrast study of an infant shows a 'corkscrew' proximal small bowel that fails to cross to the left of the vertebral column. This finding confirms which diagnosis?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Malrotation with midgut volvulus"
+        },
+        {
+          "label": "B",
+          "text": "Hirschsprung disease"
+        },
+        {
+          "label": "C",
+          "text": "Meconium ileus"
+        },
+        {
+          "label": "D",
+          "text": "Hypertrophic pyloric stenosis"
+        },
+        {
+          "label": "E",
+          "text": "Duodenal atresia"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "In malrotation the duodenum lacks a normal C-loop and does not cross the midline; when volvulus occurs the proximal jejunum shows a classic corkscrew pattern. An upper GI study is the confirmatory test in a stable infant with bilious vomiting.",
+        "whyCorrect": "In malrotation the duodenum lacks a normal C-loop and does not cross the midline; when volvulus occurs the proximal jejunum shows a classic corkscrew pattern. An upper GI study is the confirmatory test in a stable infant with bilious vomiting.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "gipic-095_gi028_f08.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "gipic-141",
+      "topicId": "congenital-disorders-of-the-gastrointestinal-tract",
+      "topicName": "Congenital Disorders of the Gastrointestinal Tract",
+      "stem": "This contrast enema shows a narrowed distal segment with an abrupt transition to markedly dilated proximal colon. What is the underlying cause of this appearance?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Hypertrophy of pyloric smooth muscle"
+        },
+        {
+          "label": "B",
+          "text": "A mesenteric vascular accident with segmental resorption"
+        },
+        {
+          "label": "C",
+          "text": "Failure of duodenal lumen recanalization"
+        },
+        {
+          "label": "D",
+          "text": "Twisting of bowel around a narrow mesentery"
+        },
+        {
+          "label": "E",
+          "text": "Absence of ganglion cells from failed neural crest migration"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "In Hirschsprung disease, neural crest cells fail to migrate into the distal gut, leaving an aganglionic, tonically contracted segment (usually rectosigmoid). The narrowed aganglionic bowel cannot relax, so the normally innervated proximal colon dilates, creating the transition zone seen on contrast enema.",
+        "whyCorrect": "In Hirschsprung disease, neural crest cells fail to migrate into the distal gut, leaving an aganglionic, tonically contracted segment (usually rectosigmoid). The narrowed aganglionic bowel cannot relax, so the normally innervated proximal colon dilates, creating the transition zone seen on contrast enema.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "gipic-141_gi028_f11.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "gipic-142",
+      "topicId": "oral-dysbiosis-microflora-and-clinical-pathologies",
+      "topicName": "Oral Dysbiosis: Microflora and Clinical Pathologies",
+      "stem": "This labeled cross-section shows an untreated tooth lesion that has progressed to the red collection at the root apex. Which organism is the primary initiator of the process that leads to this outcome?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Streptococcus mutans"
+        },
+        {
+          "label": "B",
+          "text": "Actinomyces israelii"
+        },
+        {
+          "label": "C",
+          "text": "Fusobacterium nucleatum"
+        },
+        {
+          "label": "D",
+          "text": "Porphyromonas gingivalis"
+        },
+        {
+          "label": "E",
+          "text": "Eikenella corrodens"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Dental caries are initiated by Streptococcus mutans, which ferments dietary sucrose into lactic acid and produces sticky glucans that demineralize enamel. Untreated caries progress through dentin into the pulp, causing pulp necrosis and eventually a periapical (dental) abscess, as depicted.",
+        "whyCorrect": "Dental caries are initiated by Streptococcus mutans, which ferments dietary sucrose into lactic acid and produces sticky glucans that demineralize enamel. Untreated caries progress through dentin into the pulp, causing pulp necrosis and eventually a periapical (dental) abscess, as depicted.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "gipic-142_gi029_f01.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "gipic-143",
+      "topicId": "oral-dysbiosis-microflora-and-clinical-pathologies",
+      "topicName": "Oral Dysbiosis: Microflora and Clinical Pathologies",
+      "stem": "White plaques that scrape off to reveal an erythematous base are shown in this infant's mouth. Which organism is responsible?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Herpes simplex virus type 1"
+        },
+        {
+          "label": "B",
+          "text": "Epstein-Barr virus"
+        },
+        {
+          "label": "C",
+          "text": "Streptococcus mutans"
+        },
+        {
+          "label": "D",
+          "text": "Candida albicans"
+        },
+        {
+          "label": "E",
+          "text": "Actinomyces israelii"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "Oral thrush (pseudomembranous candidiasis) is caused by Candida albicans and produces scrapable white plaques on the oral mucosa. It typically arises with immunosuppression, antibiotic use, or inhaled corticosteroid therapy. Scrapability distinguishes it from hairy leukoplakia.",
+        "whyCorrect": "Oral thrush (pseudomembranous candidiasis) is caused by Candida albicans and produces scrapable white plaques on the oral mucosa. It typically arises with immunosuppression, antibiotic use, or inhaled corticosteroid therapy. Scrapability distinguishes it from hairy leukoplakia.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "gipic-143_gi029_f05.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "gipic-144",
+      "topicId": "oral-dysbiosis-microflora-and-clinical-pathologies",
+      "topicName": "Oral Dysbiosis: Microflora and Clinical Pathologies",
+      "stem": "This non-scrapable, corrugated white lesion on the lateral tongue is most strongly associated with reactivation of which virus?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Coxsackievirus A"
+        },
+        {
+          "label": "B",
+          "text": "Cytomegalovirus"
+        },
+        {
+          "label": "C",
+          "text": "Human papillomavirus"
+        },
+        {
+          "label": "D",
+          "text": "Herpes simplex virus type 1"
+        },
+        {
+          "label": "E",
+          "text": "Epstein-Barr virus"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "Hairy leukoplakia produces non-scrapable, corrugated white patches on the lateral tongue and results from Epstein-Barr virus reactivation, characteristically in immunocompromised (e.g., HIV) patients. Unlike thrush, it cannot be wiped off.",
+        "whyCorrect": "Hairy leukoplakia produces non-scrapable, corrugated white patches on the lateral tongue and results from Epstein-Barr virus reactivation, characteristically in immunocompromised (e.g., HIV) patients. Unlike thrush, it cannot be wiped off.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "gipic-144_gi029_f06.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "gipic-145",
+      "topicId": "oral-dysbiosis-microflora-and-clinical-pathologies",
+      "topicName": "Oral Dysbiosis: Microflora and Clinical Pathologies",
+      "stem": "This young child presents with the painful perioral and intraoral vesicular and ulcerative lesions shown. Which virus is the most likely cause?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Epstein-Barr virus"
+        },
+        {
+          "label": "B",
+          "text": "Coxsackievirus A"
+        },
+        {
+          "label": "C",
+          "text": "Herpes simplex virus type 1"
+        },
+        {
+          "label": "D",
+          "text": "Cytomegalovirus"
+        },
+        {
+          "label": "E",
+          "text": "Varicella-zoster virus"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Primary herpetic gingivostomatitis is caused by HSV-1 and typically presents in children 6 months to 5 years with painful oral vesicles that ulcerate and resolve within 1-2 weeks. A Tzanck smear may show multinucleated giant cells, though PCR is now preferred.",
+        "whyCorrect": "Primary herpetic gingivostomatitis is caused by HSV-1 and typically presents in children 6 months to 5 years with painful oral vesicles that ulcerate and resolve within 1-2 weeks. A Tzanck smear may show multinucleated giant cells, though PCR is now preferred.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "gipic-145_gi029_f07.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "gipic-067",
+      "topicId": "sjogren-syndrome",
+      "topicName": "Sjogren Syndrome",
+      "stem": "These high- and low-power views of a salivary gland from a patient with Sjogren syndrome show dense focal inflammatory aggregates (arrows) replacing acini. Which cell type predominates within these infiltrates?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Foamy macrophages"
+        },
+        {
+          "label": "B",
+          "text": "Neutrophils"
+        },
+        {
+          "label": "C",
+          "text": "Langhans giant cells"
+        },
+        {
+          "label": "D",
+          "text": "CD4+ T lymphocytes"
+        },
+        {
+          "label": "E",
+          "text": "Eosinophils"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "The histologic hallmark of Sjogren syndrome is focal lymphocytic sialadenitis, in which periductal/periacinar aggregates are composed predominantly of CD4+ T cells (with B cells), quantified as a focus score on labial gland biopsy.",
+        "whyCorrect": "The histologic hallmark of Sjogren syndrome is focal lymphocytic sialadenitis, in which periductal/periacinar aggregates are composed predominantly of CD4+ T cells (with B cells), quantified as a focus score on labial gland biopsy.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "gipic-067_gi030_f04.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "gipic-146",
+      "topicId": "sjogren-syndrome",
+      "topicName": "Sjogren Syndrome",
+      "stem": "This clinical photograph shows the dry, fissured tongue of a patient with Sjogren syndrome. Which underlying change most directly accounts for this oral finding?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Iron-deficiency-related atrophic glossitis"
+        },
+        {
+          "label": "B",
+          "text": "Amyloid deposition enlarging the tongue"
+        },
+        {
+          "label": "C",
+          "text": "Reduced salivary secretion"
+        },
+        {
+          "label": "D",
+          "text": "Vitamin B12 deficiency causing glossitis"
+        },
+        {
+          "label": "E",
+          "text": "Chronic mechanical irritation from bruxism"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Lymphocytic destruction of salivary gland acini reduces saliva output (xerostomia), leaving the mucosa dry and fissured and predisposing to candidal overgrowth and angular cheilitis.",
+        "whyCorrect": "Lymphocytic destruction of salivary gland acini reduces saliva output (xerostomia), leaving the mucosa dry and fissured and predisposing to candidal overgrowth and angular cheilitis.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "gipic-146_gi030_f02.png",
+      "tags": [
+        "picture"
+      ]
+    }
+  ]
+}

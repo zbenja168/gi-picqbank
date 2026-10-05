@@ -1,0 +1,1176 @@
+{
+  "categoryId": "w1s3",
+  "categoryName": "Session 3",
+  "questions": [
+    {
+      "id": "gipic-001",
+      "topicId": "benign-esophageal-disorders",
+      "topicName": "Benign Esophageal Disorders",
+      "stem": "The paired muscular bundles that encircle the esophagus as it passes through this opening contribute to the antireflux barrier by which mechanism?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Compressing the esophagus during inspiration to augment sphincter pressure"
+        },
+        {
+          "label": "B",
+          "text": "Providing the intrinsic resting tone of the smooth-muscle sphincter"
+        },
+        {
+          "label": "C",
+          "text": "Anchoring the esophagus to the sternum"
+        },
+        {
+          "label": "D",
+          "text": "Relaxing to initiate the gastrocolic reflex"
+        },
+        {
+          "label": "E",
+          "text": "Secreting mucus to lubricate the passing bolus"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "The crura of the diaphragm surround the esophagus at the hiatus and act as an external ('extrinsic') sphincter, compressing the esophagus especially during inspiration when intra-abdominal pressure rises.",
+        "whyCorrect": "The crura of the diaphragm surround the esophagus at the hiatus and act as an external ('extrinsic') sphincter, compressing the esophagus especially during inspiration when intra-abdominal pressure rises.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "gipic-001_gi000_f02.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "gipic-002",
+      "topicId": "benign-esophageal-disorders",
+      "topicName": "Benign Esophageal Disorders",
+      "stem": "This illustration and barium study show a pulsion outpouching protruding through an area of posterior hypopharyngeal weakness. Between which structures does it herniate?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Between the thyropharyngeus and cricopharyngeus muscles"
+        },
+        {
+          "label": "B",
+          "text": "Between the internal and external anal sphincters"
+        },
+        {
+          "label": "C",
+          "text": "Through the pleuroperitoneal membrane"
+        },
+        {
+          "label": "D",
+          "text": "Through the diaphragmatic hiatus"
+        },
+        {
+          "label": "E",
+          "text": "At the gastroesophageal junction"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "A Zenker diverticulum is a false (pulsion) diverticulum herniating through Killian triangle, between the thyropharyngeus and cricopharyngeus fibers, due to impaired upper esophageal sphincter relaxation.",
+        "whyCorrect": "A Zenker diverticulum is a false (pulsion) diverticulum herniating through Killian triangle, between the thyropharyngeus and cricopharyngeus fibers, due to impaired upper esophageal sphincter relaxation.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "gipic-002_gi000_f17.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "gipic-044",
+      "topicId": "benign-esophageal-disorders",
+      "topicName": "Benign Esophageal Disorders",
+      "stem": "Compared with the normal esophageal lining shown in the upper field, the lower field demonstrates changes of chronic acid injury. The epithelium involved is normally of which type?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Stratified squamous nonkeratinized epithelium"
+        },
+        {
+          "label": "B",
+          "text": "Transitional epithelium"
+        },
+        {
+          "label": "C",
+          "text": "Simple cuboidal epithelium"
+        },
+        {
+          "label": "D",
+          "text": "Pseudostratified ciliated columnar epithelium"
+        },
+        {
+          "label": "E",
+          "text": "Simple columnar epithelium"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "The normal esophagus is lined by stratified squamous nonkeratinized epithelium; reflux esophagitis produces basal cell hyperplasia, papillary elongation, and intraepithelial inflammation within this epithelium.",
+        "whyCorrect": "The normal esophagus is lined by stratified squamous nonkeratinized epithelium; reflux esophagitis produces basal cell hyperplasia, papillary elongation, and intraepithelial inflammation within this epithelium.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "gipic-044_gi000_f06.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "gipic-068",
+      "topicId": "benign-esophageal-disorders",
+      "topicName": "Benign Esophageal Disorders",
+      "stem": "This endoscopic view of the distal esophagus shows linear mucosal breaks radiating from the gastroesophageal junction. These findings represent the most common complication of which condition?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Plummer-Vinson syndrome"
+        },
+        {
+          "label": "B",
+          "text": "Candida esophagitis"
+        },
+        {
+          "label": "C",
+          "text": "Achalasia"
+        },
+        {
+          "label": "D",
+          "text": "Gastroesophageal reflux disease"
+        },
+        {
+          "label": "E",
+          "text": "Eosinophilic esophagitis"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "Reflux esophagitis, seen here as linear erosions of the distal esophageal mucosa, is the most common complication of prolonged GERD, resulting from direct acid injury.",
+        "whyCorrect": "Reflux esophagitis, seen here as linear erosions of the distal esophageal mucosa, is the most common complication of prolonged GERD, resulting from direct acid injury.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "gipic-068_gi000_f05.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "gipic-069",
+      "topicId": "benign-esophageal-disorders",
+      "topicName": "Benign Esophageal Disorders",
+      "stem": "Panel B of this endoscopic composite shows salmon-colored mucosa extending above the gastroesophageal junction, unlike the normal junction in panel A. This appearance is caused by which process?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Columnar (intestinal) metaplasia"
+        },
+        {
+          "label": "B",
+          "text": "Fungal pseudomembrane formation"
+        },
+        {
+          "label": "C",
+          "text": "Fibrosis from a peptic stricture"
+        },
+        {
+          "label": "D",
+          "text": "Squamous hyperplasia from pill injury"
+        },
+        {
+          "label": "E",
+          "text": "Submucosal venous dilation"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Barrett esophagus appears endoscopically as salmon-colored columnar mucosa extending above the GE junction, reflecting intestinal metaplasia driven by chronic acid reflux.",
+        "whyCorrect": "Barrett esophagus appears endoscopically as salmon-colored columnar mucosa extending above the GE junction, reflecting intestinal metaplasia driven by chronic acid reflux.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "gipic-069_gi000_f08.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "gipic-070",
+      "topicId": "benign-esophageal-disorders",
+      "topicName": "Benign Esophageal Disorders",
+      "stem": "This endoscopic image of the esophagus demonstrates stacked, concentric mucosal rings. This finding is most characteristic of which disorder?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Candida esophagitis"
+        },
+        {
+          "label": "B",
+          "text": "Achalasia"
+        },
+        {
+          "label": "C",
+          "text": "Reflux esophagitis"
+        },
+        {
+          "label": "D",
+          "text": "Barrett esophagus"
+        },
+        {
+          "label": "E",
+          "text": "Eosinophilic esophagitis"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "Concentric rings ('trachealization'), along with furrows and white exudates, are the most characteristic endoscopic finding of eosinophilic esophagitis.",
+        "whyCorrect": "Concentric rings ('trachealization'), along with furrows and white exudates, are the most characteristic endoscopic finding of eosinophilic esophagitis.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "gipic-070_gi000_f12.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "gipic-071",
+      "topicId": "benign-esophageal-disorders",
+      "topicName": "Benign Esophageal Disorders",
+      "stem": "Panel A shows white adherent plaques on erythematous esophageal mucosa and panel B a mucosal brushing with branching filamentous structures. Which organism is responsible?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Cytomegalovirus"
+        },
+        {
+          "label": "B",
+          "text": "Herpes simplex virus"
+        },
+        {
+          "label": "C",
+          "text": "Aspergillus fumigatus"
+        },
+        {
+          "label": "D",
+          "text": "Candida albicans"
+        },
+        {
+          "label": "E",
+          "text": "Histoplasma capsulatum"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "Candida esophagitis presents with adherent white/yellow plaques; brushing reveals yeast and pseudohyphae. It is the most common infectious esophagitis in immunocompromised patients.",
+        "whyCorrect": "Candida esophagitis presents with adherent white/yellow plaques; brushing reveals yeast and pseudohyphae. It is the most common infectious esophagitis in immunocompromised patients.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "gipic-071_gi000_f13.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "gipic-096",
+      "topicId": "benign-esophageal-disorders",
+      "topicName": "Benign Esophageal Disorders",
+      "stem": "The right-hand panel, in which the gastroesophageal junction remains in place while the fundus herniates alongside the esophagus, carries a particular risk of which complication?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Zenker diverticulum"
+        },
+        {
+          "label": "B",
+          "text": "Achalasia"
+        },
+        {
+          "label": "C",
+          "text": "Gastric volvulus"
+        },
+        {
+          "label": "D",
+          "text": "Barrett metaplasia"
+        },
+        {
+          "label": "E",
+          "text": "Esophageal varices"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "In a paraesophageal hiatal hernia the GE junction stays intra-abdominal so reflux is uncommon, but the herniated fundus can twist, producing gastric volvulus with compromised blood flow and necrosis.",
+        "whyCorrect": "In a paraesophageal hiatal hernia the GE junction stays intra-abdominal so reflux is uncommon, but the herniated fundus can twist, producing gastric volvulus with compromised blood flow and necrosis.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "gipic-096_gi000_f04.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "gipic-097",
+      "topicId": "benign-esophageal-disorders",
+      "topicName": "Benign Esophageal Disorders",
+      "stem": "This endoscopic image shows a longitudinal mucosal laceration at the gastroesophageal junction in a patient with hematemesis after forceful vomiting. This injury is limited to which layer(s)?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Muscularis propria only"
+        },
+        {
+          "label": "B",
+          "text": "Mucosa and submucosa only"
+        },
+        {
+          "label": "C",
+          "text": "Adventitia only"
+        },
+        {
+          "label": "D",
+          "text": "Serosa and muscularis externa"
+        },
+        {
+          "label": "E",
+          "text": "Full thickness of the esophageal wall"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "A Mallory-Weiss tear is a longitudinal laceration limited to the mucosa (and submucosa) at the GE junction from a sudden rise in intragastric pressure; it usually resolves with supportive care.",
+        "whyCorrect": "A Mallory-Weiss tear is a longitudinal laceration limited to the mucosa (and submucosa) at the GE junction from a sudden rise in intragastric pressure; it usually resolves with supportive care.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "gipic-097_gi000_f18.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "gipic-098",
+      "topicId": "benign-esophageal-disorders",
+      "topicName": "Benign Esophageal Disorders",
+      "stem": "This intraoperative image shows a large defect in the esophageal wall following forceful vomiting. In contrast to a Mallory-Weiss tear, this lesion involves which of the following?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Full-thickness rupture of the esophageal wall"
+        },
+        {
+          "label": "B",
+          "text": "A fibrotic stricture of the distal esophagus"
+        },
+        {
+          "label": "C",
+          "text": "An outpouching of mucosa and submucosa"
+        },
+        {
+          "label": "D",
+          "text": "A partial mucosal laceration that self-resolves"
+        },
+        {
+          "label": "E",
+          "text": "Columnar metaplasia of the mucosa"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Boerhaave syndrome is a spontaneous full-thickness (transmural) rupture of the esophagus from forceful vomiting, allowing leakage into the mediastinum and causing mediastinitis; it is a surgical emergency.",
+        "whyCorrect": "Boerhaave syndrome is a spontaneous full-thickness (transmural) rupture of the esophagus from forceful vomiting, allowing leakage into the mediastinum and causing mediastinitis; it is a surgical emergency.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "gipic-098_gi000_f19.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "gipic-147",
+      "topicId": "benign-esophageal-disorders",
+      "topicName": "Benign Esophageal Disorders",
+      "stem": "In this parietal cell schematic, one drug class binds and irreversibly inhibits the transporter at the apical (luminal) membrane. Chronic use of that class is associated with malabsorption of which nutrient?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Vitamin K"
+        },
+        {
+          "label": "B",
+          "text": "Thiamine"
+        },
+        {
+          "label": "C",
+          "text": "Folate"
+        },
+        {
+          "label": "D",
+          "text": "Vitamin B12"
+        },
+        {
+          "label": "E",
+          "text": "Vitamin C"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "Proton pump inhibitors irreversibly block the apical H+/K+ ATPase; long-term acid suppression impairs release and absorption of vitamin B12 (and raises osteoporosis risk).",
+        "whyCorrect": "Proton pump inhibitors irreversibly block the apical H+/K+ ATPase; long-term acid suppression impairs release and absorption of vitamin B12 (and raises osteoporosis risk).",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "gipic-147_gi000_f09.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "gipic-152",
+      "topicId": "benign-esophageal-disorders",
+      "topicName": "Benign Esophageal Disorders",
+      "stem": "The muscular thickening highlighted at the gastroesophageal junction in this illustration serves primarily to accomplish which of the following?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Secrete bicarbonate to neutralize refluxed acid"
+        },
+        {
+          "label": "B",
+          "text": "Generate the primary peristaltic wave that propels the food bolus"
+        },
+        {
+          "label": "C",
+          "text": "Trigger the swallowing reflex via vagal afferents"
+        },
+        {
+          "label": "D",
+          "text": "Produce intrinsic factor for vitamin B12 absorption"
+        },
+        {
+          "label": "E",
+          "text": "Maintain tonic contraction that prevents retrograde flow"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "The image depicts the lower esophageal sphincter, a specialized thickening of circular smooth muscle at the GE junction that maintains resting tone to block retrograde movement of gastric contents; its failure underlies GERD.",
+        "whyCorrect": "The image depicts the lower esophageal sphincter, a specialized thickening of circular smooth muscle at the GE junction that maintains resting tone to block retrograde movement of gastric contents; its failure underlies GERD.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "gipic-152_gi000_f01.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "gipic-003",
+      "topicId": "peptic-ulcer-disease-and-gastritis",
+      "topicName": "Peptic Ulcer Disease and Gastritis",
+      "stem": "This anatomical diagram outlines a region bounded by the junction of the cystic and common bile ducts, the junction of the second and third parts of the duodenum, and the junction of the neck and body of the pancreas. Tumors secreting which hormone are most commonly localized to this region?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Vasoactive intestinal peptide"
+        },
+        {
+          "label": "B",
+          "text": "Gastrin"
+        },
+        {
+          "label": "C",
+          "text": "Cholecystokinin"
+        },
+        {
+          "label": "D",
+          "text": "Somatostatin"
+        },
+        {
+          "label": "E",
+          "text": "Secretin"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "About 90% of gastrinomas arise within this triangle, most often in the duodenum or head of the pancreas. Excess gastrin drives acid hypersecretion and the refractory ulcers of Zollinger-Ellison syndrome.",
+        "whyCorrect": "About 90% of gastrinomas arise within this triangle, most often in the duodenum or head of the pancreas. Excess gastrin drives acid hypersecretion and the refractory ulcers of Zollinger-Ellison syndrome.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "gipic-003_gi001_f04.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "gipic-004",
+      "topicId": "peptic-ulcer-disease-and-gastritis",
+      "topicName": "Peptic Ulcer Disease and Gastritis",
+      "stem": "This diagram shows a posterior duodenal ulcer that has eroded into the vessel lying immediately behind the first part of the duodenum, with suture ligation applied. What is the most likely clinical presentation of this complication?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Free air under the diaphragm from perforation"
+        },
+        {
+          "label": "B",
+          "text": "Chronic fat malabsorption and steatorrhea"
+        },
+        {
+          "label": "C",
+          "text": "Bilious vomiting from gastric outlet obstruction"
+        },
+        {
+          "label": "D",
+          "text": "Painless obstructive jaundice"
+        },
+        {
+          "label": "E",
+          "text": "Massive upper gastrointestinal hemorrhage"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "The gastroduodenal artery runs behind the first part of the duodenum, so posterior duodenal ulcers can erode into it and cause brisk upper GI bleeding (hematemesis and melena). Anterior ulcers, by contrast, tend to perforate.",
+        "whyCorrect": "The gastroduodenal artery runs behind the first part of the duodenum, so posterior duodenal ulcers can erode into it and cause brisk upper GI bleeding (hematemesis and melena). Anterior ulcers, by contrast, tend to perforate.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "gipic-004_gi001_f09.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "gipic-045",
+      "topicId": "peptic-ulcer-disease-and-gastritis",
+      "topicName": "Peptic Ulcer Disease and Gastritis",
+      "stem": "This gastric mucosal biopsy shows curved, rod-shaped organisms (arrows) lying along the surface of the epithelial cells within the overlying mucus. What is the most likely organism?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Giardia lamblia"
+        },
+        {
+          "label": "B",
+          "text": "Vibrio cholerae"
+        },
+        {
+          "label": "C",
+          "text": "Helicobacter pylori"
+        },
+        {
+          "label": "D",
+          "text": "Campylobacter jejuni"
+        },
+        {
+          "label": "E",
+          "text": "Candida albicans"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Helicobacter pylori is a gram-negative, curved (seagull-shaped) rod that colonizes the mucus layer over gastric epithelium. It produces urease to survive gastric acid and causes chronic gastritis, peptic ulcers, gastric cancer, and MALT lymphoma.",
+        "whyCorrect": "Helicobacter pylori is a gram-negative, curved (seagull-shaped) rod that colonizes the mucus layer over gastric epithelium. It produces urease to survive gastric acid and causes chronic gastritis, peptic ulcers, gastric cancer, and MALT lymphoma.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "gipic-045_gi001_f02.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "gipic-072",
+      "topicId": "peptic-ulcer-disease-and-gastritis",
+      "topicName": "Peptic Ulcer Disease and Gastritis",
+      "stem": "This endoscopic image of the duodenal bulb shows a mucosal defect that is actively oozing blood. What is the single most common underlying cause of this type of lesion worldwide?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Autoimmune destruction of parietal cells"
+        },
+        {
+          "label": "B",
+          "text": "Helicobacter pylori infection"
+        },
+        {
+          "label": "C",
+          "text": "Ischemic injury from vasculitis"
+        },
+        {
+          "label": "D",
+          "text": "Bile reflux gastropathy"
+        },
+        {
+          "label": "E",
+          "text": "Cytomegalovirus infection"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Helicobacter pylori and NSAID use are the two most common causes of peptic ulcers, and duodenal ulcers are especially associated with H. pylori. Bleeding is the most common complication of peptic ulcer disease.",
+        "whyCorrect": "Helicobacter pylori and NSAID use are the two most common causes of peptic ulcers, and duodenal ulcers are especially associated with H. pylori. Bleeding is the most common complication of peptic ulcer disease.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "gipic-072_gi001_f06.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "gipic-073",
+      "topicId": "peptic-ulcer-disease-and-gastritis",
+      "topicName": "Peptic Ulcer Disease and Gastritis",
+      "stem": "This endoscopic image shows diffusely reddened, friable gastric mucosa with loss of the normal rugal folds. These endoscopic features are most characteristic of which process?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Esophageal candidiasis"
+        },
+        {
+          "label": "B",
+          "text": "Normal fundic mucosa"
+        },
+        {
+          "label": "C",
+          "text": "Acute gastritis"
+        },
+        {
+          "label": "D",
+          "text": "Infiltrating gastric adenocarcinoma"
+        },
+        {
+          "label": "E",
+          "text": "Portal hypertensive gastropathy from cirrhosis"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Erythema (redness) of the gastric mucosa, superficial erosions, and loss of rugal folds are typical endoscopic findings of gastritis, reflecting mucosal inflammation and injury.",
+        "whyCorrect": "Erythema (redness) of the gastric mucosa, superficial erosions, and loss of rugal folds are typical endoscopic findings of gastritis, reflecting mucosal inflammation and injury.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "gipic-073_gi001_f07.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "gipic-074",
+      "topicId": "peptic-ulcer-disease-and-gastritis",
+      "topicName": "Peptic Ulcer Disease and Gastritis",
+      "stem": "In this rapid urease test kit, the specimen well changes from yellow toward bright pink after a gastric biopsy is added. What is the biochemical basis for a positive (pink) result?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Bacterial urease hydrolyzes urea to ammonia, raising the pH"
+        },
+        {
+          "label": "B",
+          "text": "Bacterial fermentation of glucose lowers the pH and turns the indicator pink"
+        },
+        {
+          "label": "C",
+          "text": "Host neutrophil peroxidase cleaves the indicator substrate"
+        },
+        {
+          "label": "D",
+          "text": "Bacterial catalase releases oxygen that oxidizes the indicator"
+        },
+        {
+          "label": "E",
+          "text": "Antibodies in the biopsy bind a colored dye conjugate"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Helicobacter pylori urease splits urea into ammonia and carbon dioxide. The ammonia raises the local pH, converting the phenol-red indicator from yellow to pink, which is read as a positive rapid urease (CLO) test.",
+        "whyCorrect": "Helicobacter pylori urease splits urea into ammonia and carbon dioxide. The ammonia raises the local pH, converting the phenol-red indicator from yellow to pink, which is read as a positive rapid urease (CLO) test.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "gipic-074_gi001_f08.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "gipic-075",
+      "topicId": "peptic-ulcer-disease-and-gastritis",
+      "topicName": "Peptic Ulcer Disease and Gastritis",
+      "stem": "In a patient with sudden severe abdominal pain and a rigid abdomen, this upright chest radiograph and abdominal CT (red arrows) reveal the indicated abnormality. What does it represent?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "A large pleural effusion"
+        },
+        {
+          "label": "B",
+          "text": "A sliding hiatal hernia"
+        },
+        {
+          "label": "C",
+          "text": "Air-fluid levels of small bowel obstruction"
+        },
+        {
+          "label": "D",
+          "text": "A tension pneumothorax"
+        },
+        {
+          "label": "E",
+          "text": "Free intraperitoneal air (pneumoperitoneum)"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "A perforated ulcer allows gas to escape into the peritoneal cavity. An upright chest x-ray shows free air beneath the diaphragm in about 85% of cases, and CT is more sensitive for detecting small amounts of free air.",
+        "whyCorrect": "A perforated ulcer allows gas to escape into the peritoneal cavity. An upright chest x-ray shows free air beneath the diaphragm in about 85% of cases, and CT is more sensitive for detecting small amounts of free air.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "gipic-075_gi001_f10.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "gipic-153",
+      "topicId": "peptic-ulcer-disease-and-gastritis",
+      "topicName": "Peptic Ulcer Disease and Gastritis",
+      "stem": "This schematic depicts the gastric mucosal barrier and the pH gradient across the mucus gel layer, from strongly acidic in the lumen to near-neutral at the epithelial surface. What is primarily responsible for maintaining the near-neutral pH directly at the epithelial cell surface?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Active proton pumping by parietal cells into the mucosa"
+        },
+        {
+          "label": "B",
+          "text": "Neutralization of acid by refluxed pancreatic enzymes"
+        },
+        {
+          "label": "C",
+          "text": "Surface epithelial secretion of bicarbonate"
+        },
+        {
+          "label": "D",
+          "text": "Tight junctions blocking all movement of hydrogen ions"
+        },
+        {
+          "label": "E",
+          "text": "Rapid gastric emptying that clears luminal acid"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Surface epithelial cells secrete bicarbonate into the adherent mucus gel, creating a steep pH gradient (about 2 in the lumen to about 7 at the cell surface). Prostaglandins stimulate this mucus and bicarbonate secretion, forming the protective mucosal barrier.",
+        "whyCorrect": "Surface epithelial cells secrete bicarbonate into the adherent mucus gel, creating a steep pH gradient (about 2 in the lumen to about 7 at the cell surface). Prostaglandins stimulate this mucus and bicarbonate secretion, forming the protective mucosal barrier.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "gipic-153_gi001_f01.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "gipic-046",
+      "topicId": "oral-salivary-gland-and-esophageal-neoplasms",
+      "topicName": "Oral, Salivary Gland, and Esophageal Neoplasms",
+      "stem": "This low- and high-power histology of a well-demarcated parotid tumor shows a mixture of ductal (epithelial) and myoepithelial cells set within a distinctive background matrix. Which matrix is characteristic of this tumor?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Dense lymphoid stroma with germinal centers"
+        },
+        {
+          "label": "B",
+          "text": "Chondromyxoid (myxoid and hyaline) stroma"
+        },
+        {
+          "label": "C",
+          "text": "Amyloid deposition"
+        },
+        {
+          "label": "D",
+          "text": "Mucin-filled cystic spaces"
+        },
+        {
+          "label": "E",
+          "text": "Desmoplastic fibrous stroma"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Pleomorphic adenoma shows epithelial and myoepithelial cells embedded in a chondromyxoid matrix. This mixed pattern distinguishes it from Warthin tumor (lymphoid stroma) and mucoepidermoid carcinoma (mucous cells).",
+        "whyCorrect": "Pleomorphic adenoma shows epithelial and myoepithelial cells embedded in a chondromyxoid matrix. This mixed pattern distinguishes it from Warthin tumor (lymphoid stroma) and mucoepidermoid carcinoma (mucous cells).",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "gipic-046_gi002_f05.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "gipic-047",
+      "topicId": "oral-salivary-gland-and-esophageal-neoplasms",
+      "topicName": "Oral, Salivary Gland, and Esophageal Neoplasms",
+      "stem": "This salivary gland tumor shows a double layer of oncocytic epithelial cells resting on a dense lymphoid stroma that contains a follicular germinal center. Which tumor and risk-factor association is correct?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Warthin tumor - strongly associated with smoking"
+        },
+        {
+          "label": "B",
+          "text": "Adenoid cystic carcinoma - associated with perineural invasion"
+        },
+        {
+          "label": "C",
+          "text": "Mucoepidermoid carcinoma - associated with a chromosomal translocation"
+        },
+        {
+          "label": "D",
+          "text": "Pleomorphic adenoma - associated with prior radiation exposure"
+        },
+        {
+          "label": "E",
+          "text": "Chronic sialadenitis - associated with ductal obstruction"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "A bilayered oncocytic epithelium over lymphoid stroma with germinal centers is diagnostic of Warthin tumor. It arises almost exclusively in the parotid gland and is strongly linked to smoking.",
+        "whyCorrect": "A bilayered oncocytic epithelium over lymphoid stroma with germinal centers is diagnostic of Warthin tumor. It arises almost exclusively in the parotid gland and is strongly linked to smoking.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "gipic-047_gi002_f06.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "gipic-076",
+      "topicId": "oral-salivary-gland-and-esophageal-neoplasms",
+      "topicName": "Oral, Salivary Gland, and Esophageal Neoplasms",
+      "stem": "This contrast-enhanced axial neck CT shows an infiltrating soft-tissue mass with a small adjacent regional node, with a coronal reconstruction confirming its location. In the workup of an oral cavity neoplasm, what is the primary purpose of obtaining this study?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "To establish the definitive tissue diagnosis"
+        },
+        {
+          "label": "B",
+          "text": "To screen for Barrett esophagus"
+        },
+        {
+          "label": "C",
+          "text": "To measure salivary gland flow rate"
+        },
+        {
+          "label": "D",
+          "text": "To assess locoregional and metastatic disease"
+        },
+        {
+          "label": "E",
+          "text": "To evaluate esophageal motility"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "CT of the neck and chest with contrast is used to stage head and neck cancer by defining the primary tumor extent and nodal/metastatic spread; a definitive diagnosis still requires tissue sampling.",
+        "whyCorrect": "CT of the neck and chest with contrast is used to stage head and neck cancer by defining the primary tumor extent and nodal/metastatic spread; a definitive diagnosis still requires tissue sampling.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "gipic-076_gi002_f03.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "gipic-099",
+      "topicId": "oral-salivary-gland-and-esophageal-neoplasms",
+      "topicName": "Oral, Salivary Gland, and Esophageal Neoplasms",
+      "stem": "The clinical photograph shows an ulcerated, indurated lesion of the oral mucosa, and the corresponding histology shows nests and islands of malignant keratinocytes invading the underlying stroma. Which risk-factor combination is most classically associated with this lesion?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Autoimmune sialadenitis"
+        },
+        {
+          "label": "B",
+          "text": "Chronic gastroesophageal reflux"
+        },
+        {
+          "label": "C",
+          "text": "Epstein-Barr virus infection"
+        },
+        {
+          "label": "D",
+          "text": "Tobacco and alcohol use"
+        },
+        {
+          "label": "E",
+          "text": "High-risk HPV infection"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "This is keratinizing squamous cell carcinoma of the oral cavity, classically driven by combined tobacco and alcohol exposure, in contrast to HPV-driven nonkeratinizing oropharyngeal SCC.",
+        "whyCorrect": "This is keratinizing squamous cell carcinoma of the oral cavity, classically driven by combined tobacco and alcohol exposure, in contrast to HPV-driven nonkeratinizing oropharyngeal SCC.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "gipic-099_gi002_f02.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "gipic-100",
+      "topicId": "oral-salivary-gland-and-esophageal-neoplasms",
+      "topicName": "Oral, Salivary Gland, and Esophageal Neoplasms",
+      "stem": "This schematic maps the two main esophageal cancers to their typical anatomic locations. The lesion depicted in the distal third of the esophagus most commonly arises from which precursor lesion?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Zenker diverticulum"
+        },
+        {
+          "label": "B",
+          "text": "Plummer-Vinson esophageal web"
+        },
+        {
+          "label": "C",
+          "text": "Barrett esophagus (intestinal metaplasia)"
+        },
+        {
+          "label": "D",
+          "text": "Squamous dysplasia from caustic injury"
+        },
+        {
+          "label": "E",
+          "text": "Achalasia-related stasis"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "The distal-third tumor is adenocarcinoma, which arises from Barrett esophagus (intestinal metaplasia) due to chronic acid reflux. Squamous cell carcinoma predominates in the upper two-thirds.",
+        "whyCorrect": "The distal-third tumor is adenocarcinoma, which arises from Barrett esophagus (intestinal metaplasia) due to chronic acid reflux. Squamous cell carcinoma predominates in the upper two-thirds.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "gipic-100_gi002_f07.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "gipic-101",
+      "topicId": "oral-salivary-gland-and-esophageal-neoplasms",
+      "topicName": "Oral, Salivary Gland, and Esophageal Neoplasms",
+      "stem": "These two gross esophageal specimens show malignant lesions: one (A) extending into the gastric cardia distally and the other (B) producing a stricture in the mid-esophagus. Which risk factor is most specific to the distal lesion in panel A?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Achalasia"
+        },
+        {
+          "label": "B",
+          "text": "Plummer-Vinson syndrome"
+        },
+        {
+          "label": "C",
+          "text": "Ingestion of caustic agents"
+        },
+        {
+          "label": "D",
+          "text": "Cigarette smoking"
+        },
+        {
+          "label": "E",
+          "text": "Chronic gastroesophageal reflux"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "The distal lesion extending into the gastric cardia (A) is adenocarcinoma, driven by chronic GERD and Barrett esophagus. The mid-esophageal stricturing lesion (B) is squamous cell carcinoma, linked to smoking, alcohol, and caustic injury.",
+        "whyCorrect": "The distal lesion extending into the gastric cardia (A) is adenocarcinoma, driven by chronic GERD and Barrett esophagus. The mid-esophageal stricturing lesion (B) is squamous cell carcinoma, linked to smoking, alcohol, and caustic injury.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "gipic-101_gi002_f08.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "gipic-102",
+      "topicId": "oral-salivary-gland-and-esophageal-neoplasms",
+      "topicName": "Oral, Salivary Gland, and Esophageal Neoplasms",
+      "stem": "This esophageal biopsy shows malignant infiltrating nests of squamous epithelium with no background of Barrett metaplasia. Which cancer, and its strongest risk factor, does this represent?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Signet-ring adenocarcinoma - H. pylori infection"
+        },
+        {
+          "label": "B",
+          "text": "Squamous cell carcinoma - smoking"
+        },
+        {
+          "label": "C",
+          "text": "Adenoid cystic carcinoma - perineural spread"
+        },
+        {
+          "label": "D",
+          "text": "Adenocarcinoma - chronic reflux"
+        },
+        {
+          "label": "E",
+          "text": "Small cell carcinoma - paraneoplastic syndromes"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Nests of malignant squamous epithelium without Barrett metaplasia indicate squamous cell carcinoma, most strongly associated with smoking (also alcohol, hot liquids, and caustic ingestion); it favors the upper two-thirds of the esophagus.",
+        "whyCorrect": "Nests of malignant squamous epithelium without Barrett metaplasia indicate squamous cell carcinoma, most strongly associated with smoking (also alcohol, hot liquids, and caustic ingestion); it favors the upper two-thirds of the esophagus.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "gipic-102_gi002_f10.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "gipic-077",
+      "topicId": "gastric-neoplasms",
+      "topicName": "Gastric Neoplasms",
+      "stem": "This abdominal CT shows a well-circumscribed mass arising from the stomach wall and displacing the adjacent stomach, vessels, pancreas, and liver. This tumor most commonly arises from which cell type and driver mutation?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Foveolar epithelium with CDH1/E-cadherin loss"
+        },
+        {
+          "label": "B",
+          "text": "Enterochromaffin-like cells with a MEN1 mutation"
+        },
+        {
+          "label": "C",
+          "text": "Smooth muscle cells with a TP53 mutation"
+        },
+        {
+          "label": "D",
+          "text": "Interstitial cells of Cajal with a KIT mutation"
+        },
+        {
+          "label": "E",
+          "text": "B lymphocytes with H. pylori-driven proliferation"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "A submucosal, well-circumscribed gastric mass is typical of a gastrointestinal stromal tumor (GIST), which arises from the interstitial cells of Cajal, most often via activating KIT (or PDGFRA) mutations.",
+        "whyCorrect": "A submucosal, well-circumscribed gastric mass is typical of a gastrointestinal stromal tumor (GIST), which arises from the interstitial cells of Cajal, most often via activating KIT (or PDGFRA) mutations.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "gipic-077_gi003_f10.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "gipic-103",
+      "topicId": "gastric-neoplasms",
+      "topicName": "Gastric Neoplasms",
+      "stem": "This endoscopic view of the stomach shows several small, smooth, dome-shaped mucosal nodules. These lesions are most commonly the result of which underlying process?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Chronic inflammation"
+        },
+        {
+          "label": "B",
+          "text": "Ectopic pancreatic rest"
+        },
+        {
+          "label": "C",
+          "text": "Autoimmune destruction of parietal cells"
+        },
+        {
+          "label": "D",
+          "text": "Gastrin-secreting neuroendocrine tumor"
+        },
+        {
+          "label": "E",
+          "text": "Germline APC mutation (familial adenomatous polyposis)"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "These are hyperplastic gastric polyps, the most common gastric polyp. They arise from overactive/uncontrolled foveolar proliferation driven by chronic inflammation, classically chronic H. pylori gastritis, and are usually benign.",
+        "whyCorrect": "These are hyperplastic gastric polyps, the most common gastric polyp. They arise from overactive/uncontrolled foveolar proliferation driven by chronic inflammation, classically chronic H. pylori gastritis, and are usually benign.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "gipic-103_gi003_f01.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "gipic-104",
+      "topicId": "gastric-neoplasms",
+      "topicName": "Gastric Neoplasms",
+      "stem": "This endoscopic image of the gastric antrum shows a solitary, flat mucosal lesion. Compared with the far more common hyperplastic polyp, this type of lesion is distinguished by which feature?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "It represents heterotopic pancreatic tissue"
+        },
+        {
+          "label": "B",
+          "text": "It is dysplastic and premalignant"
+        },
+        {
+          "label": "C",
+          "text": "It is composed of mucosa-associated lymphoid tissue"
+        },
+        {
+          "label": "D",
+          "text": "It has essentially no malignant potential"
+        },
+        {
+          "label": "E",
+          "text": "It arises from interstitial cells of Cajal"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "This is a gastric adenoma. Unlike hyperplastic polyps, adenomas are dysplastic by definition and are a recognized precursor to intestinal-type gastric adenocarcinoma; larger, flatter lesions carry the greatest risk.",
+        "whyCorrect": "This is a gastric adenoma. Unlike hyperplastic polyps, adenomas are dysplastic by definition and are a recognized precursor to intestinal-type gastric adenocarcinoma; larger, flatter lesions carry the greatest risk.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "gipic-104_gi003_f02.png",
+      "tags": [
+        "picture"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,669 @@
+{
+  "categoryId": "w2s3",
+  "categoryName": "Session 3",
+  "questions": [
+    {
+      "id": "gipic-118",
+      "topicId": "metabolic-dysfunction-associated-steatotic-liver-disease",
+      "topicName": "Metabolic Dysfunction-Associated Steatotic Liver Disease",
+      "stem": "This H&E-stained liver biopsy shows numerous large, clear, round vacuoles that fill the hepatocytes and displace their nuclei to the cell periphery. What do these vacuoles most likely represent?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Hydropic (ballooning) degeneration"
+        },
+        {
+          "label": "B",
+          "text": "Dilated blood-filled sinusoids"
+        },
+        {
+          "label": "C",
+          "text": "Large-droplet triglyceride accumulation"
+        },
+        {
+          "label": "D",
+          "text": "Cholestatic bile accumulation"
+        },
+        {
+          "label": "E",
+          "text": "Intracellular glycogen accumulation"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "In hepatic steatosis, triglyceride droplets coalesce into a single large vacuole that pushes the nucleus to the periphery, producing macrovesicular fat. Zone 3 (centrilobular) accentuation is characteristic of adult MASLD.",
+        "whyCorrect": "In hepatic steatosis, triglyceride droplets coalesce into a single large vacuole that pushes the nucleus to the periphery, producing macrovesicular fat. Zone 3 (centrilobular) accentuation is characteristic of adult MASLD.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "gipic-118_gi011_f01.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "gipic-052",
+      "topicId": "alcohol-associated-liver-disease",
+      "topicName": "Alcohol-Associated Liver Disease",
+      "stem": "This photomicrograph shows orderly plates of hepatocytes arranged in cords separated by sinusoids, with no fat, inflammation, or fibrosis. What does this liver histology represent?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Alcoholic steatosis"
+        },
+        {
+          "label": "B",
+          "text": "Cirrhosis"
+        },
+        {
+          "label": "C",
+          "text": "Normal liver"
+        },
+        {
+          "label": "D",
+          "text": "Alcoholic steatohepatitis"
+        },
+        {
+          "label": "E",
+          "text": "Hepatocellular carcinoma"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Normal hepatic architecture consists of hepatocyte cords radiating from central veins, separated by sinusoids, with intact lobular structure and no accumulated fat, inflammatory infiltrate, or collagen deposition.",
+        "whyCorrect": "Normal hepatic architecture consists of hepatocyte cords radiating from central veins, separated by sinusoids, with intact lobular structure and no accumulated fat, inflammatory infiltrate, or collagen deposition.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "gipic-052_gi012_f04.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "gipic-082",
+      "topicId": "alcohol-associated-liver-disease",
+      "topicName": "Alcohol-Associated Liver Disease",
+      "stem": "This CT scan compares a normal liver with a fatty liver from alcohol-associated liver disease. Compared with normal, how does the fatty liver appear in terms of attenuation?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "No change in attenuation"
+        },
+        {
+          "label": "B",
+          "text": "Increased attenuation (brighter than normal)"
+        },
+        {
+          "label": "C",
+          "text": "Reduced attenuation (darker than normal)"
+        },
+        {
+          "label": "D",
+          "text": "Increased contrast enhancement"
+        },
+        {
+          "label": "E",
+          "text": "Diffuse calcification"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Fat has low attenuation on CT, so a steatotic liver appears darker (reduced attenuation) than a normal liver, and may appear lower in density than the spleen or intrahepatic vessels.",
+        "whyCorrect": "Fat has low attenuation on CT, so a steatotic liver appears darker (reduced attenuation) than a normal liver, and may appear lower in density than the spleen or intrahepatic vessels.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "gipic-082_gi012_f09.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "gipic-119",
+      "topicId": "alcohol-associated-liver-disease",
+      "topicName": "Alcohol-Associated Liver Disease",
+      "stem": "This schematic depicts the spectrum of alcohol-associated liver disease progressing to cirrhosis with bridging fibrosis. Which cell type is primarily responsible for producing the excess collagen that drives this fibrosis?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Sinusoidal endothelial cells"
+        },
+        {
+          "label": "B",
+          "text": "Hepatic stellate cells"
+        },
+        {
+          "label": "C",
+          "text": "Hepatocytes"
+        },
+        {
+          "label": "D",
+          "text": "Cholangiocytes"
+        },
+        {
+          "label": "E",
+          "text": "Kupffer cells"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "In alcohol-associated liver injury, activated hepatic stellate cells transform into collagen-secreting myofibroblasts that deposit the bridging bands of fibrosis characteristic of cirrhosis. Kupffer cells drive inflammation but do not lay down collagen.",
+        "whyCorrect": "In alcohol-associated liver injury, activated hepatic stellate cells transform into collagen-secreting myofibroblasts that deposit the bridging bands of fibrosis characteristic of cirrhosis. Kupffer cells drive inflammation but do not lay down collagen.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "gipic-119_gi012_f01.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "gipic-120",
+      "topicId": "alcohol-associated-liver-disease",
+      "topicName": "Alcohol-Associated Liver Disease",
+      "stem": "This medium-magnification liver biopsy shows numerous large, clear, round vacuoles that displace hepatocyte nuclei to the periphery. Which substance is predominantly accumulating within these hepatocytes?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Iron"
+        },
+        {
+          "label": "B",
+          "text": "Glycogen"
+        },
+        {
+          "label": "C",
+          "text": "Copper"
+        },
+        {
+          "label": "D",
+          "text": "Bile"
+        },
+        {
+          "label": "E",
+          "text": "Triglycerides"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "Macrovesicular hepatic steatosis in alcohol use results from accumulation of triglycerides within hepatocytes, driven by increased NADH shifting metabolism toward lipogenesis and away from beta-oxidation.",
+        "whyCorrect": "Macrovesicular hepatic steatosis in alcohol use results from accumulation of triglycerides within hepatocytes, driven by increased NADH shifting metabolism toward lipogenesis and away from beta-oxidation.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "gipic-120_gi012_f02.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "gipic-121",
+      "topicId": "alcohol-associated-liver-disease",
+      "topicName": "Alcohol-Associated Liver Disease",
+      "stem": "This liver biopsy shows hepatocytes with fat droplets accompanied by clusters of irregular, dark-nucleated inflammatory cells surrounding injured hepatocytes. This histologic picture is most characteristic of which stage of alcohol-associated liver disease?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Hereditary hemochromatosis"
+        },
+        {
+          "label": "B",
+          "text": "Alcoholic steatohepatitis"
+        },
+        {
+          "label": "C",
+          "text": "Simple steatosis"
+        },
+        {
+          "label": "D",
+          "text": "Cirrhosis"
+        },
+        {
+          "label": "E",
+          "text": "Normal liver"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Neutrophilic inflammation superimposed on fatty change defines steatohepatitis, a more severe and potentially irreversible stage than simple steatosis. The neutrophils are drawn in by cytokines from activated Kupffer cells.",
+        "whyCorrect": "Neutrophilic inflammation superimposed on fatty change defines steatohepatitis, a more severe and potentially irreversible stage than simple steatosis. The neutrophils are drawn in by cytokines from activated Kupffer cells.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "gipic-121_gi012_f03.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "gipic-122",
+      "topicId": "alcohol-associated-liver-disease",
+      "topicName": "Alcohol-Associated Liver Disease",
+      "stem": "This high-magnification field shows swollen, injured hepatocytes containing dense, eosinophilic, rope-like cytoplasmic inclusions. These inclusions are composed of which cellular component?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Collagen"
+        },
+        {
+          "label": "B",
+          "text": "Immunoglobulin"
+        },
+        {
+          "label": "C",
+          "text": "Lipid"
+        },
+        {
+          "label": "D",
+          "text": "Aggregated intermediate filaments"
+        },
+        {
+          "label": "E",
+          "text": "Glycogen"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "The rope-like pink inclusions are Mallory bodies (Mallory-Denk hyaline), which are clumps of misfolded intermediate filaments such as cytokeratins found in damaged, ballooned hepatocytes.",
+        "whyCorrect": "The rope-like pink inclusions are Mallory bodies (Mallory-Denk hyaline), which are clumps of misfolded intermediate filaments such as cytokeratins found in damaged, ballooned hepatocytes.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "gipic-122_gi012_f05.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "gipic-123",
+      "topicId": "alcohol-associated-liver-disease",
+      "topicName": "Alcohol-Associated Liver Disease",
+      "stem": "This stained liver section shows broad blue-green bands of connective tissue encircling rounded nodules of regenerating hepatocytes, disrupting the normal lobular architecture. What does this pattern represent?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Acute viral hepatitis"
+        },
+        {
+          "label": "B",
+          "text": "Normal liver"
+        },
+        {
+          "label": "C",
+          "text": "Simple steatosis"
+        },
+        {
+          "label": "D",
+          "text": "Cirrhosis"
+        },
+        {
+          "label": "E",
+          "text": "Cholestasis"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "Bridging fibrosis surrounding regenerative nodules is the defining architecture of cirrhosis, the irreversible end stage of alcohol-associated liver disease with disrupted sinusoidal architecture and impaired function.",
+        "whyCorrect": "Bridging fibrosis surrounding regenerative nodules is the defining architecture of cirrhosis, the irreversible end stage of alcohol-associated liver disease with disrupted sinusoidal architecture and impaired function.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "gipic-123_gi012_f06.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "gipic-124",
+      "topicId": "alcohol-associated-liver-disease",
+      "topicName": "Alcohol-Associated Liver Disease",
+      "stem": "This photograph of the hand of a patient with chronic heavy alcohol use shows fixed flexion of the fourth and fifth digits due to thickening and shortening of the palmar fascia. What is this finding?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Raynaud phenomenon"
+        },
+        {
+          "label": "B",
+          "text": "Carpal tunnel syndrome"
+        },
+        {
+          "label": "C",
+          "text": "Trigger finger"
+        },
+        {
+          "label": "D",
+          "text": "Dupuytren contracture"
+        },
+        {
+          "label": "E",
+          "text": "Rheumatoid swan-neck deformity"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "Dupuytren contracture is a benign fibrosing condition in which rope-like cords of collagen in the palmar fascia pull the fingers inward; it is associated with chronic alcohol use, though the mechanism is unknown.",
+        "whyCorrect": "Dupuytren contracture is a benign fibrosing condition in which rope-like cords of collagen in the palmar fascia pull the fingers inward; it is associated with chronic alcohol use, though the mechanism is unknown.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "gipic-124_gi012_f07.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "gipic-161",
+      "topicId": "hepatic-ethanol-metabolism",
+      "topicName": "Hepatic Ethanol Metabolism",
+      "stem": "The lower panel of this figure shows that during ethanol metabolism the gluconeogenic precursors pyruvate and oxaloacetate are shunted toward lactate and malate, respectively. Which single biochemical change most directly drives both of these conversions?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Accumulation of acetyl-CoA activating pyruvate carboxylase"
+        },
+        {
+          "label": "B",
+          "text": "Increased cytosolic pH shifting equilibrium toward products"
+        },
+        {
+          "label": "C",
+          "text": "An elevated NAD+/NADH ratio that oxidizes both substrates"
+        },
+        {
+          "label": "D",
+          "text": "An elevated NADH/NAD+ ratio from ethanol oxidation"
+        },
+        {
+          "label": "E",
+          "text": "Depletion of ATP that halts gluconeogenic enzymes"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "Ethanol oxidation floods the cell with NADH, raising the NADH/NAD+ ratio. This drives lactate dehydrogenase (pyruvate to lactate) and malate dehydrogenase (oxaloacetate to malate), depleting gluconeogenic precursors and causing fasting hypoglycemia.",
+        "whyCorrect": "Ethanol oxidation floods the cell with NADH, raising the NADH/NAD+ ratio. This drives lactate dehydrogenase (pyruvate to lactate) and malate dehydrogenase (oxaloacetate to malate), depleting gluconeogenic precursors and causing fasting hypoglycemia.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "gipic-161_gi013_f03.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "gipic-083",
+      "topicId": "inherited-metabolic-liver-diseases",
+      "topicName": "Inherited Metabolic Liver Diseases",
+      "stem": "These liver histology panels use a special histochemical stain that turns accumulated intracellular deposits bright blue. Which stain produces this reaction?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Masson trichrome stain"
+        },
+        {
+          "label": "B",
+          "text": "Rhodanine (copper) stain"
+        },
+        {
+          "label": "C",
+          "text": "Prussian blue (Perls) stain"
+        },
+        {
+          "label": "D",
+          "text": "Congo red stain"
+        },
+        {
+          "label": "E",
+          "text": "Gomori methenamine silver stain"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "The Prussian blue (Perls) reaction stains ferric iron in hemosiderin bright blue, demonstrating iron overload within hepatocytes and Kupffer cells in hemochromatosis.",
+        "whyCorrect": "The Prussian blue (Perls) reaction stains ferric iron in hemosiderin bright blue, demonstrating iron overload within hepatocytes and Kupffer cells in hemochromatosis.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "gipic-083_gi014_f04.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "gipic-125",
+      "topicId": "inherited-metabolic-liver-diseases",
+      "topicName": "Inherited Metabolic Liver Diseases",
+      "stem": "This slit-lamp photograph shows a brownish ring at the corneal margin of the eye. What substance accumulates, and in which layer, to produce this finding?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Calcium deposited in Bowman layer"
+        },
+        {
+          "label": "B",
+          "text": "Copper deposited in the Descemet membrane"
+        },
+        {
+          "label": "C",
+          "text": "Cholesterol deposited in the peripheral cornea"
+        },
+        {
+          "label": "D",
+          "text": "Melanin accumulation in the iris stroma"
+        },
+        {
+          "label": "E",
+          "text": "Iron deposited in the corneal epithelium"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "The pigmented ring is a Kayser-Fleischer ring, caused by copper depositing in the Descemet membrane of the cornea in Wilson disease due to impaired biliary copper excretion.",
+        "whyCorrect": "The pigmented ring is a Kayser-Fleischer ring, caused by copper depositing in the Descemet membrane of the cornea in Wilson disease due to impaired biliary copper excretion.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "gipic-125_gi014_f01.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "gipic-126",
+      "topicId": "inherited-metabolic-liver-diseases",
+      "topicName": "Inherited Metabolic Liver Diseases",
+      "stem": "This liver biopsy shows round pink globules accumulating within hepatocytes in the disorder indicated. What is the characteristic histochemical staining property of these globules?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Congo red-positive with apple-green birefringence"
+        },
+        {
+          "label": "B",
+          "text": "Mucicarmine-positive"
+        },
+        {
+          "label": "C",
+          "text": "PAS-positive and diastase-resistant"
+        },
+        {
+          "label": "D",
+          "text": "Oil red O-positive"
+        },
+        {
+          "label": "E",
+          "text": "Prussian blue-positive"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "In alpha-1 antitrypsin deficiency, misfolded A1AT accumulates in the hepatocyte endoplasmic reticulum as globules that are PAS-positive and resistant to diastase digestion.",
+        "whyCorrect": "In alpha-1 antitrypsin deficiency, misfolded A1AT accumulates in the hepatocyte endoplasmic reticulum as globules that are PAS-positive and resistant to diastase digestion.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "gipic-126_gi014_f05.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "gipic-053",
+      "topicId": "cirrhosis-and-portal-hypertension",
+      "topicName": "Cirrhosis and Portal Hypertension",
+      "stem": "This medium-magnification liver section (special connective-tissue stain) shows blue-green bands of collagen surrounding rounded nodules of hepatocytes with disrupted lobular architecture. This histologic pattern is diagnostic of which condition?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Cirrhosis"
+        },
+        {
+          "label": "B",
+          "text": "Hepatocellular carcinoma"
+        },
+        {
+          "label": "C",
+          "text": "Acute viral hepatitis"
+        },
+        {
+          "label": "D",
+          "text": "Normal liver"
+        },
+        {
+          "label": "E",
+          "text": "Hepatic steatosis"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Cirrhosis is defined histologically by bridging fibrous septa (collagen produced by activated hepatic stellate cells) enclosing regenerative nodules of hepatocytes, disrupting normal lobular architecture and sinusoidal blood flow.",
+        "whyCorrect": "Cirrhosis is defined histologically by bridging fibrous septa (collagen produced by activated hepatic stellate cells) enclosing regenerative nodules of hepatocytes, disrupting normal lobular architecture and sinusoidal blood flow.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "gipic-053_gi015_f06.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "gipic-084",
+      "topicId": "cirrhosis-and-portal-hypertension",
+      "topicName": "Cirrhosis and Portal Hypertension",
+      "stem": "This abdominal ultrasound of the liver demonstrates a small organ with coarse, heterogeneous echotexture and an irregular, nodular surface contour. These findings are most consistent with which diagnosis?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Normal liver parenchyma"
+        },
+        {
+          "label": "B",
+          "text": "Simple hepatic cyst"
+        },
+        {
+          "label": "C",
+          "text": "Cirrhosis"
+        },
+        {
+          "label": "D",
+          "text": "Acute cholecystitis"
+        },
+        {
+          "label": "E",
+          "text": "Hepatic hemangioma"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "In cirrhosis the liver becomes small with coarse echotexture and a nodular surface on ultrasound. Imaging supports the diagnosis but is not by itself sufficiently sensitive or specific to establish cirrhosis definitively.",
+        "whyCorrect": "In cirrhosis the liver becomes small with coarse echotexture and a nodular surface on ultrasound. Imaging supports the diagnosis but is not by itself sufficiently sensitive or specific to establish cirrhosis definitively.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "gipic-084_gi015_f07.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "gipic-127",
+      "topicId": "cirrhosis-and-portal-hypertension",
+      "topicName": "Cirrhosis and Portal Hypertension",
+      "stem": "This cirrhotic patient has dilated, tortuous veins radiating outward from the umbilicus across the abdominal wall. This finding arises from portosystemic shunting through which recanalized structure?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Thoracic duct"
+        },
+        {
+          "label": "B",
+          "text": "Superior mesenteric artery"
+        },
+        {
+          "label": "C",
+          "text": "Inferior vena cava"
+        },
+        {
+          "label": "D",
+          "text": "Paraumbilical veins"
+        },
+        {
+          "label": "E",
+          "text": "Splenic artery"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "Caput medusae results from anastomosis between engorged paraumbilical veins and small epigastric veins of the abdominal wall, driven by portal hypertension. Recanalization of the paraumbilical/umbilical vein produces the visible radiating collaterals.",
+        "whyCorrect": "Caput medusae results from anastomosis between engorged paraumbilical veins and small epigastric veins of the abdominal wall, driven by portal hypertension. Recanalization of the paraumbilical/umbilical vein produces the visible radiating collaterals.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "gipic-127_gi015_f02.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "gipic-128",
+      "topicId": "cirrhosis-and-portal-hypertension",
+      "topicName": "Cirrhosis and Portal Hypertension",
+      "stem": "This patient with cirrhosis shows marked, symmetric abdominal distention with bulging flanks from fluid within the peritoneal cavity. Which mechanism is the primary driver of this fluid accumulation?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Increased serum albumin synthesis"
+        },
+        {
+          "label": "B",
+          "text": "Elevated plasma oncotic pressure"
+        },
+        {
+          "label": "C",
+          "text": "Bacterial gas production within the bowel"
+        },
+        {
+          "label": "D",
+          "text": "Increased portal venous hydrostatic pressure"
+        },
+        {
+          "label": "E",
+          "text": "Enhanced renal sodium excretion"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "Ascites in cirrhosis is driven chiefly by portal hypertension (raised hydrostatic pressure) together with hypoalbuminemia (low oncotic pressure) and renal sodium/water retention from systemic vasodilation. This produces tense abdominal distention with shifting dullness.",
+        "whyCorrect": "Ascites in cirrhosis is driven chiefly by portal hypertension (raised hydrostatic pressure) together with hypoalbuminemia (low oncotic pressure) and renal sodium/water retention from systemic vasodilation. This produces tense abdominal distention with shifting dullness.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "gipic-128_gi015_f03.png",
+      "tags": [
+        "picture"
+      ]
+    }
+  ]
+}

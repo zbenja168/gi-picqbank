@@ -1,0 +1,1818 @@
+{
+  "categoryId": "w1s1",
+  "categoryName": "Session 1",
+  "questions": [
+    {
+      "id": "gipic-018",
+      "topicId": "gastrointestinal-system-foundations-and-overview",
+      "topicName": "Gastrointestinal System: Foundations and Overview",
+      "stem": "This overview labels the divisions of the gastrointestinal tract, including the gastroesophageal junction. The muscular ring located at that junction, which normally prevents reflux of gastric contents into the esophagus, is best described as which of the following?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Ileocecal valve"
+        },
+        {
+          "label": "B",
+          "text": "Pyloric sphincter"
+        },
+        {
+          "label": "C",
+          "text": "Upper esophageal sphincter"
+        },
+        {
+          "label": "D",
+          "text": "Sphincter of Oddi"
+        },
+        {
+          "label": "E",
+          "text": "Lower esophageal sphincter"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "The gastroesophageal junction is guarded by the lower esophageal sphincter, a tonically contracted ring of smooth muscle that prevents acidic gastric contents from refluxing into the esophagus. The pyloric sphincter controls gastric emptying, the upper esophageal sphincter is skeletal muscle at the pharyngoesophageal junction, the ileocecal valve separates ileum from cecum, and the sphincter of Oddi controls bile/pancreatic outflow into the duodenum.",
+        "whyCorrect": "The gastroesophageal junction is guarded by the lower esophageal sphincter, a tonically contracted ring of smooth muscle that prevents acidic gastric contents from refluxing into the esophagus. The pyloric sphincter controls gastric emptying, the upper esophageal sphincter is skeletal muscle at the pharyngoesophageal junction, the ileocecal valve separates ileum from cecum, and the sphincter of Oddi controls bile/pancreatic outflow into the duodenum.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "gipic-018_gi010_f01.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "gipic-050",
+      "topicId": "gastrointestinal-system-foundations-and-overview",
+      "topicName": "Gastrointestinal System: Foundations and Overview",
+      "stem": "This illustration depicts three superimposed levels of mucosal specialization in the small intestine: large circular folds, finger-like projections of the mucosa, and the apical border of the enterocytes. Together, these structural adaptations chiefly serve to increase which of the following?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Surface area available for nutrient absorption"
+        },
+        {
+          "label": "B",
+          "text": "Blood flow through the mesenteric arteries"
+        },
+        {
+          "label": "C",
+          "text": "Thickness of the protective mucus layer"
+        },
+        {
+          "label": "D",
+          "text": "Rate of intestinal peristalsis"
+        },
+        {
+          "label": "E",
+          "text": "Volume of gastric acid secretion"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Plica circulares (circular folds), villi, and microvilli (brush border) act multiplicatively to amplify the absorptive surface area of the small intestine several-hundred-fold, which is essential for efficient uptake of digested nutrients. They do not primarily affect motility, acid secretion, mucus thickness, or perfusion.",
+        "whyCorrect": "Plica circulares (circular folds), villi, and microvilli (brush border) act multiplicatively to amplify the absorptive surface area of the small intestine several-hundred-fold, which is essential for efficient uptake of digested nutrients. They do not primarily affect motility, acid secretion, mucus thickness, or perfusion.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "gipic-050_gi010_f03.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "gipic-051",
+      "topicId": "gastrointestinal-system-foundations-and-overview",
+      "topicName": "Gastrointestinal System: Foundations and Overview",
+      "stem": "This cross-section of the gut wall shows two neural networks of the enteric nervous system embedded in different layers. The plexus situated between the inner circular and outer longitudinal smooth-muscle layers primarily coordinates which of the following?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Mucosal secretion and local blood flow"
+        },
+        {
+          "label": "B",
+          "text": "Release of gastrin from antral G cells"
+        },
+        {
+          "label": "C",
+          "text": "Gut motility (peristalsis and segmentation)"
+        },
+        {
+          "label": "D",
+          "text": "Gastric acid production by parietal cells"
+        },
+        {
+          "label": "E",
+          "text": "Immune surveillance by Peyer patches"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "The myenteric (Auerbach) plexus lies between the circular and longitudinal muscularis layers and chiefly controls motility. The submucosal (Meissner) plexus, located in the submucosa, regulates secretion and local blood flow. The other options are not primary functions of the myenteric plexus.",
+        "whyCorrect": "The myenteric (Auerbach) plexus lies between the circular and longitudinal muscularis layers and chiefly controls motility. The submucosal (Meissner) plexus, located in the submucosa, regulates secretion and local blood flow. The other options are not primary functions of the myenteric plexus.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "gipic-051_gi010_f05.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "gipic-160",
+      "topicId": "gastrointestinal-system-foundations-and-overview",
+      "topicName": "Gastrointestinal System: Foundations and Overview",
+      "stem": "This schematic shows the parietal cell receiving stimulatory inputs and inhibitory somatostatin as it secretes acid into the gastric lumen. The luminal secretion of H+ against a steep concentration gradient by the parietal cell is directly accomplished by which membrane transporter?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "H+/K+ ATPase (the proton pump)"
+        },
+        {
+          "label": "B",
+          "text": "CFTR chloride channel"
+        },
+        {
+          "label": "C",
+          "text": "Na+-glucose cotransporter (SGLT1)"
+        },
+        {
+          "label": "D",
+          "text": "Na+/K+ ATPase"
+        },
+        {
+          "label": "E",
+          "text": "Na+/H+ exchanger"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "The parietal cell's apical H+/K+ ATPase exchanges intracellular H+ for luminal K+, generating gastric acid; it is the pharmacologic target of proton pump inhibitors. The Na+/K+ ATPase maintains basolateral gradients, the Na+/H+ exchanger regulates pH elsewhere, CFTR secretes chloride, and SGLT1 absorbs glucose in the small intestine.",
+        "whyCorrect": "The parietal cell's apical H+/K+ ATPase exchanges intracellular H+ for luminal K+, generating gastric acid; it is the pharmacologic target of proton pump inhibitors. The Na+/K+ ATPase maintains basolateral gradients, the Na+/H+ exchanger regulates pH elsewhere, CFTR secretes chloride, and SGLT1 absorbs glucose in the small intestine.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "gipic-160_gi010_f06.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "gipic-020",
+      "topicId": "histology-of-the-gastrointestinal-tract",
+      "topicName": "Histology of the Gastrointestinal Tract",
+      "stem": "This illustration highlights permanent circular folds of mucosa and submucosa projecting into the small-intestinal lumen. These folds are most abundant in which segment?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Terminal ileum"
+        },
+        {
+          "label": "B",
+          "text": "Cecum"
+        },
+        {
+          "label": "C",
+          "text": "Jejunum"
+        },
+        {
+          "label": "D",
+          "text": "Pylorus"
+        },
+        {
+          "label": "E",
+          "text": "Duodenal bulb"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Plicae circulares are most highly concentrated in the jejunum and decrease toward the proximal duodenum and distal ileum.",
+        "whyCorrect": "Plicae circulares are most highly concentrated in the jejunum and decrease toward the proximal duodenum and distal ileum.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "gipic-020_gi021_f07.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "gipic-057",
+      "topicId": "histology-of-the-gastrointestinal-tract",
+      "topicName": "Histology of the Gastrointestinal Tract",
+      "stem": "This gastric region shows deep gastric pits leading to short coiled glands. The surface and pit epithelial cells seen here predominantly secrete which substance?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Hydrochloric acid"
+        },
+        {
+          "label": "B",
+          "text": "Pepsinogen"
+        },
+        {
+          "label": "C",
+          "text": "Mucus"
+        },
+        {
+          "label": "D",
+          "text": "Intrinsic factor"
+        },
+        {
+          "label": "E",
+          "text": "Gastrin"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "The cardia/antrum surface and foveolar (pit) cells are mucus-secreting, protecting the epithelium from acid.",
+        "whyCorrect": "The cardia/antrum surface and foveolar (pit) cells are mucus-secreting, protecting the epithelium from acid.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "gipic-057_gi021_f05.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "gipic-058",
+      "topicId": "histology-of-the-gastrointestinal-tract",
+      "topicName": "Histology of the Gastrointestinal Tract",
+      "stem": "In this body/fundus gastric mucosa, the large eosinophilic cells (circled) produce hydrochloric acid. Which additional essential substance do these same cells secrete?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Somatostatin"
+        },
+        {
+          "label": "B",
+          "text": "Pepsinogen"
+        },
+        {
+          "label": "C",
+          "text": "Gastrin"
+        },
+        {
+          "label": "D",
+          "text": "Intrinsic factor"
+        },
+        {
+          "label": "E",
+          "text": "Mucus"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "Parietal cells of the gastric body/fundus secrete both HCl and intrinsic factor, the latter required for vitamin B12 absorption in the ileum.",
+        "whyCorrect": "Parietal cells of the gastric body/fundus secrete both HCl and intrinsic factor, the latter required for vitamin B12 absorption in the ileum.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "gipic-058_gi021_f06.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "gipic-059",
+      "topicId": "histology-of-the-gastrointestinal-tract",
+      "topicName": "Histology of the Gastrointestinal Tract",
+      "stem": "This diagram of small-intestinal mucosa shows absorptive columnar cells whose apical membranes bear dense projections that further amplify surface area. What is this apical specialization called?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Terminal web"
+        },
+        {
+          "label": "B",
+          "text": "Basement membrane"
+        },
+        {
+          "label": "C",
+          "text": "Brush border"
+        },
+        {
+          "label": "D",
+          "text": "Glycocalyx"
+        },
+        {
+          "label": "E",
+          "text": "Cilia"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Enterocytes covering the villi have apical microvilli forming the brush border, dramatically increasing absorptive surface area.",
+        "whyCorrect": "Enterocytes covering the villi have apical microvilli forming the brush border, dramatically increasing absorptive surface area.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "gipic-059_gi021_f08.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "gipic-060",
+      "topicId": "histology-of-the-gastrointestinal-tract",
+      "topicName": "Histology of the Gastrointestinal Tract",
+      "stem": "The submucosal glands seen in this section secrete bicarbonate-rich mucus that neutralizes acidic chyme. Their presence is specific to which segment of the small intestine?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Ileum"
+        },
+        {
+          "label": "B",
+          "text": "Duodenum"
+        },
+        {
+          "label": "C",
+          "text": "Cecum"
+        },
+        {
+          "label": "D",
+          "text": "Jejunum"
+        },
+        {
+          "label": "E",
+          "text": "Rectum"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Brunner glands reside in the submucosa and are unique to the duodenum, neutralizing gastric acid entering from the stomach.",
+        "whyCorrect": "Brunner glands reside in the submucosa and are unique to the duodenum, neutralizing gastric acid entering from the stomach.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "gipic-060_gi021_f11.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "gipic-061",
+      "topicId": "histology-of-the-gastrointestinal-tract",
+      "topicName": "Histology of the Gastrointestinal Tract",
+      "stem": "These crypt-base cells contain bright eosinophilic apical granules and become more numerous toward the ileum. Which antimicrobial products do they secrete?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Hydrochloric acid and intrinsic factor"
+        },
+        {
+          "label": "B",
+          "text": "Gastrin and somatostatin"
+        },
+        {
+          "label": "C",
+          "text": "Defensins and lysozyme"
+        },
+        {
+          "label": "D",
+          "text": "Mucus and bicarbonate"
+        },
+        {
+          "label": "E",
+          "text": "Pepsinogen"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Paneth cells sit at the crypt base and release antimicrobial defensins, lysozyme, and phospholipase A2, protecting stem cells.",
+        "whyCorrect": "Paneth cells sit at the crypt base and release antimicrobial defensins, lysozyme, and phospholipase A2, protecting stem cells.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "gipic-061_gi021_f12.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "gipic-062",
+      "topicId": "histology-of-the-gastrointestinal-tract",
+      "topicName": "Histology of the Gastrointestinal Tract",
+      "stem": "This section shows dense lymphoid aggregates spanning the mucosa and submucosa of the small intestine. These organized nodules are most abundant in which segment?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Duodenum"
+        },
+        {
+          "label": "B",
+          "text": "Esophagus"
+        },
+        {
+          "label": "C",
+          "text": "Ileum"
+        },
+        {
+          "label": "D",
+          "text": "Jejunum"
+        },
+        {
+          "label": "E",
+          "text": "Stomach"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Peyer patches are aggregated lymphoid follicles concentrated in the ileum, providing mucosal immune surveillance.",
+        "whyCorrect": "Peyer patches are aggregated lymphoid follicles concentrated in the ileum, providing mucosal immune surveillance.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "gipic-062_gi021_f13.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "gipic-063",
+      "topicId": "histology-of-the-gastrointestinal-tract",
+      "topicName": "Histology of the Gastrointestinal Tract",
+      "stem": "This large-intestinal mucosa shows straight crypts and no villi. The numerous pale, round cells packed along the crypts predominantly secrete what?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Digestive enzymes"
+        },
+        {
+          "label": "B",
+          "text": "Hydrochloric acid"
+        },
+        {
+          "label": "C",
+          "text": "Defensins"
+        },
+        {
+          "label": "D",
+          "text": "Intrinsic factor"
+        },
+        {
+          "label": "E",
+          "text": "Mucus"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "The colon has abundant goblet cells that secrete mucus to lubricate compacting feces; it lacks villi.",
+        "whyCorrect": "The colon has abundant goblet cells that secrete mucus to lubricate compacting feces; it lacks villi.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "gipic-063_gi021_f14.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "gipic-064",
+      "topicId": "histology-of-the-gastrointestinal-tract",
+      "topicName": "Histology of the Gastrointestinal Tract",
+      "stem": "This structure resembles colon (straight crypts, no villi) but is distinguished by abundant lymphoid tissue that tends to obliterate the muscularis mucosae. What is it?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Terminal ileum"
+        },
+        {
+          "label": "B",
+          "text": "Colonic polyp"
+        },
+        {
+          "label": "C",
+          "text": "Meckel diverticulum"
+        },
+        {
+          "label": "D",
+          "text": "Rectum"
+        },
+        {
+          "label": "E",
+          "text": "Vermiform appendix"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "The appendix mimics colonic mucosa but has prominent lymphoid nodules extending into the submucosa and effacing the muscularis mucosae.",
+        "whyCorrect": "The appendix mimics colonic mucosa but has prominent lymphoid nodules extending into the submucosa and effacing the muscularis mucosae.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "gipic-064_gi021_f15.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "gipic-065",
+      "topicId": "histology-of-the-gastrointestinal-tract",
+      "topicName": "Histology of the Gastrointestinal Tract",
+      "stem": "At the junction shown here, the epithelium transitions from simple columnar to stratified squamous. This squamous lining is advantageous because it best withstands what?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Gastric acid"
+        },
+        {
+          "label": "B",
+          "text": "Bacterial toxins"
+        },
+        {
+          "label": "C",
+          "text": "Bile salts"
+        },
+        {
+          "label": "D",
+          "text": "Mechanical abrasion"
+        },
+        {
+          "label": "E",
+          "text": "Pancreatic enzymes"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "Stratified squamous epithelium at the anorectal junction resists the forceful, abrasive luminal functions of defecation.",
+        "whyCorrect": "Stratified squamous epithelium at the anorectal junction resists the forceful, abrasive luminal functions of defecation.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "gipic-065_gi021_f16.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "gipic-131",
+      "topicId": "histology-of-the-gastrointestinal-tract",
+      "topicName": "Histology of the Gastrointestinal Tract",
+      "stem": "This histologic field shows an abrupt epithelial transition (the Z line). Chronic acid exposure here can drive metaplasia of the squamous epithelium, which increases risk of what malignancy?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Gastrointestinal stromal tumor"
+        },
+        {
+          "label": "B",
+          "text": "Esophageal squamous cell carcinoma"
+        },
+        {
+          "label": "C",
+          "text": "Hepatocellular carcinoma"
+        },
+        {
+          "label": "D",
+          "text": "Gastric MALT lymphoma"
+        },
+        {
+          "label": "E",
+          "text": "Esophageal adenocarcinoma"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "At the gastroesophageal junction, reflux-induced replacement of squamous epithelium by columnar epithelium with goblet cells (Barrett esophagus) predisposes to esophageal adenocarcinoma.",
+        "whyCorrect": "At the gastroesophageal junction, reflux-induced replacement of squamous epithelium by columnar epithelium with goblet cells (Barrett esophagus) predisposes to esophageal adenocarcinoma.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "gipic-131_gi021_f03.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "gipic-022",
+      "topicId": "gross-anatomy-and-histology-of-the-oral-region",
+      "topicName": "Gross Anatomy and Histology of the Oral Region",
+      "stem": "This teaching illustration of the oral region and pharynx is presented in a single anatomical plane that passes through the midline, showing the nasal cavity, tongue, palate, and the three pharyngeal subdivisions in profile. In which plane was this section taken?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Coronal (frontal) plane"
+        },
+        {
+          "label": "B",
+          "text": "Midsagittal plane"
+        },
+        {
+          "label": "C",
+          "text": "Horizontal plane"
+        },
+        {
+          "label": "D",
+          "text": "Oblique parasagittal plane"
+        },
+        {
+          "label": "E",
+          "text": "Transverse (axial) plane"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "The image shows a lateral profile of the head with structures cut through the midline (nasal septum, tongue, uvula, epiglottis all visible in a single vertical slice), which is the defining feature of a midsagittal section. Coronal and transverse planes would not display the anterior-to-posterior continuity of the oral cavity into the pharynx.",
+        "whyCorrect": "The image shows a lateral profile of the head with structures cut through the midline (nasal septum, tongue, uvula, epiglottis all visible in a single vertical slice), which is the defining feature of a midsagittal section. Coronal and transverse planes would not display the anterior-to-posterior continuity of the oral cavity into the pharynx.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "gipic-022_gi024_f01.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "gipic-023",
+      "topicId": "gross-anatomy-and-histology-of-the-oral-region",
+      "topicName": "Gross Anatomy and Histology of the Oral Region",
+      "stem": "This illustration of the lips highlights the sharp transition line indicated by the leader on the right. Precise surgical realignment of this line during laceration repair is cosmetically critical because it marks the boundary between which two tissues?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Oral vestibule and oral cavity proper"
+        },
+        {
+          "label": "B",
+          "text": "Buccal mucosa and gingiva"
+        },
+        {
+          "label": "C",
+          "text": "Hard palate and soft palate"
+        },
+        {
+          "label": "D",
+          "text": "Keratinized and non-keratinized tongue mucosa"
+        },
+        {
+          "label": "E",
+          "text": "Lip mucosa and surrounding facial skin"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "The vermilion border is the transition between the red lip mucosa (vermilion) and the adjacent facial skin. Because even a 1-mm step-off is visible, it must be aligned exactly during repair. The other choices describe different anatomical junctions unrelated to this labial landmark.",
+        "whyCorrect": "The vermilion border is the transition between the red lip mucosa (vermilion) and the adjacent facial skin. Because even a 1-mm step-off is visible, it must be aligned exactly during repair. The other choices describe different anatomical junctions unrelated to this labial landmark.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "gipic-023_gi024_f04.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "gipic-024",
+      "topicId": "gross-anatomy-and-histology-of-the-oral-region",
+      "topicName": "Gross Anatomy and Histology of the Oral Region",
+      "stem": "This illustration shows repair of a laceration that crosses the junction between the red lip and the facial skin. To ensure precise cosmetic alignment, where should the very first suture be placed?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "At the vermilion border"
+        },
+        {
+          "label": "B",
+          "text": "At the apex of the philtral column"
+        },
+        {
+          "label": "C",
+          "text": "At the free mucosal margin of the lip"
+        },
+        {
+          "label": "D",
+          "text": "At the oral commissure (corner of the mouth)"
+        },
+        {
+          "label": "E",
+          "text": "At the deepest point of the wound"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "When a laceration crosses the vermilion border, the first suture must be placed to reappose the vermilion border itself, because any misalignment of this high-contrast line is immediately noticeable. Only after this landmark is aligned are the remaining sutures placed.",
+        "whyCorrect": "When a laceration crosses the vermilion border, the first suture must be placed to reappose the vermilion border itself, because any misalignment of this high-contrast line is immediately noticeable. Only after this landmark is aligned are the remaining sutures placed.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "gipic-024_gi024_f05.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "gipic-025",
+      "topicId": "gross-anatomy-and-histology-of-the-oral-region",
+      "topicName": "Gross Anatomy and Histology of the Oral Region",
+      "stem": "This dissection illustration traces the course of the parotid (Stensen's) duct as it runs forward across the masseter and pierces the buccinator. Into the oral vestibule opposite which tooth does this duct open?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Maxillary central incisor"
+        },
+        {
+          "label": "B",
+          "text": "Mandibular first molar"
+        },
+        {
+          "label": "C",
+          "text": "Mandibular second premolar"
+        },
+        {
+          "label": "D",
+          "text": "Maxillary canine"
+        },
+        {
+          "label": "E",
+          "text": "Maxillary second molar"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "The parotid duct opens into the oral vestibule at a papilla opposite the maxillary (upper) second molar. This is a key landmark for assessing parotid gland function, cannulating the duct, or evaluating obstruction. The other locations do not correspond to any major salivary duct opening.",
+        "whyCorrect": "The parotid duct opens into the oral vestibule at a papilla opposite the maxillary (upper) second molar. This is a key landmark for assessing parotid gland function, cannulating the duct, or evaluating obstruction. The other locations do not correspond to any major salivary duct opening.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "gipic-025_gi024_f06.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "gipic-026",
+      "topicId": "gross-anatomy-and-histology-of-the-oral-region",
+      "topicName": "Gross Anatomy and Histology of the Oral Region",
+      "stem": "This dorsal view of the tongue shows a V-shaped groove separating the anterior and posterior portions. At the apex of this groove is a small pit that marks the embryologic site of descent of which structure?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Thyroid gland"
+        },
+        {
+          "label": "B",
+          "text": "Sublingual gland"
+        },
+        {
+          "label": "C",
+          "text": "Parotid gland"
+        },
+        {
+          "label": "D",
+          "text": "Parathyroid glands"
+        },
+        {
+          "label": "E",
+          "text": "Submandibular gland"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "The foramen cecum, at the apex of the sulcus terminalis, marks the origin of the thyroid diverticulum, which descends via the thyroglossal duct. Persistence of this tract can produce a thyroglossal duct cyst or a lingual thyroid. The salivary and parathyroid glands have entirely different embryologic origins.",
+        "whyCorrect": "The foramen cecum, at the apex of the sulcus terminalis, marks the origin of the thyroid diverticulum, which descends via the thyroglossal duct. Persistence of this tract can produce a thyroglossal duct cyst or a lingual thyroid. The salivary and parathyroid glands have entirely different embryologic origins.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "gipic-026_gi024_f07.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "gipic-027",
+      "topicId": "gross-anatomy-and-histology-of-the-oral-region",
+      "topicName": "Gross Anatomy and Histology of the Oral Region",
+      "stem": "This inferior view shows the bones forming the roof of the mouth (hard palate). Failure of the two shelves shown here to fuse during embryologic development produces which congenital anomaly?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Isolated cleft lip"
+        },
+        {
+          "label": "B",
+          "text": "Choanal atresia"
+        },
+        {
+          "label": "C",
+          "text": "Cleft palate"
+        },
+        {
+          "label": "D",
+          "text": "Torus palatinus"
+        },
+        {
+          "label": "E",
+          "text": "Bifid uvula alone"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "The hard palate forms from fusion of the palatine processes of the maxillae and the horizontal plates of the palatine bones; failure of fusion produces a cleft palate, causing a communication between the oral and nasal cavities. Cleft lip results from failure of fusion of the lip prominences, a separate process.",
+        "whyCorrect": "The hard palate forms from fusion of the palatine processes of the maxillae and the horizontal plates of the palatine bones; failure of fusion produces a cleft palate, causing a communication between the oral and nasal cavities. Cleft lip results from failure of fusion of the lip prominences, a separate process.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "gipic-027_gi024_f12.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "gipic-028",
+      "topicId": "gross-anatomy-and-histology-of-the-oral-region",
+      "topicName": "Gross Anatomy and Histology of the Oral Region",
+      "stem": "This view of the undersurface of the tongue shows the paired small elevations flanking the lingual frenulum. These sublingual caruncles are important clinical landmarks primarily for assessing what?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Dental occlusion"
+        },
+        {
+          "label": "B",
+          "text": "Tongue protrusion strength"
+        },
+        {
+          "label": "C",
+          "text": "The gag reflex"
+        },
+        {
+          "label": "D",
+          "text": "Salivary flow from the submandibular ducts"
+        },
+        {
+          "label": "E",
+          "text": "Taste sensation of the anterior tongue"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "The submandibular (Wharton's) ducts open at the sublingual caruncles beside the frenulum, so these landmarks are used to assess salivary flow and to detect duct obstruction such as salivary stones. Taste, tongue strength (CN XII), and the gag reflex (CN IX/X) are assessed by other means.",
+        "whyCorrect": "The submandibular (Wharton's) ducts open at the sublingual caruncles beside the frenulum, so these landmarks are used to assess salivary flow and to detect duct obstruction such as salivary stones. Taste, tongue strength (CN XII), and the gag reflex (CN IX/X) are assessed by other means.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "gipic-028_gi024_f14.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "gipic-066",
+      "topicId": "gross-anatomy-and-histology-of-the-oral-region",
+      "topicName": "Gross Anatomy and Histology of the Oral Region",
+      "stem": "This micrograph compares the submandibular gland (left) and sublingual gland (right). In the mixed submandibular gland, the crescent-shaped caps of dark-staining serous cells sitting on the periphery of pale mucous acini are known as what?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Zymogen granule aggregates"
+        },
+        {
+          "label": "B",
+          "text": "Paneth cell clusters"
+        },
+        {
+          "label": "C",
+          "text": "Intercalated ducts"
+        },
+        {
+          "label": "D",
+          "text": "Serous demilunes"
+        },
+        {
+          "label": "E",
+          "text": "Myoepithelial cells"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "In mixed sero-mucous glands, the serous cells form crescent-shaped caps called serous demilunes around mucous acini, adding enzymes such as lysozyme to the secretion. Intercalated ducts are conduits, myoepithelial cells are contractile basket cells, and Paneth cells belong to intestinal crypts, not salivary glands.",
+        "whyCorrect": "In mixed sero-mucous glands, the serous cells form crescent-shaped caps called serous demilunes around mucous acini, adding enzymes such as lysozyme to the secretion. Intercalated ducts are conduits, myoepithelial cells are contractile basket cells, and Paneth cells belong to intestinal crypts, not salivary glands.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "gipic-066_gi024_f20.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "gipic-132",
+      "topicId": "gross-anatomy-and-histology-of-the-oral-region",
+      "topicName": "Gross Anatomy and Histology of the Oral Region",
+      "stem": "This clinical photograph shows a patient with a unilateral hypoglossal (CN XII) nerve injury protruding the tongue. Toward which side does the protruded tongue deviate?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Toward the side of the lesion (ipsilateral)"
+        },
+        {
+          "label": "B",
+          "text": "Away from the side of the lesion (contralateral)"
+        },
+        {
+          "label": "C",
+          "text": "Downward toward the floor of the mouth"
+        },
+        {
+          "label": "D",
+          "text": "Upward toward the palate"
+        },
+        {
+          "label": "E",
+          "text": "Straight, with no deviation"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "The genioglossus protrudes the tongue and pushes it to the opposite side. With a CN XII lesion, the weak side cannot push, so the intact genioglossus drives the tongue toward the injured (ipsilateral) side. This 'lick your wounds' rule distinguishes it from the contralateral deviation seen with upper motor neuron lesions.",
+        "whyCorrect": "The genioglossus protrudes the tongue and pushes it to the opposite side. With a CN XII lesion, the weak side cannot push, so the intact genioglossus drives the tongue toward the injured (ipsilateral) side. This 'lick your wounds' rule distinguishes it from the contralateral deviation seen with upper motor neuron lesions.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "gipic-132_gi024_f11.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "gipic-166",
+      "topicId": "gross-anatomy-and-histology-of-the-oral-region",
+      "topicName": "Gross Anatomy and Histology of the Oral Region",
+      "stem": "This illustration shows the location of the three paired major salivary glands and their ducts. Beyond digestion and lubrication, the saliva these glands produce has a near-neutral pH that provides which additional protective function?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Emulsification of dietary fats"
+        },
+        {
+          "label": "B",
+          "text": "Activation of blood clotting"
+        },
+        {
+          "label": "C",
+          "text": "Buffering acids in the mouth"
+        },
+        {
+          "label": "D",
+          "text": "Production of bile"
+        },
+        {
+          "label": "E",
+          "text": "Secretion of intrinsic factor"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Saliva's near-neutral pH and bicarbonate content buffer acids, protecting the teeth from demineralization and the mucosa from injury. Bile and fat emulsification occur in the small intestine, intrinsic factor is secreted by gastric parietal cells, and clotting is a plasma function, none of which are salivary roles.",
+        "whyCorrect": "Saliva's near-neutral pH and bicarbonate content buffer acids, protecting the teeth from demineralization and the mucosa from injury. Bile and fat emulsification occur in the small intestine, intrinsic factor is secreted by gastric parietal cells, and clotting is a plasma function, none of which are salivary roles.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "gipic-166_gi024_f17.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "gipic-029",
+      "topicId": "gastrointestinal-blood-supply-and-innervation",
+      "topicName": "Gastrointestinal Blood Supply and Innervation",
+      "stem": "This schematic shows the three unpaired anterior branches of the abdominal aorta supplying the GI tract. Occlusion of the most inferior of these three vessels would most severely compromise perfusion of which structure?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Liver"
+        },
+        {
+          "label": "B",
+          "text": "Spleen"
+        },
+        {
+          "label": "C",
+          "text": "Duodenum"
+        },
+        {
+          "label": "D",
+          "text": "Stomach"
+        },
+        {
+          "label": "E",
+          "text": "Descending colon"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "The most inferior of the three unpaired anterior aortic branches is the inferior mesenteric artery (IMA), which supplies hindgut derivatives including the descending and sigmoid colon. The stomach, duodenum, spleen, and liver are foregut structures supplied by the celiac trunk.",
+        "whyCorrect": "The most inferior of the three unpaired anterior aortic branches is the inferior mesenteric artery (IMA), which supplies hindgut derivatives including the descending and sigmoid colon. The stomach, duodenum, spleen, and liver are foregut structures supplied by the celiac trunk.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "gipic-029_gi025_f01.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "gipic-030",
+      "topicId": "gastrointestinal-blood-supply-and-innervation",
+      "topicName": "Gastrointestinal Blood Supply and Innervation",
+      "stem": "This illustration contrasts the distribution territories of two mesenteric arteries along the colon. The border zone between these two arterial territories is most vulnerable to ischemia at which anatomic site?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Splenic flexure"
+        },
+        {
+          "label": "B",
+          "text": "Gastroesophageal junction"
+        },
+        {
+          "label": "C",
+          "text": "Hepatic flexure"
+        },
+        {
+          "label": "D",
+          "text": "Ascending colon"
+        },
+        {
+          "label": "E",
+          "text": "Cecum"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "The splenic flexure lies at the junction of the SMA and IMA territories (a watershed area) and is particularly susceptible to ischemic colitis when perfusion falls, owing to limited collateral circulation.",
+        "whyCorrect": "The splenic flexure lies at the junction of the SMA and IMA territories (a watershed area) and is particularly susceptible to ischemic colitis when perfusion falls, owing to limited collateral circulation.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "gipic-030_gi025_f04.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "gipic-031",
+      "topicId": "gastrointestinal-blood-supply-and-innervation",
+      "topicName": "Gastrointestinal Blood Supply and Innervation",
+      "stem": "This illustration depicts venous drainage of the GI tract. Blood carried by this system must pass through which organ before entering the inferior vena cava?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Pancreas"
+        },
+        {
+          "label": "B",
+          "text": "Liver"
+        },
+        {
+          "label": "C",
+          "text": "Right kidney"
+        },
+        {
+          "label": "D",
+          "text": "Lung"
+        },
+        {
+          "label": "E",
+          "text": "Spleen"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Venous blood from the GI tract enters the hepatic portal system so the liver can process absorbed nutrients before the blood reaches the IVC and systemic circulation. The portal vein forms from the confluence of the splenic and superior mesenteric veins.",
+        "whyCorrect": "Venous blood from the GI tract enters the hepatic portal system so the liver can process absorbed nutrients before the blood reaches the IVC and systemic circulation. The portal vein forms from the confluence of the splenic and superior mesenteric veins.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "gipic-031_gi025_f08.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "gipic-032",
+      "topicId": "gastrointestinal-blood-supply-and-innervation",
+      "topicName": "Gastrointestinal Blood Supply and Innervation",
+      "stem": "This diagram shows lymphatic drainage of the abdomen, with lymph nodes named for the arteries they accompany. Nodes located along the left gastric artery would drain which organ?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Descending colon"
+        },
+        {
+          "label": "B",
+          "text": "Sigmoid colon"
+        },
+        {
+          "label": "C",
+          "text": "Stomach"
+        },
+        {
+          "label": "D",
+          "text": "Appendix"
+        },
+        {
+          "label": "E",
+          "text": "Rectum"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Because abdominal lymphatics follow the arterial supply, nodes along the left gastric artery (a branch of the celiac trunk) drain the foregut-derived stomach. The distal colon, rectum, and appendix drain along mesenteric and iliac chains instead.",
+        "whyCorrect": "Because abdominal lymphatics follow the arterial supply, nodes along the left gastric artery (a branch of the celiac trunk) drain the foregut-derived stomach. The distal colon, rectum, and appendix drain along mesenteric and iliac chains instead.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "gipic-032_gi025_f10.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "gipic-133",
+      "topicId": "gastrointestinal-blood-supply-and-innervation",
+      "topicName": "Gastrointestinal Blood Supply and Innervation",
+      "stem": "This intraoperative photograph shows dusky, hemorrhagic, non-viable small bowel. What is the most likely underlying cause?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Splenic vein thrombosis"
+        },
+        {
+          "label": "B",
+          "text": "Superior mesenteric artery embolism"
+        },
+        {
+          "label": "C",
+          "text": "Inferior mesenteric artery thrombosis"
+        },
+        {
+          "label": "D",
+          "text": "Sigmoid volvulus"
+        },
+        {
+          "label": "E",
+          "text": "Chronic celiac artery compression"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Acute occlusion of the SMA, most often from a cardioembolic embolus, infarcts the entire midgut (jejunum, ileum, and proximal colon), producing the dusky, hemorrhagic necrosis shown. Because loss of the midgut is often unsurvivable, flow must be restored rapidly.",
+        "whyCorrect": "Acute occlusion of the SMA, most often from a cardioembolic embolus, infarcts the entire midgut (jejunum, ileum, and proximal colon), producing the dusky, hemorrhagic necrosis shown. Because loss of the midgut is often unsurvivable, flow must be restored rapidly.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "gipic-133_gi025_f06.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "gipic-134",
+      "topicId": "gastrointestinal-blood-supply-and-innervation",
+      "topicName": "Gastrointestinal Blood Supply and Innervation",
+      "stem": "This figure shows a portosystemic connection at the distal esophagus that dilates in portal hypertension. Rupture of these dilated vessels most characteristically presents with which finding?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Hematemesis"
+        },
+        {
+          "label": "B",
+          "text": "Right upper quadrant colic"
+        },
+        {
+          "label": "C",
+          "text": "Hematochezia from the rectum"
+        },
+        {
+          "label": "D",
+          "text": "Painless jaundice"
+        },
+        {
+          "label": "E",
+          "text": "Steatorrhea"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "In portal hypertension, elevated pressure is transmitted through the left gastric vein into submucosal esophageal veins, forming esophageal varices. These are prone to life-threatening rupture, which classically presents as hematemesis.",
+        "whyCorrect": "In portal hypertension, elevated pressure is transmitted through the left gastric vein into submucosal esophageal veins, forming esophageal varices. These are prone to life-threatening rupture, which classically presents as hematemesis.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "gipic-134_gi025_f09.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "gipic-167",
+      "topicId": "gastrointestinal-blood-supply-and-innervation",
+      "topicName": "Gastrointestinal Blood Supply and Innervation",
+      "stem": "This diagram summarizes parasympathetic innervation of the viscera. What is the primary effect of this input on the gastrointestinal tract?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Increases motility and secretion"
+        },
+        {
+          "label": "B",
+          "text": "Has no effect on secretion"
+        },
+        {
+          "label": "C",
+          "text": "Decreases motility and secretion"
+        },
+        {
+          "label": "D",
+          "text": "Reduces splanchnic blood flow"
+        },
+        {
+          "label": "E",
+          "text": "Contracts GI sphincters"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Parasympathetic innervation (via the vagus nerve to foregut/midgut and pelvic splanchnic nerves to hindgut) promotes GI motility and secretion, opposing sympathetic activity that decreases these functions.",
+        "whyCorrect": "Parasympathetic innervation (via the vagus nerve to foregut/midgut and pelvic splanchnic nerves to hindgut) promotes GI motility and secretion, opposing sympathetic activity that decreases these functions.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "gipic-167_gi025_f11.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "gipic-168",
+      "topicId": "gastrointestinal-blood-supply-and-innervation",
+      "topicName": "Gastrointestinal Blood Supply and Innervation",
+      "stem": "This dermatome map is used to explain referred pain from the GI tract. Visceral pain is referred to body-wall dermatomes like those shown because visceral afferent fibers converge with somatic afferents at which structure?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "The thalamus, bypassing the cord"
+        },
+        {
+          "label": "B",
+          "text": "The ventral roots of the spinal cord"
+        },
+        {
+          "label": "C",
+          "text": "Cutaneous nerve endings in the skin"
+        },
+        {
+          "label": "D",
+          "text": "The sympathetic chain ganglia only"
+        },
+        {
+          "label": "E",
+          "text": "The dorsal roots of the spinal cord"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "Visceral afferent fibers travel with sympathetic fibers and enter the spinal cord through the dorsal roots at the same levels as somatic sensory fibers. The brain misinterprets this convergent input as arising from the corresponding somatic dermatome, producing referred pain.",
+        "whyCorrect": "Visceral afferent fibers travel with sympathetic fibers and enter the spinal cord through the dorsal roots at the same levels as somatic sensory fibers. The brain misinterprets this convergent input as arising from the corresponding somatic dermatome, producing referred pain.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "gipic-168_gi025_f15.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "gipic-033",
+      "topicId": "anatomy-of-the-gastrointestinal-tract",
+      "topicName": "Anatomy of the Gastrointestinal Tract",
+      "stem": "This diagram organizes the abdominal GI organs. A single specialized serous membrane (not labeled) both lines the cavity and suspends/organizes these organs. What is this membrane called?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Peritoneum"
+        },
+        {
+          "label": "B",
+          "text": "Pleura"
+        },
+        {
+          "label": "C",
+          "text": "Deep investing fascia"
+        },
+        {
+          "label": "D",
+          "text": "Pericardium"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "The peritoneum is the serous membrane that lines the abdominal cavity and invests its organs, classifying them as intraperitoneal or retroperitoneal. The pleura and pericardium line the thoracic cavities, and deep fascia is not a serous membrane.",
+        "whyCorrect": "The peritoneum is the serous membrane that lines the abdominal cavity and invests its organs, classifying them as intraperitoneal or retroperitoneal. The pleura and pericardium line the thoracic cavities, and deep fascia is not a serous membrane.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "gipic-033_gi026_f01.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "gipic-034",
+      "topicId": "anatomy-of-the-gastrointestinal-tract",
+      "topicName": "Anatomy of the Gastrointestinal Tract",
+      "stem": "In this cross-section, a small potential space lies between the visceral and parietal layers and contains a thin film of serous fluid that reduces friction. What is this space called?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Peritoneal cavity"
+        },
+        {
+          "label": "B",
+          "text": "Retroperitoneal space"
+        },
+        {
+          "label": "C",
+          "text": "Pleural cavity"
+        },
+        {
+          "label": "D",
+          "text": "Lesser sac only"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "The space between the parietal and visceral peritoneum is the peritoneal cavity, a potential space with lubricating serous fluid. The retroperitoneal space lies behind the parietal peritoneum, and the lesser sac is only one subdivision of the peritoneal cavity.",
+        "whyCorrect": "The space between the parietal and visceral peritoneum is the peritoneal cavity, a potential space with lubricating serous fluid. The retroperitoneal space lies behind the parietal peritoneum, and the lesser sac is only one subdivision of the peritoneal cavity.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "gipic-034_gi026_f02.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "gipic-035",
+      "topicId": "anatomy-of-the-gastrointestinal-tract",
+      "topicName": "Anatomy of the Gastrointestinal Tract",
+      "stem": "The fan-shaped double fold of peritoneum shown anchoring the jejunum and ileum to the posterior abdominal wall serves as a conduit for which structures?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Inferior mesenteric vessels only"
+        },
+        {
+          "label": "B",
+          "text": "Superior mesenteric vessels, nerves, and lymphatics"
+        },
+        {
+          "label": "C",
+          "text": "The portal triad (portal vein, hepatic artery, bile duct)"
+        },
+        {
+          "label": "D",
+          "text": "The thoracic duct and azygos vein"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "The mesentery proper suspends the small bowel and transmits the superior mesenteric artery and vein, autonomic nerves, and lymphatics. The portal triad runs in the hepatoduodenal ligament, not the small-bowel mesentery.",
+        "whyCorrect": "The mesentery proper suspends the small bowel and transmits the superior mesenteric artery and vein, autonomic nerves, and lymphatics. The portal triad runs in the hepatoduodenal ligament, not the small-bowel mesentery.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "gipic-035_gi026_f03.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "gipic-036",
+      "topicId": "anatomy-of-the-gastrointestinal-tract",
+      "topicName": "Anatomy of the Gastrointestinal Tract",
+      "stem": "The three color-coded tubular structures shown running within the free edge of the lesser omentum collectively constitute which anatomical grouping?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "The superior mesenteric pedicle"
+        },
+        {
+          "label": "B",
+          "text": "The celiac trunk branches"
+        },
+        {
+          "label": "C",
+          "text": "The portal triad"
+        },
+        {
+          "label": "D",
+          "text": "The splenic hilar vessels"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "The common bile duct, portal vein, and proper hepatic artery travel together in the hepatoduodenal ligament as the portal triad. The other choices are unrelated vascular groupings.",
+        "whyCorrect": "The common bile duct, portal vein, and proper hepatic artery travel together in the hepatoduodenal ligament as the portal triad. The other choices are unrelated vascular groupings.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "gipic-036_gi026_f09.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "gipic-037",
+      "topicId": "anatomy-of-the-gastrointestinal-tract",
+      "topicName": "Anatomy of the Gastrointestinal Tract",
+      "stem": "The rounded cord shown in the free margin of the falciform ligament is the ligamentum teres. It is the obliterated remnant of which fetal structure?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Umbilical vein"
+        },
+        {
+          "label": "B",
+          "text": "Ductus arteriosus"
+        },
+        {
+          "label": "C",
+          "text": "Ductus venosus"
+        },
+        {
+          "label": "D",
+          "text": "Umbilical artery"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "The ligamentum teres hepatis is the fibrous remnant of the left umbilical vein. The ductus venosus becomes the ligamentum venosum, the ductus arteriosus becomes the ligamentum arteriosum, and the umbilical arteries become the medial umbilical ligaments.",
+        "whyCorrect": "The ligamentum teres hepatis is the fibrous remnant of the left umbilical vein. The ductus venosus becomes the ligamentum venosum, the ductus arteriosus becomes the ligamentum arteriosum, and the umbilical arteries become the medial umbilical ligaments.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "gipic-037_gi026_f11.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "gipic-038",
+      "topicId": "anatomy-of-the-gastrointestinal-tract",
+      "topicName": "Anatomy of the Gastrointestinal Tract",
+      "stem": "In this female sagittal view, the lowest point of the peritoneal cavity lies between the rectum and the uterus and is a common site of fluid accumulation. By what eponym is it known?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Space of Retzius"
+        },
+        {
+          "label": "B",
+          "text": "Calot's triangle"
+        },
+        {
+          "label": "C",
+          "text": "Pouch of Douglas"
+        },
+        {
+          "label": "D",
+          "text": "Pouch of Morison"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "The rectouterine pouch (pouch of Douglas) is the most dependent peritoneal recess in females. Morison's pouch is hepatorenal, the space of Retzius is retropubic and extraperitoneal, and Calot's triangle is a biliary landmark.",
+        "whyCorrect": "The rectouterine pouch (pouch of Douglas) is the most dependent peritoneal recess in females. Morison's pouch is hepatorenal, the space of Retzius is retropubic and extraperitoneal, and Calot's triangle is a biliary landmark.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "gipic-038_gi026_f12.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "gipic-039",
+      "topicId": "anatomy-of-the-gastrointestinal-tract",
+      "topicName": "Anatomy of the Gastrointestinal Tract",
+      "stem": "The second (descending) part of the duodenum shown here receives bile and pancreatic secretions. At which structure do these ducts empty into the lumen?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Duodenojejunal flexure"
+        },
+        {
+          "label": "B",
+          "text": "Pylorus"
+        },
+        {
+          "label": "C",
+          "text": "Major duodenal papilla"
+        },
+        {
+          "label": "D",
+          "text": "Minor duodenal papilla"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "The common bile duct and main pancreatic duct join and drain at the major duodenal papilla in the second part of the duodenum. The minor papilla drains only the accessory pancreatic duct.",
+        "whyCorrect": "The common bile duct and main pancreatic duct join and drain at the major duodenal papilla in the second part of the duodenum. The minor papilla drains only the accessory pancreatic duct.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "gipic-039_gi026_f22.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "gipic-040",
+      "topicId": "anatomy-of-the-gastrointestinal-tract",
+      "topicName": "Anatomy of the Gastrointestinal Tract",
+      "stem": "The line shown in this coronal view marks an important transition in the anal canal. Below this line, venous blood drains into which venous system?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Systemic circulation"
+        },
+        {
+          "label": "B",
+          "text": "The azygos venous system"
+        },
+        {
+          "label": "C",
+          "text": "Portal system via the superior rectal vein"
+        },
+        {
+          "label": "D",
+          "text": "The thoracic duct"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Below the pectinate (dentate) line, drainage is systemic through inferior rectal veins to the internal pudendal and internal iliac veins; above it, drainage is portal via the superior rectal vein, which is why this line marks a portosystemic anastomosis.",
+        "whyCorrect": "Below the pectinate (dentate) line, drainage is systemic through inferior rectal veins to the internal pudendal and internal iliac veins; above it, drainage is portal via the superior rectal vein, which is why this line marks a portosystemic anastomosis.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "gipic-040_gi026_f26.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "gipic-135",
+      "topicId": "anatomy-of-the-gastrointestinal-tract",
+      "topicName": "Anatomy of the Gastrointestinal Tract",
+      "stem": "The organs highlighted against the posterior body wall (kidneys, aorta, pancreas, duodenum) lie behind the peritoneum. Why can a ruptured abdominal aortic aneurysm bleeding into this space allow a patient to survive long enough to reach the hospital?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "The retroperitoneal compartment tamponades the hemorrhage"
+        },
+        {
+          "label": "B",
+          "text": "Blood drains rapidly into intestinal lymphatics"
+        },
+        {
+          "label": "C",
+          "text": "This space is essentially avascular"
+        },
+        {
+          "label": "D",
+          "text": "The peritoneum secretes clotting factors into the blood"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "The closed fascial planes of the retroperitoneum limit expansion and create a natural tamponade that temporarily contains bleeding; free rupture into the peritoneal cavity offers no such containment and is rapidly fatal.",
+        "whyCorrect": "The closed fascial planes of the retroperitoneum limit expansion and create a natural tamponade that temporarily contains bleeding; free rupture into the peritoneal cavity offers no such containment and is rapidly fatal.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "gipic-135_gi026_f13.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "gipic-136",
+      "topicId": "anatomy-of-the-gastrointestinal-tract",
+      "topicName": "Anatomy of the Gastrointestinal Tract",
+      "stem": "The skeletal muscle highlighted here forms the upper esophageal sphincter. Failure of this muscle to relax during swallowing classically produces which condition?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Achalasia"
+        },
+        {
+          "label": "B",
+          "text": "Zenker diverticulum"
+        },
+        {
+          "label": "C",
+          "text": "Barrett esophagus"
+        },
+        {
+          "label": "D",
+          "text": "Mallory-Weiss tear"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Impaired relaxation of the cricopharyngeus raises hypopharyngeal pressure and produces a Zenker (pulsion) diverticulum just above it. Achalasia involves the LES, Barrett is metaplasia from reflux, and Mallory-Weiss is a mucosal tear from retching.",
+        "whyCorrect": "Impaired relaxation of the cricopharyngeus raises hypopharyngeal pressure and produces a Zenker (pulsion) diverticulum just above it. Achalasia involves the LES, Barrett is metaplasia from reflux, and Mallory-Weiss is a mucosal tear from retching.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "gipic-136_gi026_f14.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "gipic-137",
+      "topicId": "anatomy-of-the-gastrointestinal-tract",
+      "topicName": "Anatomy of the Gastrointestinal Tract",
+      "stem": "The lower image shows the gastric fundus displaced upward through the diaphragm. How does this anatomic change weaken the antireflux barrier?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "It blunts the angle of His"
+        },
+        {
+          "label": "B",
+          "text": "It increases lower esophageal sphincter resting tone"
+        },
+        {
+          "label": "C",
+          "text": "It strengthens the crural diaphragm's pinch on the esophagus"
+        },
+        {
+          "label": "D",
+          "text": "It narrows the esophageal hiatus around the esophagus"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "A sliding hiatal hernia moves the gastroesophageal junction above the diaphragm and blunts the angle of His, decoupling the LES from crural support and promoting reflux/GERD.",
+        "whyCorrect": "A sliding hiatal hernia moves the gastroesophageal junction above the diaphragm and blunts the angle of His, decoupling the LES from crural support and promoting reflux/GERD.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "gipic-137_gi026_f20.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "gipic-169",
+      "topicId": "anatomy-of-the-gastrointestinal-tract",
+      "topicName": "Anatomy of the Gastrointestinal Tract",
+      "stem": "This region shows a thickened inner circular layer of smooth muscle at the distal esophagus. Inadequate resting tone of this structure most directly predisposes to which condition?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Diffuse esophageal spasm"
+        },
+        {
+          "label": "B",
+          "text": "Zenker diverticulum"
+        },
+        {
+          "label": "C",
+          "text": "Gastroesophageal reflux disease"
+        },
+        {
+          "label": "D",
+          "text": "Achalasia"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "The lower esophageal sphincter's tonic contraction prevents reflux; low resting tone allows acid reflux and GERD. Achalasia is failure of relaxation (increased tone), Zenker involves the UES, and spasm is a motility disorder.",
+        "whyCorrect": "The lower esophageal sphincter's tonic contraction prevents reflux; low resting tone allows acid reflux and GERD. Achalasia is failure of relaxation (increased tone), Zenker involves the UES, and spasm is a motility disorder.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "gipic-169_gi026_f15.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "gipic-170",
+      "topicId": "anatomy-of-the-gastrointestinal-tract",
+      "topicName": "Anatomy of the Gastrointestinal Tract",
+      "stem": "The body and fundus regions of the stomach shown here contain parietal cells. Which two products do these cells secrete?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Secretin and cholecystokinin"
+        },
+        {
+          "label": "B",
+          "text": "Pepsinogen and mucus"
+        },
+        {
+          "label": "C",
+          "text": "Hydrochloric acid and intrinsic factor"
+        },
+        {
+          "label": "D",
+          "text": "Gastrin and somatostatin"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Parietal cells of the gastric body and fundus secrete HCl and intrinsic factor (needed for B12 absorption). Gastrin/somatostatin are from endocrine cells, pepsinogen from chief cells, and secretin/CCK from the duodenum.",
+        "whyCorrect": "Parietal cells of the gastric body and fundus secrete HCl and intrinsic factor (needed for B12 absorption). Gastrin/somatostatin are from endocrine cells, pepsinogen from chief cells, and secretin/CCK from the duodenum.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "gipic-170_gi026_f17.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "gipic-171",
+      "topicId": "anatomy-of-the-gastrointestinal-tract",
+      "topicName": "Anatomy of the Gastrointestinal Tract",
+      "stem": "The acute angle shown between the esophagus and the gastric fundus creates a flap-valve mechanism. Blunting of this angle predisposes to what?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Gastric outlet obstruction"
+        },
+        {
+          "label": "B",
+          "text": "Gastroesophageal reflux"
+        },
+        {
+          "label": "C",
+          "text": "Dumping syndrome"
+        },
+        {
+          "label": "D",
+          "text": "Achalasia"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "The angle of His acts as a flap valve reinforcing the antireflux barrier; when blunted (e.g., by hiatal hernia) reflux increases. The other conditions are unrelated to this angle.",
+        "whyCorrect": "The angle of His acts as a flap valve reinforcing the antireflux barrier; when blunted (e.g., by hiatal hernia) reflux increases. The other conditions are unrelated to this angle.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "gipic-171_gi026_f19.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "gipic-172",
+      "topicId": "anatomy-of-the-gastrointestinal-tract",
+      "topicName": "Anatomy of the Gastrointestinal Tract",
+      "stem": "Comparing the two panels, relaxation of the muscular sling shown during defecation has what effect on the anorectal angle to ease stool passage?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "It closes the anal outlet"
+        },
+        {
+          "label": "B",
+          "text": "It widens the anorectal angle"
+        },
+        {
+          "label": "C",
+          "text": "It increases sphincter resting tone"
+        },
+        {
+          "label": "D",
+          "text": "It narrows the anorectal angle"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "When the puborectalis relaxes during defecation, the anorectal angle straightens, allowing stool to pass more easily; at rest its tonic contraction keeps the angle acute to maintain continence.",
+        "whyCorrect": "When the puborectalis relaxes during defecation, the anorectal angle straightens, allowing stool to pass more easily; at rest its tonic contraction keeps the angle acute to maintain continence.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "gipic-172_gi026_f27.png",
+      "tags": [
+        "picture"
+      ]
+    }
+  ]
+}
