@@ -33,7 +33,12 @@
       "explanation": {
         "summary": "The gastroesophageal junction is guarded by the lower esophageal sphincter, a tonically contracted ring of smooth muscle that prevents acidic gastric contents from refluxing into the esophagus. The pyloric sphincter controls gastric emptying, the upper esophageal sphincter is skeletal muscle at the pharyngoesophageal junction, the ileocecal valve separates ileum from cecum, and the sphincter of Oddi controls bile/pancreatic outflow into the duodenum.",
         "whyCorrect": "The gastroesophageal junction is guarded by the lower esophageal sphincter, a tonically contracted ring of smooth muscle that prevents acidic gastric contents from refluxing into the esophagus. The pyloric sphincter controls gastric emptying, the upper esophageal sphincter is skeletal muscle at the pharyngoesophageal junction, the ileocecal valve separates ileum from cecum, and the sphincter of Oddi controls bile/pancreatic outflow into the duodenum.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "The ileocecal valve sits at the ileum-cecum junction and limits colonic reflux into the small bowel; it is nowhere near the GE junction.",
+          "B": "The pyloric sphincter guards the stomach's outlet into the duodenum and regulates gastric emptying, not reflux into the esophagus.",
+          "C": "The upper esophageal sphincter is skeletal muscle (cricopharyngeus) at the pharyngoesophageal junction, at the top of the esophagus.",
+          "D": "The sphincter of Oddi controls bile and pancreatic juice flow into the duodenum at the ampulla of Vater."
+        }
       },
       "difficulty": "medium",
       "imageRef": "gipic-018_gi010_f01.png",
@@ -72,7 +77,12 @@
       "explanation": {
         "summary": "Plica circulares (circular folds), villi, and microvilli (brush border) act multiplicatively to amplify the absorptive surface area of the small intestine several-hundred-fold, which is essential for efficient uptake of digested nutrients. They do not primarily affect motility, acid secretion, mucus thickness, or perfusion.",
         "whyCorrect": "Plica circulares (circular folds), villi, and microvilli (brush border) act multiplicatively to amplify the absorptive surface area of the small intestine several-hundred-fold, which is essential for efficient uptake of digested nutrients. They do not primarily affect motility, acid secretion, mucus thickness, or perfusion.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "B": "Mesenteric blood flow depends on arterial supply and vasoregulation, not on mucosal folds, villi, and microvilli.",
+          "C": "Mucus layer thickness depends on goblet cell secretion; these structures amplify absorptive area rather than mucus.",
+          "D": "Peristalsis is driven by the muscularis externa and myenteric plexus, not by mucosal surface specializations.",
+          "E": "Gastric acid is made by parietal cells in the stomach, not by small-intestinal surface structures."
+        }
       },
       "difficulty": "medium",
       "imageRef": "gipic-050_gi010_f03.png",
@@ -111,7 +121,12 @@
       "explanation": {
         "summary": "The myenteric (Auerbach) plexus lies between the circular and longitudinal muscularis layers and chiefly controls motility. The submucosal (Meissner) plexus, located in the submucosa, regulates secretion and local blood flow. The other options are not primary functions of the myenteric plexus.",
         "whyCorrect": "The myenteric (Auerbach) plexus lies between the circular and longitudinal muscularis layers and chiefly controls motility. The submucosal (Meissner) plexus, located in the submucosa, regulates secretion and local blood flow. The other options are not primary functions of the myenteric plexus.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "Mucosal secretion and local blood flow are regulated by the submucosal (Meissner) plexus, located in the submucosa.",
+          "B": "Gastrin release from G cells is controlled by vagal GRP neurons, luminal peptides, and somatostatin, not primarily by the myenteric plexus.",
+          "D": "Parietal cell acid secretion is controlled by vagal ACh, gastrin, and histamine acting on the gastric mucosa.",
+          "E": "Peyer patches are lymphoid tissue in the ileal mucosa and submucosa; immune surveillance is not a neural plexus function."
+        }
       },
       "difficulty": "medium",
       "imageRef": "gipic-051_gi010_f05.png",
@@ -150,7 +165,12 @@
       "explanation": {
         "summary": "The parietal cell's apical H+/K+ ATPase exchanges intracellular H+ for luminal K+, generating gastric acid; it is the pharmacologic target of proton pump inhibitors. The Na+/K+ ATPase maintains basolateral gradients, the Na+/H+ exchanger regulates pH elsewhere, CFTR secretes chloride, and SGLT1 absorbs glucose in the small intestine.",
         "whyCorrect": "The parietal cell's apical H+/K+ ATPase exchanges intracellular H+ for luminal K+, generating gastric acid; it is the pharmacologic target of proton pump inhibitors. The Na+/K+ ATPase maintains basolateral gradients, the Na+/H+ exchanger regulates pH elsewhere, CFTR secretes chloride, and SGLT1 absorbs glucose in the small intestine.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "B": "CFTR secretes chloride (accompanying acid secretion uses apical chloride channels), but it cannot pump H+ against its gradient.",
+          "C": "SGLT1 absorbs glucose with sodium in the small intestine and has no role in gastric acid secretion.",
+          "D": "The Na+/K+ ATPase sits on the basolateral membrane maintaining ion gradients and does not move H+ into the lumen.",
+          "E": "The Na+/H+ exchanger is secondary active and cannot generate the million-fold H+ gradient of gastric acid."
+        }
       },
       "difficulty": "medium",
       "imageRef": "gipic-160_gi010_f06.png",
@@ -189,7 +209,12 @@
       "explanation": {
         "summary": "Plicae circulares are most highly concentrated in the jejunum and decrease toward the proximal duodenum and distal ileum.",
         "whyCorrect": "Plicae circulares are most highly concentrated in the jejunum and decrease toward the proximal duodenum and distal ileum.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "Plicae circulares diminish in the distal ileum and largely disappear by the terminal ileum.",
+          "B": "The cecum is large intestine, which lacks plicae circulares and villi.",
+          "D": "The pylorus is the gastric outlet with a thick muscular sphincter, not permanent small-intestinal circular folds.",
+          "E": "The duodenal bulb is smooth and lacks plicae circulares, which begin in the more distal duodenum."
+        }
       },
       "difficulty": "medium",
       "imageRef": "gipic-020_gi021_f07.png",
@@ -228,7 +253,12 @@
       "explanation": {
         "summary": "The cardia/antrum surface and foveolar (pit) cells are mucus-secreting, protecting the epithelium from acid.",
         "whyCorrect": "The cardia/antrum surface and foveolar (pit) cells are mucus-secreting, protecting the epithelium from acid.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "Hydrochloric acid comes from parietal cells in the glands of the body and fundus, not from surface and pit cells.",
+          "B": "Pepsinogen is secreted by chief cells located at the base of fundic glands.",
+          "D": "Intrinsic factor is made by parietal cells in the body and fundus, not by foveolar cells.",
+          "E": "Gastrin is secreted by enteroendocrine G cells in antral glands, not by surface mucous cells."
+        }
       },
       "difficulty": "medium",
       "imageRef": "gipic-057_gi021_f05.png",
@@ -267,7 +297,12 @@
       "explanation": {
         "summary": "Parietal cells of the gastric body/fundus secrete both HCl and intrinsic factor, the latter required for vitamin B12 absorption in the ileum.",
         "whyCorrect": "Parietal cells of the gastric body/fundus secrete both HCl and intrinsic factor, the latter required for vitamin B12 absorption in the ileum.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "Somatostatin is released by D cells and inhibits parietal cell acid secretion.",
+          "B": "Pepsinogen is secreted by chief cells, the basophilic cells at the base of fundic glands.",
+          "C": "Gastrin comes from G cells in the antrum and stimulates parietal cells rather than being made by them.",
+          "E": "Mucus is secreted by surface foveolar and neck mucous cells, not by the large eosinophilic parietal cells."
+        }
       },
       "difficulty": "medium",
       "imageRef": "gipic-058_gi021_f06.png",
@@ -306,7 +341,12 @@
       "explanation": {
         "summary": "Enterocytes covering the villi have apical microvilli forming the brush border, dramatically increasing absorptive surface area.",
         "whyCorrect": "Enterocytes covering the villi have apical microvilli forming the brush border, dramatically increasing absorptive surface area.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "The terminal web is a network of actin filaments beneath the apical membrane anchoring microvilli, not the projections themselves.",
+          "B": "The basement membrane lies beneath the basal surface of the epithelium, not at the apical border.",
+          "D": "The glycocalyx is the carbohydrate coat covering the microvilli, not the projections that form the border.",
+          "E": "Cilia are motile structures with a 9+2 axoneme in the respiratory tract and oviduct, not on enterocytes."
+        }
       },
       "difficulty": "medium",
       "imageRef": "gipic-059_gi021_f08.png",
@@ -345,7 +385,12 @@
       "explanation": {
         "summary": "Brunner glands reside in the submucosa and are unique to the duodenum, neutralizing gastric acid entering from the stomach.",
         "whyCorrect": "Brunner glands reside in the submucosa and are unique to the duodenum, neutralizing gastric acid entering from the stomach.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "The ileum is identified by Peyer patches, not submucosal mucous glands.",
+          "C": "The cecum is large intestine with goblet-cell-rich crypts and no submucosal glands.",
+          "D": "The jejunum has prominent plicae and villi but no submucosal glands.",
+          "E": "The rectum has straight crypts with goblet cells and no Brunner glands."
+        }
       },
       "difficulty": "medium",
       "imageRef": "gipic-060_gi021_f11.png",
@@ -384,7 +429,12 @@
       "explanation": {
         "summary": "Paneth cells sit at the crypt base and release antimicrobial defensins, lysozyme, and phospholipase A2, protecting stem cells.",
         "whyCorrect": "Paneth cells sit at the crypt base and release antimicrobial defensins, lysozyme, and phospholipase A2, protecting stem cells.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "HCl and intrinsic factor are products of gastric parietal cells, not intestinal crypt-base cells.",
+          "B": "Gastrin and somatostatin are enteroendocrine hormones from G and D cells, not antimicrobial products.",
+          "D": "Mucus and bicarbonate come from goblet cells and Brunner glands, not from these eosinophilic granular cells.",
+          "E": "Pepsinogen is secreted by gastric chief cells, not cells at the base of intestinal crypts."
+        }
       },
       "difficulty": "medium",
       "imageRef": "gipic-061_gi021_f12.png",
@@ -423,7 +473,12 @@
       "explanation": {
         "summary": "Peyer patches are aggregated lymphoid follicles concentrated in the ileum, providing mucosal immune surveillance.",
         "whyCorrect": "Peyer patches are aggregated lymphoid follicles concentrated in the ileum, providing mucosal immune surveillance.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "The duodenum is identified by submucosal Brunner glands, not abundant aggregated lymphoid nodules.",
+          "B": "The esophagus has stratified squamous epithelium and only scattered lymphoid tissue, not Peyer patches.",
+          "D": "The jejunum has tall plicae and villi but few aggregated lymphoid follicles.",
+          "E": "The stomach has gastric pits and glands and normally lacks organized lymphoid aggregates."
+        }
       },
       "difficulty": "medium",
       "imageRef": "gipic-062_gi021_f13.png",
@@ -462,7 +517,12 @@
       "explanation": {
         "summary": "The colon has abundant goblet cells that secrete mucus to lubricate compacting feces; it lacks villi.",
         "whyCorrect": "The colon has abundant goblet cells that secrete mucus to lubricate compacting feces; it lacks villi.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "Digestive enzymes are made by the pancreas and enterocyte brush border, not by colonic goblet cells.",
+          "B": "Hydrochloric acid is secreted by gastric parietal cells, not colonic crypt cells.",
+          "C": "Defensins are secreted by Paneth cells, which are sparse or absent in the normal colon.",
+          "D": "Intrinsic factor is a gastric parietal cell product."
+        }
       },
       "difficulty": "medium",
       "imageRef": "gipic-063_gi021_f14.png",
@@ -501,7 +561,12 @@
       "explanation": {
         "summary": "The appendix mimics colonic mucosa but has prominent lymphoid nodules extending into the submucosa and effacing the muscularis mucosae.",
         "whyCorrect": "The appendix mimics colonic mucosa but has prominent lymphoid nodules extending into the submucosa and effacing the muscularis mucosae.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "The terminal ileum has villi and Peyer patches; its mucosa does not resemble colon with straight crypts.",
+          "B": "A colonic polyp is a focal mucosal projection; it does not show circumferential lymphoid tissue effacing the muscularis mucosae.",
+          "C": "Meckel diverticulum has small-intestinal mucosa with villi, sometimes with ectopic gastric or pancreatic tissue.",
+          "D": "The rectum has colonic-type crypts but lacks the dense circumferential lymphoid tissue that effaces the muscularis mucosae."
+        }
       },
       "difficulty": "medium",
       "imageRef": "gipic-064_gi021_f15.png",
@@ -540,7 +605,12 @@
       "explanation": {
         "summary": "Stratified squamous epithelium at the anorectal junction resists the forceful, abrasive luminal functions of defecation.",
         "whyCorrect": "Stratified squamous epithelium at the anorectal junction resists the forceful, abrasive luminal functions of defecation.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "Gastric acid is not present at the anorectal junction; resistance to acid is the job of the gastric mucus-bicarbonate barrier.",
+          "B": "Defense against bacterial toxins relies on mucus, IgA, and epithelial tight junctions, not on stratification.",
+          "C": "Bile salts are largely reabsorbed in the terminal ileum and are not the main challenge at the anal canal.",
+          "E": "Pancreatic enzymes act in the small intestine and are mostly degraded before reaching the anorectum."
+        }
       },
       "difficulty": "medium",
       "imageRef": "gipic-065_gi021_f16.png",
@@ -579,7 +649,12 @@
       "explanation": {
         "summary": "At the gastroesophageal junction, reflux-induced replacement of squamous epithelium by columnar epithelium with goblet cells (Barrett esophagus) predisposes to esophageal adenocarcinoma.",
         "whyCorrect": "At the gastroesophageal junction, reflux-induced replacement of squamous epithelium by columnar epithelium with goblet cells (Barrett esophagus) predisposes to esophageal adenocarcinoma.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "GIST arises from interstitial cells of Cajal (c-KIT positive) in the muscular wall, not from reflux metaplasia of the epithelium.",
+          "B": "Squamous cell carcinoma arises in native squamous epithelium, mainly linked to smoking and alcohol, not to columnar metaplasia from reflux.",
+          "C": "Hepatocellular carcinoma arises in the liver from cirrhosis or viral hepatitis.",
+          "D": "Gastric MALT lymphoma is driven by chronic H. pylori infection of the stomach, not by esophageal reflux metaplasia."
+        }
       },
       "difficulty": "medium",
       "imageRef": "gipic-131_gi021_f03.png",
@@ -618,7 +693,12 @@
       "explanation": {
         "summary": "The image shows a lateral profile of the head with structures cut through the midline (nasal septum, tongue, uvula, epiglottis all visible in a single vertical slice), which is the defining feature of a midsagittal section. Coronal and transverse planes would not display the anterior-to-posterior continuity of the oral cavity into the pharynx.",
         "whyCorrect": "The image shows a lateral profile of the head with structures cut through the midline (nasal septum, tongue, uvula, epiglottis all visible in a single vertical slice), which is the defining feature of a midsagittal section. Coronal and transverse planes would not display the anterior-to-posterior continuity of the oral cavity into the pharynx.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "A coronal plane divides front from back, so it would not show the oral cavity continuing posteriorly into the pharynx in profile.",
+          "C": "A horizontal plane divides upper from lower and would show the nasal cavity, mouth, and pharynx only at separate levels.",
+          "D": "A parasagittal section lies off the midline and would miss midline structures like the nasal septum, uvula, and epiglottis.",
+          "E": "Transverse (axial) is the same as horizontal and cuts across the head rather than through it from front to back."
+        }
       },
       "difficulty": "medium",
       "imageRef": "gipic-022_gi024_f01.png",
@@ -657,7 +737,12 @@
       "explanation": {
         "summary": "The vermilion border is the transition between the red lip mucosa (vermilion) and the adjacent facial skin. Because even a 1-mm step-off is visible, it must be aligned exactly during repair. The other choices describe different anatomical junctions unrelated to this labial landmark.",
         "whyCorrect": "The vermilion border is the transition between the red lip mucosa (vermilion) and the adjacent facial skin. Because even a 1-mm step-off is visible, it must be aligned exactly during repair. The other choices describe different anatomical junctions unrelated to this labial landmark.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "The vestibule-oral cavity boundary is the dental arches and gums inside the mouth, not the external lip line.",
+          "B": "The buccal mucosa-gingiva junction is the mucogingival line inside the cheek, not a visible landmark on the lip.",
+          "C": "The hard-soft palate junction lies in the roof of the mouth, unrelated to the lip.",
+          "D": "Keratinized versus nonkeratinized tongue mucosa is an intraoral distinction unrelated to the external lip border."
+        }
       },
       "difficulty": "medium",
       "imageRef": "gipic-023_gi024_f04.png",
@@ -696,7 +781,12 @@
       "explanation": {
         "summary": "When a laceration crosses the vermilion border, the first suture must be placed to reappose the vermilion border itself, because any misalignment of this high-contrast line is immediately noticeable. Only after this landmark is aligned are the remaining sutures placed.",
         "whyCorrect": "When a laceration crosses the vermilion border, the first suture must be placed to reappose the vermilion border itself, because any misalignment of this high-contrast line is immediately noticeable. Only after this landmark is aligned are the remaining sutures placed.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "B": "The philtral column apex is a secondary landmark; the vermilion border must be aligned first because it is the most visible line.",
+          "C": "The free mucosal margin inside the mouth is closed after the vermilion border is aligned, and minor mismatch there is not cosmetically visible.",
+          "D": "The oral commissure matters only for lacerations involving the corner of the mouth, not for one crossing the vermilion.",
+          "E": "Deep sutures restore muscle (orbicularis oris) but cannot set the cosmetic alignment the way the first suture at the vermilion border does."
+        }
       },
       "difficulty": "medium",
       "imageRef": "gipic-024_gi024_f05.png",
@@ -735,7 +825,12 @@
       "explanation": {
         "summary": "The parotid duct opens into the oral vestibule at a papilla opposite the maxillary (upper) second molar. This is a key landmark for assessing parotid gland function, cannulating the duct, or evaluating obstruction. The other locations do not correspond to any major salivary duct opening.",
         "whyCorrect": "The parotid duct opens into the oral vestibule at a papilla opposite the maxillary (upper) second molar. This is a key landmark for assessing parotid gland function, cannulating the duct, or evaluating obstruction. The other locations do not correspond to any major salivary duct opening.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "No major salivary duct opens opposite the maxillary central incisor.",
+          "B": "The mandibular first molar lies on the lower arch; the parotid papilla is opposite an upper molar.",
+          "C": "The submandibular duct opens at the sublingual caruncle on the floor of the mouth, not opposite the lower premolars.",
+          "D": "The parotid duct opens farther back in the cheek, opposite the upper second molar, not the canine."
+        }
       },
       "difficulty": "medium",
       "imageRef": "gipic-025_gi024_f06.png",
@@ -774,7 +869,12 @@
       "explanation": {
         "summary": "The foramen cecum, at the apex of the sulcus terminalis, marks the origin of the thyroid diverticulum, which descends via the thyroglossal duct. Persistence of this tract can produce a thyroglossal duct cyst or a lingual thyroid. The salivary and parathyroid glands have entirely different embryologic origins.",
         "whyCorrect": "The foramen cecum, at the apex of the sulcus terminalis, marks the origin of the thyroid diverticulum, which descends via the thyroglossal duct. Persistence of this tract can produce a thyroglossal duct cyst or a lingual thyroid. The salivary and parathyroid glands have entirely different embryologic origins.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "B": "The sublingual gland develops from oral endoderm in the floor of the mouth and does not descend from the foramen cecum.",
+          "C": "The parotid gland arises from oral ectoderm near the cheek, not from the tongue base.",
+          "D": "The parathyroids develop from the 3rd and 4th pharyngeal pouches, not the foramen cecum.",
+          "E": "The submandibular gland develops from floor-of-mouth endoderm and does not migrate from the tongue."
+        }
       },
       "difficulty": "medium",
       "imageRef": "gipic-026_gi024_f07.png",
@@ -813,7 +913,12 @@
       "explanation": {
         "summary": "The hard palate forms from fusion of the palatine processes of the maxillae and the horizontal plates of the palatine bones; failure of fusion produces a cleft palate, causing a communication between the oral and nasal cavities. Cleft lip results from failure of fusion of the lip prominences, a separate process.",
         "whyCorrect": "The hard palate forms from fusion of the palatine processes of the maxillae and the horizontal plates of the palatine bones; failure of fusion produces a cleft palate, causing a communication between the oral and nasal cavities. Cleft lip results from failure of fusion of the lip prominences, a separate process.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "Isolated cleft lip results from failure of the maxillary and medial nasal prominences to fuse, separate from the palatal shelves.",
+          "B": "Choanal atresia is failure of the oronasal membrane to rupture, blocking the posterior nasal openings, not a palatal fusion defect.",
+          "D": "Torus palatinus is a benign bony overgrowth in the midline of the hard palate, the opposite of a fusion gap.",
+          "E": "A bifid uvula alone reflects incomplete fusion of the soft palate's tip, not failure of the bony hard palate shelves."
+        }
       },
       "difficulty": "medium",
       "imageRef": "gipic-027_gi024_f12.png",
@@ -852,7 +957,12 @@
       "explanation": {
         "summary": "The submandibular (Wharton's) ducts open at the sublingual caruncles beside the frenulum, so these landmarks are used to assess salivary flow and to detect duct obstruction such as salivary stones. Taste, tongue strength (CN XII), and the gag reflex (CN IX/X) are assessed by other means.",
         "whyCorrect": "The submandibular (Wharton's) ducts open at the sublingual caruncles beside the frenulum, so these landmarks are used to assess salivary flow and to detect duct obstruction such as salivary stones. Taste, tongue strength (CN XII), and the gag reflex (CN IX/X) are assessed by other means.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "Dental occlusion is assessed by how upper and lower teeth meet, not by floor-of-mouth landmarks.",
+          "B": "Tongue protrusion strength tests the hypoglossal nerve and genioglossus, not the caruncles.",
+          "C": "The gag reflex is tested by touching the posterior pharynx (CN IX afferent, CN X efferent), not the floor of the mouth.",
+          "E": "Taste on the anterior two-thirds of the tongue (CN VII via chorda tympani) is tested on the dorsal tongue, not at the caruncles."
+        }
       },
       "difficulty": "medium",
       "imageRef": "gipic-028_gi024_f14.png",
@@ -891,7 +1001,12 @@
       "explanation": {
         "summary": "In mixed sero-mucous glands, the serous cells form crescent-shaped caps called serous demilunes around mucous acini, adding enzymes such as lysozyme to the secretion. Intercalated ducts are conduits, myoepithelial cells are contractile basket cells, and Paneth cells belong to intestinal crypts, not salivary glands.",
         "whyCorrect": "In mixed sero-mucous glands, the serous cells form crescent-shaped caps called serous demilunes around mucous acini, adding enzymes such as lysozyme to the secretion. Intercalated ducts are conduits, myoepithelial cells are contractile basket cells, and Paneth cells belong to intestinal crypts, not salivary glands.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "Zymogen granules are intracellular secretory granules within serous cells, not crescent-shaped caps of cells.",
+          "B": "Paneth cells sit at the base of intestinal crypts and do not occur in salivary glands.",
+          "C": "Intercalated ducts are small ducts lined by low cuboidal cells draining acini, not caps on mucous acini.",
+          "E": "Myoepithelial cells are flattened contractile cells between the acinar cells and basement membrane, not dark serous crescents."
+        }
       },
       "difficulty": "medium",
       "imageRef": "gipic-066_gi024_f20.png",
@@ -930,7 +1045,12 @@
       "explanation": {
         "summary": "The genioglossus protrudes the tongue and pushes it to the opposite side. With a CN XII lesion, the weak side cannot push, so the intact genioglossus drives the tongue toward the injured (ipsilateral) side. This 'lick your wounds' rule distinguishes it from the contralateral deviation seen with upper motor neuron lesions.",
         "whyCorrect": "The genioglossus protrudes the tongue and pushes it to the opposite side. With a CN XII lesion, the weak side cannot push, so the intact genioglossus drives the tongue toward the injured (ipsilateral) side. This 'lick your wounds' rule distinguishes it from the contralateral deviation seen with upper motor neuron lesions.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "B": "Contralateral deviation occurs with an upper motor neuron (corticobulbar) lesion, not a lower motor neuron CN XII injury.",
+          "C": "Hypoglossal palsy causes lateral deviation on protrusion; downward deviation is not a recognized pattern.",
+          "D": "Upward deviation toward the palate is not the expected finding; the intact genioglossus pushes the tongue laterally.",
+          "E": "Unilateral weakness creates unbalanced genioglossus action, so the tongue does not protrude straight."
+        }
       },
       "difficulty": "medium",
       "imageRef": "gipic-132_gi024_f11.png",
@@ -969,7 +1089,12 @@
       "explanation": {
         "summary": "Saliva's near-neutral pH and bicarbonate content buffer acids, protecting the teeth from demineralization and the mucosa from injury. Bile and fat emulsification occur in the small intestine, intrinsic factor is secreted by gastric parietal cells, and clotting is a plasma function, none of which are salivary roles.",
         "whyCorrect": "Saliva's near-neutral pH and bicarbonate content buffer acids, protecting the teeth from demineralization and the mucosa from injury. Bile and fat emulsification occur in the small intestine, intrinsic factor is secreted by gastric parietal cells, and clotting is a plasma function, none of which are salivary roles.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "Fat emulsification is performed by bile salts in the small intestine; saliva only begins minor fat digestion with lingual lipase.",
+          "B": "Clotting depends on plasma coagulation factors and platelets, not on saliva.",
+          "D": "Bile is produced by hepatocytes and stored in the gallbladder, not by salivary glands.",
+          "E": "Intrinsic factor is secreted by gastric parietal cells, not salivary glands."
+        }
       },
       "difficulty": "medium",
       "imageRef": "gipic-166_gi024_f17.png",
@@ -1008,7 +1133,12 @@
       "explanation": {
         "summary": "The most inferior of the three unpaired anterior aortic branches is the inferior mesenteric artery (IMA), which supplies hindgut derivatives including the descending and sigmoid colon. The stomach, duodenum, spleen, and liver are foregut structures supplied by the celiac trunk.",
         "whyCorrect": "The most inferior of the three unpaired anterior aortic branches is the inferior mesenteric artery (IMA), which supplies hindgut derivatives including the descending and sigmoid colon. The stomach, duodenum, spleen, and liver are foregut structures supplied by the celiac trunk.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "The liver is a foregut organ supplied by the hepatic artery from the celiac trunk (plus portal vein), not the IMA.",
+          "B": "The spleen is supplied by the splenic artery from the celiac trunk.",
+          "C": "The duodenum is supplied by the celiac (gastroduodenal) and SMA (inferior pancreaticoduodenal) branches, not the IMA.",
+          "D": "The stomach is supplied by gastric and gastroepiploic branches of the celiac trunk."
+        }
       },
       "difficulty": "medium",
       "imageRef": "gipic-029_gi025_f01.png",
@@ -1047,7 +1177,12 @@
       "explanation": {
         "summary": "The splenic flexure lies at the junction of the SMA and IMA territories (a watershed area) and is particularly susceptible to ischemic colitis when perfusion falls, owing to limited collateral circulation.",
         "whyCorrect": "The splenic flexure lies at the junction of the SMA and IMA territories (a watershed area) and is particularly susceptible to ischemic colitis when perfusion falls, owing to limited collateral circulation.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "B": "The GE junction is supplied by the left gastric artery from the celiac trunk and is not an SMA-IMA watershed.",
+          "C": "The hepatic flexure lies within SMA territory (right and middle colic arteries), well away from the SMA-IMA border.",
+          "D": "The ascending colon is supplied by SMA branches (ileocolic and right colic) and is not the SMA-IMA border zone.",
+          "E": "The cecum is supplied by the ileocolic artery from the SMA; the classic SMA-IMA watershed is the splenic flexure."
+        }
       },
       "difficulty": "medium",
       "imageRef": "gipic-030_gi025_f04.png",
@@ -1086,7 +1221,12 @@
       "explanation": {
         "summary": "Venous blood from the GI tract enters the hepatic portal system so the liver can process absorbed nutrients before the blood reaches the IVC and systemic circulation. The portal vein forms from the confluence of the splenic and superior mesenteric veins.",
         "whyCorrect": "Venous blood from the GI tract enters the hepatic portal system so the liver can process absorbed nutrients before the blood reaches the IVC and systemic circulation. The portal vein forms from the confluence of the splenic and superior mesenteric veins.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "The pancreas drains into the portal system but does not filter portal blood before it reaches the IVC.",
+          "C": "The kidneys drain directly into the IVC via the renal veins and are not on the portal route.",
+          "D": "The lungs receive blood after it has passed through the IVC and right heart, downstream of the liver.",
+          "E": "The spleen contributes blood to the portal vein through the splenic vein, but portal blood is processed by the liver."
+        }
       },
       "difficulty": "medium",
       "imageRef": "gipic-031_gi025_f08.png",
@@ -1125,7 +1265,12 @@
       "explanation": {
         "summary": "Because abdominal lymphatics follow the arterial supply, nodes along the left gastric artery (a branch of the celiac trunk) drain the foregut-derived stomach. The distal colon, rectum, and appendix drain along mesenteric and iliac chains instead.",
         "whyCorrect": "Because abdominal lymphatics follow the arterial supply, nodes along the left gastric artery (a branch of the celiac trunk) drain the foregut-derived stomach. The distal colon, rectum, and appendix drain along mesenteric and iliac chains instead.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "The descending colon drains along the left colic artery to inferior mesenteric nodes.",
+          "B": "The sigmoid colon drains along sigmoid arteries to inferior mesenteric nodes.",
+          "D": "The appendix drains along the appendicular and ileocolic arteries to superior mesenteric nodes.",
+          "E": "The rectum drains to inferior mesenteric and internal iliac nodes, depending on level."
+        }
       },
       "difficulty": "medium",
       "imageRef": "gipic-032_gi025_f10.png",
@@ -1164,7 +1309,12 @@
       "explanation": {
         "summary": "Acute occlusion of the SMA, most often from a cardioembolic embolus, infarcts the entire midgut (jejunum, ileum, and proximal colon), producing the dusky, hemorrhagic necrosis shown. Because loss of the midgut is often unsurvivable, flow must be restored rapidly.",
         "whyCorrect": "Acute occlusion of the SMA, most often from a cardioembolic embolus, infarcts the entire midgut (jejunum, ileum, and proximal colon), producing the dusky, hemorrhagic necrosis shown. Because loss of the midgut is often unsurvivable, flow must be restored rapidly.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "Splenic vein thrombosis causes left-sided (sinistral) portal hypertension with gastric varices, not small-bowel infarction.",
+          "C": "IMA thrombosis affects the descending and sigmoid colon (hindgut), not the small bowel.",
+          "D": "Sigmoid volvulus strangulates the sigmoid colon, not the small intestine.",
+          "E": "Chronic celiac artery compression (median arcuate ligament syndrome) causes postprandial pain, not acute small-bowel necrosis."
+        }
       },
       "difficulty": "medium",
       "imageRef": "gipic-133_gi025_f06.png",
@@ -1203,7 +1353,12 @@
       "explanation": {
         "summary": "In portal hypertension, elevated pressure is transmitted through the left gastric vein into submucosal esophageal veins, forming esophageal varices. These are prone to life-threatening rupture, which classically presents as hematemesis.",
         "whyCorrect": "In portal hypertension, elevated pressure is transmitted through the left gastric vein into submucosal esophageal veins, forming esophageal varices. These are prone to life-threatening rupture, which classically presents as hematemesis.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "B": "Right upper quadrant colic reflects gallstones obstructing the cystic duct, not variceal bleeding.",
+          "C": "Hematochezia from portosystemic connections would come from rectal varices at the superior-inferior rectal anastomosis, not esophageal veins.",
+          "D": "Painless jaundice suggests a pancreatic head tumor obstructing the bile duct, not varices.",
+          "E": "Steatorrhea reflects fat malabsorption from pancreatic insufficiency or bile acid deficiency, not esophageal bleeding."
+        }
       },
       "difficulty": "medium",
       "imageRef": "gipic-134_gi025_f09.png",
@@ -1242,7 +1397,12 @@
       "explanation": {
         "summary": "Parasympathetic innervation (via the vagus nerve to foregut/midgut and pelvic splanchnic nerves to hindgut) promotes GI motility and secretion, opposing sympathetic activity that decreases these functions.",
         "whyCorrect": "Parasympathetic innervation (via the vagus nerve to foregut/midgut and pelvic splanchnic nerves to hindgut) promotes GI motility and secretion, opposing sympathetic activity that decreases these functions.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "B": "Parasympathetic (vagal) input strongly stimulates gastric, pancreatic, and salivary secretion.",
+          "C": "Decreased motility and secretion are sympathetic effects, opposing parasympathetic action.",
+          "D": "Reduced splanchnic blood flow results from sympathetic vasoconstriction, not parasympathetic input.",
+          "E": "GI sphincter contraction is promoted by sympathetic tone; parasympathetic input generally relaxes sphincters to allow transit."
+        }
       },
       "difficulty": "medium",
       "imageRef": "gipic-167_gi025_f11.png",
@@ -1281,7 +1441,12 @@
       "explanation": {
         "summary": "Visceral afferent fibers travel with sympathetic fibers and enter the spinal cord through the dorsal roots at the same levels as somatic sensory fibers. The brain misinterprets this convergent input as arising from the corresponding somatic dermatome, producing referred pain.",
         "whyCorrect": "Visceral afferent fibers travel with sympathetic fibers and enter the spinal cord through the dorsal roots at the same levels as somatic sensory fibers. The brain misinterprets this convergent input as arising from the corresponding somatic dermatome, producing referred pain.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "Visceral afferents do not bypass the spinal cord; convergence occurs in the dorsal horn before signals ascend to the thalamus.",
+          "B": "Ventral roots carry motor efferent fibers out of the cord, not incoming sensory fibers.",
+          "C": "Skin nerve endings are somatic receptors; visceral afferents never synapse there, so pain is only perceived as arising from skin.",
+          "D": "Visceral afferents pass through the sympathetic chain without synapsing; convergence occurs in the spinal cord, not the ganglia."
+        }
       },
       "difficulty": "medium",
       "imageRef": "gipic-168_gi025_f15.png",
@@ -1316,7 +1481,11 @@
       "explanation": {
         "summary": "The peritoneum is the serous membrane that lines the abdominal cavity and invests its organs, classifying them as intraperitoneal or retroperitoneal. The pleura and pericardium line the thoracic cavities, and deep fascia is not a serous membrane.",
         "whyCorrect": "The peritoneum is the serous membrane that lines the abdominal cavity and invests its organs, classifying them as intraperitoneal or retroperitoneal. The pleura and pericardium line the thoracic cavities, and deep fascia is not a serous membrane.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "B": "The pleura lines the thoracic cavity and covers the lungs, not the abdominal organs.",
+          "C": "Deep investing fascia is fibrous connective tissue around muscles, not a serous membrane that secretes fluid.",
+          "D": "The pericardium surrounds the heart in the mediastinum, not the abdominal viscera."
+        }
       },
       "difficulty": "medium",
       "imageRef": "gipic-033_gi026_f01.png",
@@ -1351,7 +1520,11 @@
       "explanation": {
         "summary": "The space between the parietal and visceral peritoneum is the peritoneal cavity, a potential space with lubricating serous fluid. The retroperitoneal space lies behind the parietal peritoneum, and the lesser sac is only one subdivision of the peritoneal cavity.",
         "whyCorrect": "The space between the parietal and visceral peritoneum is the peritoneal cavity, a potential space with lubricating serous fluid. The retroperitoneal space lies behind the parietal peritoneum, and the lesser sac is only one subdivision of the peritoneal cavity.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "B": "The retroperitoneal space lies behind the parietal peritoneum and contains organs like the kidneys, not the lubricated potential space.",
+          "C": "The pleural cavity is the analogous space around the lungs in the thorax, not the abdomen.",
+          "D": "The lesser sac is only one part of the peritoneal cavity behind the stomach, not the whole space between peritoneal layers."
+        }
       },
       "difficulty": "medium",
       "imageRef": "gipic-034_gi026_f02.png",
@@ -1386,7 +1559,11 @@
       "explanation": {
         "summary": "The mesentery proper suspends the small bowel and transmits the superior mesenteric artery and vein, autonomic nerves, and lymphatics. The portal triad runs in the hepatoduodenal ligament, not the small-bowel mesentery.",
         "whyCorrect": "The mesentery proper suspends the small bowel and transmits the superior mesenteric artery and vein, autonomic nerves, and lymphatics. The portal triad runs in the hepatoduodenal ligament, not the small-bowel mesentery.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "The inferior mesenteric vessels supply the hindgut and run retroperitoneally and in the sigmoid mesocolon, not in the small-bowel mesentery.",
+          "C": "The portal triad runs in the hepatoduodenal ligament, the free edge of the lesser omentum.",
+          "D": "The thoracic duct and azygos vein are posterior mediastinal and retroperitoneal structures, not in the mesentery."
+        }
       },
       "difficulty": "medium",
       "imageRef": "gipic-035_gi026_f03.png",
@@ -1421,7 +1598,11 @@
       "explanation": {
         "summary": "The common bile duct, portal vein, and proper hepatic artery travel together in the hepatoduodenal ligament as the portal triad. The other choices are unrelated vascular groupings.",
         "whyCorrect": "The common bile duct, portal vein, and proper hepatic artery travel together in the hepatoduodenal ligament as the portal triad. The other choices are unrelated vascular groupings.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "The superior mesenteric vessels travel in the root of the small-bowel mesentery, not in the lesser omentum.",
+          "B": "The celiac trunk branches (left gastric, splenic, and common hepatic) arise behind the lesser sac and are not a three-structure bundle.",
+          "D": "The splenic hilar vessels travel in the splenorenal ligament, far from the lesser omentum."
+        }
       },
       "difficulty": "medium",
       "imageRef": "gipic-036_gi026_f09.png",
@@ -1456,7 +1637,11 @@
       "explanation": {
         "summary": "The ligamentum teres hepatis is the fibrous remnant of the left umbilical vein. The ductus venosus becomes the ligamentum venosum, the ductus arteriosus becomes the ligamentum arteriosum, and the umbilical arteries become the medial umbilical ligaments.",
         "whyCorrect": "The ligamentum teres hepatis is the fibrous remnant of the left umbilical vein. The ductus venosus becomes the ligamentum venosum, the ductus arteriosus becomes the ligamentum arteriosum, and the umbilical arteries become the medial umbilical ligaments.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "B": "The ductus arteriosus becomes the ligamentum arteriosum between the aortic arch and pulmonary trunk.",
+          "C": "The ductus venosus becomes the ligamentum venosum, in a fissure on the posterior surface of the liver.",
+          "D": "The umbilical arteries become the medial umbilical ligaments on the anterior abdominal wall."
+        }
       },
       "difficulty": "medium",
       "imageRef": "gipic-037_gi026_f11.png",
@@ -1491,7 +1676,11 @@
       "explanation": {
         "summary": "The rectouterine pouch (pouch of Douglas) is the most dependent peritoneal recess in females. Morison's pouch is hepatorenal, the space of Retzius is retropubic and extraperitoneal, and Calot's triangle is a biliary landmark.",
         "whyCorrect": "The rectouterine pouch (pouch of Douglas) is the most dependent peritoneal recess in females. Morison's pouch is hepatorenal, the space of Retzius is retropubic and extraperitoneal, and Calot's triangle is a biliary landmark.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "The space of Retzius is the retropubic, extraperitoneal space in front of the bladder.",
+          "B": "Calot's triangle is a biliary landmark bounded by the cystic duct, common hepatic duct, and liver, containing the cystic artery.",
+          "D": "Morison's pouch is the hepatorenal recess, the most dependent upper-abdominal space when supine."
+        }
       },
       "difficulty": "medium",
       "imageRef": "gipic-038_gi026_f12.png",
@@ -1526,7 +1715,11 @@
       "explanation": {
         "summary": "The common bile duct and main pancreatic duct join and drain at the major duodenal papilla in the second part of the duodenum. The minor papilla drains only the accessory pancreatic duct.",
         "whyCorrect": "The common bile duct and main pancreatic duct join and drain at the major duodenal papilla in the second part of the duodenum. The minor papilla drains only the accessory pancreatic duct.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "The duodenojejunal flexure is where the duodenum meets the jejunum at the ligament of Treitz, not a duct opening.",
+          "B": "The pylorus is the gastric outlet and receives no ducts.",
+          "D": "The minor papilla drains only the accessory pancreatic duct (of Santorini), not the common bile duct."
+        }
       },
       "difficulty": "medium",
       "imageRef": "gipic-039_gi026_f22.png",
@@ -1561,7 +1754,11 @@
       "explanation": {
         "summary": "Below the pectinate (dentate) line, drainage is systemic through inferior rectal veins to the internal pudendal and internal iliac veins; above it, drainage is portal via the superior rectal vein, which is why this line marks a portosystemic anastomosis.",
         "whyCorrect": "Below the pectinate (dentate) line, drainage is systemic through inferior rectal veins to the internal pudendal and internal iliac veins; above it, drainage is portal via the superior rectal vein, which is why this line marks a portosystemic anastomosis.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "B": "The azygos system drains the thoracic wall and esophagus, not the anal canal.",
+          "C": "Portal drainage via the superior rectal vein applies above the pectinate line, not below it.",
+          "D": "The thoracic duct carries lymph, not venous blood, and anal lymph below the line drains to superficial inguinal nodes."
+        }
       },
       "difficulty": "medium",
       "imageRef": "gipic-040_gi026_f26.png",
@@ -1596,7 +1793,11 @@
       "explanation": {
         "summary": "The closed fascial planes of the retroperitoneum limit expansion and create a natural tamponade that temporarily contains bleeding; free rupture into the peritoneal cavity offers no such containment and is rapidly fatal.",
         "whyCorrect": "The closed fascial planes of the retroperitoneum limit expansion and create a natural tamponade that temporarily contains bleeding; free rupture into the peritoneal cavity offers no such containment and is rapidly fatal.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "B": "Intestinal lymphatics carry chyle and interstitial fluid; they cannot drain an arterial hemorrhage.",
+          "C": "The retroperitoneum contains the aorta, IVC, and renal vessels, so it is not avascular.",
+          "D": "The peritoneum does not secrete clotting factors; containment comes from the confined retroperitoneal space."
+        }
       },
       "difficulty": "medium",
       "imageRef": "gipic-135_gi026_f13.png",
@@ -1631,7 +1832,11 @@
       "explanation": {
         "summary": "Impaired relaxation of the cricopharyngeus raises hypopharyngeal pressure and produces a Zenker (pulsion) diverticulum just above it. Achalasia involves the LES, Barrett is metaplasia from reflux, and Mallory-Weiss is a mucosal tear from retching.",
         "whyCorrect": "Impaired relaxation of the cricopharyngeus raises hypopharyngeal pressure and produces a Zenker (pulsion) diverticulum just above it. Achalasia involves the LES, Barrett is metaplasia from reflux, and Mallory-Weiss is a mucosal tear from retching.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "Achalasia is failure of the lower esophageal sphincter to relax, from loss of myenteric inhibitory neurons, not the cricopharyngeus.",
+          "C": "Barrett esophagus is intestinal metaplasia of the distal esophagus from chronic acid reflux.",
+          "D": "A Mallory-Weiss tear is a longitudinal mucosal laceration at the GE junction from forceful retching."
+        }
       },
       "difficulty": "medium",
       "imageRef": "gipic-136_gi026_f14.png",
@@ -1666,7 +1871,11 @@
       "explanation": {
         "summary": "A sliding hiatal hernia moves the gastroesophageal junction above the diaphragm and blunts the angle of His, decoupling the LES from crural support and promoting reflux/GERD.",
         "whyCorrect": "A sliding hiatal hernia moves the gastroesophageal junction above the diaphragm and blunts the angle of His, decoupling the LES from crural support and promoting reflux/GERD.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "B": "Hiatal hernia lowers effective LES pressure by removing crural support; it does not increase resting tone.",
+          "C": "The hernia displaces the GE junction above the diaphragm, separating it from the crural pinch and weakening that support.",
+          "D": "Hiatal hernia is associated with a widened, not narrowed, esophageal hiatus."
+        }
       },
       "difficulty": "medium",
       "imageRef": "gipic-137_gi026_f20.png",
@@ -1701,7 +1910,11 @@
       "explanation": {
         "summary": "The lower esophageal sphincter's tonic contraction prevents reflux; low resting tone allows acid reflux and GERD. Achalasia is failure of relaxation (increased tone), Zenker involves the UES, and spasm is a motility disorder.",
         "whyCorrect": "The lower esophageal sphincter's tonic contraction prevents reflux; low resting tone allows acid reflux and GERD. Achalasia is failure of relaxation (increased tone), Zenker involves the UES, and spasm is a motility disorder.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "Diffuse esophageal spasm involves uncoordinated simultaneous contractions of the esophageal body, not low LES tone.",
+          "B": "Zenker diverticulum arises above the upper esophageal sphincter (cricopharyngeus) from impaired relaxation there.",
+          "D": "Achalasia involves high LES tone with failure to relax, the opposite of inadequate resting tone."
+        }
       },
       "difficulty": "medium",
       "imageRef": "gipic-169_gi026_f15.png",
@@ -1736,7 +1949,11 @@
       "explanation": {
         "summary": "Parietal cells of the gastric body and fundus secrete HCl and intrinsic factor (needed for B12 absorption). Gastrin/somatostatin are from endocrine cells, pepsinogen from chief cells, and secretin/CCK from the duodenum.",
         "whyCorrect": "Parietal cells of the gastric body and fundus secrete HCl and intrinsic factor (needed for B12 absorption). Gastrin/somatostatin are from endocrine cells, pepsinogen from chief cells, and secretin/CCK from the duodenum.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "Secretin and CCK are duodenal enteroendocrine hormones from S and I cells, not gastric parietal cell products.",
+          "B": "Pepsinogen comes from chief cells, and mucus from surface and neck mucous cells.",
+          "D": "Gastrin and somatostatin come from G and D enteroendocrine cells, not parietal cells."
+        }
       },
       "difficulty": "medium",
       "imageRef": "gipic-170_gi026_f17.png",
@@ -1771,7 +1988,11 @@
       "explanation": {
         "summary": "The angle of His acts as a flap valve reinforcing the antireflux barrier; when blunted (e.g., by hiatal hernia) reflux increases. The other conditions are unrelated to this angle.",
         "whyCorrect": "The angle of His acts as a flap valve reinforcing the antireflux barrier; when blunted (e.g., by hiatal hernia) reflux increases. The other conditions are unrelated to this angle.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "Gastric outlet obstruction occurs at the pylorus or duodenum, unrelated to the angle at the gastric inlet.",
+          "C": "Dumping syndrome results from rapid gastric emptying, typically after gastrectomy or pyloroplasty, not loss of the angle of His.",
+          "D": "Achalasia is failure of LES relaxation from loss of inhibitory neurons, a motility disorder rather than a flap-valve defect."
+        }
       },
       "difficulty": "medium",
       "imageRef": "gipic-171_gi026_f19.png",
@@ -1806,7 +2027,11 @@
       "explanation": {
         "summary": "When the puborectalis relaxes during defecation, the anorectal angle straightens, allowing stool to pass more easily; at rest its tonic contraction keeps the angle acute to maintain continence.",
         "whyCorrect": "When the puborectalis relaxes during defecation, the anorectal angle straightens, allowing stool to pass more easily; at rest its tonic contraction keeps the angle acute to maintain continence.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "Relaxing the sling opens rather than closes the anal outlet; tonic contraction is what maintains continence.",
+          "C": "Puborectalis relaxation lowers, not raises, resistance at the outlet; it is coordinated with sphincter relaxation.",
+          "D": "Narrowing the angle is the effect of puborectalis contraction at rest, which preserves continence."
+        }
       },
       "difficulty": "medium",
       "imageRef": "gipic-172_gi026_f27.png",

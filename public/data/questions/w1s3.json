@@ -33,7 +33,12 @@
       "explanation": {
         "summary": "The crura of the diaphragm surround the esophagus at the hiatus and act as an external ('extrinsic') sphincter, compressing the esophagus especially during inspiration when intra-abdominal pressure rises.",
         "whyCorrect": "The crura of the diaphragm surround the esophagus at the hiatus and act as an external ('extrinsic') sphincter, compressing the esophagus especially during inspiration when intra-abdominal pressure rises.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "B": "The intrinsic resting tone comes from the circular smooth muscle of the lower esophageal sphincter itself, not from the skeletal-muscle diaphragmatic crura.",
+          "C": "The crura arise from the lumbar vertebrae and surround the hiatus; they do not attach the esophagus to the sternum.",
+          "D": "The gastrocolic reflex is colonic motility triggered by gastric distension, mediated by enteric and autonomic nerves, not by crural relaxation.",
+          "E": "The crura are skeletal muscle with no glandular function; esophageal lubrication comes from submucosal mucous glands and saliva."
+        }
       },
       "difficulty": "medium",
       "imageRef": "gipic-001_gi000_f02.png",
@@ -72,7 +77,12 @@
       "explanation": {
         "summary": "A Zenker diverticulum is a false (pulsion) diverticulum herniating through Killian triangle, between the thyropharyngeus and cricopharyngeus fibers, due to impaired upper esophageal sphincter relaxation.",
         "whyCorrect": "A Zenker diverticulum is a false (pulsion) diverticulum herniating through Killian triangle, between the thyropharyngeus and cricopharyngeus fibers, due to impaired upper esophageal sphincter relaxation.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "B": "The internal and external anal sphincters are at the anorectal junction; herniation there is unrelated to a hypopharyngeal pouch.",
+          "C": "Herniation through a defective pleuroperitoneal membrane is a Bochdalek congenital diaphragmatic hernia, a posterolateral diaphragmatic defect.",
+          "D": "Herniation through the diaphragmatic hiatus is a hiatal hernia of the stomach, far below the pharyngoesophageal junction.",
+          "E": "Outpouchings at the GE junction are epiphrenic diverticula of the distal esophagus, not the posterior hypopharyngeal pouch shown."
+        }
       },
       "difficulty": "medium",
       "imageRef": "gipic-002_gi000_f17.png",
@@ -111,7 +121,12 @@
       "explanation": {
         "summary": "The normal esophagus is lined by stratified squamous nonkeratinized epithelium; reflux esophagitis produces basal cell hyperplasia, papillary elongation, and intraepithelial inflammation within this epithelium.",
         "whyCorrect": "The normal esophagus is lined by stratified squamous nonkeratinized epithelium; reflux esophagitis produces basal cell hyperplasia, papillary elongation, and intraepithelial inflammation within this epithelium.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "B": "Transitional epithelium (urothelium) lines the urinary tract, where it stretches with filling; it is not found in the esophagus.",
+          "C": "Simple cuboidal epithelium lines small ducts and renal tubules, not the abrasion-resistant esophageal surface.",
+          "D": "Pseudostratified ciliated columnar epithelium lines the respiratory tract (trachea, bronchi), not the esophagus.",
+          "E": "Simple columnar epithelium normally lines the stomach and intestines; finding it in the esophagus means Barrett metaplasia, not the native lining."
+        }
       },
       "difficulty": "medium",
       "imageRef": "gipic-044_gi000_f06.png",
@@ -150,7 +165,12 @@
       "explanation": {
         "summary": "Reflux esophagitis, seen here as linear erosions of the distal esophageal mucosa, is the most common complication of prolonged GERD, resulting from direct acid injury.",
         "whyCorrect": "Reflux esophagitis, seen here as linear erosions of the distal esophageal mucosa, is the most common complication of prolonged GERD, resulting from direct acid injury.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "Plummer-Vinson syndrome causes an upper esophageal web with iron-deficiency anemia and glossitis, not distal linear erosions at the GE junction.",
+          "B": "Candida esophagitis shows white adherent plaques scattered along the esophagus, not linear mucosal breaks radiating from the GE junction.",
+          "C": "Achalasia is failure of LES relaxation with a dilated esophagus and bird's-beak narrowing; it keeps acid out rather than causing reflux erosions.",
+          "E": "Eosinophilic esophagitis shows concentric rings, linear furrows, and white exudates throughout the esophagus, not distal erosions from acid."
+        }
       },
       "difficulty": "medium",
       "imageRef": "gipic-068_gi000_f05.png",
@@ -189,7 +209,12 @@
       "explanation": {
         "summary": "Barrett esophagus appears endoscopically as salmon-colored columnar mucosa extending above the GE junction, reflecting intestinal metaplasia driven by chronic acid reflux.",
         "whyCorrect": "Barrett esophagus appears endoscopically as salmon-colored columnar mucosa extending above the GE junction, reflecting intestinal metaplasia driven by chronic acid reflux.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "B": "Fungal pseudomembranes appear as white or yellow adherent plaques, not as a smooth salmon-colored tongue of mucosa above the junction.",
+          "C": "A peptic stricture is a fibrotic narrowing of the lumen; it does not change the mucosal color to salmon pink.",
+          "D": "Pill esophagitis causes focal ulceration at sites of pill hang-up, and squamous hyperplasia keeps the pale pink squamous color.",
+          "E": "Submucosal venous dilation produces esophageal varices, which appear as bluish, tortuous columns rather than flat salmon-colored mucosa."
+        }
       },
       "difficulty": "medium",
       "imageRef": "gipic-069_gi000_f08.png",
@@ -228,7 +253,12 @@
       "explanation": {
         "summary": "Concentric rings ('trachealization'), along with furrows and white exudates, are the most characteristic endoscopic finding of eosinophilic esophagitis.",
         "whyCorrect": "Concentric rings ('trachealization'), along with furrows and white exudates, are the most characteristic endoscopic finding of eosinophilic esophagitis.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "Candida esophagitis produces white adherent plaques on an erythematous mucosa, not fixed concentric rings.",
+          "B": "Achalasia shows a dilated, food-filled esophagus with a tight LES, not stacked mucosal rings.",
+          "C": "Reflux esophagitis causes distal linear erosions near the GE junction rather than rings along the length of the esophagus.",
+          "D": "Barrett esophagus appears as salmon-colored columnar mucosa extending above the GE junction, not as trachea-like rings."
+        }
       },
       "difficulty": "medium",
       "imageRef": "gipic-070_gi000_f12.png",
@@ -267,7 +297,12 @@
       "explanation": {
         "summary": "Candida esophagitis presents with adherent white/yellow plaques; brushing reveals yeast and pseudohyphae. It is the most common infectious esophagitis in immunocompromised patients.",
         "whyCorrect": "Candida esophagitis presents with adherent white/yellow plaques; brushing reveals yeast and pseudohyphae. It is the most common infectious esophagitis in immunocompromised patients.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "CMV esophagitis causes large, shallow linear ulcers, and biopsy shows enlarged cells with owl's-eye inclusions, not filamentous structures.",
+          "B": "HSV esophagitis causes small punched-out ulcers, and cytology shows multinucleated cells with ground-glass nuclei, not branching filaments.",
+          "C": "Aspergillus forms septate hyphae branching at acute angles and invades vessels in neutropenic patients; it is not a cause of esophageal thrush.",
+          "E": "Histoplasma appears as tiny intracellular yeasts inside macrophages and rarely involves the esophagus; it does not form pseudohyphae on brushing."
+        }
       },
       "difficulty": "medium",
       "imageRef": "gipic-071_gi000_f13.png",
@@ -306,7 +341,12 @@
       "explanation": {
         "summary": "In a paraesophageal hiatal hernia the GE junction stays intra-abdominal so reflux is uncommon, but the herniated fundus can twist, producing gastric volvulus with compromised blood flow and necrosis.",
         "whyCorrect": "In a paraesophageal hiatal hernia the GE junction stays intra-abdominal so reflux is uncommon, but the herniated fundus can twist, producing gastric volvulus with compromised blood flow and necrosis.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "A Zenker diverticulum is a pharyngoesophageal outpouching through Killian triangle and is unrelated to herniation of the stomach.",
+          "B": "Achalasia is a primary motor disorder from loss of myenteric inhibitory neurons; a paraesophageal hernia does not cause it.",
+          "D": "Barrett metaplasia results from chronic acid reflux, which is uncommon in paraesophageal hernias because the GE junction stays below the diaphragm.",
+          "E": "Esophageal varices come from portal hypertension shunting blood through portosystemic collaterals, not from herniation of the fundus."
+        }
       },
       "difficulty": "medium",
       "imageRef": "gipic-096_gi000_f04.png",
@@ -345,7 +385,12 @@
       "explanation": {
         "summary": "A Mallory-Weiss tear is a longitudinal laceration limited to the mucosa (and submucosa) at the GE junction from a sudden rise in intragastric pressure; it usually resolves with supportive care.",
         "whyCorrect": "A Mallory-Weiss tear is a longitudinal laceration limited to the mucosa (and submucosa) at the GE junction from a sudden rise in intragastric pressure; it usually resolves with supportive care.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "The tear begins at the mucosal surface; the muscularis propria is spared, which is why bleeding is usually self-limited.",
+          "C": "The esophageal adventitia is the outermost layer; a tear confined there alone would not bleed into the lumen and cause hematemesis.",
+          "D": "The esophagus has no serosa over most of its length, and a tear through the muscularis externa would be a deeper, more dangerous injury than this.",
+          "E": "A full-thickness tear is Boerhaave syndrome, which leaks into the mediastinum and causes chest pain, crepitus, and sepsis rather than simple hematemesis."
+        }
       },
       "difficulty": "medium",
       "imageRef": "gipic-097_gi000_f18.png",
@@ -384,7 +429,12 @@
       "explanation": {
         "summary": "Boerhaave syndrome is a spontaneous full-thickness (transmural) rupture of the esophagus from forceful vomiting, allowing leakage into the mediastinum and causing mediastinitis; it is a surgical emergency.",
         "whyCorrect": "Boerhaave syndrome is a spontaneous full-thickness (transmural) rupture of the esophagus from forceful vomiting, allowing leakage into the mediastinum and causing mediastinitis; it is a surgical emergency.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "B": "A fibrotic stricture develops slowly from chronic reflux or caustic injury and narrows the lumen; it is not an acute defect after vomiting.",
+          "C": "An outpouching of mucosa and submucosa is a false diverticulum, such as Zenker, not an acute rupture.",
+          "D": "A partial mucosal laceration that heals on its own describes a Mallory-Weiss tear, the very lesion the stem contrasts.",
+          "E": "Columnar metaplasia is Barrett esophagus, a chronic adaptation to acid reflux, not a traumatic wall defect."
+        }
       },
       "difficulty": "medium",
       "imageRef": "gipic-098_gi000_f19.png",
@@ -423,7 +473,12 @@
       "explanation": {
         "summary": "Proton pump inhibitors irreversibly block the apical H+/K+ ATPase; long-term acid suppression impairs release and absorption of vitamin B12 (and raises osteoporosis risk).",
         "whyCorrect": "Proton pump inhibitors irreversibly block the apical H+/K+ ATPase; long-term acid suppression impairs release and absorption of vitamin B12 (and raises osteoporosis risk).",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "Vitamin K malabsorption follows fat malabsorption or prolonged broad-spectrum antibiotics, not gastric acid suppression.",
+          "B": "Thiamine deficiency is linked to alcoholism, malnutrition, and bariatric surgery; PPIs do not block its absorption.",
+          "C": "Folate is absorbed in the jejunum and is depleted by poor intake, methotrexate, trimethoprim, or phenytoin, not by blocking the proton pump.",
+          "E": "Vitamin C deficiency (scurvy) reflects poor fruit and vegetable intake; acid suppression is not a classic cause."
+        }
       },
       "difficulty": "medium",
       "imageRef": "gipic-147_gi000_f09.png",
@@ -462,7 +517,12 @@
       "explanation": {
         "summary": "The image depicts the lower esophageal sphincter, a specialized thickening of circular smooth muscle at the GE junction that maintains resting tone to block retrograde movement of gastric contents; its failure underlies GERD.",
         "whyCorrect": "The image depicts the lower esophageal sphincter, a specialized thickening of circular smooth muscle at the GE junction that maintains resting tone to block retrograde movement of gastric contents; its failure underlies GERD.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "Bicarbonate secretion comes from surface mucous cells, submucosal glands, and the pancreas, not from a band of sphincter muscle.",
+          "B": "The primary peristaltic wave is generated by the esophageal body after swallowing; the sphincter must relax to let that wave pass.",
+          "C": "The swallowing reflex is triggered in the oropharynx and coordinated by the brainstem, not by the sphincter at the GE junction.",
+          "D": "Intrinsic factor is secreted by parietal cells of the gastric body and fundus, not by muscle at the GE junction."
+        }
       },
       "difficulty": "medium",
       "imageRef": "gipic-152_gi000_f01.png",
@@ -501,7 +561,12 @@
       "explanation": {
         "summary": "About 90% of gastrinomas arise within this triangle, most often in the duodenum or head of the pancreas. Excess gastrin drives acid hypersecretion and the refractory ulcers of Zollinger-Ellison syndrome.",
         "whyCorrect": "About 90% of gastrinomas arise within this triangle, most often in the duodenum or head of the pancreas. Excess gastrin drives acid hypersecretion and the refractory ulcers of Zollinger-Ellison syndrome.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "VIPomas usually arise in the pancreatic body and tail and cause watery diarrhea, hypokalemia, and achlorhydria; they do not cluster in this triangle.",
+          "C": "CCK is released by duodenal I cells in response to fat and protein; CCK-secreting tumors are not a recognized entity localized to this region.",
+          "D": "Somatostatinomas arise in the pancreas or periampullary duodenum and cause diabetes, gallstones, and steatorrhea, but they do not define this triangle.",
+          "E": "Secretin is made by duodenal S cells in response to acid, and secretin-producing tumors are essentially unknown; secretin is instead used to provoke gastrin release in testing."
+        }
       },
       "difficulty": "medium",
       "imageRef": "gipic-003_gi001_f04.png",
@@ -540,7 +605,12 @@
       "explanation": {
         "summary": "The gastroduodenal artery runs behind the first part of the duodenum, so posterior duodenal ulcers can erode into it and cause brisk upper GI bleeding (hematemesis and melena). Anterior ulcers, by contrast, tend to perforate.",
         "whyCorrect": "The gastroduodenal artery runs behind the first part of the duodenum, so posterior duodenal ulcers can erode into it and cause brisk upper GI bleeding (hematemesis and melena). Anterior ulcers, by contrast, tend to perforate.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "Free air under the diaphragm results from perforation, which is typical of anterior duodenal ulcers that open into the peritoneal cavity.",
+          "B": "Steatorrhea reflects pancreatic insufficiency or mucosal disease; a bleeding ulcer into the gastroduodenal artery does not cause fat malabsorption.",
+          "C": "Gastric outlet obstruction from scarring near the pylorus causes nonbilious vomiting of undigested food, and it is a chronic, not hemorrhagic, complication.",
+          "D": "Painless obstructive jaundice suggests a pancreatic head or periampullary tumor compressing the common bile duct, not an ulcer eroding an artery."
+        }
       },
       "difficulty": "medium",
       "imageRef": "gipic-004_gi001_f09.png",
@@ -579,7 +649,12 @@
       "explanation": {
         "summary": "Helicobacter pylori is a gram-negative, curved (seagull-shaped) rod that colonizes the mucus layer over gastric epithelium. It produces urease to survive gastric acid and causes chronic gastritis, peptic ulcers, gastric cancer, and MALT lymphoma.",
         "whyCorrect": "Helicobacter pylori is a gram-negative, curved (seagull-shaped) rod that colonizes the mucus layer over gastric epithelium. It produces urease to survive gastric acid and causes chronic gastritis, peptic ulcers, gastric cancer, and MALT lymphoma.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "Giardia trophozoites are pear-shaped, binucleate protozoa attached to duodenal villi, not curved bacteria in gastric mucus.",
+          "B": "Vibrio cholerae is a comma-shaped rod that colonizes the small intestine and causes secretory diarrhea; it does not survive gastric acid to colonize the stomach.",
+          "D": "Campylobacter jejuni is a curved rod that infects the small and large intestine causing bloody diarrhea, not gastric mucosa.",
+          "E": "Candida appears as budding yeast and pseudohyphae, much larger than bacteria, and does not line up as curved rods along the gastric pits."
+        }
       },
       "difficulty": "medium",
       "imageRef": "gipic-045_gi001_f02.png",
@@ -618,7 +693,12 @@
       "explanation": {
         "summary": "Helicobacter pylori and NSAID use are the two most common causes of peptic ulcers, and duodenal ulcers are especially associated with H. pylori. Bleeding is the most common complication of peptic ulcer disease.",
         "whyCorrect": "Helicobacter pylori and NSAID use are the two most common causes of peptic ulcers, and duodenal ulcers are especially associated with H. pylori. Bleeding is the most common complication of peptic ulcer disease.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "Autoimmune parietal cell destruction causes atrophic gastritis of the body and fundus with achlorhydria, which protects against duodenal ulcers.",
+          "C": "Vasculitic ischemia can ulcerate bowel but is a rare cause; it is not the leading worldwide cause of duodenal bulb ulcers.",
+          "D": "Bile reflux gastropathy injures the gastric mucosa, typically after gastric surgery, and does not cause duodenal bulb ulcers.",
+          "E": "CMV causes GI ulcers mainly in immunocompromised hosts and is an uncommon cause of peptic ulceration in the general population."
+        }
       },
       "difficulty": "medium",
       "imageRef": "gipic-072_gi001_f06.png",
@@ -657,7 +737,12 @@
       "explanation": {
         "summary": "Erythema (redness) of the gastric mucosa, superficial erosions, and loss of rugal folds are typical endoscopic findings of gastritis, reflecting mucosal inflammation and injury.",
         "whyCorrect": "Erythema (redness) of the gastric mucosa, superficial erosions, and loss of rugal folds are typical endoscopic findings of gastritis, reflecting mucosal inflammation and injury.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "Esophageal candidiasis shows white plaques in the esophagus, not diffuse redness of the gastric mucosa.",
+          "B": "Normal fundic mucosa is smooth and pink with intact rugal folds, without redness, erosions, or friability.",
+          "D": "Infiltrating (diffuse) gastric adenocarcinoma thickens and stiffens the wall (linitis plastica), producing rigid, thick folds rather than diffuse friable redness.",
+          "E": "Portal hypertensive gastropathy shows a snake-skin mosaic pattern, mainly in the fundus and body, in a patient with cirrhosis rather than diffuse erosive friability."
+        }
       },
       "difficulty": "medium",
       "imageRef": "gipic-073_gi001_f07.png",
@@ -696,7 +781,12 @@
       "explanation": {
         "summary": "Helicobacter pylori urease splits urea into ammonia and carbon dioxide. The ammonia raises the local pH, converting the phenol-red indicator from yellow to pink, which is read as a positive rapid urease (CLO) test.",
         "whyCorrect": "Helicobacter pylori urease splits urea into ammonia and carbon dioxide. The ammonia raises the local pH, converting the phenol-red indicator from yellow to pink, which is read as a positive rapid urease (CLO) test.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "B": "Glucose fermentation produces acid, which would lower the pH and shift phenol red toward yellow, the opposite of the color change seen.",
+          "C": "The test detects a bacterial enzyme acting on urea; neutrophil peroxidase plays no role in the indicator change.",
+          "D": "Catalase splits hydrogen peroxide into water and oxygen; the urease test contains urea and a pH indicator, not peroxide.",
+          "E": "The rapid urease test is a biochemical enzyme test, not an immunoassay; it uses no antibodies or dye conjugates."
+        }
       },
       "difficulty": "medium",
       "imageRef": "gipic-074_gi001_f08.png",
@@ -735,7 +825,12 @@
       "explanation": {
         "summary": "A perforated ulcer allows gas to escape into the peritoneal cavity. An upright chest x-ray shows free air beneath the diaphragm in about 85% of cases, and CT is more sensitive for detecting small amounts of free air.",
         "whyCorrect": "A perforated ulcer allows gas to escape into the peritoneal cavity. An upright chest x-ray shows free air beneath the diaphragm in about 85% of cases, and CT is more sensitive for detecting small amounts of free air.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "A pleural effusion appears as blunting of the costophrenic angle with a fluid meniscus above the diaphragm, not a lucent crescent beneath it.",
+          "B": "A sliding hiatal hernia shows a retrocardiac gas bubble or stomach above the diaphragm and does not cause a rigid, peritonitic abdomen.",
+          "C": "Small bowel obstruction gives multiple air-fluid levels within dilated loops, not gas lying free between the liver and diaphragm.",
+          "D": "Tension pneumothorax shows an absent lung edge, mediastinal shift, and hemodynamic collapse, with air in the pleural space rather than under the diaphragm."
+        }
       },
       "difficulty": "medium",
       "imageRef": "gipic-075_gi001_f10.png",
@@ -774,7 +869,12 @@
       "explanation": {
         "summary": "Surface epithelial cells secrete bicarbonate into the adherent mucus gel, creating a steep pH gradient (about 2 in the lumen to about 7 at the cell surface). Prostaglandins stimulate this mucus and bicarbonate secretion, forming the protective mucosal barrier.",
         "whyCorrect": "Surface epithelial cells secrete bicarbonate into the adherent mucus gel, creating a steep pH gradient (about 2 in the lumen to about 7 at the cell surface). Prostaglandins stimulate this mucus and bicarbonate secretion, forming the protective mucosal barrier.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "Parietal cells pump protons into the gastric lumen, which would acidify rather than neutralize the surface; the bicarbonate they release goes to the blood (alkaline tide).",
+          "B": "Pancreatic enzymes enter the duodenum and do not normally reflux into the stomach; even refluxed bile is injurious rather than protective.",
+          "D": "Tight junctions limit back-diffusion of acid but do not neutralize it, and they cannot by themselves create a pH of about 7 at the cell surface.",
+          "E": "Gastric emptying moves contents into the duodenum but does not keep the epithelial surface neutral while acid is present in the lumen."
+        }
       },
       "difficulty": "medium",
       "imageRef": "gipic-153_gi001_f01.png",
@@ -813,7 +913,12 @@
       "explanation": {
         "summary": "Pleomorphic adenoma shows epithelial and myoepithelial cells embedded in a chondromyxoid matrix. This mixed pattern distinguishes it from Warthin tumor (lymphoid stroma) and mucoepidermoid carcinoma (mucous cells).",
         "whyCorrect": "Pleomorphic adenoma shows epithelial and myoepithelial cells embedded in a chondromyxoid matrix. This mixed pattern distinguishes it from Warthin tumor (lymphoid stroma) and mucoepidermoid carcinoma (mucous cells).",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "A dense lymphoid stroma with germinal centers characterizes Warthin tumor, which has oncocytic bilayered epithelium rather than myoepithelial cells in a matrix.",
+          "C": "Amyloid deposition is seen in medullary thyroid carcinoma and systemic amyloidosis, not as the background matrix of a parotid mixed tumor.",
+          "D": "Mucin-filled cystic spaces with mucous, epidermoid, and intermediate cells define mucoepidermoid carcinoma, the most common malignant salivary tumor.",
+          "E": "Desmoplastic fibrous stroma is a reaction to invasive carcinoma, whereas this tumor is well demarcated with a cartilage-like matrix made by myoepithelial cells."
+        }
       },
       "difficulty": "medium",
       "imageRef": "gipic-046_gi002_f05.png",
@@ -852,7 +957,12 @@
       "explanation": {
         "summary": "A bilayered oncocytic epithelium over lymphoid stroma with germinal centers is diagnostic of Warthin tumor. It arises almost exclusively in the parotid gland and is strongly linked to smoking.",
         "whyCorrect": "A bilayered oncocytic epithelium over lymphoid stroma with germinal centers is diagnostic of Warthin tumor. It arises almost exclusively in the parotid gland and is strongly linked to smoking.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "B": "Adenoid cystic carcinoma shows cribriform (Swiss-cheese) nests of basaloid cells and perineural invasion, not oncocytic bilayers over lymphoid stroma.",
+          "C": "Mucoepidermoid carcinoma, linked to the CRTC1-MAML2 translocation, contains mucous and squamoid cells without a germinal-center lymphoid stroma.",
+          "D": "Pleomorphic adenoma has epithelial and myoepithelial cells in a chondromyxoid stroma, with no oncocytic bilayer or germinal-center lymphoid background.",
+          "E": "Chronic sialadenitis from duct obstruction shows atrophic acini, fibrosis, and scattered inflammation rather than a discrete tumor with oncocytic bilayered epithelium."
+        }
       },
       "difficulty": "medium",
       "imageRef": "gipic-047_gi002_f06.png",
@@ -891,7 +1001,12 @@
       "explanation": {
         "summary": "CT of the neck and chest with contrast is used to stage head and neck cancer by defining the primary tumor extent and nodal/metastatic spread; a definitive diagnosis still requires tissue sampling.",
         "whyCorrect": "CT of the neck and chest with contrast is used to stage head and neck cancer by defining the primary tumor extent and nodal/metastatic spread; a definitive diagnosis still requires tissue sampling.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "Imaging cannot provide a tissue diagnosis; that requires biopsy of the lesion.",
+          "B": "Barrett esophagus is diagnosed by upper endoscopy with biopsy, not by neck CT in an oral cavity cancer workup.",
+          "C": "Salivary flow is measured by sialometry, a functional test, not by contrast CT.",
+          "E": "Esophageal motility is evaluated with manometry or barium swallow, not with contrast CT of the neck."
+        }
       },
       "difficulty": "medium",
       "imageRef": "gipic-076_gi002_f03.png",
@@ -930,7 +1045,12 @@
       "explanation": {
         "summary": "This is keratinizing squamous cell carcinoma of the oral cavity, classically driven by combined tobacco and alcohol exposure, in contrast to HPV-driven nonkeratinizing oropharyngeal SCC.",
         "whyCorrect": "This is keratinizing squamous cell carcinoma of the oral cavity, classically driven by combined tobacco and alcohol exposure, in contrast to HPV-driven nonkeratinizing oropharyngeal SCC.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "Autoimmune sialadenitis (Sjogren syndrome) raises the risk of MALT lymphoma of the salivary glands, not keratinizing oral squamous carcinoma.",
+          "B": "Chronic reflux drives Barrett esophagus and distal esophageal adenocarcinoma, not invasive keratinizing carcinoma of the oral mucosa.",
+          "C": "EBV is linked to nasopharyngeal carcinoma and hairy leukoplakia, not to keratinizing squamous carcinoma of the oral cavity.",
+          "E": "High-risk HPV (type 16) drives nonkeratinizing oropharyngeal carcinoma of the tonsils and tongue base, not classic keratinizing oral cavity cancer."
+        }
       },
       "difficulty": "medium",
       "imageRef": "gipic-099_gi002_f02.png",
@@ -969,7 +1089,12 @@
       "explanation": {
         "summary": "The distal-third tumor is adenocarcinoma, which arises from Barrett esophagus (intestinal metaplasia) due to chronic acid reflux. Squamous cell carcinoma predominates in the upper two-thirds.",
         "whyCorrect": "The distal-third tumor is adenocarcinoma, which arises from Barrett esophagus (intestinal metaplasia) due to chronic acid reflux. Squamous cell carcinoma predominates in the upper two-thirds.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "Zenker diverticulum is a pharyngoesophageal pouch at the top of the esophagus and is not the precursor of distal adenocarcinoma.",
+          "B": "Plummer-Vinson webs in the upper esophagus predispose to squamous cell carcinoma of the proximal esophagus, not distal adenocarcinoma.",
+          "D": "Squamous dysplasia from caustic injury leads to squamous cell carcinoma, which predominates in the upper two-thirds, often at the site of the stricture.",
+          "E": "Achalasia-related stasis chronically irritates squamous mucosa and increases squamous cell carcinoma risk, not distal adenocarcinoma from Barrett metaplasia."
+        }
       },
       "difficulty": "medium",
       "imageRef": "gipic-100_gi002_f07.png",
@@ -1008,7 +1133,12 @@
       "explanation": {
         "summary": "The distal lesion extending into the gastric cardia (A) is adenocarcinoma, driven by chronic GERD and Barrett esophagus. The mid-esophageal stricturing lesion (B) is squamous cell carcinoma, linked to smoking, alcohol, and caustic injury.",
         "whyCorrect": "The distal lesion extending into the gastric cardia (A) is adenocarcinoma, driven by chronic GERD and Barrett esophagus. The mid-esophageal stricturing lesion (B) is squamous cell carcinoma, linked to smoking, alcohol, and caustic injury.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "Achalasia predisposes to squamous cell carcinoma from food stasis in the dilated esophageal body, matching lesion B rather than the distal adenocarcinoma.",
+          "B": "Plummer-Vinson syndrome predisposes to squamous cell carcinoma of the upper esophagus, not distal adenocarcinoma at the cardia.",
+          "C": "Caustic ingestion causes strictures that later give rise to squamous cell carcinoma, the mid-esophageal pattern shown in panel B.",
+          "D": "Smoking raises the risk of both types but is the dominant risk factor for squamous cell carcinoma; it is not specific to distal adenocarcinoma."
+        }
       },
       "difficulty": "medium",
       "imageRef": "gipic-101_gi002_f08.png",
@@ -1047,7 +1177,12 @@
       "explanation": {
         "summary": "Nests of malignant squamous epithelium without Barrett metaplasia indicate squamous cell carcinoma, most strongly associated with smoking (also alcohol, hot liquids, and caustic ingestion); it favors the upper two-thirds of the esophagus.",
         "whyCorrect": "Nests of malignant squamous epithelium without Barrett metaplasia indicate squamous cell carcinoma, most strongly associated with smoking (also alcohol, hot liquids, and caustic ingestion); it favors the upper two-thirds of the esophagus.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "Signet-ring adenocarcinoma is a diffuse gastric cancer made of mucin-filled single cells, not squamous nests in the esophagus.",
+          "C": "Adenoid cystic carcinoma is a salivary gland malignancy with cribriform basaloid nests, not invasive squamous epithelium.",
+          "D": "Esophageal adenocarcinoma forms glands, arises from Barrett metaplasia in the distal esophagus, and is linked to reflux; this lesion has squamous nests and no Barrett background.",
+          "E": "Small cell carcinoma consists of sheets of small cells with scant cytoplasm and nuclear molding, not keratinizing squamous nests."
+        }
       },
       "difficulty": "medium",
       "imageRef": "gipic-102_gi002_f10.png",
@@ -1086,7 +1221,12 @@
       "explanation": {
         "summary": "A submucosal, well-circumscribed gastric mass is typical of a gastrointestinal stromal tumor (GIST), which arises from the interstitial cells of Cajal, most often via activating KIT (or PDGFRA) mutations.",
         "whyCorrect": "A submucosal, well-circumscribed gastric mass is typical of a gastrointestinal stromal tumor (GIST), which arises from the interstitial cells of Cajal, most often via activating KIT (or PDGFRA) mutations.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "Foveolar epithelium with CDH1 loss gives diffuse signet-ring gastric carcinoma, which infiltrates the wall (linitis plastica) rather than forming a circumscribed mass.",
+          "B": "ECL-cell carcinoids from MEN1 or hypergastrinemia are usually small, multiple mucosal nodules, not a large exophytic mass displacing nearby organs.",
+          "C": "True gastric leiomyomas or leiomyosarcomas from smooth muscle are far less common than GIST, and TP53 is not their defining driver.",
+          "E": "H. pylori-driven B-cell proliferation produces MALT lymphoma, which typically infiltrates and thickens the mucosa diffusely rather than forming a circumscribed wall mass."
+        }
       },
       "difficulty": "medium",
       "imageRef": "gipic-077_gi003_f10.png",
@@ -1125,7 +1265,12 @@
       "explanation": {
         "summary": "These are hyperplastic gastric polyps, the most common gastric polyp. They arise from overactive/uncontrolled foveolar proliferation driven by chronic inflammation, classically chronic H. pylori gastritis, and are usually benign.",
         "whyCorrect": "These are hyperplastic gastric polyps, the most common gastric polyp. They arise from overactive/uncontrolled foveolar proliferation driven by chronic inflammation, classically chronic H. pylori gastritis, and are usually benign.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "B": "An ectopic pancreatic rest is usually a single submucosal nodule with a central dimple in the antrum, not several small mucosal nodules from inflammation.",
+          "C": "Autoimmune parietal cell destruction causes atrophic gastritis and predisposes to carcinoid tumors, but it is not the usual cause of these common polyps.",
+          "D": "A gastrinoma in the duodenum or pancreas causes thick rugal folds and ulcers rather than small smooth dome-shaped polyps.",
+          "E": "Germline APC mutation causes FAP, in which fundic gland polyps and adenomas can occur, but that is a rare syndrome rather than the usual cause."
+        }
       },
       "difficulty": "medium",
       "imageRef": "gipic-103_gi003_f01.png",
@@ -1164,7 +1309,12 @@
       "explanation": {
         "summary": "This is a gastric adenoma. Unlike hyperplastic polyps, adenomas are dysplastic by definition and are a recognized precursor to intestinal-type gastric adenocarcinoma; larger, flatter lesions carry the greatest risk.",
         "whyCorrect": "This is a gastric adenoma. Unlike hyperplastic polyps, adenomas are dysplastic by definition and are a recognized precursor to intestinal-type gastric adenocarcinoma; larger, flatter lesions carry the greatest risk.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "Heterotopic pancreatic tissue forms a submucosal nodule with a central umbilication and is not dysplastic or a cancer precursor.",
+          "C": "MALT is lymphoid tissue that can give rise to MALT lymphoma; a gastric adenoma is a dysplastic epithelial lesion.",
+          "D": "Essentially no malignant potential describes most hyperplastic or fundic gland polyps, the opposite of a dysplastic adenoma.",
+          "E": "Interstitial cells of Cajal give rise to GIST, a submucosal mesenchymal tumor, not a flat dysplastic epithelial lesion."
+        }
       },
       "difficulty": "medium",
       "imageRef": "gipic-104_gi003_f02.png",

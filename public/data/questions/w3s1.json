@@ -33,7 +33,12 @@
       "explanation": {
         "summary": "The flat, leaf-shaped worms shown are liver flukes, members of the class Trematoda (phylum Platyhelminthes). Examples that invade the biliary tree include Fasciola hepatica, Clonorchis sinensis, and Opisthorchis species.",
         "whyCorrect": "The flat, leaf-shaped worms shown are liver flukes, members of the class Trematoda (phylum Platyhelminthes). Examples that invade the biliary tree include Fasciola hepatica, Clonorchis sinensis, and Opisthorchis species.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "Tapeworms are long, segmented, ribbon-like worms; in the liver, Echinococcus forms hydatid cysts rather than leaf-shaped adults in the bile ducts.",
+          "B": "Protozoa are single-celled and microscopic, such as Entamoeba causing liver abscesses, not visible flat worms.",
+          "C": "Roundworms are cylindrical and unsegmented; Ascaris can migrate into bile ducts but is not flat or leaf-shaped.",
+          "D": "Bacteria are microscopic single cells and cannot form visible worm-shaped organisms."
+        }
       },
       "difficulty": "medium",
       "imageRef": "gipic-129_gi016_f05.png",
@@ -72,7 +77,12 @@
       "explanation": {
         "summary": "The figure depicts the hepatitis C virus (HCV) life cycle. HCV is a flavivirus with a positive-sense single-stranded RNA genome that can be directly translated by host ribosomes, and its NS3/4A, NS5A, and NS5B proteins are the targets of direct-acting antivirals.",
         "whyCorrect": "The figure depicts the hepatitis C virus (HCV) life cycle. HCV is a flavivirus with a positive-sense single-stranded RNA genome that can be directly translated by host ribosomes, and its NS3/4A, NS5A, and NS5B proteins are the targets of direct-acting antivirals.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "Double-stranded DNA genomes belong to viruses such as herpesviruses and adenovirus, which replicate in the nucleus.",
+          "B": "Partially double-stranded DNA is the genome of hepatitis B, which uses reverse transcription and is suppressed, not cured, by nucleoside analogs.",
+          "C": "Negative-sense RNA viruses (e.g., influenza, measles, rabies) must carry their own polymerase to transcribe their genome before translation.",
+          "D": "Double-stranded RNA is the genome of reoviruses such as rotavirus, not the hepatitis virus targeted by NS5A inhibitors."
+        }
       },
       "difficulty": "medium",
       "imageRef": "gipic-162_gi017_f03.png",

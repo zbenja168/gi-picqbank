@@ -33,7 +33,12 @@
       "explanation": {
         "summary": "Failure of dorsal and ventral duct fusion routes most pancreatic juice through the small minor papilla; the relative outflow resistance can raise ductal pressure and predispose to recurrent acute or chronic pancreatitis, though most cases are asymptomatic.",
         "whyCorrect": "Failure of dorsal and ventral duct fusion routes most pancreatic juice through the small minor papilla; the relative outflow resistance can raise ductal pressure and predispose to recurrent acute or chronic pancreatitis, though most cases are asymptomatic.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "Pancreas divisum preserves functioning acinar tissue and drains enzymes through the minor papilla, so it does not cause exocrine insufficiency from birth.",
+          "B": "Common bile duct compression causing jaundice is typical of a pancreatic head mass or annular pancreas, not of unfused ducts.",
+          "C": "Biliary atresia is obliteration of the extrahepatic bile ducts in infancy and is unrelated to pancreatic duct fusion.",
+          "D": "An encircling ring of pancreatic tissue around the duodenum is annular pancreas, a different anomaly of ventral bud rotation."
+        }
       },
       "difficulty": "medium",
       "imageRef": "gipic-021_gi022_f08.png",
@@ -72,7 +77,12 @@
       "explanation": {
         "summary": "Parenchymal calcifications are the most reliable imaging finding of established chronic pancreatitis, reflecting calcified intraductal protein plugs; they are nearly 100% specific and are most common in advanced alcohol-related disease.",
         "whyCorrect": "Parenchymal calcifications are the most reliable imaging finding of established chronic pancreatitis, reflecting calcified intraductal protein plugs; they are nearly 100% specific and are most common in advanced alcohol-related disease.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "A pseudocyst is a fluid collection with a fibrous wall, appearing as a low-density cyst rather than scattered calcifications.",
+          "C": "Acute interstitial pancreatitis causes an enlarged, edematous pancreas with peripancreatic stranding, not parenchymal calcification.",
+          "D": "Ductal adenocarcinoma is a hypoenhancing mass that may obstruct ducts; calcification is uncommon and not pathognomonic.",
+          "E": "Gallstone ileus shows pneumobilia, small bowel obstruction, and an ectopic gallstone (Rigler triad), not pancreatic calcifications."
+        }
       },
       "difficulty": "medium",
       "imageRef": "gipic-092_gi022_f09.png",
@@ -111,7 +121,12 @@
       "explanation": {
         "summary": "Recurrent injury activates normally quiescent, vitamin A-storing pancreatic stellate cells, which lose their lipid droplets and transform into myofibroblast-like cells that deposit collagen and extracellular matrix, driving progressive fibrosis and ductal narrowing.",
         "whyCorrect": "Recurrent injury activates normally quiescent, vitamin A-storing pancreatic stellate cells, which lose their lipid droplets and transform into myofibroblast-like cells that deposit collagen and extracellular matrix, driving progressive fibrosis and ductal narrowing.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "B": "Ischemic coagulative necrosis is not the main mechanism of chronic pancreatitis, and dead tissue is replaced by matrix laid down by activated cells.",
+          "C": "Neutrophil-mediated proteolysis and enzyme autodigestion drive acute pancreatitis, not the progressive collagen deposition of chronic disease.",
+          "D": "Ductal epithelial hyperplasia does not produce the collagen that causes fibrosis; ducts are instead narrowed and distorted by it.",
+          "E": "Islet amyloid is characteristic of type 2 diabetes, not the fibrotic replacement of the exocrine parenchyma in chronic pancreatitis."
+        }
       },
       "difficulty": "medium",
       "imageRef": "gipic-164_gi022_f07.png",
@@ -150,7 +165,12 @@
       "explanation": {
         "summary": "A mass in the pancreatic head can simultaneously obstruct the common bile duct and the main pancreatic duct, dilating both. This 'double-duct sign' is highly suggestive of pancreatic head carcinoma. The double-bubble sign refers to duodenal atresia, and the colon cutoff/sentinel loop signs are seen in pancreatitis.",
         "whyCorrect": "A mass in the pancreatic head can simultaneously obstruct the common bile duct and the main pancreatic duct, dilating both. This 'double-duct sign' is highly suggestive of pancreatic head carcinoma. The double-bubble sign refers to duodenal atresia, and the colon cutoff/sentinel loop signs are seen in pancreatitis.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "The sentinel loop sign is a single dilated jejunal loop near an inflamed pancreas in acute pancreatitis, not dilation of two ducts.",
+          "B": "The double-bubble sign is gas in a distended stomach and duodenum from duodenal atresia or annular pancreas in neonates.",
+          "C": "Courvoisier sign is a palpable, nontender gallbladder with jaundice, a physical exam finding rather than a CT finding of two dilated ducts.",
+          "E": "The colon cutoff sign is abrupt loss of gas at the splenic flexure from adjacent pancreatic inflammation in acute pancreatitis."
+        }
       },
       "difficulty": "medium",
       "imageRef": "gipic-093_gi023_f05.png",
@@ -189,7 +209,12 @@
       "explanation": {
         "summary": "The pathway shown centers on p53, the tumor-suppressor 'guardian of the genome,' which is encoded by TP53 on chromosome 17p. p53 halts the cell cycle for DNA repair or triggers apoptosis; its inactivation is a late-stage event in ~50-75% of pancreatic adenocarcinomas. KRAS is on 12p, p16/CDKN2A on 9p, and DPC4/SMAD4 on 18q.",
         "whyCorrect": "The pathway shown centers on p53, the tumor-suppressor 'guardian of the genome,' which is encoded by TP53 on chromosome 17p. p53 halts the cell cycle for DNA repair or triggers apoptosis; its inactivation is a late-stage event in ~50-75% of pancreatic adenocarcinomas. KRAS is on 12p, p16/CDKN2A on 9p, and DPC4/SMAD4 on 18q.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "Chromosome 9p carries CDKN2A (p16), a G1 cell-cycle inhibitor lost in most pancreatic cancers, not the DNA-damage guardian shown.",
+          "B": "Chromosome 18q carries SMAD4 (DPC4), a TGF-beta pathway gene lost in about half of pancreatic cancers.",
+          "D": "Chromosome 12p carries KRAS, an oncogene activated early in nearly all pancreatic cancers, not a tumor suppressor that triggers apoptosis.",
+          "E": "Chromosome 11q carries ATM, a DNA-damage kinase upstream of the central protein, and MEN1, but not the gene in question."
+        }
       },
       "difficulty": "medium",
       "imageRef": "gipic-165_gi023_f01.png",

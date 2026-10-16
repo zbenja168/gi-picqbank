@@ -33,7 +33,12 @@
       "explanation": {
         "summary": "Early in development the endodermal epithelium proliferates and occludes the lumen; recanalization then restores patency. If recanalization fails entirely, the segment remains a solid cord, producing atresia; if it is incomplete, stenosis results.",
         "whyCorrect": "Early in development the endodermal epithelium proliferates and occludes the lumen; recanalization then restores patency. If recanalization fails entirely, the segment remains a solid cord, producing atresia; if it is incomplete, stenosis results.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "Volvulus is twisting of bowel on its mesentery, usually from malrotation, not a recanalization defect.",
+          "B": "A diverticulum is an outpouching of the wall, such as a Meckel diverticulum from vitelline duct persistence, not a closed lumen.",
+          "C": "Stenosis results from incomplete recanalization that leaves a narrowed but patent lumen.",
+          "D": "Duplication cysts arise from abnormal vacuole formation or partial duplication of the gut wall, leaving a patent main lumen."
+        }
       },
       "difficulty": "medium",
       "imageRef": "gipic-138_gi027_f07.png",
@@ -72,7 +77,12 @@
       "explanation": {
         "summary": "Partial (incomplete) removal of the cells that had occluded the lumen leaves a narrowed but patent channel, i.e., stenosis. Complete failure of recanalization would instead produce atresia.",
         "whyCorrect": "Partial (incomplete) removal of the cells that had occluded the lumen leaves a narrowed but patent channel, i.e., stenosis. Complete failure of recanalization would instead produce atresia.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "Incomplete midgut rotation produces malrotation and Ladd bands with risk of volvulus, not intrinsic luminal narrowing.",
+          "C": "Failed lateral folding causes ventral body wall defects such as gastroschisis or ectopia cordis.",
+          "D": "Complete failure of recanalization yields atresia, an obliterated lumen, rather than a patent but narrowed one.",
+          "E": "A persistent vitelline duct causes a Meckel diverticulum, fistula, or cord, not stenosis of the lumen."
+        }
       },
       "difficulty": "medium",
       "imageRef": "gipic-139_gi027_f08.png",
@@ -111,7 +121,12 @@
       "explanation": {
         "summary": "Abnormal migration/rotation of the ventral pancreatic bud can cause pancreatic tissue to form a ring around the second part of the duodenum (annular pancreas), potentially causing duodenal obstruction.",
         "whyCorrect": "Abnormal migration/rotation of the ventral pancreatic bud can cause pancreatic tissue to form a ring around the second part of the duodenum (annular pancreas), potentially causing duodenal obstruction.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "B": "Meckel diverticulum is persistence of the vitelline duct as an ileal outpouching, unrelated to pancreatic buds.",
+          "C": "A choledochal cyst is a congenital dilation of the bile ducts, not pancreatic tissue around the duodenum.",
+          "D": "Ectopic gastric mucosa occurs in a Meckel diverticulum or the esophagus and does not encircle the duodenum.",
+          "E": "Pancreas divisum is failure of the dorsal and ventral duct systems to fuse, leaving separate drainage without a ring around the duodenum."
+        }
       },
       "difficulty": "medium",
       "imageRef": "gipic-140_gi027_f12.png",
@@ -150,7 +165,12 @@
       "explanation": {
         "summary": "The intraembryonic coelom seen between the somatic and splanchnic mesoderm layers becomes the body cavities; in the abdomen it forms the peritoneal cavity.",
         "whyCorrect": "The intraembryonic coelom seen between the somatic and splanchnic mesoderm layers becomes the body cavities; in the abdomen it forms the peritoneal cavity.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "The amniotic cavity forms above the epiblast, outside the embryo, and becomes the fluid-filled sac surrounding the fetus.",
+          "C": "The yolk sac lies beneath the hypoblast and contributes to the primitive gut, not the body cavities.",
+          "D": "The intraembryonic coelom gives rise to the pericardial, pleural, and peritoneal cavities; in the abdominal region it becomes peritoneal, not pleural.",
+          "E": "The lesser sac is only one subdivision of the peritoneal cavity, formed later by gastric rotation."
+        }
       },
       "difficulty": "medium",
       "imageRef": "gipic-173_gi027_f02.png",
@@ -189,7 +209,12 @@
       "explanation": {
         "summary": "The septum transversum forms the central tendon of the diaphragm (and contributes to the ventral mesentery of the liver). Defective formation underlies congenital diaphragmatic hernia.",
         "whyCorrect": "The septum transversum forms the central tendon of the diaphragm (and contributes to the ventral mesentery of the liver). Defective formation underlies congenital diaphragmatic hernia.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "The falciform ligament derives from the ventral mesentery, which is partly septum transversum, but it is not the main derivative of the partition shown.",
+          "C": "The greater omentum develops from the dorsal mesogastrium.",
+          "D": "The lesser omentum develops from ventral mesentery between the stomach and liver, not the main septum transversum derivative.",
+          "E": "The broad ligament is a peritoneal fold around the uterus, unrelated to the septum transversum."
+        }
       },
       "difficulty": "medium",
       "imageRef": "gipic-174_gi027_f06.png",
@@ -228,7 +253,12 @@
       "explanation": {
         "summary": "Gastric rotation carries the right (originally right-sided) vagus posteriorly to form the posterior vagal trunk, while the left vagus becomes the anterior vagal trunk.",
         "whyCorrect": "Gastric rotation carries the right (originally right-sided) vagus posteriorly to form the posterior vagal trunk, while the left vagus becomes the anterior vagal trunk.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "The greater splanchnic nerve arises from thoracic sympathetic ganglia and runs to the celiac ganglion, not along the stomach.",
+          "B": "The left recurrent laryngeal nerve hooks around the aortic arch and supplies the larynx.",
+          "C": "Gastric rotation carries the left vagus to the anterior surface, forming the anterior vagal trunk.",
+          "D": "The right phrenic nerve supplies the diaphragm and is unaffected by gastric rotation."
+        }
       },
       "difficulty": "medium",
       "imageRef": "gipic-175_gi027_f10.png",
@@ -267,7 +297,12 @@
       "explanation": {
         "summary": "The duodenum straddles the foregut-midgut junction. The foregut portion is supplied by the celiac trunk and the midgut portion by the superior mesenteric artery.",
         "whyCorrect": "The duodenum straddles the foregut-midgut junction. The foregut portion is supplied by the celiac trunk and the midgut portion by the superior mesenteric artery.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "The internal iliac artery supplies pelvic organs, not the duodenum.",
+          "B": "The IMA supplies the hindgut from the distal transverse colon to the upper rectum.",
+          "D": "The left gastric artery supplies the lesser curvature and distal esophagus, a celiac branch and not the second supply.",
+          "E": "The splenic artery supplies the spleen, pancreatic body and tail, and greater curvature; it is another celiac branch."
+        }
       },
       "difficulty": "medium",
       "imageRef": "gipic-176_gi027_f11.png",
@@ -306,7 +341,12 @@
       "explanation": {
         "summary": "The midgut loop rotates a total of 270 degrees counterclockwise (when viewed from the front) around the SMA axis before and during its return to the abdomen. Failure of this rotation causes malrotation and predisposes to volvulus.",
         "whyCorrect": "The midgut loop rotates a total of 270 degrees counterclockwise (when viewed from the front) around the SMA axis before and during its return to the abdomen. Failure of this rotation causes malrotation and predisposes to volvulus.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "The midgut completes more than 180 degrees; incomplete rotation at this stage would leave malrotation.",
+          "B": "90 degrees counterclockwise is only the initial rotation during herniation, not the total.",
+          "C": "Rotation is counterclockwise when viewed from the front, and the total is 270, not 360 degrees.",
+          "E": "Midgut rotation is counterclockwise; 90 degrees clockwise describes stomach rotation, not the midgut."
+        }
       },
       "difficulty": "medium",
       "imageRef": "gipic-177_gi027_f13.png",
@@ -345,7 +385,12 @@
       "explanation": {
         "summary": "The pancreas forms from ventral and dorsal buds. If the ventral bud rotates abnormally, it can partially or completely encircle the duodenum (annular pancreas), sometimes causing duodenal obstruction with bilious vomiting and a double-bubble appearance.",
         "whyCorrect": "The pancreas forms from ventral and dorsal buds. If the ventral bud rotates abnormally, it can partially or completely encircle the duodenum (annular pancreas), sometimes causing duodenal obstruction with bilious vomiting and a double-bubble appearance.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "Persistence of the vitelline duct causes a Meckel diverticulum or fistula, not pancreatic tissue around the duodenum.",
+          "C": "Dorsal bud agenesis causes a short pancreas missing the body and tail, not a ring around the duodenum.",
+          "D": "Failed neural crest migration causes Hirschsprung disease, an aganglionic colon, not a pancreatic anomaly.",
+          "E": "Failed recanalization causes duodenal atresia, an intrinsic blockage, rather than extrinsic encirclement by pancreas."
+        }
       },
       "difficulty": "medium",
       "imageRef": "gipic-041_gi028_f05.png",
@@ -384,7 +429,12 @@
       "explanation": {
         "summary": "When the midgut fails to complete its normal 270-degree counterclockwise rotation, the mesentery anchors over a very short base rather than a broad one. This narrow pedicle allows the bowel to twist on itself (volvulus), compromising the superior mesenteric vessels and risking necrosis of the entire small intestine.",
         "whyCorrect": "When the midgut fails to complete its normal 270-degree counterclockwise rotation, the mesentery anchors over a very short base rather than a broad one. This narrow pedicle allows the bowel to twist on itself (volvulus), compromising the superior mesenteric vessels and risking necrosis of the entire small intestine.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "An aganglionic colonic segment is Hirschsprung disease, which causes functional obstruction but not twisting of small bowel on its pedicle.",
+          "B": "A patent omphalomesenteric duct causes umbilical discharge of stool, not a narrow mesenteric base.",
+          "D": "A hypertrophied pylorus causes nonbilious projectile vomiting from gastric outlet obstruction, not volvulus.",
+          "E": "Annular pancreas causes duodenal obstruction but does not shorten the mesentery or predispose to volvulus."
+        }
       },
       "difficulty": "medium",
       "imageRef": "gipic-042_gi028_f07.png",
@@ -423,7 +473,12 @@
       "explanation": {
         "summary": "The urorectal septum divides the cloaca into anorectal and urogenital portions. Abnormal development leaves fistulous connections between the rectum and the urethra, bladder, or vestibule (and, at the extreme, a persistent cloaca), as illustrated across these variants.",
         "whyCorrect": "The urorectal septum divides the cloaca into anorectal and urogenital portions. Abnormal development leaves fistulous connections between the rectum and the urethra, bladder, or vestibule (and, at the extreme, a persistent cloaca), as illustrated across these variants.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "The septum transversum gives rise to the central tendon of the diaphragm, not the partition of the cloaca.",
+          "B": "The urogenital diaphragm is a perineal muscular layer and does not divide the cloaca embryologically.",
+          "C": "The aorticopulmonary septum divides the truncus arteriosus into the aorta and pulmonary trunk.",
+          "D": "The tracheoesophageal septum separates the trachea from the esophagus; its defects cause TE fistulas."
+        }
       },
       "difficulty": "medium",
       "imageRef": "gipic-043_gi028_f13.png",
@@ -462,7 +517,12 @@
       "explanation": {
         "summary": "Ultrasound is the confirmatory test for hypertrophic pyloric stenosis, revealing an enlarged pylorus with increased muscle wall thickness (roughly >3 mm) and elongated channel length compared with the thin, short normal pylorus.",
         "whyCorrect": "Ultrasound is the confirmatory test for hypertrophic pyloric stenosis, revealing an enlarged pylorus with increased muscle wall thickness (roughly >3 mm) and elongated channel length compared with the thin, short normal pylorus.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "B": "A target or donut sign represents intussusception, telescoping bowel, not a thickened pylorus.",
+          "C": "A double-bubble pattern is a radiographic sign of duodenal atresia or annular pancreas, not a pyloric ultrasound finding.",
+          "D": "Bird-beak narrowing of the distal esophagus is the barium swallow sign of achalasia.",
+          "E": "A dilated colon with a transition zone suggests Hirschsprung disease, seen on contrast enema rather than pyloric ultrasound."
+        }
       },
       "difficulty": "medium",
       "imageRef": "gipic-094_gi028_f03.png",
@@ -501,7 +561,12 @@
       "explanation": {
         "summary": "In malrotation the duodenum lacks a normal C-loop and does not cross the midline; when volvulus occurs the proximal jejunum shows a classic corkscrew pattern. An upper GI study is the confirmatory test in a stable infant with bilious vomiting.",
         "whyCorrect": "In malrotation the duodenum lacks a normal C-loop and does not cross the midline; when volvulus occurs the proximal jejunum shows a classic corkscrew pattern. An upper GI study is the confirmatory test in a stable infant with bilious vomiting.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "B": "Hirschsprung disease shows a narrow aganglionic distal colon with a transition zone on contrast enema, not proximal small-bowel corkscrew.",
+          "C": "Meconium ileus shows dilated small bowel with a soap-bubble pattern and a microcolon, not a malpositioned corkscrew duodenum.",
+          "D": "Pyloric stenosis shows an elongated narrow pyloric channel (string sign), with the duodenum in normal position.",
+          "E": "Duodenal atresia shows a double bubble with no distal gas; contrast does not pass beyond into a corkscrew jejunum."
+        }
       },
       "difficulty": "medium",
       "imageRef": "gipic-095_gi028_f08.png",
@@ -540,7 +605,12 @@
       "explanation": {
         "summary": "In Hirschsprung disease, neural crest cells fail to migrate into the distal gut, leaving an aganglionic, tonically contracted segment (usually rectosigmoid). The narrowed aganglionic bowel cannot relax, so the normally innervated proximal colon dilates, creating the transition zone seen on contrast enema.",
         "whyCorrect": "In Hirschsprung disease, neural crest cells fail to migrate into the distal gut, leaving an aganglionic, tonically contracted segment (usually rectosigmoid). The narrowed aganglionic bowel cannot relax, so the normally innervated proximal colon dilates, creating the transition zone seen on contrast enema.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "Pyloric smooth muscle hypertrophy causes projectile nonbilious vomiting in infants with a palpable olive and a narrowed pyloric channel, not a distal colonic transition zone.",
+          "B": "Intrauterine vascular accidents cause intestinal atresia, a blind-ending gap in the bowel, rather than a continuous narrowed distal colon with proximal dilation.",
+          "C": "Failed duodenal recanalization produces duodenal atresia with a double-bubble sign and bilious vomiting, not a narrowed rectosigmoid on contrast enema.",
+          "D": "Volvulus around a narrow mesentery (as in malrotation) causes a twisted, obstructed loop with a bird's-beak or corkscrew appearance, not a fixed aganglionic segment."
+        }
       },
       "difficulty": "medium",
       "imageRef": "gipic-141_gi028_f11.png",
@@ -579,7 +649,12 @@
       "explanation": {
         "summary": "Dental caries are initiated by Streptococcus mutans, which ferments dietary sucrose into lactic acid and produces sticky glucans that demineralize enamel. Untreated caries progress through dentin into the pulp, causing pulp necrosis and eventually a periapical (dental) abscess, as depicted.",
         "whyCorrect": "Dental caries are initiated by Streptococcus mutans, which ferments dietary sucrose into lactic acid and produces sticky glucans that demineralize enamel. Untreated caries progress through dentin into the pulp, causing pulp necrosis and eventually a periapical (dental) abscess, as depicted.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "B": "Actinomyces israelii causes cervicofacial actinomycosis with draining sinus tracts and sulfur granules after dental trauma; it is not the initiator of enamel caries.",
+          "C": "Fusobacterium nucleatum is an anaerobe of periodontal plaque and mixed deep-space infections, not the acidogenic organism that starts enamel demineralization.",
+          "D": "Porphyromonas gingivalis is a keystone pathogen of periodontitis (gum and bone loss around teeth), not of caries that tunnel through the crown into the pulp.",
+          "E": "Eikenella corrodens is an oral HACEK organism known for human-bite infections and endocarditis, not for fermenting sucrose to initiate dental caries."
+        }
       },
       "difficulty": "medium",
       "imageRef": "gipic-142_gi029_f01.png",
@@ -618,7 +693,12 @@
       "explanation": {
         "summary": "Oral thrush (pseudomembranous candidiasis) is caused by Candida albicans and produces scrapable white plaques on the oral mucosa. It typically arises with immunosuppression, antibiotic use, or inhaled corticosteroid therapy. Scrapability distinguishes it from hairy leukoplakia.",
         "whyCorrect": "Oral thrush (pseudomembranous candidiasis) is caused by Candida albicans and produces scrapable white plaques on the oral mucosa. It typically arises with immunosuppression, antibiotic use, or inhaled corticosteroid therapy. Scrapability distinguishes it from hairy leukoplakia.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "HSV-1 produces painful vesicles that rupture into shallow ulcers, not white curd-like plaques that wipe off to leave a red base.",
+          "B": "EBV causes oral hairy leukoplakia, a corrugated white lesion on the lateral tongue that cannot be scraped off, typically in immunocompromised adults.",
+          "C": "Streptococcus mutans initiates dental caries by fermenting sugars on tooth enamel; it does not form white pseudomembranes on the oral mucosa.",
+          "E": "Actinomyces israelii causes cervicofacial abscesses with draining sinuses and sulfur granules, not scrapable white mucosal plaques in an infant."
+        }
       },
       "difficulty": "medium",
       "imageRef": "gipic-143_gi029_f05.png",
@@ -657,7 +737,12 @@
       "explanation": {
         "summary": "Hairy leukoplakia produces non-scrapable, corrugated white patches on the lateral tongue and results from Epstein-Barr virus reactivation, characteristically in immunocompromised (e.g., HIV) patients. Unlike thrush, it cannot be wiped off.",
         "whyCorrect": "Hairy leukoplakia produces non-scrapable, corrugated white patches on the lateral tongue and results from Epstein-Barr virus reactivation, characteristically in immunocompromised (e.g., HIV) patients. Unlike thrush, it cannot be wiped off.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "Coxsackievirus A causes herpangina and hand-foot-mouth disease, with vesicles and ulcers on the soft palate and oral mucosa rather than a fixed white tongue lesion.",
+          "B": "CMV in immunocompromised patients causes large, shallow GI ulcers (e.g., esophagitis, colitis), not corrugated white plaques on the lateral tongue.",
+          "C": "HPV causes oral papillomas and oropharyngeal squamous carcinoma, not the shaggy, non-scrapable lateral-tongue plaques of hairy leukoplakia.",
+          "D": "HSV-1 causes painful vesicles and ulcers (gingivostomatitis, cold sores), not a painless corrugated white patch on the tongue."
+        }
       },
       "difficulty": "medium",
       "imageRef": "gipic-144_gi029_f06.png",
@@ -696,7 +781,12 @@
       "explanation": {
         "summary": "Primary herpetic gingivostomatitis is caused by HSV-1 and typically presents in children 6 months to 5 years with painful oral vesicles that ulcerate and resolve within 1-2 weeks. A Tzanck smear may show multinucleated giant cells, though PCR is now preferred.",
         "whyCorrect": "Primary herpetic gingivostomatitis is caused by HSV-1 and typically presents in children 6 months to 5 years with painful oral vesicles that ulcerate and resolve within 1-2 weeks. A Tzanck smear may show multinucleated giant cells, though PCR is now preferred.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "EBV causes infectious mononucleosis with exudative pharyngitis, lymphadenopathy, and splenomegaly, not clustered perioral and gingival vesicles.",
+          "B": "Coxsackievirus A causes herpangina, with vesicles confined to the posterior oropharynx and soft palate, and spares the gingiva and perioral skin.",
+          "D": "CMV rarely causes oral lesions in healthy children; it causes ulcers mainly in immunocompromised hosts and does not produce acute vesicular gingivostomatitis.",
+          "E": "Varicella-zoster virus causes a generalized vesicular rash in crops over the trunk and face; oral lesions are incidental rather than a perioral and gingival eruption."
+        }
       },
       "difficulty": "medium",
       "imageRef": "gipic-145_gi029_f07.png",
@@ -735,7 +825,12 @@
       "explanation": {
         "summary": "The histologic hallmark of Sjogren syndrome is focal lymphocytic sialadenitis, in which periductal/periacinar aggregates are composed predominantly of CD4+ T cells (with B cells), quantified as a focus score on labial gland biopsy.",
         "whyCorrect": "The histologic hallmark of Sjogren syndrome is focal lymphocytic sialadenitis, in which periductal/periacinar aggregates are composed predominantly of CD4+ T cells (with B cells), quantified as a focus score on labial gland biopsy.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "Foamy macrophages fill lipid-laden lesions such as xanthomas or Whipple disease; they are not the dense periductal aggregates of autoimmune sialadenitis.",
+          "B": "Neutrophils dominate acute bacterial sialadenitis with suppuration, not the chronic, focal autoimmune infiltrates seen in Sjogren syndrome.",
+          "C": "Langhans giant cells mark granulomatous diseases such as tuberculosis or sarcoidosis; Sjogren infiltrates are lymphocytic and non-granulomatous.",
+          "E": "Eosinophils predominate in allergic and parasitic processes or IgG4-related disease, not in the lymphocytic foci that define Sjogren syndrome."
+        }
       },
       "difficulty": "medium",
       "imageRef": "gipic-067_gi030_f04.png",
@@ -774,7 +869,12 @@
       "explanation": {
         "summary": "Lymphocytic destruction of salivary gland acini reduces saliva output (xerostomia), leaving the mucosa dry and fissured and predisposing to candidal overgrowth and angular cheilitis.",
         "whyCorrect": "Lymphocytic destruction of salivary gland acini reduces saliva output (xerostomia), leaving the mucosa dry and fissured and predisposing to candidal overgrowth and angular cheilitis.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "Iron-deficiency atrophic glossitis gives a smooth, pale, depapillated tongue with anemia, rather than the dry, fissured surface of salivary failure.",
+          "B": "Amyloid deposition causes macroglossia with a firm, enlarged tongue and tooth indentations, not a dry, fissured mucosa.",
+          "D": "Vitamin B12 deficiency causes a smooth, beefy-red glossitis from epithelial atrophy, not dryness from loss of saliva.",
+          "E": "Bruxism wears down teeth and can cause jaw pain or scalloped tongue edges, but it does not dry out the oral mucosa."
+        }
       },
       "difficulty": "medium",
       "imageRef": "gipic-146_gi030_f02.png",

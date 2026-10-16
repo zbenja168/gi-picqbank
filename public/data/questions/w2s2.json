@@ -33,7 +33,12 @@
       "explanation": {
         "summary": "The image shows a ringed sideroblast. When heme synthesis is impaired (e.g., ALAS2 deficiency in X-linked sideroblastic anemia), iron cannot be incorporated into protoporphyrin IX, so unused iron accumulates in perinuclear mitochondria and stains with Prussian blue, forming a ring around the nucleus.",
         "whyCorrect": "The image shows a ringed sideroblast. When heme synthesis is impaired (e.g., ALAS2 deficiency in X-linked sideroblastic anemia), iron cannot be incorporated into protoporphyrin IX, so unused iron accumulates in perinuclear mitochondria and stains with Prussian blue, forming a ring around the nucleus.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "B": "Folate-dependent DNA synthesis defects cause megaloblastic anemia with large, asynchronously maturing precursors, not mitochondrial iron rings.",
+          "C": "Defective globin synthesis causes thalassemia with microcytic, target-cell anemia; heme synthesis proceeds and ringed sideroblasts are not the hallmark.",
+          "D": "B12-dependent methylmalonyl-CoA conversion affects myelin and fatty acid metabolism; B12 deficiency causes megaloblastic anemia, not ringed sideroblasts.",
+          "E": "Failed transferrin-mediated uptake would deprive precursors of iron, so iron could not accumulate around the nucleus."
+        }
       },
       "difficulty": "medium",
       "imageRef": "gipic-111_gi008_f02.png",
@@ -72,7 +77,12 @@
       "explanation": {
         "summary": "Dubin-Johnson syndrome is caused by defective canalicular excretion of conjugated bilirubin (MRP2/ABCC2 mutation). Accumulation of dark pigment in hepatocytes gives the characteristic glossy black liver. Rotor syndrome is similar biochemically but does not produce a black liver.",
         "whyCorrect": "Dubin-Johnson syndrome is caused by defective canalicular excretion of conjugated bilirubin (MRP2/ABCC2 mutation). Accumulation of dark pigment in hepatocytes gives the characteristic glossy black liver. Rotor syndrome is similar biochemically but does not produce a black liver.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "Gilbert syndrome is mild reduced UGT1A1 activity causing intermittent unconjugated hyperbilirubinemia with stress or fasting, and the liver looks normal.",
+          "B": "Crigler-Najjar syndrome is absent or severely reduced UGT1A1 causing severe neonatal unconjugated hyperbilirubinemia and kernicterus risk, with no black pigment.",
+          "D": "Rotor syndrome also causes conjugated hyperbilirubinemia but, unlike this condition, the liver is not pigmented black.",
+          "E": "Wilson disease deposits copper causing hepatitis, cirrhosis, and Kayser-Fleischer rings, not a glossy black liver."
+        }
       },
       "difficulty": "medium",
       "imageRef": "gipic-112_gi008_f06.png",
@@ -111,7 +121,12 @@
       "explanation": {
         "summary": "Phototherapy exposes the infant to blue-green light that isomerizes unconjugated bilirubin in skin capillaries into water-soluble photoisomers, which can be excreted in urine and bile without hepatic conjugation. It does not act by inducing UDPGT or by binding albumin.",
         "whyCorrect": "Phototherapy exposes the infant to blue-green light that isomerizes unconjugated bilirubin in skin capillaries into water-soluble photoisomers, which can be excreted in urine and bile without hepatic conjugation. It does not act by inducing UDPGT or by binding albumin.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "Albumin binding keeps bilirubin out of the brain, and albumin infusion is sometimes used, but light does not act by increasing albumin binding.",
+          "B": "Heme oxygenase produces biliverdin, which becomes bilirubin; accelerating it would raise bilirubin, not lower it.",
+          "D": "Phototherapy uses specific wavelengths for a photochemical reaction; it does not destroy bilirubin by heat.",
+          "E": "Inducing UDP-glucuronosyltransferase is the mechanism of phenobarbital, not of light therapy."
+        }
       },
       "difficulty": "medium",
       "imageRef": "gipic-159_gi008_f07.png",
@@ -150,7 +165,12 @@
       "explanation": {
         "summary": "A filling defect within the portal/splenic vein on contrast CT, accompanied by ascites, indicates portal vein thrombosis. The thrombus occludes portal inflow and can extend into intrahepatic branches.",
         "whyCorrect": "A filling defect within the portal/splenic vein on contrast CT, accompanied by ascites, indicates portal vein thrombosis. The thrombus occludes portal inflow and can extend into intrahepatic branches.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "B": "Budd-Chiari syndrome is thrombosis of the hepatic veins or suprahepatic IVC, not of the splenic and portal veins shown.",
+          "C": "Acute cholecystitis shows a distended, thick-walled gallbladder with pericholecystic fluid, not a filling defect inside the portal venous system.",
+          "D": "Hepatocellular carcinoma is an arterially enhancing liver mass with washout; it can invade the portal vein, but no liver mass is described here.",
+          "E": "A splenic abscess is a low-density, rim-enhancing collection inside the spleen, not an intraluminal clot extending through the portal system."
+        }
       },
       "difficulty": "medium",
       "imageRef": "gipic-078_gi009_f02.png",
@@ -189,7 +209,12 @@
       "explanation": {
         "summary": "The caudate lobe drains directly into the IVC via separate small veins, so it is spared in hepatic vein thrombosis and undergoes compensatory hypertrophy while the congested remainder of the liver is injured.",
         "whyCorrect": "The caudate lobe drains directly into the IVC via separate small veins, so it is spared in hepatic vein thrombosis and undergoes compensatory hypertrophy while the congested remainder of the liver is injured.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "The hepatic artery flows forward, not retrograde, and every segment receives arterial supply, so this does not explain selective enlargement.",
+          "B": "All liver segments share the same dual portal and hepatic arterial inflow; the caudate lobe has no extra arterial supply.",
+          "C": "No region has a higher stem cell density; the caudate enlarges because its separate venous outflow is preserved.",
+          "D": "Portal collaterals do not selectively protect the caudate lobe; the obstruction is on the outflow side, so inflow collaterals would not help."
+        }
       },
       "difficulty": "medium",
       "imageRef": "gipic-079_gi009_f04.png",
@@ -228,7 +253,12 @@
       "explanation": {
         "summary": "Hyperechoic intraluminal clot and a fibrotic (scarred) hepatic vein cord are sonographic signs of Budd-Chiari syndrome, reflecting thrombosis of the hepatic veins with subsequent organization.",
         "whyCorrect": "Hyperechoic intraluminal clot and a fibrotic (scarred) hepatic vein cord are sonographic signs of Budd-Chiari syndrome, reflecting thrombosis of the hepatic veins with subsequent organization.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "A hepatic artery aneurysm appears as an anechoic, pulsatile outpouching with arterial flow, not echogenic clot within a hepatic vein.",
+          "C": "Portal vein thrombosis is clot within the portal vein at the hilum, an inflow problem, not material within the hepatic veins draining to the IVC.",
+          "D": "Biliary sludge is layering echogenic material within the gallbladder, not inside hepatic veins.",
+          "E": "Hepatic steatosis makes the whole liver diffusely brighter on ultrasound; it does not fill or scar the hepatic veins."
+        }
       },
       "difficulty": "medium",
       "imageRef": "gipic-080_gi009_f05.png",
@@ -267,7 +297,12 @@
       "explanation": {
         "summary": "The Rumack-Matthew nomogram plots serum acetaminophen concentration versus time since ingestion to predict hepatotoxicity risk and guide N-acetylcysteine treatment after a single acute overdose.",
         "whyCorrect": "The Rumack-Matthew nomogram plots serum acetaminophen concentration versus time since ingestion to predict hepatotoxicity risk and guide N-acetylcysteine treatment after a single acute overdose.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "Digoxin toxicity is managed by levels, potassium, and arrhythmias, and treated with Fab fragments; it has no time-based nomogram of this kind.",
+          "B": "Iron overdose is judged by serum iron level and symptoms and treated with deferoxamine, without a validated risk-line nomogram.",
+          "C": "The Done nomogram for salicylates was abandoned as unreliable; aspirin overdose is managed by serial levels, acid-base status, and urine alkalinization.",
+          "E": "Lithium toxicity is guided by serum levels, renal function, and neurologic findings, with hemodialysis for severe cases, not by a nomogram."
+        }
       },
       "difficulty": "medium",
       "imageRef": "gipic-081_gi009_f18.png",
@@ -306,7 +341,12 @@
       "explanation": {
         "summary": "In IVC obstruction, elevated pressure below the block is transmitted to the whole abdominal wall through iliac collaterals, producing diffuse dilation. Caput medusae instead radiates from the umbilicus via the recanalized paraumbilical vein in portal hypertension.",
         "whyCorrect": "In IVC obstruction, elevated pressure below the block is transmitted to the whole abdominal wall through iliac collaterals, producing diffuse dilation. Caput medusae instead radiates from the umbilicus via the recanalized paraumbilical vein in portal hypertension.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "Hepatic arterial hypertension is not a recognized cause of abdominal wall collaterals; these veins reflect venous obstruction.",
+          "B": "SVC obstruction dilates veins over the chest, neck, and upper arms, with blood flowing downward, rather than covering the whole abdominal wall from below.",
+          "D": "Lymphatic obstruction causes lymphedema and chylous effusions, not dilated superficial veins.",
+          "E": "A recanalized umbilical (paraumbilical) vein produces caput medusae radiating from the umbilicus, which is the pattern being contrasted here."
+        }
       },
       "difficulty": "medium",
       "imageRef": "gipic-113_gi009_f06.png",
@@ -345,7 +385,12 @@
       "explanation": {
         "summary": "Caput medusae reflects portal hypertension: elevated portal pressure is transmitted retrograde through the recanalized paraumbilical vein within the round ligament, dilating periumbilical veins that radiate from the umbilicus.",
         "whyCorrect": "Caput medusae reflects portal hypertension: elevated portal pressure is transmitted retrograde through the recanalized paraumbilical vein within the round ligament, dilating periumbilical veins that radiate from the umbilicus.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "B": "The superior mesenteric vein is a main tributary of the portal vein deep in the mesentery, not a vessel connecting to the abdominal wall.",
+          "C": "The inferior epigastric vein is a systemic vein that receives collateral flow, but it is not the recanalized vessel in the round ligament.",
+          "D": "The thoracoepigastric vein is a systemic collateral that dilates in IVC or SVC obstruction, not the recanalized portosystemic channel.",
+          "E": "The left renal vein can form spontaneous splenorenal shunts in portal hypertension, but these are retroperitoneal and do not produce periumbilical veins."
+        }
       },
       "difficulty": "medium",
       "imageRef": "gipic-114_gi009_f07.png",
@@ -384,7 +429,12 @@
       "explanation": {
         "summary": "The 'nutmeg liver' shows congested, blood-filled centrilobular zones alternating with paler spared periportal tissue, produced by chronic passive hepatic venous congestion such as right heart failure.",
         "whyCorrect": "The 'nutmeg liver' shows congested, blood-filled centrilobular zones alternating with paler spared periportal tissue, produced by chronic passive hepatic venous congestion such as right heart failure.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "B": "Amyloid makes the liver enlarged, firm, and waxy-pale with homogeneous pink deposits, not a mottled dark-and-pale pattern.",
+          "C": "Diffuse metastases form multiple discrete pale nodules, often with central umbilication, not a fine alternating lobular mottling.",
+          "D": "Steatosis makes the liver uniformly enlarged, yellow, and greasy rather than mottled with dark congested zones.",
+          "E": "Hemochromatosis gives a uniformly rust-brown liver that progresses to micronodular cirrhosis, not alternating red and pale zones."
+        }
       },
       "difficulty": "medium",
       "imageRef": "gipic-115_gi009_f09.png",
@@ -423,7 +473,12 @@
       "explanation": {
         "summary": "Passive venous congestion backs up at the central vein, so RBC pooling and injury concentrate in the centrilobular zone 3, with relative sparing of the periportal region.",
         "whyCorrect": "Passive venous congestion backs up at the central vein, so RBC pooling and injury concentrate in the centrilobular zone 3, with relative sparing of the periportal region.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "Bile canaliculi are tiny channels between hepatocytes, not a lobular zone, and they are the site of cholestasis rather than red cell pooling.",
+          "B": "Zone 1 surrounds the portal tracts and receives the most oxygenated blood, so it is relatively spared in venous congestion.",
+          "D": "Zone 2 lies between the portal and central regions and is not the main site of congestive injury (it is classically hit by yellow fever).",
+          "E": "The portal tract contains the triad of vessels and duct in connective tissue and is not where congestion pools blood."
+        }
       },
       "difficulty": "medium",
       "imageRef": "gipic-116_gi009_f10.png",
@@ -462,7 +517,12 @@
       "explanation": {
         "summary": "Interface (piecemeal) hepatitis is inflammation at the portal-parenchymal boundary (limiting plate) and is the classic biopsy finding of autoimmune hepatitis.",
         "whyCorrect": "Interface (piecemeal) hepatitis is inflammation at the portal-parenchymal boundary (limiting plate) and is the classic biopsy finding of autoimmune hepatitis.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "Bridging necrosis is confluent hepatocyte loss linking portal tracts to central veins, a more severe pattern than inflammation at the limiting plate.",
+          "B": "Ballooning degeneration is swelling of individual hepatocytes with cleared cytoplasm, typical of steatohepatitis, not inflammation crossing the limiting plate.",
+          "C": "Ductopenia is loss of interlobular bile ducts, seen in primary biliary cholangitis and chronic rejection, not portal inflammation spilling into the parenchyma.",
+          "D": "Steatohepatitis shows fat, ballooned hepatocytes, and lobular neutrophils, often with Mallory bodies, rather than a lymphoplasmacytic interface infiltrate."
+        }
       },
       "difficulty": "medium",
       "imageRef": "gipic-117_gi009_f12.png",
@@ -501,7 +561,12 @@
       "explanation": {
         "summary": "P450 converts acetaminophen to toxic NAPQI, which is conjugated by glutathione. In overdose glutathione is depleted; N-acetylcysteine replenishes glutathione by supplying cysteine, restoring NAPQI detoxification.",
         "whyCorrect": "P450 converts acetaminophen to toxic NAPQI, which is conjugated by glutathione. In overdose glutathione is depleted; N-acetylcysteine replenishes glutathione by supplying cysteine, restoring NAPQI detoxification.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "B": "Activated charcoal adsorbs acetaminophen in the gut if given early, but it does not restore the cofactor that conjugates the toxic metabolite.",
+          "C": "Fomepizole inhibits alcohol dehydrogenase to treat methanol and ethylene glycol poisoning; it has no role in replenishing glutathione.",
+          "D": "Deferoxamine chelates iron in iron overdose and is unrelated to acetaminophen metabolism.",
+          "E": "Sodium bicarbonate alkalinizes the urine and serum for salicylate and tricyclic overdoses, not acetaminophen toxicity."
+        }
       },
       "difficulty": "medium",
       "imageRef": "gipic-148_gi009_f17.png",
@@ -540,7 +605,12 @@
       "explanation": {
         "summary": "Activated charcoal binds (adsorbs) many drugs and toxins within the gastrointestinal lumen, reducing their systemic absorption when given shortly after ingestion.",
         "whyCorrect": "Activated charcoal binds (adsorbs) many drugs and toxins within the gastrointestinal lumen, reducing their systemic absorption when given shortly after ingestion.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "Urine alkalinization is achieved with IV sodium bicarbonate for salicylate poisoning, not with an oral black suspension.",
+          "C": "Glutathione is replenished by N-acetylcysteine in acetaminophen overdose, not by charcoal.",
+          "D": "Inducing emesis is done with syrup of ipecac, which is no longer recommended; charcoal does not cause vomiting by design.",
+          "E": "Chelation of circulating heavy metals uses agents such as succimer, dimercaprol, or EDTA; charcoal acts only in the gut lumen and binds metals poorly."
+        }
       },
       "difficulty": "medium",
       "imageRef": "gipic-149_gi009_f19.png",
@@ -579,7 +649,12 @@
       "explanation": {
         "summary": "Amanita phalloides (death cap) contains alpha-amanitin, which inhibits RNA polymerase II, halting mRNA synthesis and causing massive hepatocyte necrosis and potential fulminant liver failure.",
         "whyCorrect": "Amanita phalloides (death cap) contains alpha-amanitin, which inhibits RNA polymerase II, halting mRNA synthesis and causing massive hepatocyte necrosis and potential fulminant liver failure.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "B": "Free-radical lipid peroxidation is the mechanism of carbon tetrachloride hepatotoxicity, not of mushroom amatoxin.",
+          "C": "Uncoupling of oxidative phosphorylation is the mechanism of salicylates and 2,4-dinitrophenol, not amatoxin.",
+          "D": "Amatoxins block transcription, not DNA replication; DNA polymerase inhibition is the action of agents such as cytarabine and acyclovir.",
+          "E": "NAPQI accumulation is the mechanism of acetaminophen toxicity, a drug metabolite rather than a mushroom toxin."
+        }
       },
       "difficulty": "medium",
       "imageRef": "gipic-150_gi009_f20.png",
@@ -618,7 +693,12 @@
       "explanation": {
         "summary": "Silibinin, derived from milk thistle, blocks hepatocyte uptake of amatoxins and improves survival in Amanita phalloides poisoning, though it cannot restore already-necrotic hepatocytes.",
         "whyCorrect": "Silibinin, derived from milk thistle, blocks hepatocyte uptake of amatoxins and improves survival in Amanita phalloides poisoning, though it cannot restore already-necrotic hepatocytes.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "Milk thistle derivatives do not bind or chelate amatoxins in the blood; they act at the hepatocyte membrane transporter.",
+          "B": "Inducing P450 would not help, because amatoxins are not inactivated by hepatic P450 metabolism.",
+          "D": "Gut decontamination uses activated charcoal; the plant-derived compound is given intravenously and acts on liver cells.",
+          "E": "Glutathione replenishment is the action of N-acetylcysteine, not of the milk thistle compound."
+        }
       },
       "difficulty": "medium",
       "imageRef": "gipic-151_gi009_f21.png",

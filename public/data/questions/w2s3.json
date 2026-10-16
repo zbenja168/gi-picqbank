@@ -33,7 +33,12 @@
       "explanation": {
         "summary": "In hepatic steatosis, triglyceride droplets coalesce into a single large vacuole that pushes the nucleus to the periphery, producing macrovesicular fat. Zone 3 (centrilobular) accentuation is characteristic of adult MASLD.",
         "whyCorrect": "In hepatic steatosis, triglyceride droplets coalesce into a single large vacuole that pushes the nucleus to the periphery, producing macrovesicular fat. Zone 3 (centrilobular) accentuation is characteristic of adult MASLD.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "Ballooning degeneration swells hepatocytes with pale, wispy cytoplasm and a central nucleus, rather than a single sharp round vacuole pushing the nucleus aside.",
+          "B": "Dilated sinusoids lie between hepatocyte plates and contain red cells; they are not clear vacuoles inside hepatocytes.",
+          "D": "Cholestasis shows yellow-green bile plugs in canaliculi and feathery hepatocytes, not large clear round vacuoles.",
+          "E": "Glycogen accumulation clears the cytoplasm diffusely and gives a central nucleus, without a sharp single vacuole displacing it."
+        }
       },
       "difficulty": "medium",
       "imageRef": "gipic-118_gi011_f01.png",
@@ -72,7 +77,12 @@
       "explanation": {
         "summary": "Normal hepatic architecture consists of hepatocyte cords radiating from central veins, separated by sinusoids, with intact lobular structure and no accumulated fat, inflammatory infiltrate, or collagen deposition.",
         "whyCorrect": "Normal hepatic architecture consists of hepatocyte cords radiating from central veins, separated by sinusoids, with intact lobular structure and no accumulated fat, inflammatory infiltrate, or collagen deposition.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "Alcoholic steatosis fills hepatocytes with clear fat vacuoles that push nuclei aside, which this section lacks.",
+          "B": "Cirrhosis replaces normal lobules with regenerative nodules encircled by fibrous septa, the opposite of the orderly cords described.",
+          "D": "Alcoholic steatohepatitis shows fat, ballooned hepatocytes, Mallory bodies, and neutrophils, none of which are present here.",
+          "E": "Hepatocellular carcinoma shows thickened, disorganized trabeculae of atypical cells with loss of normal portal-central architecture."
+        }
       },
       "difficulty": "medium",
       "imageRef": "gipic-052_gi012_f04.png",
@@ -111,7 +121,12 @@
       "explanation": {
         "summary": "Fat has low attenuation on CT, so a steatotic liver appears darker (reduced attenuation) than a normal liver, and may appear lower in density than the spleen or intrahepatic vessels.",
         "whyCorrect": "Fat has low attenuation on CT, so a steatotic liver appears darker (reduced attenuation) than a normal liver, and may appear lower in density than the spleen or intrahepatic vessels.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "Fat infiltration measurably lowers liver density on CT, so attenuation does not stay the same.",
+          "B": "Increased attenuation (a brighter liver) is seen with iron overload, amiodarone, or glycogen storage, not with fat.",
+          "D": "Steatosis does not increase contrast enhancement; the fatty liver appears darker than the spleen on both plain and enhanced scans.",
+          "E": "Diffuse calcification is not a feature of fatty liver; calcifications occur in old granulomas, hydatid cysts, or certain tumors."
+        }
       },
       "difficulty": "medium",
       "imageRef": "gipic-082_gi012_f09.png",
@@ -150,7 +165,12 @@
       "explanation": {
         "summary": "In alcohol-associated liver injury, activated hepatic stellate cells transform into collagen-secreting myofibroblasts that deposit the bridging bands of fibrosis characteristic of cirrhosis. Kupffer cells drive inflammation but do not lay down collagen.",
         "whyCorrect": "In alcohol-associated liver injury, activated hepatic stellate cells transform into collagen-secreting myofibroblasts that deposit the bridging bands of fibrosis characteristic of cirrhosis. Kupffer cells drive inflammation but do not lay down collagen.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "Sinusoidal endothelial cells lose their fenestrations during fibrosis (capillarization) but are not the main source of the collagen.",
+          "C": "Hepatocytes are the injured parenchymal cells that die and regenerate; they do not produce the bridging collagen bands.",
+          "D": "Cholangiocytes proliferate in a ductular reaction and send fibrogenic signals, but they are not the principal collagen-producing cells.",
+          "E": "Kupffer cells release cytokines such as TGF-beta that activate the collagen-producing cells, but they do not lay down collagen themselves."
+        }
       },
       "difficulty": "medium",
       "imageRef": "gipic-119_gi012_f01.png",
@@ -189,7 +209,12 @@
       "explanation": {
         "summary": "Macrovesicular hepatic steatosis in alcohol use results from accumulation of triglycerides within hepatocytes, driven by increased NADH shifting metabolism toward lipogenesis and away from beta-oxidation.",
         "whyCorrect": "Macrovesicular hepatic steatosis in alcohol use results from accumulation of triglycerides within hepatocytes, driven by increased NADH shifting metabolism toward lipogenesis and away from beta-oxidation.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "Iron appears as golden-brown granular hemosiderin that stains with Prussian blue, not as large clear round vacuoles.",
+          "B": "Glycogen clears the cytoplasm diffusely and leaves the nucleus central rather than forming one large vacuole that displaces it.",
+          "C": "Copper is invisible on routine stains and needs rhodanine staining to show granular deposits; it does not form clear vacuoles.",
+          "D": "Bile appears as yellow-green plugs in canaliculi or granular pigment in hepatocytes, not as clear round vacuoles."
+        }
       },
       "difficulty": "medium",
       "imageRef": "gipic-120_gi012_f02.png",
@@ -228,7 +253,12 @@
       "explanation": {
         "summary": "Neutrophilic inflammation superimposed on fatty change defines steatohepatitis, a more severe and potentially irreversible stage than simple steatosis. The neutrophils are drawn in by cytokines from activated Kupffer cells.",
         "whyCorrect": "Neutrophilic inflammation superimposed on fatty change defines steatohepatitis, a more severe and potentially irreversible stage than simple steatosis. The neutrophils are drawn in by cytokines from activated Kupffer cells.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "Hereditary hemochromatosis is a genetic iron-overload disease, not a stage of alcohol injury, and shows brown hemosiderin rather than fat with neutrophils.",
+          "C": "Simple steatosis shows fat droplets without significant inflammation or hepatocyte injury, so the neutrophilic clusters exclude it.",
+          "D": "Cirrhosis is defined by fibrous septa around regenerative nodules, which the biopsy does not describe.",
+          "E": "A normal liver has no fat vacuoles or inflammatory clusters around injured hepatocytes."
+        }
       },
       "difficulty": "medium",
       "imageRef": "gipic-121_gi012_f03.png",
@@ -267,7 +297,12 @@
       "explanation": {
         "summary": "The rope-like pink inclusions are Mallory bodies (Mallory-Denk hyaline), which are clumps of misfolded intermediate filaments such as cytokeratins found in damaged, ballooned hepatocytes.",
         "whyCorrect": "The rope-like pink inclusions are Mallory bodies (Mallory-Denk hyaline), which are clumps of misfolded intermediate filaments such as cytokeratins found in damaged, ballooned hepatocytes.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "Collagen is extracellular and forms fibrous bands and septa, not inclusions inside the cytoplasm of individual hepatocytes.",
+          "B": "Immunoglobulin aggregates form round Russell bodies inside plasma cells, not rope-like inclusions in hepatocytes.",
+          "C": "Lipid dissolves during tissue processing and appears as clear vacuoles, not dense eosinophilic material.",
+          "E": "Glycogen gives a pale, cleared cytoplasm and is washed out in routine sections; it does not form ropy pink clumps."
+        }
       },
       "difficulty": "medium",
       "imageRef": "gipic-122_gi012_f05.png",
@@ -306,7 +341,12 @@
       "explanation": {
         "summary": "Bridging fibrosis surrounding regenerative nodules is the defining architecture of cirrhosis, the irreversible end stage of alcohol-associated liver disease with disrupted sinusoidal architecture and impaired function.",
         "whyCorrect": "Bridging fibrosis surrounding regenerative nodules is the defining architecture of cirrhosis, the irreversible end stage of alcohol-associated liver disease with disrupted sinusoidal architecture and impaired function.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "Acute viral hepatitis shows lobular inflammation, ballooning, and apoptotic (Councilman) bodies without established fibrous septa around nodules.",
+          "B": "A normal liver has intact lobules with hepatocyte cords radiating from central veins and only minimal portal connective tissue.",
+          "C": "Simple steatosis shows fat vacuoles in hepatocytes with preserved lobular architecture and no bridging fibrosis.",
+          "E": "Cholestasis shows bile plugs and pigment in hepatocytes and canaliculi, not fibrous bands encircling regenerative nodules."
+        }
       },
       "difficulty": "medium",
       "imageRef": "gipic-123_gi012_f06.png",
@@ -345,7 +385,12 @@
       "explanation": {
         "summary": "Dupuytren contracture is a benign fibrosing condition in which rope-like cords of collagen in the palmar fascia pull the fingers inward; it is associated with chronic alcohol use, though the mechanism is unknown.",
         "whyCorrect": "Dupuytren contracture is a benign fibrosing condition in which rope-like cords of collagen in the palmar fascia pull the fingers inward; it is associated with chronic alcohol use, though the mechanism is unknown.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "Raynaud phenomenon is episodic vasospasm causing white, blue, then red color changes in the digits, not fixed flexion from a palmar cord.",
+          "B": "Carpal tunnel syndrome is median nerve compression causing numbness of the first three and a half digits and thenar wasting, not a flexion contracture.",
+          "C": "Trigger finger is catching or locking of a finger from a flexor tendon nodule at the A1 pulley; the finger can still be extended.",
+          "E": "Swan-neck deformity in rheumatoid arthritis is PIP hyperextension with DIP flexion, not flexion of the fingers from palmar fascial cords."
+        }
       },
       "difficulty": "medium",
       "imageRef": "gipic-124_gi012_f07.png",
@@ -384,7 +429,12 @@
       "explanation": {
         "summary": "Ethanol oxidation floods the cell with NADH, raising the NADH/NAD+ ratio. This drives lactate dehydrogenase (pyruvate to lactate) and malate dehydrogenase (oxaloacetate to malate), depleting gluconeogenic precursors and causing fasting hypoglycemia.",
         "whyCorrect": "Ethanol oxidation floods the cell with NADH, raising the NADH/NAD+ ratio. This drives lactate dehydrogenase (pyruvate to lactate) and malate dehydrogenase (oxaloacetate to malate), depleting gluconeogenic precursors and causing fasting hypoglycemia.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "Acetyl-CoA activates pyruvate carboxylase to convert pyruvate to oxaloacetate, which would support gluconeogenesis rather than divert precursors to lactate.",
+          "B": "Ethanol metabolism does not raise cytosolic pH; it generates lactic acid and ketoacids, and pH alone does not drive these dehydrogenase reactions.",
+          "C": "An elevated NAD+/NADH ratio would favor oxidation of lactate and malate back to pyruvate and oxaloacetate, the opposite of what is shown.",
+          "E": "Ethanol oxidation does not deplete ATP enough to halt gluconeogenesis; the problem is substrate diversion by the redox shift."
+        }
       },
       "difficulty": "medium",
       "imageRef": "gipic-161_gi013_f03.png",
@@ -423,7 +473,12 @@
       "explanation": {
         "summary": "The Prussian blue (Perls) reaction stains ferric iron in hemosiderin bright blue, demonstrating iron overload within hepatocytes and Kupffer cells in hemochromatosis.",
         "whyCorrect": "The Prussian blue (Perls) reaction stains ferric iron in hemosiderin bright blue, demonstrating iron overload within hepatocytes and Kupffer cells in hemochromatosis.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "Masson trichrome stains collagen blue or green to show fibrosis, not intracellular mineral deposits.",
+          "B": "Rhodanine stains copper deposits orange-red, as in Wilson disease, not bright blue.",
+          "D": "Congo red stains amyloid red with apple-green birefringence under polarized light.",
+          "E": "Gomori methenamine silver stains fungal walls and basement membranes black, not intracellular deposits blue."
+        }
       },
       "difficulty": "medium",
       "imageRef": "gipic-083_gi014_f04.png",
@@ -462,7 +517,12 @@
       "explanation": {
         "summary": "The pigmented ring is a Kayser-Fleischer ring, caused by copper depositing in the Descemet membrane of the cornea in Wilson disease due to impaired biliary copper excretion.",
         "whyCorrect": "The pigmented ring is a Kayser-Fleischer ring, caused by copper depositing in the Descemet membrane of the cornea in Wilson disease due to impaired biliary copper excretion.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "Calcium in Bowman layer causes band keratopathy, a horizontal gray-white band across the central cornea, not a brown peripheral ring.",
+          "C": "Cholesterol in the peripheral cornea forms arcus senilis, a white or gray ring separated from the limbus by a clear zone.",
+          "D": "Melanin in the iris stroma determines eye color and is not a corneal ring.",
+          "E": "Iron in the corneal epithelium forms lines such as the Fleischer ring in keratoconus, a thin line at the base of the cone, not this peripheral brown ring."
+        }
       },
       "difficulty": "medium",
       "imageRef": "gipic-125_gi014_f01.png",
@@ -501,7 +561,12 @@
       "explanation": {
         "summary": "In alpha-1 antitrypsin deficiency, misfolded A1AT accumulates in the hepatocyte endoplasmic reticulum as globules that are PAS-positive and resistant to diastase digestion.",
         "whyCorrect": "In alpha-1 antitrypsin deficiency, misfolded A1AT accumulates in the hepatocyte endoplasmic reticulum as globules that are PAS-positive and resistant to diastase digestion.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "Congo red positivity with apple-green birefringence identifies amyloid, which deposits extracellularly in the space of Disse rather than as globules in the ER.",
+          "B": "Mucicarmine stains epithelial mucin and the Cryptococcus capsule, not misfolded glycoprotein in hepatocytes.",
+          "D": "Oil red O stains neutral lipid in frozen sections, as in steatosis, not proteinaceous globules.",
+          "E": "Prussian blue stains hemosiderin iron, as in hemochromatosis, not retained protein globules."
+        }
       },
       "difficulty": "medium",
       "imageRef": "gipic-126_gi014_f05.png",
@@ -540,7 +605,12 @@
       "explanation": {
         "summary": "Cirrhosis is defined histologically by bridging fibrous septa (collagen produced by activated hepatic stellate cells) enclosing regenerative nodules of hepatocytes, disrupting normal lobular architecture and sinusoidal blood flow.",
         "whyCorrect": "Cirrhosis is defined histologically by bridging fibrous septa (collagen produced by activated hepatic stellate cells) enclosing regenerative nodules of hepatocytes, disrupting normal lobular architecture and sinusoidal blood flow.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "B": "Hepatocellular carcinoma shows atypical hepatocytes in thickened trabeculae or sheets and does not consist of benign regenerative nodules surrounded by fibrous septa.",
+          "C": "Acute viral hepatitis shows lobular inflammation and hepatocyte injury but preserves architecture without bridging collagen bands.",
+          "D": "Normal liver has orderly cords radiating from central veins with only scant collagen around portal tracts.",
+          "E": "Hepatic steatosis shows fat vacuoles in hepatocytes with preserved lobular architecture and no fibrous nodularity."
+        }
       },
       "difficulty": "medium",
       "imageRef": "gipic-053_gi015_f06.png",
@@ -579,7 +649,12 @@
       "explanation": {
         "summary": "In cirrhosis the liver becomes small with coarse echotexture and a nodular surface on ultrasound. Imaging supports the diagnosis but is not by itself sufficiently sensitive or specific to establish cirrhosis definitively.",
         "whyCorrect": "In cirrhosis the liver becomes small with coarse echotexture and a nodular surface on ultrasound. Imaging supports the diagnosis but is not by itself sufficiently sensitive or specific to establish cirrhosis definitively.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "Normal liver parenchyma is homogeneous with a smooth surface and normal size, not small, coarse, and nodular.",
+          "B": "A simple cyst is a round, anechoic structure with posterior acoustic enhancement and does not change the whole liver's texture or contour.",
+          "D": "Acute cholecystitis affects the gallbladder, showing wall thickening, stones, and pericholecystic fluid, rather than altering the liver itself.",
+          "E": "A hemangioma is a well-defined, homogeneously hyperechoic focal lesion within otherwise normal liver."
+        }
       },
       "difficulty": "medium",
       "imageRef": "gipic-084_gi015_f07.png",
@@ -618,7 +693,12 @@
       "explanation": {
         "summary": "Caput medusae results from anastomosis between engorged paraumbilical veins and small epigastric veins of the abdominal wall, driven by portal hypertension. Recanalization of the paraumbilical/umbilical vein produces the visible radiating collaterals.",
         "whyCorrect": "Caput medusae results from anastomosis between engorged paraumbilical veins and small epigastric veins of the abdominal wall, driven by portal hypertension. Recanalization of the paraumbilical/umbilical vein produces the visible radiating collaterals.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "The thoracic duct carries lymph to the left venous angle and is not a portosystemic venous shunt to the abdominal wall.",
+          "B": "The superior mesenteric artery is an arterial vessel supplying the midgut and cannot recanalize to drain portal blood.",
+          "C": "The IVC is the systemic outflow that collaterals ultimately reach, not the recanalized vessel that runs to the umbilicus.",
+          "E": "The splenic artery supplies the spleen and does not form portosystemic collaterals on the abdominal wall."
+        }
       },
       "difficulty": "medium",
       "imageRef": "gipic-127_gi015_f02.png",
@@ -657,7 +737,12 @@
       "explanation": {
         "summary": "Ascites in cirrhosis is driven chiefly by portal hypertension (raised hydrostatic pressure) together with hypoalbuminemia (low oncotic pressure) and renal sodium/water retention from systemic vasodilation. This produces tense abdominal distention with shifting dullness.",
         "whyCorrect": "Ascites in cirrhosis is driven chiefly by portal hypertension (raised hydrostatic pressure) together with hypoalbuminemia (low oncotic pressure) and renal sodium/water retention from systemic vasodilation. This produces tense abdominal distention with shifting dullness.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "Cirrhosis decreases albumin synthesis; low albumin lowers oncotic pressure and favors ascites, the reverse of this option.",
+          "B": "Plasma oncotic pressure falls in cirrhosis because of hypoalbuminemia; raised oncotic pressure would pull fluid back into vessels.",
+          "C": "Bacterial gas causes tympanic distention without shifting dullness, not fluid filling the peritoneal cavity.",
+          "E": "Cirrhosis causes renal sodium retention through RAAS activation; enhanced sodium excretion would counteract ascites."
+        }
       },
       "difficulty": "medium",
       "imageRef": "gipic-128_gi015_f03.png",

@@ -33,7 +33,12 @@
       "explanation": {
         "summary": "The eight numbered functional units defined by independent portal inflow and hepatic venous outflow are the Couinaud segments, the basis for anatomic liver resection. Morphological lobes are surface-based; portal lobules and acini are microscopic units.",
         "whyCorrect": "The eight numbered functional units defined by independent portal inflow and hepatic venous outflow are the Couinaud segments, the basis for anatomic liver resection. Morphological lobes are surface-based; portal lobules and acini are microscopic units.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "B": "A portal triad is the microscopic bundle of portal vein branch, hepatic artery branch, and bile duct at the corner of a lobule, not a numbered surgical unit.",
+          "C": "The hepatic acinus is a microscopic functional unit organized by oxygen gradient into zones 1-3, not a large numbered territory.",
+          "D": "A portal lobule is a microscopic triangle centered on a bile duct, defined by bile drainage, not a numbered surgical segment.",
+          "E": "Morphological lobes (right, left, caudate, quadrate) are defined by surface landmarks and do not each have independent inflow and drainage."
+        }
       },
       "difficulty": "medium",
       "imageRef": "gipic-005_gi004_f02.png",
@@ -72,7 +77,12 @@
       "explanation": {
         "summary": "The ligamentum teres in the free edge of the falciform ligament is the obliterated left umbilical vein. The ductus venosus becomes the ligamentum venosum; the ductus arteriosus becomes the ligamentum arteriosum.",
         "whyCorrect": "The ligamentum teres in the free edge of the falciform ligament is the obliterated left umbilical vein. The ductus venosus becomes the ligamentum venosum; the ductus arteriosus becomes the ligamentum arteriosum.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "The vitelline duct normally obliterates completely; its persistence forms a Meckel diverticulum, not a ligament on the liver.",
+          "B": "The umbilical arteries become the medial umbilical ligaments on the anterior abdominal wall, not the round ligament of the liver.",
+          "C": "The ductus venosus becomes the ligamentum venosum on the visceral surface of the liver, between the caudate and left lobes.",
+          "D": "The ductus arteriosus becomes the ligamentum arteriosum between the pulmonary trunk and aortic arch, not a liver ligament."
+        }
       },
       "difficulty": "medium",
       "imageRef": "gipic-006_gi004_f05.png",
@@ -111,7 +121,12 @@
       "explanation": {
         "summary": "The gastrosplenic ligament carries the short gastric and left gastro-omental vessels. The splenic artery and vein instead run in the splenorenal ligament, and the portal triad runs in the hepatoduodenal ligament.",
         "whyCorrect": "The gastrosplenic ligament carries the short gastric and left gastro-omental vessels. The splenic artery and vein instead run in the splenorenal ligament, and the portal triad runs in the hepatoduodenal ligament.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "B": "The splenic artery and vein run in the splenorenal (lienorenal) ligament between the spleen and left kidney, along with the pancreatic tail.",
+          "C": "The superior mesenteric vessels run in the root of the small bowel mesentery, not between the stomach and spleen.",
+          "D": "The portal vein and common bile duct run in the hepatoduodenal ligament, the free edge of the lesser omentum.",
+          "E": "The right and left hepatic arteries branch near the porta hepatis after the proper hepatic artery travels in the hepatoduodenal ligament."
+        }
       },
       "difficulty": "medium",
       "imageRef": "gipic-007_gi004_f06.png",
@@ -150,7 +165,12 @@
       "explanation": {
         "summary": "The Whipple procedure removes the pancreatic head, duodenum, gallbladder, and distal common bile duct (often the distal stomach), because these share blood supply, then reconstructs biliary, pancreatic, and gastric drainage.",
         "whyCorrect": "The Whipple procedure removes the pancreatic head, duodenum, gallbladder, and distal common bile duct (often the distal stomach), because these share blood supply, then reconstructs biliary, pancreatic, and gastric drainage.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "The liver is not resected in a Whipple; the gallbladder is removed, but the hepatic parenchyma is preserved and the bile duct is reconnected to jejunum.",
+          "B": "Removing the entire pancreas and spleen is a total pancreatectomy with splenectomy, a different and much larger operation that causes permanent diabetes.",
+          "C": "Only the duodenum and sometimes the distal stomach are taken; removing the entire small intestine would be incompatible with normal nutrition.",
+          "E": "Removing the pancreatic tail and spleen is a distal pancreatectomy, used for body and tail lesions rather than pancreatic head tumors."
+        }
       },
       "difficulty": "medium",
       "imageRef": "gipic-008_gi004_f21.png",
@@ -189,7 +209,12 @@
       "explanation": {
         "summary": "Splenic vein thrombosis raises pressure in short gastric/gastroepiploic tributaries, producing isolated (left-sided) gastric varices with a normal systemic portal pressure. This is a classic sequela of pancreatic body/tail disease.",
         "whyCorrect": "Splenic vein thrombosis raises pressure in short gastric/gastroepiploic tributaries, producing isolated (left-sided) gastric varices with a normal systemic portal pressure. This is a classic sequela of pancreatic body/tail disease.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "Ascites from IVC obstruction reflects post-hepatic outflow block with leg edema and diffuse collaterals, not a localized consequence of splenic vein occlusion.",
+          "B": "Caput medusae arises from generalized portal hypertension via the paraumbilical veins; splenic vein thrombosis leaves the main portal pressure normal.",
+          "C": "Esophageal varices reflect raised pressure in the left gastric (coronary) vein from generalized portal hypertension, whereas splenic vein block mainly decompresses through short gastric veins.",
+          "D": "Internal hemorrhoids are not true portosystemic varices, and rectal varices from superior rectal collaterals require generalized portal hypertension, not left-sided splenic vein block."
+        }
       },
       "difficulty": "medium",
       "imageRef": "gipic-105_gi004_f22.png",
@@ -228,7 +253,12 @@
       "explanation": {
         "summary": "Because tumor cells follow lymphatic channels, knowing the pancreatic lymphatic drainage pattern predicts where pancreatic cancer will spread to regional nodes, guiding staging and surgery.",
         "whyCorrect": "Because tumor cells follow lymphatic channels, knowing the pancreatic lymphatic drainage pattern predicts where pancreatic cancer will spread to regional nodes, guiding staging and surgery.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "The arterial supply comes from the gastroduodenal, pancreaticoduodenal, and splenic arteries and is mapped by vascular anatomy, not by lymph node groups.",
+          "B": "Referred pancreatic pain follows visceral afferents to the epigastrium and back, which a lymphatic drainage map does not predict.",
+          "D": "Venous drainage runs into the splenic, superior mesenteric, and portal veins and is distinct from the lymphatic pathways shown.",
+          "E": "Exocrine enzyme output depends on acinar cell mass and hormonal stimulation by CCK and secretin, not on lymphatic drainage."
+        }
       },
       "difficulty": "medium",
       "imageRef": "gipic-106_gi004_f23.png",
@@ -267,7 +297,12 @@
       "explanation": {
         "summary": "The superior mesenteric and splenic veins unite to form the portal vein; obstructing it raises pressure throughout the portal system (portal hypertension), causing varices and ascites. Budd-Chiari results from hepatic venous outflow obstruction, a different vessel.",
         "whyCorrect": "The superior mesenteric and splenic veins unite to form the portal vein; obstructing it raises pressure throughout the portal system (portal hypertension), causing varices and ascites. Budd-Chiari results from hepatic venous outflow obstruction, a different vessel.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "Lower-extremity pitting edema results from systemic venous hypertension or IVC obstruction, not from blockage of portal inflow to the liver.",
+          "B": "The renal veins drain into the IVC, not the portal system, so portal obstruction does not cause renal vein thrombosis.",
+          "C": "Portal flow loss triggers a compensatory rise in hepatic arterial flow (the hepatic arterial buffer response), but the clinically dominant consequence is portal hypertension.",
+          "E": "Budd-Chiari syndrome is obstruction of hepatic venous outflow downstream of the liver, not obstruction of the portal vein that feeds it."
+        }
       },
       "difficulty": "medium",
       "imageRef": "gipic-154_gi004_f09.png",
@@ -306,7 +341,12 @@
       "explanation": {
         "summary": "Vagal (parasympathetic, rest-and-digest) stimulation favors gallbladder emptying and bile secretion to aid digestion. Sympathetic activity is more associated with mobilizing glucose and reducing digestive secretion.",
         "whyCorrect": "Vagal (parasympathetic, rest-and-digest) stimulation favors gallbladder emptying and bile secretion to aid digestion. Sympathetic activity is more associated with mobilizing glucose and reducing digestive secretion.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "Sinusoidal and hepatic vascular constriction is a sympathetic effect that shifts blood volume into the circulation, not a vagal rest-and-digest action.",
+          "B": "Inhibiting bile flow into the duodenum is the opposite of vagal action, which promotes bile delivery during digestion.",
+          "C": "Contraction of the sphincter of Oddi retains bile; vagal and CCK signaling relax the sphincter while the gallbladder contracts.",
+          "D": "Glycogenolysis and glucose release are driven by sympathetic stimulation, epinephrine, and glucagon; vagal tone favors glycogen storage."
+        }
       },
       "difficulty": "medium",
       "imageRef": "gipic-155_gi004_f11.png",
@@ -345,7 +385,12 @@
       "explanation": {
         "summary": "The phrenic nerve (C3-C5) supplies the diaphragm, and its spinal levels also receive somatic sensation from the shoulder (supraclavicular region), so diaphragmatic irritation refers pain to the shoulder. Visceral foregut pain instead localizes to the epigastrium via splanchnic nerves.",
         "whyCorrect": "The phrenic nerve (C3-C5) supplies the diaphragm, and its spinal levels also receive somatic sensation from the shoulder (supraclavicular region), so diaphragmatic irritation refers pain to the shoulder. Visceral foregut pain instead localizes to the epigastrium via splanchnic nerves.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "The greater splanchnic nerve (T5-T9) carries visceral afferents from foregut organs that refer pain to the epigastrium, not to the shoulder.",
+          "B": "The genitofemoral nerve (L1-L2) supplies the cremaster and skin of the upper thigh and scrotum or labia, far from the diaphragm.",
+          "D": "The vagus carries parasympathetic and visceral sensory fibers that do not produce somatic referred pain in the shoulder skin.",
+          "E": "Lower intercostal nerves supply the peripheral diaphragm and the overlying chest and abdominal wall, so they refer pain locally rather than to the shoulder."
+        }
       },
       "difficulty": "medium",
       "imageRef": "gipic-156_gi004_f12.png",
@@ -384,7 +429,12 @@
       "explanation": {
         "summary": "Sympathetic (fight-or-flight) activity stimulates alpha cells to release glucagon, mobilizing glucose, while suppressing insulin and exocrine digestive secretion. This shifts metabolism toward energy availability.",
         "whyCorrect": "Sympathetic (fight-or-flight) activity stimulates alpha cells to release glucagon, mobilizing glucose, while suppressing insulin and exocrine digestive secretion. This shifts metabolism toward energy availability.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "B": "Somatostatin from delta cells is not the alpha-cell product, and sympathetic stimulation does not selectively release it.",
+          "C": "Sympathetic alpha-2 adrenergic signaling suppresses insulin release from beta cells during stress, preserving blood glucose.",
+          "D": "Decreased glucagon release would lower glucose availability, the opposite of the fight-or-flight response, which stimulates alpha cells.",
+          "E": "Islet cells are richly innervated, and sympathetic input clearly alters both glucagon and insulin secretion."
+        }
       },
       "difficulty": "medium",
       "imageRef": "gipic-157_gi004_f24.png",
@@ -423,7 +473,12 @@
       "explanation": {
         "summary": "Because the three layers run in differing, overlapping directions, the wall gains strength in multiple planes, resisting the strain of raised intra-abdominal pressure and protecting the viscera.",
         "whyCorrect": "Because the three layers run in differing, overlapping directions, the wall gains strength in multiple planes, resisting the strain of raised intra-abdominal pressure and protecting the viscera.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "Peristalsis is generated by smooth muscle within the bowel wall, not by the skeletal muscles of the abdominal wall.",
+          "C": "Segmental cutaneous innervation comes from the T7-L1 nerves running between the muscle layers; fiber direction is unrelated to sensory supply.",
+          "D": "The viscera are held by mesenteries and peritoneal ligaments, not suspended from the diaphragm by the lateral wall muscles.",
+          "E": "Lower-limb lymph drains through inguinal nodes and along the iliac vessels, not through a pathway created by the abdominal wall muscles."
+        }
       },
       "difficulty": "medium",
       "imageRef": "gipic-009_gi005_f03.png",
@@ -462,7 +517,12 @@
       "explanation": {
         "summary": "The deep fascia/aponeurotic layer forming the rectus sheath provides most of the wall's strength and is the layer surgeons reappose; failure of fascial healing leads to an incisional hernia.",
         "whyCorrect": "The deep fascia/aponeurotic layer forming the rectus sheath provides most of the wall's strength and is the layer surgeons reappose; failure of fascial healing leads to an incisional hernia.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "Extraperitoneal fat is a loose, weak layer that contributes no meaningful tensile strength to a wound closure.",
+          "B": "Camper's fascia is a fatty superficial layer that holds sutures poorly and provides no structural strength.",
+          "D": "The parietal peritoneum is thin and adds little strength; many surgeons do not even close it separately.",
+          "E": "Skin closure restores the surface barrier and cosmetic result, but it cannot prevent an incisional hernia if the fascia fails."
+        }
       },
       "difficulty": "medium",
       "imageRef": "gipic-010_gi005_f04.png",
@@ -501,7 +561,12 @@
       "explanation": {
         "summary": "Splitting muscle along its fibers (a gridiron approach) rather than transecting it preserves wall strength and reduces the chance of later herniation.",
         "whyCorrect": "Splitting muscle along its fibers (a gridiron approach) rather than transecting it preserves wall strength and reduces the chance of later herniation.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "The gridiron incision lies lateral to the inferior epigastric vessels and does not require ligating them.",
+          "B": "Muscle-splitting incisions give limited, focused exposure of the right lower quadrant, not wide access to the whole abdomen.",
+          "D": "Dividing the linea alba is a midline laparotomy, not a lateral muscle-splitting appendectomy incision.",
+          "E": "The appendix lies within the peritoneal cavity, so the parietal peritoneum must be opened to remove it."
+        }
       },
       "difficulty": "medium",
       "imageRef": "gipic-011_gi005_f05.png",
@@ -540,7 +605,12 @@
       "explanation": {
         "summary": "A midline laparotomy separates the right and left rectus muscles at the linea alba rather than cutting muscle, so it crosses minimal vasculature and preserves the muscle bellies.",
         "whyCorrect": "A midline laparotomy separates the right and left rectus muscles at the linea alba rather than cutting muscle, so it crosses minimal vasculature and preserves the muscle bellies.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "Dividing the rectus abdominis cuts muscle and its segmental vessels and nerves, the opposite of a muscle-sparing approach.",
+          "C": "Splitting the external oblique along its fibers describes a lateral gridiron incision, not a midline incision.",
+          "D": "Transecting the transversus abdominis cuts muscle and is characteristic of transverse lateral incisions, not the midline approach.",
+          "E": "The inferior epigastric artery runs behind the rectus muscle lateral to the midline; following it would invite bleeding."
+        }
       },
       "difficulty": "medium",
       "imageRef": "gipic-012_gi005_f07.png",
@@ -579,7 +649,12 @@
       "explanation": {
         "summary": "A direct hernia pushes through the floor of the canal medial to the inferior epigastric vessels, bypassing the deep ring, so it rarely follows the cord into the scrotum, unlike an indirect hernia.",
         "whyCorrect": "A direct hernia pushes through the floor of the canal medial to the inferior epigastric vessels, bypassing the deep ring, so it rarely follows the cord into the scrotum, unlike an indirect hernia.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "Passing through the femoral canal below the inguinal ligament defines a femoral hernia, not a direct inguinal hernia.",
+          "B": "Descending within the spermatic cord coverings into the scrotum is typical of an indirect hernia that enters the deep ring.",
+          "C": "A patent processus vaginalis is the cause of indirect hernias; direct hernias result from acquired weakness of the canal floor.",
+          "E": "Direct hernias are acquired and typical of older men; infant groin hernias are almost always indirect."
+        }
       },
       "difficulty": "medium",
       "imageRef": "gipic-013_gi005_f13.png",
@@ -618,7 +693,12 @@
       "explanation": {
         "summary": "From lateral to medial the structures are nerve, artery, vein, empty space and lymphatics (the NAVEL mnemonic); the femoral nerve lies most lateral and outside the femoral sheath.",
         "whyCorrect": "From lateral to medial the structures are nerve, artery, vein, empty space and lymphatics (the NAVEL mnemonic); the femoral nerve lies most lateral and outside the femoral sheath.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "The femoral artery lies between the nerve and vein, and the nerve is the most lateral structure, not the most medial.",
+          "B": "The femoral vein is the most medial of the three, beside the femoral canal, not the most lateral.",
+          "C": "The nerve is lateral, but the artery comes next and the vein lies medial to it; this sequence swaps the artery and vein.",
+          "E": "This reverses the true order: the vein is medial and the nerve lateral beneath the inguinal ligament."
+        }
       },
       "difficulty": "medium",
       "imageRef": "gipic-014_gi005_f14.png",
@@ -657,7 +737,12 @@
       "explanation": {
         "summary": "Because the deep and superficial rings do not overlie one another, raised intra-abdominal pressure presses the canal walls together like a valve, helping to prevent herniation.",
         "whyCorrect": "Because the deep and superficial rings do not overlie one another, raised intra-abdominal pressure presses the canal walls together like a valve, helping to prevent herniation.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "The testis is anchored inferiorly by the gubernaculum remnant (scrotal ligament), not by the oblique course of the canal.",
+          "B": "The inguinal canal transmits the spermatic cord or round ligament, not bowel, so it plays no role in peristalsis.",
+          "D": "The testicular artery passes through the canal, but the canal is not a collateral arterial route to the lower limb.",
+          "E": "Lower-limb lymph drains to inguinal nodes and the iliac chain through the femoral region, not through the inguinal canal."
+        }
       },
       "difficulty": "medium",
       "imageRef": "gipic-015_gi005_f16.png",
@@ -696,7 +781,12 @@
       "explanation": {
         "summary": "This is Hesselbach's (inguinal) triangle; herniation through its weak floor, medial to the inferior epigastric vessels, is by definition a direct inguinal hernia.",
         "whyCorrect": "This is Hesselbach's (inguinal) triangle; herniation through its weak floor, medial to the inferior epigastric vessels, is by definition a direct inguinal hernia.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "An epigastric hernia protrudes through the linea alba between the xiphoid and umbilicus, far above the groin.",
+          "B": "An indirect inguinal hernia enters the deep ring lateral to the inferior epigastric vessels, outside this triangle.",
+          "C": "An umbilical hernia protrudes through the umbilical ring at the midline, not through the lower abdominal wall near the inguinal ligament.",
+          "E": "A femoral hernia passes below the inguinal ligament through the femoral canal, beneath the triangle's inferior border."
+        }
       },
       "difficulty": "medium",
       "imageRef": "gipic-016_gi005_f17.png",
@@ -735,7 +825,12 @@
       "explanation": {
         "summary": "The descent of the testis leaves a processus vaginalis that, if it fails to obliterate, allows an indirect inguinal hernia; this is much more common in males than in females.",
         "whyCorrect": "The descent of the testis leaves a processus vaginalis that, if it fails to obliterate, allows an indirect inguinal hernia; this is much more common in males than in females.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "A direct hernia results from acquired weakness of Hesselbach's triangle in older men, not from a persistent processus vaginalis.",
+          "B": "A rectus sheath hematoma comes from bleeding of the epigastric vessels after trauma or anticoagulation, not from an embryonic outpouching.",
+          "C": "Diastasis recti is separation of the rectus muscles at the linea alba, often after pregnancy, unrelated to the inguinal canal.",
+          "D": "Femoral hernias pass below the inguinal ligament and are more common in women, the opposite of the stated sex predilection."
+        }
       },
       "difficulty": "medium",
       "imageRef": "gipic-017_gi005_f21.png",
@@ -774,7 +869,12 @@
       "explanation": {
         "summary": "Diastasis recti is stretching and thinning of the linea alba between the rectus muscles; because there is no fascial defect there is no incarceration risk, distinguishing it from a true hernia.",
         "whyCorrect": "Diastasis recti is stretching and thinning of the linea alba between the rectus muscles; because there is no fascial defect there is no incarceration risk, distinguishing it from a true hernia.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "Protrusion through the deep inguinal ring is an indirect inguinal hernia, which bulges in the groin rather than the midline.",
+          "C": "A femoral hernia bulges in the upper thigh below the inguinal ligament, not along the midline abdomen.",
+          "D": "The stem notes no palpable fascial defect, and a midline ridge with an intact linea alba carries no incarceration risk.",
+          "E": "An epigastric hernia is a discrete fascial defect with a sac, often containing fat, rather than a diffuse ridge with no palpable defect."
+        }
       },
       "difficulty": "medium",
       "imageRef": "gipic-107_gi005_f09.png",
@@ -813,7 +913,12 @@
       "explanation": {
         "summary": "An indirect inguinal hernia passes through the deep ring lateral to the inferior epigastric vessels and follows the cord because the embryonic processus vaginalis failed to close.",
         "whyCorrect": "An indirect inguinal hernia passes through the deep ring lateral to the inferior epigastric vessels and follows the cord because the embryonic processus vaginalis failed to close.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "Thinning of the linea alba causes diastasis recti or epigastric hernias in the midline, not groin hernias through the deep ring.",
+          "C": "A widened femoral ring would allow a femoral hernia below the inguinal ligament, not a hernia following the spermatic cord.",
+          "D": "Rectus diastasis produces a midline ridge and does not create a hernia entering the internal ring.",
+          "E": "Acquired weakness of Hesselbach's triangle causes direct hernias medial to the inferior epigastric vessels."
+        }
       },
       "difficulty": "medium",
       "imageRef": "gipic-108_gi005_f18.png",
@@ -852,7 +957,12 @@
       "explanation": {
         "summary": "The bony and ligamentous margins of the femoral ring make it small and unyielding, so herniated bowel is easily compressed, giving femoral hernias a high strangulation risk.",
         "whyCorrect": "The bony and ligamentous margins of the femoral ring make it small and unyielding, so herniated bowel is easily compressed, giving femoral hernias a high strangulation risk.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "A wide, lax opening would let bowel slide in and out easily and lower the strangulation risk; the femoral ring is actually tight.",
+          "B": "Spontaneous reduction lowers strangulation risk, and femoral hernias are often irreducible rather than reducing on standing.",
+          "D": "Femoral hernias emerge into the thigh below the inguinal ligament; it is indirect inguinal hernias that extend into the scrotum.",
+          "E": "Femoral hernias commonly contain bowel or omentum, which is precisely why strangulation is dangerous."
+        }
       },
       "difficulty": "medium",
       "imageRef": "gipic-109_gi005_f20.png",
@@ -891,7 +1001,12 @@
       "explanation": {
         "summary": "An indirect hernia enters the deep ring lateral to the inferior epigastric vessels, while a direct hernia bulges through Hesselbach's triangle medial to them; this relationship is the key distinguishing landmark.",
         "whyCorrect": "An indirect hernia enters the deep ring lateral to the inferior epigastric vessels, while a direct hernia bulges through Hesselbach's triangle medial to them; this relationship is the key distinguishing landmark.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "Both direct and indirect hernias occur in men and women, so sex cannot distinguish the two.",
+          "B": "Position relative to the femoral vein separates femoral hernias from others, but both inguinal types lie above the inguinal ligament.",
+          "C": "Sac contents vary within each hernia type and do not reflect where the hernia emerged.",
+          "D": "Both inguinal hernias lie lateral and superior to the pubic tubercle, so the pubic symphysis does not separate them."
+        }
       },
       "difficulty": "medium",
       "imageRef": "gipic-110_gi005_f22.png",
@@ -930,7 +1045,12 @@
       "explanation": {
         "summary": "The rounded pale clusters are the Islets of Langerhans, the endocrine component of the pancreas. They secrete hormones (insulin from beta cells, glucagon from alpha cells, somatostatin from delta cells) into the blood, distinct from the surrounding exocrine acini that release digestive enzymes into ducts.",
         "whyCorrect": "The rounded pale clusters are the Islets of Langerhans, the endocrine component of the pancreas. They secrete hormones (insulin from beta cells, glucagon from alpha cells, somatostatin from delta cells) into the blood, distinct from the surrounding exocrine acini that release digestive enzymes into ducts.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "B": "Digestive zymogens come from the surrounding exocrine acinar cells and leave through ducts, not into the blood.",
+          "C": "Bile salts are made by hepatocytes and stored in the gallbladder; the pancreas does not produce them.",
+          "D": "Mucus comes from duct goblet cells and GI glands; the islets are endocrine and do not secrete it.",
+          "E": "Bicarbonate-rich fluid is secreted by centroacinar and duct cells into the pancreatic ducts, an exocrine function."
+        }
       },
       "difficulty": "medium",
       "imageRef": "gipic-048_gi006_f01.png",
@@ -969,7 +1089,12 @@
       "explanation": {
         "summary": "The gallbladder wall has a distinctive highly folded mucosa of simple columnar epithelium, a lamina propria, a muscularis with fibers in all directions, and an adventitia/serosa, but notably no muscularis mucosae or submucosa, distinguishing it from typical GI tract.",
         "whyCorrect": "The gallbladder wall has a distinctive highly folded mucosa of simple columnar epithelium, a lamina propria, a muscularis with fibers in all directions, and an adventitia/serosa, but notably no muscularis mucosae or submucosa, distinguishing it from typical GI tract.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "The pancreatic duct has a simple low columnar or cuboidal lining in connective tissue, without the tall folded mucosa and muscular wall of a storage organ.",
+          "C": "The common bile duct is a tube with a smooth columnar lining and a fibrous wall with scattered muscle, not a highly folded saccular organ.",
+          "D": "The duodenum has villi, a muscularis mucosae, and a submucosa containing Brunner glands, which this organ lacks.",
+          "E": "The esophagus is lined by stratified squamous epithelium and has a muscularis mucosae and submucosa with glands."
+        }
       },
       "difficulty": "medium",
       "imageRef": "gipic-049_gi006_f09.png",
@@ -1008,7 +1133,12 @@
       "explanation": {
         "summary": "The acini produce enzyme-rich secretions, but the intercalated and larger duct epithelium (including centroacinar cells) secrete a watery, bicarbonate-rich fluid that alkalinizes and dilutes pancreatic juice as it flows toward the duodenum.",
         "whyCorrect": "The acini produce enzyme-rich secretions, but the intercalated and larger duct epithelium (including centroacinar cells) secrete a watery, bicarbonate-rich fluid that alkalinizes and dilutes pancreatic juice as it flows toward the duodenum.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "B": "Bile acids are synthesized by hepatocytes and enter the duodenum via the bile duct, not from pancreatic duct cells.",
+          "C": "Insulin is an endocrine product of islet beta cells and is released into the blood, not into the duct system.",
+          "D": "Intrinsic factor is secreted by gastric parietal cells, not by pancreatic ducts.",
+          "E": "Digestive zymogens are made by the acinar cells at the start of the system; the ducts add fluid and bicarbonate rather than enzymes."
+        }
       },
       "difficulty": "medium",
       "imageRef": "gipic-158_gi006_f02.png",

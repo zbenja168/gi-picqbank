@@ -33,7 +33,12 @@
       "explanation": {
         "summary": "The green branching structures represent the biliary tree (intrahepatic ducts, hepatic ducts, and common bile duct), which carry bile from hepatocytes to the gallbladder and duodenum. Obstruction at different levels of this tree produces intrahepatic versus extrahepatic cholestasis.",
         "whyCorrect": "The green branching structures represent the biliary tree (intrahepatic ducts, hepatic ducts, and common bile duct), which carry bile from hepatocytes to the gallbladder and duodenum. Obstruction at different levels of this tree produces intrahepatic versus extrahepatic cholestasis.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "Portal venous blood flows into the liver from the gut through the portal vein, not out toward the duodenum.",
+          "B": "Pancreatic enzymes travel through the pancreatic duct, which joins the bile duct only at the ampulla rather than branching through the liver.",
+          "D": "Hepatic arterial blood flows into the liver via the hepatic artery and its branches, not toward the duodenum.",
+          "E": "Hepatic lymph drains to hilar and celiac nodes and the thoracic duct, not through a ductal tree into the duodenum."
+        }
       },
       "difficulty": "medium",
       "imageRef": "gipic-019_gi018_f01.png",
@@ -72,7 +77,12 @@
       "explanation": {
         "summary": "Wall thickening, pericholecystic fluid, a stone, and a sonographic Murphy sign indicate acute cholecystitis, inflammation of the gallbladder that typically follows impaction of a stone in the cystic duct. Untreated, it risks gallbladder necrosis and perforation.",
         "whyCorrect": "Wall thickening, pericholecystic fluid, a stone, and a sonographic Murphy sign indicate acute cholecystitis, inflammation of the gallbladder that typically follows impaction of a stone in the cystic duct. Untreated, it risks gallbladder necrosis and perforation.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "Gallbladder carcinoma presents as an irregular mass or focal wall thickening, often in an older patient, rather than acute fever and a positive Murphy sign.",
+          "C": "Choledocholithiasis is a stone in the common bile duct causing a dilated duct and jaundice, not gallbladder wall edema.",
+          "D": "Biliary colic is transient pain from temporary cystic duct obstruction without fever or wall thickening.",
+          "E": "Porcelain gallbladder is calcification of the gallbladder wall seen as a bright, shadowing rim, not acute edematous inflammation."
+        }
       },
       "difficulty": "medium",
       "imageRef": "gipic-085_gi018_f10.png",
@@ -111,7 +121,12 @@
       "explanation": {
         "summary": "Hepatic hemangiomas are the most common benign liver tumors and consist of dilated, blood-filled vascular channels lined by endothelium with variably sized channels and loose fibrous stroma, reflecting their nature as congenital vascular malformations.",
         "whyCorrect": "Hepatic hemangiomas are the most common benign liver tumors and consist of dilated, blood-filled vascular channels lined by endothelium with variably sized channels and loose fibrous stroma, reflecting their nature as congenital vascular malformations.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "B": "Hepatocellular carcinoma consists of atypical hepatocytes in thickened trabeculae, not blood-filled channels lined by flat endothelium.",
+          "C": "Hepatic adenoma is made of sheets of benign hepatocytes without portal tracts, not vascular spaces.",
+          "D": "Focal nodular hyperplasia contains hyperplastic hepatocyte nodules around a central fibrous scar with thick-walled vessels.",
+          "E": "Angiosarcoma is malignant, with atypical, pleomorphic endothelial cells and infiltrative growth, unlike the bland single-layer lining here."
+        }
       },
       "difficulty": "medium",
       "imageRef": "gipic-054_gi019_f01.png",
@@ -150,7 +165,12 @@
       "explanation": {
         "summary": "Hepatocellular carcinoma consists of sheets of high-grade tumor cells with abundant cytoplasm and large abnormal nuclei; the presence of bile production (brown pigment) is a distinguishing feature confirming hepatocellular origin.",
         "whyCorrect": "Hepatocellular carcinoma consists of sheets of high-grade tumor cells with abundant cytoplasm and large abnormal nuclei; the presence of bile production (brown pigment) is a distinguishing feature confirming hepatocellular origin.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "B": "Cholangiocarcinoma forms glands in a dense desmoplastic stroma and produces mucin, not bile.",
+          "C": "Metastatic colon adenocarcinoma forms tall columnar glands with dirty necrosis and does not produce bile.",
+          "D": "Hepatic adenoma is made of bland hepatocytes in plates without the large abnormal nuclei of a malignancy.",
+          "E": "Focal nodular hyperplasia contains normal-appearing hepatocytes around a central scar, without nuclear atypia."
+        }
       },
       "difficulty": "medium",
       "imageRef": "gipic-055_gi019_f07.png",
@@ -189,7 +209,12 @@
       "explanation": {
         "summary": "Focal nodular hyperplasia is a benign, non-hormone-dependent lesion characterized by hyperplastic hepatocytes arranged around a central fibrous (stellate) scar, appearing as a well-circumscribed homogeneously enhancing mass with a central scar on imaging.",
         "whyCorrect": "Focal nodular hyperplasia is a benign, non-hormone-dependent lesion characterized by hyperplastic hepatocytes arranged around a central fibrous (stellate) scar, appearing as a well-circumscribed homogeneously enhancing mass with a central scar on imaging.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "Hemangioma shows peripheral nodular enhancement that fills in centripetally over time, not homogeneous enhancement with a central scar.",
+          "B": "Hepatocellular carcinoma arises in a diseased liver with arterial enhancement and washout, often with elevated AFP, unlike this asymptomatic young adult.",
+          "C": "Metastases are usually multiple and often ring-enhancing in a patient with a known primary, not a single lesion with a central scar.",
+          "D": "Hepatic adenoma enhances in the arterial phase but lacks a central scar and is linked to oral contraceptive use."
+        }
       },
       "difficulty": "medium",
       "imageRef": "gipic-086_gi019_f03.png",
@@ -228,7 +253,12 @@
       "explanation": {
         "summary": "Hepatic adenomas are benign epithelial tumors strongly associated with oral contraceptive and anabolic steroid use; they are highly vascular and show bright arterial-phase enhancement without the central scar seen in focal nodular hyperplasia.",
         "whyCorrect": "Hepatic adenomas are benign epithelial tumors strongly associated with oral contraceptive and anabolic steroid use; they are highly vascular and show bright arterial-phase enhancement without the central scar seen in focal nodular hyperplasia.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "Hepatocellular carcinoma typically arises in a cirrhotic liver with elevated AFP, and shows arterial enhancement with washout.",
+          "B": "A hepatic cyst is a non-enhancing, fluid-density lesion, not a mass that brightens in the arterial phase.",
+          "D": "Focal nodular hyperplasia characteristically has a central stellate scar and is not hormone dependent.",
+          "E": "Hemangioma shows peripheral nodular discontinuous enhancement that fills in on delayed images, not uniform arterial brightness."
+        }
       },
       "difficulty": "medium",
       "imageRef": "gipic-087_gi019_f04.png",
@@ -267,7 +297,12 @@
       "explanation": {
         "summary": "In a patient with cirrhosis, imaging evidence of a hepatic mass combined with an elevated serum AFP is usually sufficient to diagnose hepatocellular carcinoma without biopsy, which is contraindicated due to hemorrhage and seeding risk.",
         "whyCorrect": "In a patient with cirrhosis, imaging evidence of a hepatic mass combined with an elevated serum AFP is usually sufficient to diagnose hepatocellular carcinoma without biopsy, which is contraindicated due to hemorrhage and seeding risk.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "Focal nodular hyperplasia occurs in otherwise normal livers, typically with a central scar, and does not raise AFP.",
+          "B": "Hepatic adenoma occurs in young women on oral contraceptives in noncirrhotic livers and does not raise AFP.",
+          "D": "A simple cyst is an anechoic or fluid-density lesion without enhancement and has no association with AFP.",
+          "E": "Hemangioma is a benign vascular lesion with peripheral nodular enhancement and normal AFP."
+        }
       },
       "difficulty": "medium",
       "imageRef": "gipic-088_gi019_f08.png",
@@ -306,7 +341,12 @@
       "explanation": {
         "summary": "The peritoneum is a serous membrane whose surface is a single layer of flattened mesothelial cells (simple squamous epithelium) resting on a thin layer of connective tissue; this smooth surface plus a small amount of serous fluid lets the visceral and parietal layers glide over one another.",
         "whyCorrect": "The peritoneum is a serous membrane whose surface is a single layer of flattened mesothelial cells (simple squamous epithelium) resting on a thin layer of connective tissue; this smooth surface plus a small amount of serous fluid lets the visceral and parietal layers glide over one another.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "B": "Stratified squamous epithelium lines abrasion-prone surfaces such as the skin, esophagus, and vagina, not serous cavities.",
+          "C": "Simple columnar epithelium lines the stomach and intestines, the mucosal surface of the gut tube, not the peritoneum.",
+          "D": "Transitional epithelium lines the urinary tract and stretches as the bladder fills.",
+          "E": "Pseudostratified columnar epithelium lines the respiratory tract and parts of the male reproductive tract."
+        }
       },
       "difficulty": "medium",
       "imageRef": "gipic-056_gi020_f01.png",
@@ -345,7 +385,12 @@
       "explanation": {
         "summary": "In a patient with cirrhosis and ascites, infection of the peritoneal fluid without an identifiable surgical source is spontaneous bacterial peritonitis (SBP), usually caused by a single translocated gut organism such as E. coli or Klebsiella; imaging shows ascites with peritoneal enhancement, though the diagnosis is made by paracentesis.",
         "whyCorrect": "In a patient with cirrhosis and ascites, infection of the peritoneal fluid without an identifiable surgical source is spontaneous bacterial peritonitis (SBP), usually caused by a single translocated gut organism such as E. coli or Klebsiella; imaging shows ascites with peritoneal enhancement, though the diagnosis is made by paracentesis.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "Secondary peritonitis follows a perforated viscus and is usually polymicrobial; here the stem specifies cirrhosis with infected ascites and no surgical source.",
+          "B": "Carcinomatosis shows nodular peritoneal implants and omental caking from metastatic tumor, not infected ascites.",
+          "C": "Peritoneal dialysis-associated peritonitis requires an indwelling dialysis catheter, which this cirrhotic patient is not described as having.",
+          "D": "Tuberculous peritonitis gives a thickened peritoneum with lymphocytic ascites and is uncommon, and it is not the typical infection of cirrhotic ascites."
+        }
       },
       "difficulty": "medium",
       "imageRef": "gipic-089_gi020_f02.png",
@@ -384,7 +429,12 @@
       "explanation": {
         "summary": "An upright chest film is sensitive for detecting free intraperitoneal air, seen as lucent air collections under the diaphragm (pneumoperitoneum). This suggests perforation of a hollow viscus, such as a perforated duodenal ulcer, and mandates surgical evaluation.",
         "whyCorrect": "An upright chest film is sensitive for detecting free intraperitoneal air, seen as lucent air collections under the diaphragm (pneumoperitoneum). This suggests perforation of a hollow viscus, such as a perforated duodenal ulcer, and mandates surgical evaluation.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "Tension pneumothorax shows air in the pleural space with a collapsed lung and mediastinal shift, above the diaphragm rather than beneath it.",
+          "B": "Basilar consolidation appears as an opacity in the lung bases, not as a lucent crescent below the diaphragm.",
+          "C": "A subphrenic abscess is usually a single, often unilateral collection with an air-fluid level, not thin crescents under both hemidiaphragms.",
+          "D": "Pleural effusions appear as dense opacities that blunt the costophrenic angles, not as lucent air."
+        }
       },
       "difficulty": "medium",
       "imageRef": "gipic-090_gi020_f05.png",
@@ -423,7 +473,12 @@
       "explanation": {
         "summary": "Segmental sigmoid wall thickening with pericolic fat stranding, free fluid, and small extraluminal gas locules is classic for acute diverticulitis with microperforation, a common cause of localized secondary peritonitis.",
         "whyCorrect": "Segmental sigmoid wall thickening with pericolic fat stranding, free fluid, and small extraluminal gas locules is classic for acute diverticulitis with microperforation, a common cause of localized secondary peritonitis.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "B": "Ischemic colitis favors watershed areas such as the splenic flexure, with thumbprinting and bloody diarrhea, rather than sigmoid inflammation with extraluminal air.",
+          "C": "Acute appendicitis involves the right lower quadrant appendix, not a thickened segment of sigmoid colon.",
+          "D": "Colonic adenocarcinoma usually causes an irregular, shouldered mass with nodes; it can mimic this but is not the most likely cause of acute inflammation with free air.",
+          "E": "Ulcerative colitis is continuous mucosal inflammation from the rectum proximally, not a focal sigmoid segment with microperforation."
+        }
       },
       "difficulty": "medium",
       "imageRef": "gipic-091_gi020_f06.png",
@@ -462,7 +517,12 @@
       "explanation": {
         "summary": "Disruption of a hollow viscus (here, a colonic perforation) spills enteric flora into the peritoneal cavity, producing secondary peritonitis. It is characteristically polymicrobial and requires surgical source control in addition to broad-spectrum antibiotics.",
         "whyCorrect": "Disruption of a hollow viscus (here, a colonic perforation) spills enteric flora into the peritoneal cavity, producing secondary peritonitis. It is characteristically polymicrobial and requires surgical source control in addition to broad-spectrum antibiotics.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "Primary (spontaneous) peritonitis occurs without a perforated viscus, typically infecting cirrhotic ascites with a single organism.",
+          "B": "Chemical peritonitis from pancreatitis results from enzyme-rich fluid and fat necrosis, not from spillage of colonic contents.",
+          "C": "Carcinomatosis is spread of tumor nodules across the peritoneum, not acute fibrinous inflammation after perforation.",
+          "D": "Dialysis-associated peritonitis comes from catheter contamination, usually by skin flora, not from a colonic perforation."
+        }
       },
       "difficulty": "medium",
       "imageRef": "gipic-130_gi020_f03.png",
@@ -501,7 +561,12 @@
       "explanation": {
         "summary": "In peritoneal dialysis the peritoneum acts as a semipermeable membrane; waste solutes move by passive diffusion from the higher-concentration blood into the lower-concentration dialysate, which is then drained and replaced.",
         "whyCorrect": "In peritoneal dialysis the peritoneum acts as a semipermeable membrane; waste solutes move by passive diffusion from the higher-concentration blood into the lower-concentration dialysate, which is then drained and replaced.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "B": "The peritoneal membrane does not actively pump waste; solute removal is passive and requires no ATP from the patient.",
+          "C": "Receptor-mediated endocytosis takes up specific ligands into cells and does not clear urea or creatinine into dialysate.",
+          "D": "Osmosis moves water, not solutes, and in peritoneal dialysis the glucose-rich dialysate draws water out of the blood, not into it.",
+          "E": "Hydrostatic filtration drives ultrafiltration in hemodialysis; in peritoneal dialysis, fluid is removed osmotically and waste moves mainly by diffusion."
+        }
       },
       "difficulty": "medium",
       "imageRef": "gipic-163_gi020_f04.png",
